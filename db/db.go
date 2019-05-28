@@ -13,13 +13,15 @@ import (
 var (
 	db         *sql.DB
 	ID         int
-	Tema       int
+	Test       int
+	Tema       string
 	Pregunta   string
 	Respuesta1 string
 	Respuesta2 string
 	Respuesta3 string
 	Respuesta4 string
 	Articulo   string
+	Ord        int
 	Fecha      time.Time
 	Box        int
 	err        error
@@ -49,10 +51,10 @@ func Read(path string, records [][]string, view int, test int) ([][]string, erro
 
 	//Read the database
 	if test != 0 {
-		rows, err = db.Query("SELECT * FROM just WHERE tema = ?", test)
-			if err != nil {
-				return records, err
-			}
+		rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
+		if err != nil {
+			return records, err
+		}
 	} else {
 		switch view {
 		case 1:
@@ -79,7 +81,7 @@ func Read(path string, records [][]string, view int, test int) ([][]string, erro
 	}
 	//counter
 	for rows.Next() {
-		err = rows.Scan(&ID, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Fecha, &Box)
+		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Box)
 		id := strconv.Itoa(ID)
 		record := []string{Pregunta, Respuesta1, Respuesta2, Respuesta3, Respuesta4, Articulo, id}
 		records = append(records, record)
