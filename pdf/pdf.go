@@ -2,53 +2,70 @@ package pdf
 
 import (
 	"fmt"
-	"log"
+	"quiz/questions"
 
 	"github.com/jung-kurt/gofpdf"
 )
 
 // Create a PDF Document
-func Create() error {
-	data := []string{
-		"Test Autogenerado",
-		"REP",
+func Create(q questions.Questions, n int) error {
+	pdf := gofpdf.New("P", "mm", "A4", "")
+	pdf.SetTopMargin(15)
+	tr := pdf.UnicodeTranslatorFromDescriptor("")
+	pdf.SetHeaderFuncMode(func() {
+		pdf.SetY(5)
+		pdf.SetFont("Arial", "B", 8)
+		pdf.CellFormat(0, 4, "REP-##", "B", 0, "R", false, 0, "")
+		pdf.Ln(5)
+	}, true)
+
+	pdf.SetFooterFunc(func() {
+		pdf.SetY(-15)
+		pdf.SetFont("Arial", "I", 8)
+		pdf.CellFormat(0, 10, fmt.Sprintf("%d de {nb}", pdf.PageNo()), "TC", 0, "C", false, 0, "")
+	})
+
+	pdf.AliasNbPages("")
+	pdf.AddPage()
+
+	for i := 0; i < n; i++ {
+		pdf.SetFont("Arial", "B", 10)
+		pdf.MultiCell(0, 4, tr(fmt.Sprintf("%d)  %s", i+1, q.Questions[i].Question)), "", "", false)
+		for j := 0; j < 4; j++ {
+			pdf.SetX(20)
+			pdf.SetFont("Arial", "", 10)
+			answer := q.Questions[i].Answers.Answers[j].Answer
+			pdf.MultiCell(0, 4, tr(fmt.Sprintf("%c) ", j+97)+answer), "", "", false)
+		}
 	}
-	pdf := newReport()
-	pdf = header(pdf, data)
-	pdf.Ln(12)
-	pdf = footer(pdf)
-	if pdf.Err() {
-		log.Fatalf("Failed creating PDF report: %s\n", pdf.Error())
+
+	pdf.SetHeaderFuncMode(func() {
+		pdf.SetY(5)
+		pdf.SetFont("Arial", "B", 8)
+		pdf.CellFormat(0, 4, "RESPUESTAS", "B", 0, "C", false, 0, "")
+		pdf.Ln(5)
+	}, true)
+
+	pdf.AddPage()
+
+	for i := 0; i < n; i++ {
+		pdf.SetX(15)
+		pdf.SetFont("Arial", "B", 10)
+		pdf.MultiCell(0, 4, tr(fmt.Sprintf("%d)  %s", i+1, q.Questions[i].Question)), "", "", false)
+		pdf.SetX(20)
+		pdf.SetFont("Arial", "", 10)
+		for j := 0; j < 4; j++ {
+			ok := q.Questions[i].Answers.Answers[j].Correct
+			answer := q.Questions[i].Answers.Answers[j].Answer
+			if ok {
+				pdf.MultiCell(0, 4, tr(fmt.Sprintf("%c) ", j+97)+answer), "", "", false)
+			}
+		}
 	}
-	err := savePDF(pdf)
+
+	err := pdf.OutputFileAndClose("Test.pdf")
 	if err != nil {
 		return err
 	}
 	return nil
-}
-
-func newReport() *gofpdf.Fpdf {
-	pdf := gofpdf.New("P", "mm", "A4", "")
-	pdf.AddPage()
-	return pdf
-}
-
-func header(pdf *gofpdf.Fpdf, hdr []string) *gofpdf.Fpdf {
-	pdf.SetFont("Arial", "B", 8)
-	pdf.SetFillColor(240, 240, 240)
-	for _, str := range hdr {
-		pdf.CellFormat(40, 7, str, "B", 0, "R", false, 0, "")
-	}
-	pdf.Ln(-1)
-	return pdf
-}
-
-func footer(pdf *gofpdf.Fpdf) *gofpdf.Fpdf {
-	pdf.SetFont("Arial", "B", 8)
-	pdf.CellFormat(0, 10, fmt.Sprintf("Page %d", pdf.PageNo()), "TC", 0, "C", false, 0, "")
-	return pdf
-}
-
-func savePDF(pdf *gofpdf.Fpdf) error {
-	return pdf.OutputFileAndClose("report.pdf")
 }
