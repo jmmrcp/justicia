@@ -9,6 +9,7 @@ import (
 	"os"
 	"quiz"
 
+	"quiz/pdf"
 	"quiz/questions"
 
 	"github.com/jroimartin/gocui"
@@ -18,7 +19,7 @@ var (
 	test  int
 	view  int
 	count int
-	pdf   bool
+	pdfs  bool
 )
 
 func init() {
@@ -29,17 +30,17 @@ func init() {
 		usageCount   = "Questions Number\ndefault=100"
 		defaultView  = 0
 		usageView    = "Question Marks\ndefault=1\n 1 - Daily\n 2 - Weekly \n 3 - Quincenally\n 4 - Monthly"
-		defaultPDF   = false
-		usagePDF     = "Generate a PDF with Test and Answers"
+		defaultPdf   = false
+		usagePdf     = "Generate a PDF with Test and Answers"
 	)
 	flag.IntVar(&test, "Test_number", defaultTest, usageTest)
 	flag.IntVar(&count, "Question_number", defaultCount, usageCount)
 	flag.IntVar(&view, "Mark_number", defaultView, usageView)
-	flag.BoolVar(&pdf, "PDF", defaultPDF, usagePDF)
+	flag.BoolVar(&pdfs, "PDF", defaultPdf, usagePdf)
 	flag.IntVar(&test, "T", defaultTest, usageTest+" (shorthand)")
 	flag.IntVar(&count, "Q", defaultCount, usageCount+" (shorthand)")
 	flag.IntVar(&view, "M", defaultView, usageView+" (shorthand)")
-	flag.BoolVar(&pdf, "P", defaultPDF, usagePDF+" (shorthand)")
+	flag.BoolVar(&pdfs, "P", defaultPdf, usagePdf+" (shorthand)")
 
 	flag.Usage = func() {
 		fmt.Printf("Usage of %s:\n", os.Args[0])
@@ -56,6 +57,7 @@ func main() {
 	quiz.QuestionLimit = count
 	quiz.QuestionMode = view
 	quiz.QuestionTest = test
+	quiz.QuestionPdf = pdfs
 
 	fileUrl := "https://computerwizards.es/.well-known/data.db"
 
@@ -85,7 +87,7 @@ func main() {
 	}
 
 	//Create PDF
-	err = pdf.Create(quiz.Questions, count, pdf)
+	err = pdf.Create(quiz.Questions, count)
 	if err != nil {
 		log.Fatal(err)
 	}

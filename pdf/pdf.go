@@ -3,6 +3,7 @@ package pdf
 import (
 	"fmt"
 	"math/rand"
+	"quiz"
 	"quiz/questions"
 	"strconv"
 
@@ -10,8 +11,8 @@ import (
 )
 
 // Create a PDF Document
-func Create(q questions.Questions, n int, p bool) error {
-	if p {
+func Create(q questions.Questions, n int) error {
+	if quiz.QuestionPdf {
 		pdf := gofpdf.New("P", "mm", "A4", "")
 		pdfs := gofpdf.New("P", "mm", "A4", "")
 		pdf.SetTopMargin(15)
