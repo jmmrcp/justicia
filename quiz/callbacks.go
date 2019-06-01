@@ -1,9 +1,9 @@
 package quiz
 
 import (
+	gui "justicia/quiz/interface"
+	"justicia/quiz/user"
 	"quiz/answers"
-	gui "quiz/interface"
-	"quiz/user"
 	"strconv"
 
 	"github.com/jroimartin/gocui"

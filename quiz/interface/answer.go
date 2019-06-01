@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	texttowidth "quiz/text-to-width"
+	texttowidth "justicia/quiz/text-to-width"
 
 	"github.com/jroimartin/gocui"
 )

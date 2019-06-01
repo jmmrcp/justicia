@@ -4,12 +4,12 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"justicia/quiz"
 	"log"
 	"net/http"
 	"os"
-	"quiz"
 
-	"quiz/pdf"
+	"justicia/quiz/pdf"
 	"quiz/questions"
 
 	"github.com/jroimartin/gocui"
