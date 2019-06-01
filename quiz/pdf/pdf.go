@@ -75,11 +75,11 @@ func Create(q questions.Questions, n int) error {
 		}
 		r := rand.New(rand.NewSource(99))
 		n := strconv.Itoa(r.Intn(100))
-		err := pdf.OutputFileAndClose("Test" + n + ".pdf")
+		err := pdf.OutputFileAndClose("Test - " + n + ".pdf")
 		if err != nil {
 			return err
 		}
-		err = pdfs.OutputFileAndClose("Respuestas" + n + ".pdf")
+		err = pdfs.OutputFileAndClose("Respuestas - " + n + ".pdf")
 		if err != nil {
 			return err
 		}
