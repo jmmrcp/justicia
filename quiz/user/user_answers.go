@@ -1,7 +1,7 @@
 package user
 
 import (
-	"quiz/db"
+	"justicia/quiz/db"
 )
 
 //Answers -- Container to hold user answers

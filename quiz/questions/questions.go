@@ -2,15 +2,15 @@ package questions
 
 import (
 	"fmt"
+	"justicia/quiz/csv"
+	"justicia/quiz/db"
 	"math/rand"
-	"quiz/csv"
-	"quiz/db"
 	"strconv"
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"quiz/answers"
+	"justicia/quiz/answers"
 )
 
 func init() {

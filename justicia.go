@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"justicia/quiz/pdf"
-	"quiz/questions"
+	"justicia/quiz/questions"
 
 	"github.com/jroimartin/gocui"
 )

@@ -2,9 +2,9 @@ package pdf
 
 import (
 	"fmt"
+	"justicia/quiz"
+	"justicia/quiz/questions"
 	"math/rand"
-	"quiz"
-	"quiz/questions"
 	"strconv"
 
 	"github.com/jung-kurt/gofpdf"

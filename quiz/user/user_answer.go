@@ -1,8 +1,8 @@
 package user
 
 import (
-	"quiz/answers"
-	"quiz/questions"
+	"justicia/quiz/answers"
+	"justicia/quiz/questions"
 	"strings"
 )
 
