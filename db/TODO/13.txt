@@ -1,0 +1,533 @@
+1) Para el caso de acordarse caducidad de actuaciones en procesos civiles, esta se producirá (si se trata de primera instancia) en el plazo de:
+a) Dos años desde que se dicta la última resolución
+b) Dos años desde que se publica la última resolución
+c) Dos años desde que se practica la última notificación a las partes
+d) Un año desde que se practica la última notificación a las partes.
+
+2) Las resoluciones de carácter gubernativo de las Salas de Gobierno se denominan: G14
+a) Circulares
+b) Instrucciones
+c) Decisiones
+d) Acuerdos
+
+3) En actos de ejecución forzosa la caducidad se produce si no existe actividad en el plazo de:
+a) Un año desde que se practica la última notificación a las partes
+b) Dos años desde que se practica la última notificación a las partes
+c) Seis meses desde que se practica la última notificación a las partes
+d) No se produce caducidad en la ejecución forzosa en materia civil
+
+4) ¿Cabe algún recurso contra el decreto que declare la caducidad de instancia?: G14
+a) Sí, el de revisión
+b) Sí, el de reposición
+c) Sí, el de reposición y subsiguiente de revisión
+d) No
+
+5) ¿Cuál de los siguientes enunciados es incierto respecto a la caducidad de instancia?
+a) Si la caducidad se produjere en la segunda instancia o en los recursos extraordinarios, se tendrá por desistida la apelación o dichos recursos y por firme la resolución recurrida y se devolverán las actuaciones al tribunal del que procedieren.
+b) Si la caducidad se produjere en la primera instancia, se entenderá producido el desistimiento en dicha instancia, por lo que podrá interponerse nueva demanda, sin perjuicio de la caducidad de la acción.
+c) La declaración de caducidad supondrá la imposición de costas al demandante
+d) todos los enunciados son ciertos
+
+6) En cuanto a los interrogatorios de las partes, conforme a lo dispuesto en la LOPJ:
+a) Se llevarán a cabo obligatoriamente ante el Juez o tribunal sin asistencia de las partes
+b) Podrán realizarse a través de videoconferencia u otro sistema similar de comunicación unidireccional
+c) Podrán realizarse a través de videoconferencia u otro sistema similar de comunicación bidireccional
+d) Se llevará a cabo ante el Secretario correspondiente con asistencia de las partes
+
+7) Según el artículo 230 LOPJ los programas y aplicaciones informáticos que se utilicen en la Administración de Justicia deberán ser…
+a) Aprobados por el Ministerio de Justicia previo informe del Consejo General del Poder Judicial
+b) Previamente informados por el Consejo General del Poder Judicial.
+c) Aprobados por el Consejo General del Poder Judicial
+d) Aprobados por el Ministerio de Justicia o CCAA con competencias previo informe del Consejo General del Poder Judicial
+
+8) En un procedimiento civil tramitado en un Juzgado de A Coruña, el demandante es catalán:
+a) Deberá usar el castellano obligatoriamente
+b) Podrá usar el idioma catalán si ninguna parte se opone
+c) Podrá presentar sus escritos en idioma gallego, catalán o castellano
+d) Podrá presentar sus escritos en idioma gallego o castellano, según los casos
+
+9) En un procedimiento civil tramitado en un Juzgado de A Coruña, un testigo es catalán:
+a) Deberá usar el castellano obligatoriamente
+b) Podrá usar el idioma catalán si ninguna parte se opone
+c) Podrá presentar sus declaraciones en idioma gallego o castellano, según los casos
+d) Podrá presentar sus escritos en idioma gallego, catalán o castellano
+
+10) Conforme a lo dispuesto en el art. 234 de la LOPJ serán competentes para facilitar a los interesados cuanta información soliciten del estado de las actuaciones judiciales:
+a) Los Letrados de la Administración de Justicia y personal competente de los Juzgados y Tribunales.
+b) Los funcionarios del cuerpo de gestión procesal y los tramitadores procesales de la oficina judicial.
+c) Los Letrados de la Administración de Justicia y funcionarios competentes de la oficina judicial, que podrán examinar y conocer en todo caso.
+d) Ninguna respuesta es correcta.
+
+11) ¿Cuál de las siguientes situaciones no produce nulidad de pleno derecho en las actuaciones judiciales?
+a) Cuando se produzcan por o ante tribunal con falta de jurisdicción o de competencia objetiva o funcional.
+b) Cuando se prescinda de normas esenciales del procedimiento, en todo caso
+c) Cuando se realicen sin intervención de abogado, en los casos en que la ley la establezca como preceptiva.
+d) Todas producen nulidad de pleno derecho
+
+12) ¿Cuál es el enunciado incierto respecto a la nulidad de actuaciones?
+a) En ningún caso podrá el juzgado o tribunal, con ocasión de un recurso, decretar de oficio una nulidad de las actuaciones que no haya sido solicitada en dicho recurso
+b) Contra la resolución por la que se inadmita a trámite el incidente no cabrá recurso alguno.
+c) Contra la resolución que resuelva el incidente no cabrá recurso alguno
+d) ningún enunciado es incierto
+
+13) Será competente para conocer del incidente excepcional de nulidad:
+a) El órgano judicial que conoció del proceso en primera instancia
+b) El órgano judicial que conoció del asunto en segunda instancia
+c) El órgano judicial que dictó la resolución que hubiere adquirido firmeza
+d) El órgano judicial que tuviera conocimiento de la nulidad
+
+14) Conforme al artículo 228 de la LEC, en el incidente excepcional de nulidad de actuaciones, el plazo para pedir la nulidad será: G16
+a) De 15 días, desde que se dictó la resolución
+b) De 20 días, desde que se notificó la resolución
+c) De 20 días, desde que se dictó la resolución.
+d) De 15 días, desde que se publicó la resolución.
+
+15) En caso de inadmitir a trámite el incidente de nulidad se dictará:
+a) Decreto
+b) Diligencia de ordenación
+c) Auto
+d) Providencia
+
+16) Si se desestimara la solicitud de nulidad, se condenará, por medio de auto, al solicitante en todas las costas del incidente y, en caso de que el juzgado o tribunal entienda que se promovió con temeridad, le impondrá, además, una multa de:
+a) 90 a 600 euros
+b) de 100 a 600 euros
+c) de 200 a 1.000 euros
+d) de 100 a 900 euros
+
+17) Según la LEC, como se denomina la resolución que ponga fin a un recurso antes de que concluya su tramitación ordinaria:
+a) Auto, salvo que la Ley hubiera dispuesto que deban finalizar por decreto
+b) Decreto
+c) Providencia
+d) Auto
+
+18) Según la LEC, son resoluciones firmes…
+a) Contra las que no cabe recurso alguno, estando previsto, ha transcurrido el plazo legalmente fijado sin que alguna de las partes lo haya presentado
+b) Contra las que no cabe recurso alguno, estando previsto, ha transcurrido el plazo legalmente fijado sin que ninguna de las partes lo haya presentado
+c) Contra las que no cabe recurso alguno, por no preverlo la Ley
+d) La respuesta b) y c) es correcta
+
+19) Según el artículo 141 de la LECrim, se dictará providencia:
+a) Cuando tenga por objeto la ordenación material del proceso.
+b) Cuando la resolución se refiera a cuestiones procesales
+c) Cuando resuelvan cuestiones procesales del Juez, salvo que sea decreto
+d) Cuando resuelvan cuestiones procesales reservadas al Juez y que no requieran legalmente la forma de auto.
+
+20) Según la LEC, pronunciada oralmente una resolución, el plazo para recurrir, comenzará a contar desde:
+a) El día siguiente de la vista
+b) El mismo día de la vista
+c) La notificación de la resolución debidamente redactada
+d) No se pueden dictar resoluciones orales en Civil
+
+21) Según la LEC, cuando se decidan anotaciones registrales, la resolución se denomina:
+a) Providencia
+b) Auto
+c) Sentencia
+d) Decreto
+
+22) Conforme a lo dispuesto en la LOPJ, en las votaciones de sentencias de Juzgados comenzará:
+a) El Presidente
+b) El Ponente
+c) El Magistrado de mayor edad
+d) Ninguna respuesta es cierta
+
+23) Conforme a lo dispuesto en la LEC las partes podrán solicitar la suspensión de un proceso civil por un plazo no superior a:
+a) Dos meses
+b) Un mes
+c) Treinta días
+d) Sesenta días
+
+24) Si, transcurrido el plazo por el que se acordó la suspensión, nadie pidiere, en los… días siguientes, la reanudación del proceso, se archivarán provisionalmente los autos y permanecerán en tal situación mientras no se solicite la continuación del proceso o se produzca la caducidad de instancia.
+a) Diez
+b) Cinco
+c) Treinta
+d) Veinte
+
+25) Según la LEC, ¿cuál de las siguientes afirmaciones es correcta?: G11
+a) En ningún caso se dictarán sentencias oralmente ante la jurisdicción civil
+b) En los procesos civiles no se dictarán en ningún caso resoluciones orales
+c) Las resoluciones se dictarán únicamente en aquellos casos en los que la ley permita diferir el pronunciamiento
+d) Sólo el Secretario judicial está habilitado en la Ley de Enjuiciamiento Civil para dictar resoluciones orales en las comparecencias.
+
+26) Según la LEC, en qué casos puede quedar restringido el acceso al texto de las sentencias, señale la incorrecta:
+a) Cuando el mismo puede afectar a la información patrimonial de una entidad jurídica
+b) Cuando el mismo puede afectar a los derechos de las personas que requieran especial deber de tutela
+c) Cuando el mismo puede a afectar a la garantía del anonimato de los perjudicados
+d) Cuando proceda, con carácter general, para evitar que las sentencias pueden ser usadas con fines contrarios a las Leyes.
+
+27) Según la LEC, en que plazo se solicita y cómo se resuelve complementar un Auto:
+a) A instancia de parte, en el plazo de 5 días, desde la notificación y se resuelve, por Auto, en el plazo de 5 días
+b) A instancia de parte, en el plazo de 2 días y se resuelve por Auto en el plazo de 2 días
+c) A instancia de parte, en el plazo de 3 días y se resuelve por Auto en el plazo de 2 días
+d) A instancia de parte, en el plazo de 2 días y se resuelve por Auto en el plazo de 3 días
+
+28) Según la LEC, se podrá solicitar el complemento de sentencias y autos cuando…
+a) Las omisiones o defectos de pudieren adolecer sentencia y autos y que fuere necesario remediar para llevar plenamente a efecto dichas resoluciones.
+b) Hubieren omitido manifiestamente pronunciamientos relativos a pretensiones oportunamente deducidas y sustanciadas en el proceso.
+c) Hubiere cualquier error material que adolezca
+d) Hubiere algún concepto oscuro
+
+29) Según la LEC, en la tasación de costas no se considerarán gastos del proceso…
+a) Tasa por el ejercicio de la potestad jurisdiccional, cuando sea preceptiva.
+b) Inserción de edictos que de forma potestativa deban publicarse en el curso del proceso.
+c) Honorarios de la defensa y de la representación técnica, cuando sea preceptiva
+d) Depósitos necesarios para la presentación de recursos
+
+30) Según la LEC, en la tasación de costas, están con sujeción a aranceles los derechos que correspondan…
+a) Abogados
+b) Peritos
+c) Procuradores
+d) Grafólogos
+
+31) Según la LEC, contra la resolución que resuelva el recurso contra la aprobación de la tasación de costas…
+a) Cabe recurso de revisión
+b) Cabe recurso de apelación
+c) Cabe recurso directo de revisión
+d) No cabe recurso alguno.
+
+32) Según la LEC, contra la resolución que apruebe la aprobación de la tasación de costas…
+a) Cabe recurso de revisión
+b) Cabe recurso de apelación
+c) Cabe recurso directo de revisión
+d) No cabe recurso alguno.
+
+33) Según la LEC, Si después de impugnada la tasación de costas, que cabe contra la resolución manteniendo la tasación realizada…
+a) Cabe recurso de revisión
+b) Cabe recurso de apelación
+c) Cabe recurso directo de revisión
+d) No cabe recurso alguno.
+
+34) Según la LEC, si la tasación se impugnara por considera excesivos los honorarios de los abogados, se oirá en el plazo…
+a) Cinco días
+b) Tres días
+c) Diez días
+d) Ninguna es correcta
+
+35) Según la LEC, si la tasación se impugnara por haberse incluido en ella partidas de derechos u honorarios indebidas, se dará traslado a la otra parte en el plazo…
+a) Cinco días
+b) Tres días
+c) Diez días
+d) Ninguna es correcta
+
+36) Según la LEC, Siendo una de las partes titular del derecho de asistencia jurídica gratuita, si la tasación se impugnara por haberse incluido en ella partidas de derechos u honorarios indebidas, se dará traslado a la otra parte en el plazo…
+a) Cinco días
+b) Tres días
+c) Diez días
+d) Ninguna es correcta
+
+37) Según la LECrim, para que resoluciones bastarán 3 Magistrados, en el Tribunal Supremo…
+a) Auto
+b) Sentencia
+c) Providencia
+d) Ninguna es correcta, hace falta 5 o 7 Magistrados
+
+38) Según la LEC, no es una función del Ponente…
+a) El despacho ordinario y el cuidado de la tramitación de los asuntos
+b) Examinar la proposición de medios de prueba que las partes presenten
+c) Informar los recursos interpuestos contra las decisiones del Secretario judicial que deba resolver el Tribunal
+d) Pronunciar en Audiencia Pública las sentencias
+
+39) En el orden Penal, los votos reservados de las sentencias se harán públicos…
+a) Los votos reservados siempre serán públicos.
+b) Cuando expidan los Tribunales certificaciones o testimonios de sentencias
+c) Cuando se remitan al Tribunal Supremo
+d) Cuando se interponga y admita el recurso de casación
+
+40) En el orden Penal, las sentencias definitivas, cuando se han instruido en un Juzgado de Violencia de Género… (señalar la incorrecta)
+a) Se leerán y notificarán a las partes en el mismo día en que se firmen.
+b) Se leerán y notificarán a sus Procuradores en el día siguiente en que se firmen.
+c) Será remitida al Juzgado de Violencia de Género por testimonio de forma inmediata, con indicación si la misma es o no firme
+d) Bastará con la notificará a las partes
+
+41) Según la Ley de Enjuiciamiento Civil, en los Tribunales colegiados, los señalamientos de las vistas, corresponden: T02
+a) Al Presidente
+b) Al Juez o Presidente
+c) Al Magistrado Ponente
+d) Al Pleno de la Sala
+
+42) De conformidad con el artículo 205 de la Ley de Enjuiciamiento Civil, en relación con los votos particulares señale la respuesta incorrecta: G12
+a) Todo el que forme parte en la votación de una sentencia o auto definitivo firmará lo acordado, aunque hubiera disentido de la mayoría.
+b) Podrá, quien disienta, anunciándolo junto a la sentencia o en el de la firma, formular voto particular.
+c) El voto particular, si lo hubiere, habrá de publicarse junto a la sentencia, cuando, de acuerdo con la ley, sea preceptiva la publicación de la misma.
+d) No podrá formularse voto particular respecto de las providencias sucintamente motivadas.
+
+43) Según la Ley de Enjuiciamiento Civil, son resoluciones definitivas: G11
+a) Las que decidan los recursos interpuestos contra las que ponen fin a la primera instancia
+b) Aquellas contra las que no cabe recurso alguno por no preverlo la ley
+c) Aquellas contra las que no cabe recurso alguno porque ha transcurrido el plazo legalmente fijado sin que ninguna de las partes lo haya presentado
+d) Las que pasan en autoridad de cosa juzgada y vinculan al tribunal del proceso en que hayan recaído.
+
+44) Cuando la Ley de Enjuiciamiento Civil no específica la clase de resolución que haya de emplearse, la admisión a trámite de la demanda declarativa se efectuará por: A11
+a) Providencia
+b) Diligencia de ordenación
+c) Decreto
+d) Auto
+
+45) Según la Ley de Jurisdicción Social, se podrán dictar resoluciones orales:
+a) Sólo por el Juez o Tribunal
+b) Sólo durante la celebración del juicio
+c) En todo caso documentándose en el acta con expresión del fallo y motivadas.
+d) Todas las respuestas son incorrectas
+
+46) Según la Ley de Enjuiciamiento Civil, las sentencias en los antecedentes de hecho se consignarán:
+a) Los puntos de hecho y de derecho fijados por las partes y los que ofrezcan las cuestiones controvertidas.
+b) Las pretensiones de las partes o interesados, los hechos en que las funden, las pruebas que se hubiesen propuesto y practicado.
+c) Los pronunciamientos correspondientes a las pretensiones de las partes, así como el pronunciamiento sobre las costas.
+d) Los nombres de las partes y, cuando sea necesario, la legitimación y representación en virtud de las cuales actúen y el objeto del juicio
+
+47) Según la Ley de Enjuiciamiento Civil, los tribunales no podrán variar las resoluciones que pronuncien después de firmadas, pero si aclarar algún concepto oscuro, esto podrá hacerse:
+a) De oficio por el Tribunal, en el plazo de dos días hábiles siguientes al de la notificación de la resolución.
+b) De oficio por el Tribunal o Secretario Judicial, dentro de los dos días hábiles siguientes al de la notificación de la resolución.
+c) De oficio por el Tribunal o Secretario Judicial, o a petición de parte o del Ministerio Fiscal dentro de los dos días hábiles siguientes desde la notificación de la resolución
+d) A petición de parte o del Ministerio Fiscal dentro de los dos días hábiles siguientes al se su notificación.
+
+48) ¿A quién corresponde, en el ámbito civil, la dirección de los debates: A02
+a) Al Juez o Presidente
+b) Al Juez o Presidente, o al Secretario Judicial
+c) A ninguno de ellos
+d) A las partes.
+
+49) Según la LOPJ, en relación a las Oficinas de Señalamiento Inmediato, señale la incorrecta:
+a) Se podrá crear por el Ministerio de Justicia de acuerdo con la Comunidad Autónoma correspondiente en la materia, previo informe del Consejo General del Poder Judicial
+b) Estas Oficinas tendrán carácter de Servicio Común Procesal
+c) Desarrollarán funciones de registro, reparto y señalamiento de vistas.
+d) Se presentarán demandas de reclamación de cantidad cuya cuantía no exceda de seis mil euros.
+
+50) Cuando la presentación de un escrito esté sujeto a plazo en el orden jurisdiccional civil: A07
+a) Podrá efectuarse la presentación hasta las quince horas del día hábil siguiente al del vencimiento del plazo en la servicio común procesal creado a tal efecto o, de no existir, en la sede del órgano judicial.
+b) Podrá efectuarse la presentación hasta las quince horas del día siguiente al del vencimiento del plazo en el Juzgado que preste servicio de guardia
+c) Podrá efectuarse la presentación durante todo el día al del vencimiento del plazo si éste fuera inhábil en el Juzgado de Guardia
+d) Podrá efectuarse la presentación durante todo el día siguiente al del vencimiento del plazo si se presenta por burofax o fax dirigido a la Oficina Judicial.
+
+51) ¿Qué materias no son susceptibles de ser recurridas en suplicación de conformidad con el artículo 191 de la Ley Reguladora de la Jurisdicción Social?: G16
+a) Las que recaigan en los procesos relativos a la fecha del disfrute de vacaciones
+b) Las sentencias dictadas en materia de conflicto colectivos
+c) Las que recaigan en los procesos que versen sobre reconocimiento o denegación del derecho a obtener prestaciones de Seguridad Social
+d) Los autos y sentencias que se dicten en los proceso de despido o extinción del contrato de trabajo.
+
+52) Según la LEC, si las actuaciones de auxilio judicial practicadas se entregasen al procurador al que se hubiera encomendado la gestión del exhorto, se presentarán en el órgano exhortante dentro de los: G16
+a) 5 días siguientes.
+b) 10 días siguientes.
+c) 15 días siguientes.
+d) No hay plazo legalmente establecido.
+
+53) Según la LEC, ¿a quién corresponde hacer los señalamientos de fecha y hora para la deliberación y votación de los asuntos que deban fallarse sin celebración de vista? G16
+a) A los Letrados de la Administración de Justicia.
+b) Al Presidente de Sala y a los de la Sección de los órganos colegiados.
+c) Al Magistrado ponente.
+d) A los Gestores.
+
+54) Según la LEC, cuando los actos de comunicación hayan de practicarse por tribunal distinto del que los hubiere ordenado, el despacho se remitirá por medio del sistema informático judicial, estos actos podrán ser realizados, a instancia de parte, por procurador, encargándose de su cumplimiento…
+a) Estos actos no podrán ser realizados, a instancia de parte, al haberse remitido por medio del sistema informático judicial
+b) En un plazo no superior a cinco días
+c) En un plazo no superior a diez días
+d) En un plazo no superior a veinte días
+
+55) Según la LEC, los mandamientos y oficios se remitirán a la autoridad o funcionario a que vayan dirigidos…
+a) Por medios telemáticos o electrónicos.
+b) A través del funcionarios del cuerpo de auxilio judicial o el procurador.
+c) Por correo certificado con acuse de recibo
+d) Por correo certificado o si lo así lo solicitaren, las partes podrán diligenciar personalmente.
+
+56) Según la LEC, se solicitará el auxilio judicial para los actos de reconocimiento judicial, que hayan de efectuarse fuera de la circunscripción del Tribunal que conozca del asunto…
+a) Cuando el Letrado de la Administración de Justicia no lo considere posible
+b) Cuando el Tribunal no considere conveniente hacer uso de la facultad que le concede la LEC de desplazarse de su circunscripción para practicarlas
+c) Esta actuación, siempre se practica por auxilio judicial.
+d) Cuando la prueba lo hayan solicitado todas las partes.
+
+57) Cuando un Juzgado de Primera Instancia e Instrucción de Ceuta, se dirija al Juzgado de Paz de Llanera para notificar el auto de apertura de Juicio Oral a un interno del Centro Penitenciario de Villabona, se encomendará su cumplimiento por medio de:
+a) Suplicatorio
+b) Exhorto
+c) Mandamiento
+d) Ninguna respuesta es correcta, al no ser competente de este acto de comunicación el Juzgado de Paz
+
+58) Según la LEC, los Letrados de la Administración de Justicia darán cuenta del transcurso de los plazos procesales:
+a) En el mismo día o en el siguiente día hábil
+b) En el siguiente día hábil
+c) Dentro de los dos días hábiles siguientes
+d) Dentro de los tres días hábiles siguientes
+
+59) Según la LEC, las resoluciones que se dicten para el cumplimiento del exhorto:
+a) Se notificarán a las partes personas en el procedimiento.
+b) Se notificarán a las partes personadas, cuando el exhorto prevenga que se practique alguna actuación con citación, intervención o concurrencia de las partes.
+c) Se notificarán a las partes, cuando sean precisas para requerir de éstas que proporcionen datos o noticias que puedan facilitar aquel cumplimiento.
+d) Sólo se notificarán a las partes que hubiesen designado procurador para intervenir en su tramitación.
+
+60) Según la LEC, los despachos para la práctica de actuaciones judiciales en el extranjero se cursarán:
+a) Directamente por el Juzgado o Tribunal
+b) Por el Ministerio de Justicia
+c) Conforme a lo establecido en los Tratados Internacionales en que España sea parte, y en su defecto, en la legislación interna que resulte aplicable.
+d) Conforme a lo establecido en las normas comunitarias que resulten de aplicación, en los Tratados Internacionales en que España sea parte, y en su defecto, en la legislación interna que resulte aplicable.
+
+61) Según el Reglamento 1/2018 del CGPJ, el desplazamiento a otro Estado de Jueces y Magistrados para realizar actuaciones procesales precisará la autorización:
+a) De la Comisión Permanente del Consejo General del Poder Judicial
+b) Del Ministerio de Justicia o, en su caso, de la Comunidad Autónoma con competencias asumidas
+c) Del Consejo General del Poder Judicial
+d) Del Ministerio de Justicia o, en su caso, de la Comunidad Autónoma con competencias asumidas.
+
+62) Según la LECrim, el Juez o Tribunal que haya ordenado la práctica de una diligencia judicial, ¿Podría dirigirse a Jueces o Tribunales de categoría o grado inferior?:
+a) No podrá dirigirse, en ningún caso.
+b) En todo caso, debe entenderse directamente con el superior de éstos que ejerza la jurisdicción en el mismo grado que él.
+c) Podrá dirigirse si estuviera subordinado.
+d) Podrá entenderse directamente con el superior de éstos que ejerza la jurisdicción en el mismo grado que él.
+
+63) Según la Ley de Enjuiciamiento Civil, no forma parte integrante del contenido del documento por lo que se solicita el auxilio judicial: T16
+a) La indicación del asunto que lo motiva
+b) La firma del Juez o Magistrado que lo solicita.
+c) La mención expresa de los documentos que sea preciso acompañar.
+d) La designación de las personas que sean parte en el asunto.
+
+64) Según el artículo 211 de la Ley de Enjuiciamiento Civil, el plazo para dictar los Letrados de la Administración de Justicia, las resoluciones es: T16
+a) El que la Ley establezca
+b) De 10 días
+c) No existe plazo alguno
+d) De 5 días.
+
+65) Según la Ley de Enjuiciamiento Civil, por regla general la petición de auxilio judicial entre órganos jurisdiccionales civiles españoles se hará: T16
+a) Por medio del sistema informático judicial o cualquier otro medio telemático o electrónico
+b) En todo caso, por correo certificado con acuse de recibo
+c) Por valija judicial interna
+d) Por correo ordinario, en todo caso.
+
+66) En los procedimientos civiles, a tenor de lo dispuesto en el artículo 210 de la Ley de Enjuiciamiento Civil, se pueden dictar oralmente las siguientes resoluciones: T16
+a) Tanto autos como sentencias
+b) Las resoluciones que se dicten en las vistas.
+c) Las sentencias que se dicten en los juicios verbales en rebeldía.
+d) Todas las resoluciones que se dicten en el procedimiento
+
+67) Según el artículo 135 de la Ley de Enjuiciamiento Civil, en las actuaciones judiciales ante los tribunales civiles se admitirá la presentación de escritos en el Juzgado que preste el servicio de guardia: T16
+a) En ningún caso.
+b) En todo caso
+c) Exclusivamente los referidos a consignaciones
+d) Exclusivamente los referidos a actos de conciliación.
+
+68) Según la Ley de Enjuiciamiento Civil, no son actos de comunicación: T16
+a) Notificaciones
+b) Emplazamientos y citaciones
+c) Exhortos
+d) Requerimientos y Mandamientos
+
+69) Según la LEC, si las actuaciones de auxilio judicial practicadas se entregasen al procurador al que se hubiera encomendado la gestión del exhorto, se presentarán en el órgano exhortante dentro de los: G16
+a) 5 días siguientes.
+b) 10 días siguientes.
+c) 15 días siguientes.
+d) No hay plazo legalmente establecido.
+
+70) Según la LEC, Cuando la presentación de escritos perentorios dentro de plazo por los medios telemáticos o electrónicos no sea posible por interrupción no planificada del servicio de comunicaciones telemáticas o electrónicas. El remitente podrá proceder a su presentación en la oficina judicial:
+a) El primer día hábil siguiente, acompañando el justificante de dicha interrupción.
+b) Ese día o el día siguiente hábil, acompañando el justificante de dicha interrupción.
+c) Dentro de los tres días siguientes, acompañando el justificante de dicha interrupción.
+d) Dentro de los dos días siguientes, acompañando el justificante de dicha interrupción.
+
+71) Según la LOPJ, la ratificación de los periciales podrán realizarse a través de videoconferencia, cuando así lo acuerde:
+a) El Letrado de la Administración de Justicia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+b) El Juez o Tribunal, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+c) El Letrado de la Administración de Justicia, que permita la comunicación direccional y simultánea de la imagen y el sonido y la interacción visual, auditiva y verbal.
+d) El Juez o Tribunal, que permita la comunicación direccional y simultánea de la imagen y el sonido y la interacción visual, auditiva y verbal.
+
+72) Según el art. 141bis de la LEC, las copias simples, testimonios y certificaciones que expidan los Letrados de la Administración de Justicia, cuando sea necesario para proteger el superior interés de los menores y para preservar su intimidad:
+a) Deberá omitirse los datos personales, imágenes, nombre y apellidos, domicilio o cualquier dato que pudiera permitir su identificación, en soporte papel o digital
+b) Podrá omitirse los datos personales, imágenes, nombre y apellidos, domicilio o cualquier dato que pudiera permitir su identificación, en soporte papel o digital
+c) Deberá omitirse los datos personales, imágenes, nombre y apellidos, domicilio o cualquier dato que pudiera permitir su identificación, cualquiera que sea el soporte que se utilice para ello.
+d) Podrá omitirse los datos personales, imágenes, nombre y apellidos, domicilio o cualquier dato que pudiera permitir su identificación, cualquiera que sea el soporte que se utilice para ello.
+
+73) El documento que se enviará por el Juzgado al Registrador para la anotación preventiva de embargo de un inmueble, será:
+a) Un oficio
+b) Un exhorto
+c) Un mandamiento
+d) Un requerimiento
+
+74) Según la LEC, los plazos señalados por meses o por años se computarán:
+a) Por meses naturales
+b) De fecha a fecha, excluyendo los festivos
+c) De fecha a fecha los meses, pero los años no se computan.
+d) De fecha a fecha.
+
+75) Los Letrados de la Administración de Justicia darán cuenta del transcurso de los plazos procesales;
+a) El mismo día del vencimiento
+b) Al siguiente día hábil
+c) A los dos días
+d) A los tres días
+
+76) Los Letrados de la Administración de Justicia pondrán en los autos:
+a) Testimonio de la sentencia
+b) Certificación literal de la sentencia
+c) Copia literal de la sentencia
+d) Transcripción literal de la sentencia.
+
+77) Cuando se demorare el cumplimiento de un suplicatorio más tiempo del absolutamente necesario para ello:
+a) El Juez o Tribunal que lo hubiera expedido remitirá un recuerdo al Juez o Tribunal suplicado.
+b) El Juez o Tribunal que lo hubiera expedido lo pondrá en conocimiento de la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+c) El Letrado de la Administración de Justicia que lo hubiera expedido remitirá un recuerdo al Juez o Tribunal suplicado.
+d) El Letrado de la Administración de Justicia que lo hubiera expedido lo pondrá en conocimiento de la Sala de Gobierno del Tribunal Superior de Justicia correspondiente..
+
+78) Según la LEC, en las actuaciones orales y en los documentos presentados en el idioma oficial de una Comunidad Autónoma, se podrá habilitar como intérprete:
+a) A cualquier persona conocedora de la lengua empleada, por medio de providencia.
+b) A cualquier persona conocedora de la lengua empleada, por medio de decreto.
+c) A persona con título oficial de la lengua empleada, por medio de providencia.
+d) Sólo en actuaciones orales, a cualquier persona conocedora de la lengua empleada, por medio de providencia.
+
+79) Según la LEC, la traducción de un documento redactado en el idioma que no sea el castellano, o en su caso, la lengua oficial propia de la Comunidad Autónoma de que se trate, podrá ser hecha privadamente y, en tal caso, las partes podrán lo podrá impugnar:
+a) Dentro de los diez días desde el traslado
+b) Dentro de los cinco días desde el traslado
+c) Dentro de los tres días desde el traslado
+d) Dentro de los veinte días desde el traslado
+
+80) Según la LOPJ, los datos personales contenidos en los fallos de las sentencias firmes condenatorias, cuando se hubiera dictado en virtud del delito de contrabando cuando existe perjuicio para la Hacienda Pública Estatal o la Unión Europea, se hará público:
+a) Mediante testimonio de la sentencia condenatoria
+b) Mediante certificado con una serie de datos señalados en la Ley.
+c) Mediante su publicación en la web de la agencia tributaria, al ser público el acceso.
+d) Mediante copia simple de la sentencia condenatoria.
+
+81) Según el artículo 10 del Reglamento 1/2018 del CGPJ, los miembros de la Red Judicial Española de Cooperación Judicial Internacional serán seleccionados por un periodo:
+a) De 5 años, no renovables
+b) De 4 años, renovables por periodos sucesivos de 4 años
+c) De 2 años, no renovables.
+d) De 5 años, renovables por periodos sucesivos de 5 años.
+
+82) Según el Reglamento 1/2018 del CGPJ, los miembros de la Red Judicial Española de Cooperación Judicial Internacional serán seleccionados mediante un procedimiento selectivo fundado en los principios de publicidad, igualdad, mérito y capacidad, entre miembros de la carrera judicial que se encuentren en servicio activo, ejerciendo funciones jurisdiccionales y hubieren prestado al menos:
+a) 5 años de servicios
+b) 2 años de servicios
+c) 3 años de servicios
+d) 10 años de servicios.
+
+83) Según el Reg. 1/18 CGPJ, las redes judiciales directamente dependientes del Consejo General del Poder Judicial, cuya actividad incide en el ámbito internacional son:
+a) La Red Judicial Española de Cooperación Judicial Internacional Civil y Penal
+b) La Red de Especialistas en Derecho de la Unión Europea y la Red Judicial de Cooperación Judicial Internacional
+c) La Red Iberoamericana de Cooperación Jurídica Internacional y la Red de Expertos Nacionales de Equipos Conjuntos de Investigación.
+d) La Red Judicial Europea sobre Ciberdelincuencia y la Red Judicial Europea en materia penal.
+
+84) Según el Reg. 1/18 CGPJ, corresponde la gestión y la recopilación de las estadísticas generadas como consecuencia de la actividad de los miembros de las redes judiciales directamente dependientes del Consejo General del Poder Judicial, cuya actividad incide en el ámbito internacional:
+a) A la Comisión Permanente del Consejo General del Poder Judicial
+b) Al Servicio de Relaciones Internacionales del Consejo General del Poder Judicial
+c) A la Secretaría General del Consejo General del Poder Judicial
+d) Al Gabinete Técnico del Consejo General del Poder Judicial
+
+85) Según el Reg. 1/18 CGPJ, la Red de Especialistas en Derecho de la Unión Europea, se articulará en las divisiones:
+a) Derecho Civil, Derecho Mercantil, Derecho Penal y Aspectos generales del Derecho de la Unión Europea
+b) Derecho Civil, Derecho Penal, Derecho Administrativo, Derecho Social y Aspectos generales del Derecho de la Unión Europea.
+c) Derecho Civil, Derecho Penal y Derecho Administrativo
+d) Derecho Civil, Derecho Mercantil, Derecho Penal, Derecho Administrativo, Derecho Social y Aspectos generales del Derecho de la Unión Europea.
+
+86) Según el Reg. 1/18 CGPJ, los miembros de la Red de Especialistas en Derecho de la Unión Europea elegirán de entre ellos 1 coordinador, que ejercerá sus funciones por un periodo:
+a) De 2 años, con posibilidad de renovación por mandatos sucesivos.
+b) De 2 años, con posibilidad de renovación por un mandato.
+c) De 2 años, sin posibilidad de renovación
+d) De 5 años, con posibilidad de renovación.
+
+87) Según el Reg. 1/18 CGPJ, las solicitudes de cooperación judicial internacional que se reciban en los órganos jurisdiccionales españoles, en materia civil o penal, será objeto de registro y reparto específico en el que no deberá indicarse:
+a) El Estado de procedencia, detallando si pertenece o no al espacio judicial europeo.
+b) La diligencia interesada
+c) La persona con quién han de ser entendida la diligencia
+d) La indicación del asunto que motiva la solicitud de la cooperación judicial internacional.
+
+88) Según el Reg. 1/18 CGPJ, las solicitudes de cooperación judicial internacional se repartirán a la mayor brevedad y en todo caso antes de…
+a) 2 días
+b) 3 días
+c) 1 día
+d) El mismo día o el siguiente.
+
+89) Según el Reg. 1/18 CGPJ, las decisiones del Secretario Judicial Director del servicio común relativas al reparto de solicitudes de cooperación judicial internacional serán resueltas:
+a) En vía gubernativa con carácter preferente por el Juez Decano o Presidente del Tribunal que corresponda.
+b) En vía gubernativa con carácter de urgencia por el Juez Decano o Presidente del Tribunal que corresponda.
+c) En vía judicial con carácter de urgencia por el Juez Decano o Presidente del Tribunal que corresponda.
+d) Ninguna respuesta es correcta, al ser una decisión del Juez Decano.
