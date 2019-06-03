@@ -1,43 +1,76 @@
 package main
 
 import (
+	"fmt"
+	"justicia/mlab/models"
 	"log"
 	"time"
-
-	"gopkg.in/mgo.v2"
 )
 
 type (
-	pregunta struct {
-		ID        int
-		Test      int
-		Tema      string
-		Pregunta  string
-		Respuesta []string
-		Articulo  string
-		Ord       int
-		Fecha     time.Time
-		Box       int
+	// Env alamcena toda la base de datos
+	Env struct {
+		db models.Datastore
 	}
+	allDB struct{}
 )
 
 func main() {
-	uri := "mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876/justicia"
 
-	session, err := mgo.Dial(uri)
+	db, err := models.NewDB()
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer session.Close()
+	env := &Env{db}
 
-	session.SetSafe(&mgo.Safe{})
+	// env.Index()
 
+}
+
+//Index lista todos los Datos
+func (env *Env) Index() {
+	questions, err := env.db.All()
+	if err != nil {
+		log.Fatal(err)
+	}
+	for _, question := range questions {
+		fmt.Printf("ID : %d\nTest: %d\nTema: %s\n",
+			question.ID,
+			question.Test,
+			question.Tema)
+	}
+}
+
+// Update actualiza mlabs
+func (env *Env) Update() error {
+	session := models.MlabDB
 	collection := session.DB("justicia").C("preguntas")
-
-	err = collection.Insert(&pregunta{
-		ID: 1,
-	})
+	questions, err := env.db.All()
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	for _, question := range questions {
+
+		mlab := new(models.Mlab)
+		mlab.Categoria = question.Tema
+		mlab.Test = question.Test
+		mlab.Ord = question.Ord
+		mlab.Pregunta = question.Pregunta
+		mlab.Respuestas = []string{
+			question.Respuesta1,
+			question.Respuesta2,
+			question.Respuesta3,
+			question.Respuesta4,
+		}
+		mlab.Articulo = question.Articulo
+		mlab.Fecha = time.Now()
+		mlab.Box = question.Box
+
+		err = collection.Insert(&mlab)
+		if err != nil {
+			return err
+		}
+	}
+	return nil
 }
