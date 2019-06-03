@@ -34,7 +34,9 @@ func main() {
 
 	collection := session.DB("justicia").C("preguntas")
 
-	err = collection.Insert()
+	err = collection.Insert(&pregunta{
+		ID: 1,
+	})
 	if err != nil {
 		log.Fatal(err)
 	}
