@@ -21,37 +21,29 @@ type (
 		Fecha      time.Time `bson:"fecha"`
 		Box        int       `bson:"box"`
 	}
+	// DBData dotos de conexion
 	DBData struct {
-		*mgo.Session
-		*mgo.Collection
+		*mgo.Database
 	}
 )
 
 // MlabDB Conexion con Mlab
-func MlabDB() DBData {
+func MlabDB() (*DBData, error) {
 	uri := "mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876/justicia"
 	session, err := mgo.Dial(uri)
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer session.Close()
-
 	session.SetSafe(&mgo.Safe{})
-	collection := session.DB("justicia").C("preguntas")
+	db := session.DB("justicia")
 
-	return DBData{
-		session,
-		collection,
-	}
+	return &DBData{db}, nil
 }
 
-// All() conexion a la DB
+// All conexion a la DB
 func (data *DBData) All() {
 	test := "34"
-	c := data.Collection
-	gamesWon, err := c.Find(bson.M{"test": test}).Count()
-	if err != nil {
-		panic(err)
-	}
-	fmt.Printf("%s has won %d games.\n", test, gamesWon)
+	c := data.C("preguntas")
+	gamesWon := c.Find(bson.M{}).All()
+	fmt.Printf("%s has won %v games.\n", test, gamesWon)
 }
