@@ -1,7 +1,6 @@
 package models
 
 import (
-	"fmt"
 	"log"
 	"time"
 
@@ -12,14 +11,15 @@ import (
 type (
 	// Mlab schema Mongo DB
 	Mlab struct {
-		Categoria  string    `bson:"categoria"`
-		Test       int       `bson:"test"`
-		Ord        int       `bson:"ord"`
-		Pregunta   string    `bson:"pregunta"`
-		Respuestas []string  `bson:"respuestas"`
-		Articulo   string    `bson:"articulo"`
-		Fecha      time.Time `bson:"fecha"`
-		Box        int       `bson:"box"`
+		ID         bson.ObjectId `bson:"_id" json:"id"`
+		Categoria  string        `bson:"categoria" json:"categoria"`
+		Test       int           `bson:"test" json:"test"`
+		Ord        int           `bson:"ord" json:"ord"`
+		Pregunta   string        `bson:"pregunta" json:"pregunta"`
+		Respuestas []string      `bson:"respuestas" json:"respuestas"`
+		Articulo   string        `bson:"articulo" json:"articulo"`
+		Fecha      time.Time     `bson:"fecha" json:"fecha"`
+		Box        int           `bson:"box" json:"box"`
 	}
 	// DBData dotos de conexion
 	DBData struct {
@@ -40,10 +40,17 @@ func MlabDB() (*DBData, error) {
 	return &DBData{db}, nil
 }
 
-// All conexion a la DB
-func (data *DBData) All() {
-	test := "34"
-	c := data.C("preguntas")
-	gamesWon := c.Find(bson.M{}).All()
-	fmt.Printf("%s has won %v games.\n", test, gamesWon)
+// Questions enlaza a la tabla preguntas
+func (db *DBData) Questions() *mgo.Collection {
+	return db.C("preguntas")
+}
+
+// GetAll conexion a la DB
+func (db *DBData) GetAll() ([]Mlab, error) {
+	questions := []Mlab{}
+	c := db.Questions()
+	if err := c.Find(nil).All(&questions); err != nil {
+		return nil, err
+	}
+	return questions, nil
 }

@@ -16,12 +16,12 @@ type (
 )
 
 func main() {
-	// env.Index()
-	db, err := models.MlabDB()
+	enviroment, err := initializeSQL()
 	if err != nil {
 		log.Fatal(err)
 	}
-	db.All()
+
+	enviroment.Update()
 }
 
 //Index lista todos los Datos
@@ -44,7 +44,7 @@ func (env *Env) Update() error {
 	if err != nil {
 		return err
 	}
-	collection := db.C("preguntas")
+	collection := db.Questions()
 	questions, err := env.db.All()
 	if err != nil {
 		return err
@@ -82,4 +82,18 @@ func initializeSQL() (*Env, error) {
 	}
 	env := &Env{db}
 	return env, nil
+}
+
+func listAll() {
+	db, err := models.MlabDB()
+	if err != nil {
+		log.Fatal(err)
+	}
+	questions, err := db.GetAll()
+	if err != nil {
+		log.Fatal(err)
+	}
+	for _, question := range questions {
+		fmt.Println(question)
+	}
 }
