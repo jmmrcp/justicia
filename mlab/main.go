@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"justicia/mlab/models"
+	"justicia/mlab/models/lite"
+	"justicia/mlab/models/mlab"
 	"log"
 	"time"
 )
@@ -10,7 +11,7 @@ import (
 type (
 	// Env alamcena toda la base de datos
 	Env struct {
-		db models.Datastore
+		db lite.Datastore
 	}
 	allDB struct{}
 )
@@ -40,19 +41,21 @@ func (env *Env) Index() {
 
 // Update actualiza mlabs
 func (env *Env) Update() error {
-	db, err := models.MlabDB()
+	mlabdb, err := mlab.NewDB()
 	if err != nil {
 		return err
 	}
-	collection := db.Questions()
 	questions, err := env.db.All()
+
+	fmt.Printf("questions: %+v\n", len(questions))
+
 	if err != nil {
 		return err
 	}
 
 	for _, question := range questions {
 
-		mlab := new(models.Mlab)
+		mlab := new(mlab.Mlab)
 		mlab.Categoria = question.Tema
 		mlab.Test = question.Test
 		mlab.Ord = question.Ord
@@ -67,7 +70,7 @@ func (env *Env) Update() error {
 		mlab.Fecha = time.Now()
 		mlab.Box = question.Box
 
-		err = collection.Insert(&mlab)
+		err = mlabdb.InsertOne(&mlab)
 		if err != nil {
 			return err
 		}
@@ -76,7 +79,7 @@ func (env *Env) Update() error {
 }
 
 func initializeSQL() (*Env, error) {
-	db, err := models.NewDB()
+	db, err := lite.NewDB()
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -85,7 +88,7 @@ func initializeSQL() (*Env, error) {
 }
 
 func listAll() {
-	db, err := models.MlabDB()
+	db, err := mlab.NewDB()
 	if err != nil {
 		log.Fatal(err)
 	}
