@@ -1,4 +1,4 @@
-package mlab
+package online
 
 import (
 	"context"
@@ -8,6 +8,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
 type (
@@ -39,6 +40,7 @@ func (db *DB) GetAll() ([]Mlab, error) {
 				"$eq": "golang"},
 		},
 	}
+	filter = bson.M{}
 	defer cancel()
 	questions := []Mlab{}
 	c := db.Questions()
@@ -55,6 +57,38 @@ func (db *DB) GetAll() ([]Mlab, error) {
 		}
 		fmt.Printf("Question: %+v\n", q)
 		questions = append(questions, q)
+	}
+	if err := cursor.Err(); err != nil {
+		return nil, err
+	}
+	return questions, nil
+}
+
+// GetTest devuelve test seleccionado
+func (db *DB) GetTest() ([]*Mlab, error) {
+	t := 4
+	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
+	filter := bson.M{
+		"test": t,
+	}
+	options := options.Find()
+	options.SetLimit(5)
+	defer cancel()
+	questions := []*Mlab{}
+	c := db.Questions()
+
+	cursor, err := c.Find(ctx, filter, options)
+	if err != nil {
+		return nil, err
+	}
+	defer cursor.Close(ctx)
+	for cursor.Next(ctx) {
+		var q Mlab
+		if err := cursor.Decode(&q); err != nil {
+			return nil, err
+		}
+		// fmt.Printf("Question: %+v\n", q)
+		questions = append(questions, &q)
 	}
 	if err := cursor.Err(); err != nil {
 		return nil, err

@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"justicia/mlab/models/lite"
-	"justicia/mlab/models/mlab"
+	"justicia/mlab/models/online"
+
 	"log"
 	"time"
 )
@@ -17,12 +18,15 @@ type (
 )
 
 func main() {
-	enviroment, err := initializeSQL()
+	mlabdb, err := online.NewDB()
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	enviroment.Update()
+	questions, err := mlabdb.GetTest()
+	if err != nil {
+		log.Fatal(err)
+	}
+	list(questions)
 }
 
 //Index lista todos los Datos
@@ -41,7 +45,7 @@ func (env *Env) Index() {
 
 // Update actualiza mlabs
 func (env *Env) Update() error {
-	mlabdb, err := mlab.NewDB()
+	mlabdb, err := online.NewDB()
 	if err != nil {
 		return err
 	}
@@ -55,7 +59,7 @@ func (env *Env) Update() error {
 
 	for _, question := range questions {
 
-		mlab := new(mlab.Mlab)
+		mlab := new(online.Mlab)
 		mlab.Categoria = question.Tema
 		mlab.Test = question.Test
 		mlab.Ord = question.Ord
@@ -88,7 +92,7 @@ func initializeSQL() (*Env, error) {
 }
 
 func listAll() {
-	db, err := mlab.NewDB()
+	db, err := online.NewDB()
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -98,5 +102,26 @@ func listAll() {
 	}
 	for _, question := range questions {
 		fmt.Println(question)
+	}
+}
+
+func labs() {
+	enviroment, err := initializeSQL()
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	enviroment.Update()
+}
+
+func list(db []*online.Mlab) {
+	for _, question := range db {
+		fmt.Println("Categoria:", question.Categoria)
+		fmt.Println("Test:", question.Test)
+		fmt.Println("Pregunta:", question.Pregunta)
+		for i, respuesta := range question.Respuestas {
+			fmt.Println(i, ") "+respuesta)
+		}
+		fmt.Println("Articulo: ", question.Articulo)
 	}
 }
