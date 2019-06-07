@@ -10,8 +10,6 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/mgo.v2"
-
 	_ "github.com/mattn/go-sqlite3"
 )
 

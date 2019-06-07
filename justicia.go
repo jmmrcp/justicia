@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"io"
 	"justicia/quiz"
+	"justicia/quiz/config"
+	"justicia/quiz/dao"
 	"log"
 	"net/http"
 	"os"
@@ -20,6 +22,8 @@ var (
 	view  int
 	count int
 	pdfs  bool
+	conf  config.Config
+	oad   dao.QuestionsDAO
 )
 
 func init() {
@@ -49,6 +53,7 @@ func init() {
 		os.Exit(0)
 	}
 	flag.Parse()
+
 }
 
 func main() {
@@ -59,14 +64,6 @@ func main() {
 	quiz.QuestionTest = test
 	quiz.QuestionPdf = pdfs
 
-	fileUrl := "https://computerwizards.es/.well-known/data.db"
-
-	if !fileExists("data/data.db") {
-		if err := downloadFile("data/data.db", fileUrl); err != nil {
-			panic(err)
-		}
-	}
-
 	//Get gui driver
 	g, err := gocui.NewGui(gocui.OutputNormal)
 	if err != nil {
@@ -75,9 +72,16 @@ func main() {
 	defer g.Close()
 
 	//Need to create questions
-	quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, quiz.QuestionMode, quiz.QuestionTest)
-	if err != nil {
-		log.Fatal(err)
+	if fileExists("data/data.db") {
+		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, quiz.QuestionMode, quiz.QuestionTest)
+		if err != nil {
+			log.Fatal(err)
+		}
+	} else {
+		conf.Read()
+		oad.Server = conf.Server
+		oad.Database = conf.Database
+		oad.Connect()
 	}
 
 	//Shuffle Questions
