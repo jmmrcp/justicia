@@ -3,8 +3,11 @@ package dao
 import (
 	"context"
 	"justicia/quiz"
-	. "justicia/quiz/models"
+	"justicia/quiz/answers"
+	"justicia/quiz/models"
+	"justicia/quiz/questions"
 	"log"
+	"strconv"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
@@ -43,8 +46,8 @@ func (q *QuestionsDAO) Connect() {
 }
 
 // GetAll All document Find
-func (q *QuestionsDAO) GetAll() ([]Question, error) {
-	var questions []Question
+func (q *QuestionsDAO) GetAll() ([]models.Mlab, error) {
+	var questions []models.Mlab
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	filter := bson.M{}
 	defer cancel()
@@ -55,7 +58,7 @@ func (q *QuestionsDAO) GetAll() ([]Question, error) {
 	}
 	defer cursor.Close(ctx)
 	for cursor.Next(ctx) {
-		var q Question
+		var q models.Mlab
 		if err := cursor.Decode(&q); err != nil {
 			return nil, err
 		}
@@ -68,8 +71,8 @@ func (q *QuestionsDAO) GetAll() ([]Question, error) {
 }
 
 // GetTest All document Find
-func (q *QuestionsDAO) GetTest() ([]Question, error) {
-	var questions []Question
+func (q *QuestionsDAO) GetTest() ([]models.Mlab, error) {
+	var questions []models.Mlab
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	filter := bson.M{
 		"test": quiz.QuestionTest,
@@ -82,7 +85,7 @@ func (q *QuestionsDAO) GetTest() ([]Question, error) {
 	}
 	defer cursor.Close(ctx)
 	for cursor.Next(ctx) {
-		var q Question
+		var q models.Mlab
 		if err := cursor.Decode(&q); err != nil {
 			return nil, err
 		}
@@ -95,8 +98,8 @@ func (q *QuestionsDAO) GetTest() ([]Question, error) {
 }
 
 // GetCategory All document Find
-func (q *QuestionsDAO) GetCategory(f string) ([]Question, error) {
-	var questions []Question
+func (q *QuestionsDAO) GetCategory(f string) ([]models.Mlab, error) {
+	var questions []models.Mlab
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	filter := bson.M{
 		"categoria": f,
@@ -111,7 +114,7 @@ func (q *QuestionsDAO) GetCategory(f string) ([]Question, error) {
 	}
 	defer cursor.Close(ctx)
 	for cursor.Next(ctx) {
-		var q Question
+		var q models.Mlab
 		if err := cursor.Decode(&q); err != nil {
 			return nil, err
 		}
@@ -124,8 +127,8 @@ func (q *QuestionsDAO) GetCategory(f string) ([]Question, error) {
 }
 
 // GetByID document ID Find
-func (q *QuestionsDAO) GetByID(id string) (Question, error) {
-	var question Question
+func (q *QuestionsDAO) GetByID(id string) (models.Mlab, error) {
+	var question models.Mlab
 	filter := bson.M{
 		"ID": id,
 	}
@@ -138,12 +141,12 @@ func (q *QuestionsDAO) GetByID(id string) (Question, error) {
 }
 
 // Create document on DB
-func (q *QuestionsDAO) Create(question Question) error {
+func (q *QuestionsDAO) Create(question models.Mlab) error {
 	return nil
 }
 
 // Update document on DB
-func (q *QuestionsDAO) Update(id string, question Question) error {
+func (q *QuestionsDAO) Update(id string, question models.Mlab) error {
 	filter := bson.M{
 		"ID": id,
 	}
@@ -158,4 +161,44 @@ func (q *QuestionsDAO) Update(id string, question Question) error {
 		log.Fatal(err)
 	}
 	return nil
+}
+
+// CreateQuestionsDAO from the Mlabs DB
+func (q *QuestionsDAO) CreateQuestionsDAO(qs questions.Questions) (questions.Questions, error) {
+	var (
+		//data [][]string
+		err error
+	)
+
+	//Get data from mlabs
+	data, err := q.GetAll()
+	if err != nil {
+		return qs, err
+	}
+
+	for _, qData := range data {
+		l := len(qData)
+		as := answers.Answers{[]*answers.Answer{}}
+
+		if l == 7 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
+			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+		} else if l == 4 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+		} else if l == 3 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+		}
+
+		//Shuffle the answers
+		as.Shuffle()
+
+		ID, _ := strconv.Atoi(qData[l-1])
+
+		qs.Questions = append(qs.Questions, &questions.Question{qData[0], as, qData[l-2], ID})
+	}
+	// log.Printf("%v\n", data)
+	return qs, nil
 }

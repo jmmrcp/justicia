@@ -7,7 +7,8 @@ import (
 )
 
 type (
-	Question struct {
+	// Mlab Schema MLabs database
+	Mlab struct {
 		ID         primitive.ObjectID `bson:"_id" json:"id"`
 		Categoria  string             `bson:"categoria" json:"categoria"`
 		Test       int                `bson:"test" json:"test"`

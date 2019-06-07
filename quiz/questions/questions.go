@@ -2,16 +2,12 @@ package questions
 
 import (
 	"fmt"
+	"justicia/quiz/answers"
 	"justicia/quiz/csv"
-	"justicia/quiz/dao"
 	"justicia/quiz/db"
 	"math/rand"
 	"strconv"
 	"time"
-
-	_ "github.com/mattn/go-sqlite3"
-
-	"justicia/quiz/answers"
 )
 
 func init() {
@@ -163,45 +159,6 @@ func CreateQuestionsDB(qs Questions, view int, test int) (Questions, error) {
 
 	//Get data from db or dbs
 	data, err = db.Read("data/data.db", data, view, test)
-	if err != nil {
-		return qs, err
-	}
-
-	for _, qData := range data {
-		l := len(qData)
-		as := answers.Answers{[]*answers.Answer{}}
-
-		if l == 7 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
-		} else if l == 4 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-		} else if l == 3 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-		}
-
-		//Shuffle the answers
-		as.Shuffle()
-
-		ID, _ := strconv.Atoi(qData[l-1])
-
-		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], ID})
-	}
-	// log.Printf("%v\n", data)
-	return qs, nil
-}
-
-func CreateQuestionsDAO(qs Questions) (Questions, error) {
-	var (
-		data [][]string
-		err  error
-	)
-
-	//Get data from mlabs
-	data, err = dao.COLLECTION(COLLECTION)
 	if err != nil {
 		return qs, err
 	}
