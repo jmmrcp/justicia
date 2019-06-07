@@ -118,6 +118,7 @@ func list(db []*online.Mlab) {
 	for _, question := range db {
 		fmt.Println("Categoria:", question.Categoria)
 		fmt.Println("Test:", question.Test)
+		fmt.Println("ID:", question.ID.Hex())
 		fmt.Println("Pregunta:", question.Pregunta)
 		for i, respuesta := range question.Respuestas {
 			fmt.Println(i, ") "+respuesta)
