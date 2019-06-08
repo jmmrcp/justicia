@@ -82,6 +82,10 @@ func main() {
 		oad.Server = conf.Server
 		oad.Database = conf.Database
 		oad.Connect()
+		quiz.Questions, err = oad.CreateQuestionsDAO(quiz.Questions)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 
 	//Shuffle Questions

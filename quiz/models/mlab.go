@@ -20,3 +20,11 @@ type (
 		Box        int                `bson:"box" json:"box"`
 	}
 )
+
+// Parse convert Objet to Array
+func (mlab *Mlab) Parse() []string {
+	data := []string{mlab.Pregunta}
+	data = append(data, mlab.Respuestas...)
+	data = append(data, mlab.Articulo, mlab.ID.Hex())
+	return data
+}

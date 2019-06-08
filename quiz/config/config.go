@@ -9,6 +9,6 @@ type (
 )
 
 func (c *Config) Read() {
-	c.Server = "mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876"
+	c.Server = "mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876/justicia"
 	c.Database = "justicia"
 }

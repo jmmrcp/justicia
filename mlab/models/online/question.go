@@ -32,7 +32,7 @@ func (db *DB) Questions() *mongo.Collection {
 }
 
 // GetAll conexion a la DB
-func (db *DB) GetAll() ([]Mlab, error) {
+func (db *DB) GetAll() ([]*Mlab, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	filter := bson.M{
 		"tags": bson.M{
@@ -42,7 +42,7 @@ func (db *DB) GetAll() ([]Mlab, error) {
 	}
 	filter = bson.M{}
 	defer cancel()
-	questions := []Mlab{}
+	questions := []*Mlab{}
 	c := db.Questions()
 
 	cursor, err := c.Find(ctx, filter)
@@ -56,7 +56,7 @@ func (db *DB) GetAll() ([]Mlab, error) {
 			return nil, err
 		}
 		fmt.Printf("Question: %+v\n", q)
-		questions = append(questions, q)
+		questions = append(questions, &q)
 	}
 	if err := cursor.Err(); err != nil {
 		return nil, err

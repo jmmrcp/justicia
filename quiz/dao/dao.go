@@ -46,8 +46,8 @@ func (q *QuestionsDAO) Connect() {
 }
 
 // GetAll All document Find
-func (q *QuestionsDAO) GetAll() ([]models.Mlab, error) {
-	var questions []models.Mlab
+func (q *QuestionsDAO) GetAll() ([]*models.Mlab, error) {
+	var questions []*models.Mlab
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	filter := bson.M{}
 	defer cancel()
@@ -58,7 +58,7 @@ func (q *QuestionsDAO) GetAll() ([]models.Mlab, error) {
 	}
 	defer cursor.Close(ctx)
 	for cursor.Next(ctx) {
-		var q models.Mlab
+		var q *models.Mlab
 		if err := cursor.Decode(&q); err != nil {
 			return nil, err
 		}
@@ -177,28 +177,28 @@ func (q *QuestionsDAO) CreateQuestionsDAO(qs questions.Questions) (questions.Que
 	}
 
 	for _, qData := range data {
-		l := len(qData)
+		q := qData.Parse()
+		l := len(q)
 		as := answers.Answers{[]*answers.Answer{}}
 
 		if l == 7 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+			as.Answers = append(as.Answers, &answers.Answer{q[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{q[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{q[3], false})
+			as.Answers = append(as.Answers, &answers.Answer{q[4], false})
 		} else if l == 4 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{q[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{q[2], false})
 		} else if l == 3 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{q[1], true})
 		}
 
 		//Shuffle the answers
 		as.Shuffle()
 
-		ID, _ := strconv.Atoi(qData[l-1])
+		ID, _ := strconv.Atoi(q[l-1])
 
-		qs.Questions = append(qs.Questions, &questions.Question{qData[0], as, qData[l-2], ID})
+		qs.Questions = append(qs.Questions, &questions.Question{q[0], as, q[l-2], ID})
 	}
-	// log.Printf("%v\n", data)
 	return qs, nil
 }
