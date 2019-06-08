@@ -47,12 +47,38 @@ func (q *QuestionsDAO) Connect() {
 
 // GetAll All document Find
 func (q *QuestionsDAO) GetAll() ([]*models.Mlab, error) {
-	var questions []*models.Mlab
+	var (
+		questions []*models.Mlab
+		filter    bson.M
+	)
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
-	filter := bson.M{}
+	if quiz.QuestionTest != 0 {
+		filter = bson.M{
+			"test": quiz.QuestionTest,
+		}
+	} else {
+		switch quiz.QuestionMode {
+		case 1:
+			filter = bson.M{
+				"box": 1,
+			}
+		case 2:
+			filter = bson.M{
+				"box": 2,
+			}
+		case 3:
+			filter = bson.M{
+				"box": 3,
+			}
+		default:
+			filter = bson.M{}
+		}
+	}
+	options := options.Find()
+	options.SetLimit(int64(quiz.QuestionLimit))
 	defer cancel()
 	c := db.Collection(COLLECTION)
-	cursor, err := c.Find(ctx, filter)
+	cursor, err := c.Find(ctx, filter, options)
 	if err != nil {
 		return nil, err
 	}

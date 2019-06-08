@@ -1,9 +1,5 @@
 package user
 
-import (
-	"justicia/quiz/db"
-)
-
 //Answers -- Container to hold user answers
 type Answers map[string]*Answer
 
@@ -23,7 +19,7 @@ func (as Answers) TotalCorrect() (int, error) {
 			return total, err
 		}
 		if result {
-			db.Update(a.Question.ID)
+			// db.Update(a.Question.ID)
 			total++
 		}
 	}
