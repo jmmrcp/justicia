@@ -19,7 +19,6 @@ func (as Answers) TotalCorrect() (int, error) {
 			return total, err
 		}
 		if result {
-			// db.Update(a.Question.ID)
 			total++
 		}
 	}

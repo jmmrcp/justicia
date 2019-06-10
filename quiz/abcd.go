@@ -16,13 +16,7 @@ var (
 	UserAnswers = user.Answers{}
 	//QuestionLimit -- Limits the number of questions that are shown to the user
 	QuestionLimit = 0
-	// QuestionMode -- Modo de Repaso de las Test
-	QuestionMode = 0
-	// QuestionTest -- Numero del Test a Preguntar
-	QuestionTest = 0
-	// QuestionPdf -- Imprimir test
-	QuestionPdf = false
-	//CurrentUserAnswer -- index for user answers
+	// CurrentUserAnswer -- index for user answers
 	CurrentUserAnswer = 1
 )
 

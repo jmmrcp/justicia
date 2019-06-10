@@ -2,20 +2,29 @@ package quiz
 
 import (
 	"fmt"
-	gui "justicia/quiz/interface"
+	"justicia/quiz/dao"
 	"justicia/quiz/user"
 	"log"
 	"os"
 
+	gui "justicia/quiz/interface"
+
 	"github.com/jroimartin/gocui"
 )
+
+// C Correct IDs
+var C []string
+
+// I Incorrect Ids
+var I []string
 
 //ESInit -- End Screen Initialization. Presents the results
 func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	//End quiz when you run out of answers
 	if CurrentUserAnswer > len(UserAnswers) {
 		g.Close()
-		fmt.Println("Game Over")
+		fmt.Println(C)
+		box()
 		os.Exit(0)
 	}
 
@@ -39,8 +48,10 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 		log.Panicln(err)
 	}
 	if answerCorrect {
+		C = append(C, currentUserAnswer.Question.ID)
 		correct = gui.Right
 	} else {
+		I = append(I, currentUserAnswer.Question.ID)
 		correct = gui.Wrong
 	}
 
@@ -71,4 +82,13 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	}
 
 	return nil
+}
+
+func box() {
+	for _, v := range C {
+		dao.Update(v)
+	}
+	for _, v := range I {
+		dao.Update(v)
+	}
 }

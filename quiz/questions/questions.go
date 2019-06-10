@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"justicia/quiz/answers"
 	"justicia/quiz/csv"
+	"justicia/quiz/dao"
 	"justicia/quiz/db"
 	"math/rand"
-	"strconv"
 	"time"
 )
 
@@ -20,7 +20,7 @@ type Question struct {
 	Question    string
 	Answers     answers.Answers
 	Explanation string
-	ID          int
+	ID          string
 }
 
 //CorrectAnswer -- returns the currect answer
@@ -59,7 +59,7 @@ func (qs Questions) Shuffle() error {
 //Current -- returns the current question
 func (qs Questions) Current() (*Question, error) {
 	if len(qs.Questions) == 0 {
-		return &Question{"", answers.Answers{[]*answers.Answer{}}, "", 0}, fmt.Errorf("There are no questions")
+		return &Question{"", answers.Answers{[]*answers.Answer{}}, "", ""}, fmt.Errorf("There are no questions")
 	}
 	return qs.Questions[qs.Index], nil
 }
@@ -145,20 +145,20 @@ func CreateQuestionsCSV(qs Questions, files []string) (Questions, error) {
 		//Shuffle the answers
 		as.Shuffle()
 
-		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-1], 0})
+		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-1], ""})
 	}
 	return qs, nil
 }
 
 //CreateQuestionsDB -- used to create questions
-func CreateQuestionsDB(qs Questions, view int, test int) (Questions, error) {
+func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions, error) {
 	var (
 		data [][]string
 		err  error
 	)
 
 	//Get data from db or dbs
-	data, err = db.Read("data/data.db", data, view, test)
+	data, err = db.Read("data/data.db", data, view, test, cat)
 	if err != nil {
 		return qs, err
 	}
@@ -182,10 +182,49 @@ func CreateQuestionsDB(qs Questions, view int, test int) (Questions, error) {
 		//Shuffle the answers
 		as.Shuffle()
 
-		ID, _ := strconv.Atoi(qData[l-1])
+		//ID, _ := strconv.Atoi(qData[l-1])
 
-		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], ID})
+		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})
 	}
 	// log.Printf("%v\n", data)
+	return qs, nil
+}
+
+//CreateQuestionsDAO -- used to create questions
+func CreateQuestionsDAO(qs Questions, view int, test int, cat string) (Questions, error) {
+	var (
+		data [][]string
+		err  error
+	)
+
+	//Get data from mlabs
+	data, err = dao.Read(data, view, test, cat)
+	if err != nil {
+		return qs, err
+	}
+
+	for _, qData := range data {
+		l := len(qData)
+		as := answers.Answers{[]*answers.Answer{}}
+
+		if l == 7 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
+			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+		} else if l == 4 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+		} else if l == 3 {
+			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+		}
+
+		//Shuffle the answers
+		as.Shuffle()
+
+		//ID, _ := strconv.Atoi(q[l-1])
+
+		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})
+	}
 	return qs, nil
 }

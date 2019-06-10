@@ -29,7 +29,7 @@ var (
 )
 
 //Read -- Parses db file
-func Read(path string, records [][]string, view int, test int) ([][]string, error) {
+func Read(path string, records [][]string, view int, test int, cat string) ([][]string, error) {
 
 	//Make sure the file exists
 	_, err = os.Stat(path)
@@ -50,6 +50,12 @@ func Read(path string, records [][]string, view int, test int) ([][]string, erro
 	defer db.Close()
 
 	//Read the database
+	if cat != "" {
+		rows, err = db.Query("SELECT * FROM just WHERE categoria = ?", cat)
+		if rows != nil {
+			return records, err
+		}
+	}
 	if test != 0 {
 		rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
 		if err != nil {
@@ -91,7 +97,7 @@ func Read(path string, records [][]string, view int, test int) ([][]string, erro
 }
 
 // Update db
-func Update(id int) error {
+func Update(id string) error {
 
 	db, err = sql.Open("sqlite3", "data/data.db")
 	if err != nil {
@@ -104,7 +110,11 @@ func Update(id int) error {
 	}
 	defer db.Close()
 
-	_, err := db.Exec("UPDATE just SET box = ? WHERE id = ?", 1, id)
+	i, err := strconv.Atoi(id)
+	if err != nil {
+		return err
+	}
+	_, err = db.Exec("UPDATE just SET box = ? WHERE id = ?", 1, i)
 	if err != nil {
 		return err
 	}

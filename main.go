@@ -5,29 +5,32 @@ import (
 	"fmt"
 	"io"
 	"justicia/quiz"
-	"justicia/quiz/config"
-	"justicia/quiz/dao"
+	"justicia/quiz/pdf"
+	"justicia/quiz/questions"
 	"log"
 	"net/http"
 	"os"
-
-	"justicia/quiz/pdf"
-	"justicia/quiz/questions"
 
 	"github.com/jroimartin/gocui"
 )
 
 var (
-	test  int
-	view  int
-	count int
-	pdfs  bool
-	conf  config.Config
-	oad   dao.QuestionsDAO
+	// TEST Numero de test
+	TEST int
+	// VIEW Lista a utilizar
+	VIEW int
+	// COUNT Numero de preguntas
+	COUNT int
+	// CAT Categoria
+	CAT string
+	// PDFS Imprime o no
+	PDFS bool
 )
 
 func init() {
 	const (
+		defaultCat   = ""
+		usageCat     = "Category.\ndefault=none"
 		defaultTest  = 0
 		usageTest    = "Test Number.\ndefault=All."
 		defaultCount = 100
@@ -37,18 +40,20 @@ func init() {
 		defaultPdf   = false
 		usagePdf     = "Generate a PDF with Test and Answers"
 	)
-	flag.IntVar(&test, "Test_number", defaultTest, usageTest)
-	flag.IntVar(&count, "Question_number", defaultCount, usageCount)
-	flag.IntVar(&view, "Mark_number", defaultView, usageView)
-	flag.BoolVar(&pdfs, "PDF", defaultPdf, usagePdf)
-	flag.IntVar(&test, "T", defaultTest, usageTest+" (shorthand)")
-	flag.IntVar(&count, "Q", defaultCount, usageCount+" (shorthand)")
-	flag.IntVar(&view, "M", defaultView, usageView+" (shorthand)")
-	flag.BoolVar(&pdfs, "P", defaultPdf, usagePdf+" (shorthand)")
+	flag.StringVar(&CAT, "Category_Type", defaultCat, usageCat)
+	flag.IntVar(&TEST, "Test_number", defaultTest, usageTest)
+	flag.IntVar(&COUNT, "Question_number", defaultCount, usageCount)
+	flag.IntVar(&VIEW, "Mark_number", defaultView, usageView)
+	flag.BoolVar(&PDFS, "PDF", defaultPdf, usagePdf)
+	flag.StringVar(&CAT, "C", defaultCat, usageCat+" (shorthand)")
+	flag.IntVar(&TEST, "T", defaultTest, usageTest+" (shorthand)")
+	flag.IntVar(&COUNT, "Q", defaultCount, usageCount+" (shorthand)")
+	flag.IntVar(&VIEW, "M", defaultView, usageView+" (shorthand)")
+	flag.BoolVar(&PDFS, "P", defaultPdf, usagePdf+" (shorthand)")
 
 	flag.Usage = func() {
 		fmt.Printf("Usage of %s:\n", os.Args[0])
-		fmt.Printf("    test -T=67 -Q=100 -M=1 -P=false...\n")
+		fmt.Printf("    justicia -C='LOPJ' -T=67 -Q=100 -M=1 -P=false...\n")
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
@@ -59,10 +64,7 @@ func init() {
 func main() {
 	// Parse the flags.
 
-	quiz.QuestionLimit = count
-	quiz.QuestionMode = view
-	quiz.QuestionTest = test
-	quiz.QuestionPdf = pdfs
+	quiz.QuestionLimit = COUNT
 
 	//Get gui driver
 	g, err := gocui.NewGui(gocui.OutputNormal)
@@ -73,16 +75,12 @@ func main() {
 
 	//Need to create questions
 	if fileExists("data/data.db") {
-		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, quiz.QuestionMode, quiz.QuestionTest)
+		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}
 	} else {
-		conf.Read()
-		oad.Server = conf.Server
-		oad.Database = conf.Database
-		oad.Connect()
-		quiz.Questions, err = oad.CreateQuestionsDAO(quiz.Questions)
+		quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -95,9 +93,11 @@ func main() {
 	}
 
 	//Create PDF
-	err = pdf.Create(quiz.Questions, count)
-	if err != nil {
-		log.Fatal(err)
+	if PDFS {
+		err = pdf.Create(quiz.Questions, COUNT)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 
 	//Need to initialize screen
