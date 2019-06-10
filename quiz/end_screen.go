@@ -23,7 +23,6 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	//End quiz when you run out of answers
 	if CurrentUserAnswer > len(UserAnswers) {
 		g.Close()
-		fmt.Println(C)
 		box()
 		os.Exit(0)
 	}
@@ -89,6 +88,6 @@ func box() {
 		dao.Update(v)
 	}
 	for _, v := range I {
-		dao.Update(v)
+		dao.Unupdate(v)
 	}
 }

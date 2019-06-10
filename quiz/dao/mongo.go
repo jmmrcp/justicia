@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"justicia/quiz/config"
 	"justicia/quiz/models"
-	"log"
+	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
@@ -19,9 +19,10 @@ const (
 // Read Lee todos los registros de la base de datos
 func Read(records [][]string, view int, test int, cat string) ([][]string, error) {
 	var (
-		filter    bson.M
+		filter    bson.D
 		questions [][]string
 	)
+	today := time.Now()
 	//Open the db
 	db, err := config.GetMongoDB()
 	if err != nil {
@@ -30,32 +31,44 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 
 	// categoty filter
 	if cat != "" {
-		filter = bson.M{
-			"categoria": cat,
+		filter = bson.D{
+			{"categoria", cat},
 		}
 	}
 	// test filter
 	if test != 0 {
-		filter = bson.M{
-			"test": test,
+		filter = bson.D{
+			{"test", test},
 		}
 	} else {
 		// View filter
 		switch view {
 		case 1:
-			filter = bson.M{
-				"box": 1,
+			date := today.AddDate(0, 0, -7)
+			filter = bson.D{
+				{"fecha", bson.D{
+					{"$gt", date},
+				}},
+				{"box", 1},
 			}
 		case 2:
-			filter = bson.M{
-				"box": 2,
+			date := today.AddDate(0, 0, -14)
+			filter = bson.D{
+				{"fecha", bson.D{
+					{"$gt", date},
+				}},
+				{"box", 2},
 			}
 		case 3:
-			filter = bson.M{
-				"box": 3,
+			date := today.AddDate(0, 0, -28)
+			filter = bson.D{
+				{"fecha", bson.D{
+					{"$gt", date},
+				}},
+				{"box", 3},
 			}
 		default:
-			filter = bson.M{}
+			filter = bson.D{}
 		}
 	}
 
@@ -88,13 +101,18 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 func Update(id string) error {
 	v, err := primitive.ObjectIDFromHex(id)
 	if err != nil {
-		log.Fatal(err)
+		return err
 	}
+	fmt.Printf("ID: %v\n", v)
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
-
+	// Check the connection
+	err = db.Client().Ping(context.TODO(), nil)
+	if err != nil {
+		return err
+	}
 	filter := bson.M{
 		"_id": v,
 	}
@@ -102,13 +120,21 @@ func Update(id string) error {
 		{"$inc", bson.D{
 			{"box", 1},
 		}},
+		{"$set", bson.D{
+			{"fecha", time.Now()},
+		}},
 	}
 	c := db.Collection(COLLECTION)
-	s, err := c.UpdateOne(context.TODO(), filter, update)
+	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
 	if err != nil {
 		return err
 	}
-	fmt.Println(s.ModifiedCount)
+	fmt.Printf("Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
+	err = db.Client().Disconnect(context.TODO())
+	if err != nil {
+		return err
+	}
+	fmt.Println("Connection to MongoDB closed.")
 	return nil
 }
 
@@ -116,13 +142,18 @@ func Update(id string) error {
 func Unupdate(id string) error {
 	v, err := primitive.ObjectIDFromHex(id)
 	if err != nil {
-		log.Fatal(err)
+		return err
 	}
+	fmt.Printf("ID: %v\n", v)
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
-
+	// Check the connection
+	err = db.Client().Ping(context.TODO(), nil)
+	if err != nil {
+		return err
+	}
 	filter := bson.M{
 		"_id": v,
 	}
@@ -132,10 +163,15 @@ func Unupdate(id string) error {
 		}},
 	}
 	c := db.Collection(COLLECTION)
-	s, err := c.UpdateOne(context.TODO(), filter, update)
+	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
 	if err != nil {
 		return err
 	}
-	fmt.Println(s.ModifiedCount)
+	fmt.Printf("Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
+	err = db.Client().Disconnect(context.TODO())
+	if err != nil {
+		return err
+	}
+	fmt.Println("Connection to MongoDB closed.")
 	return nil
 }

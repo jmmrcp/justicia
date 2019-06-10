@@ -2,7 +2,6 @@ package db
 
 import (
 	"database/sql"
-	"fmt"
 	"os"
 	"strconv"
 	"time"
@@ -34,7 +33,6 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	//Make sure the file exists
 	_, err = os.Stat(path)
 	if os.IsNotExist(err) {
-		err = fmt.Errorf("file: %s does not exist", path)
 		return records, err
 	}
 	//Open the db
@@ -64,17 +62,17 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	} else {
 		switch view {
 		case 1:
-			rows, err = db.Query("SELECT * FROM semana")
+			rows, err = db.Query("SELECT * FROM semana > date('now', '-7 days'")
 			if err != nil {
 				return records, err
 			}
 		case 2:
-			rows, err = db.Query("SELECT * FROM quincena")
+			rows, err = db.Query("SELECT * FROM quincena > date('now', '-14 days'")
 			if err != nil {
 				return records, err
 			}
 		case 3:
-			rows, err = db.Query("SELECT * FROM mes")
+			rows, err = db.Query("SELECT * FROM mes > date ('now', '-28 days'")
 			if err != nil {
 				return records, err
 			}
@@ -114,7 +112,32 @@ func Update(id string) error {
 	if err != nil {
 		return err
 	}
-	_, err = db.Exec("UPDATE just SET box = ? WHERE id = ?", 1, i)
+	_, err = db.Exec("UPDATE just SET box = box + 1 WHERE id = ?", i)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+// Unupdate db
+func Unupdate(id string) error {
+
+	db, err = sql.Open("sqlite3", "data/data.db")
+	if err != nil {
+		return err
+	}
+	// test connection
+	err = db.Ping()
+	if err != nil {
+		return err
+	}
+	defer db.Close()
+
+	i, err := strconv.Atoi(id)
+	if err != nil {
+		return err
+	}
+	_, err = db.Exec("UPDATE just SET box = 0 WHERE id = ?", i)
 	if err != nil {
 		return err
 	}

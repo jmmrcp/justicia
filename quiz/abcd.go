@@ -24,7 +24,7 @@ var (
 func ABCDInit(g *gocui.Gui, q *questions.Question, count string) (err error) {
 	//Highlight the selected view and make it green
 	g.Highlight = true
-	g.SelFgColor = gocui.ColorYellow
+	g.SelFgColor = gocui.ColorGreen
 
 	as := q.Answers
 

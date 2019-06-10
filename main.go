@@ -30,13 +30,13 @@ var (
 func init() {
 	const (
 		defaultCat   = ""
-		usageCat     = "Category.\ndefault=none"
+		usageCat     = "Category\ndefault=none"
 		defaultTest  = 0
-		usageTest    = "Test Number.\ndefault=All."
+		usageTest    = "Test Number\ndefault=All"
 		defaultCount = 100
 		usageCount   = "Questions Number\ndefault=100"
 		defaultView  = 0
-		usageView    = "Question Marks\ndefault=1\n 1 - Daily\n 2 - Weekly \n 3 - Quincenally\n 4 - Monthly"
+		usageView    = "Question Marks\ndefault=1\n 0 - Daily\n 1 - Weekly \n 2 - Quincenally\n 3 - Monthly"
 		defaultPdf   = false
 		usagePdf     = "Generate a PDF with Test and Answers"
 	)
