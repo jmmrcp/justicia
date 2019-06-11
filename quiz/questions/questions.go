@@ -59,7 +59,7 @@ func (qs Questions) Shuffle() error {
 //Current -- returns the current question
 func (qs Questions) Current() (*Question, error) {
 	if len(qs.Questions) == 0 {
-		return &Question{"", answers.Answers{[]*answers.Answer{}}, "", ""}, fmt.Errorf("There are no questions")
+		return &Question{"", answers.Answers{Answers: []*answers.Answer{}}, "", ""}, fmt.Errorf("There are no questions")
 	}
 	return qs.Questions[qs.Index], nil
 }
@@ -128,18 +128,18 @@ func CreateQuestionsCSV(qs Questions, files []string) (Questions, error) {
 
 	for _, qData := range data {
 		l := len(qData)
-		as := answers.Answers{[]*answers.Answer{}}
+		as := answers.Answers{Answers: []*answers.Answer{}}
 
 		if l == 6 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[3], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[4], Correct: false})
 		} else if l == 4 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
 		} else if l == 3 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
 		}
 
 		//Shuffle the answers
@@ -165,18 +165,18 @@ func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions,
 
 	for _, qData := range data {
 		l := len(qData)
-		as := answers.Answers{[]*answers.Answer{}}
+		as := answers.Answers{Answers: []*answers.Answer{}}
 
 		if l == 7 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[3], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[4], Correct: false})
 		} else if l == 4 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
 		} else if l == 3 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
 		}
 
 		//Shuffle the answers
@@ -205,18 +205,18 @@ func CreateQuestionsDAO(qs Questions, view int, test int, cat string) (Questions
 
 	for _, qData := range data {
 		l := len(qData)
-		as := answers.Answers{[]*answers.Answer{}}
+		as := answers.Answers{Answers: []*answers.Answer{}}
 
 		if l == 7 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[3], false})
-			as.Answers = append(as.Answers, &answers.Answer{qData[4], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[3], Correct: false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[4], Correct: false})
 		} else if l == 4 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
-			as.Answers = append(as.Answers, &answers.Answer{qData[2], false})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
 		} else if l == 3 {
-			as.Answers = append(as.Answers, &answers.Answer{qData[1], true})
+			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
 		}
 
 		//Shuffle the answers

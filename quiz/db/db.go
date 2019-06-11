@@ -62,17 +62,17 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	} else {
 		switch view {
 		case 1:
-			rows, err = db.Query("SELECT * FROM semana > date('now', '-7 days'")
+			rows, err = db.Query("SELECT * FROM semana < date('now', '-7 days'")
 			if err != nil {
 				return records, err
 			}
 		case 2:
-			rows, err = db.Query("SELECT * FROM quincena > date('now', '-14 days'")
+			rows, err = db.Query("SELECT * FROM quincena < date('now', '-14 days'")
 			if err != nil {
 				return records, err
 			}
 		case 3:
-			rows, err = db.Query("SELECT * FROM mes > date ('now', '-28 days'")
+			rows, err = db.Query("SELECT * FROM mes < date ('now', '-28 days'")
 			if err != nil {
 				return records, err
 			}

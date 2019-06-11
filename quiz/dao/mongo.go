@@ -32,13 +32,17 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	// categoty filter
 	if cat != "" {
 		filter = bson.D{
-			{"categoria", cat},
+			primitive.E{
+				Key:   "categoria",
+				Value: cat},
 		}
 	}
 	// test filter
 	if test != 0 {
 		filter = bson.D{
-			{"test", test},
+			primitive.E{
+				Key:   "test",
+				Value: test},
 		}
 	} else {
 		// View filter
@@ -46,26 +50,49 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		case 1:
 			date := today.AddDate(0, 0, -7)
 			filter = bson.D{
-				{"fecha", bson.D{
-					{"$gt", date},
-				}},
-				{"box", 1},
+				primitive.E{
+					Key: "fecha",
+					Value: bson.D{
+						primitive.E{
+							Key:   "$lt",
+							Value: date},
+					}},
+				primitive.E{
+					Key:   "box",
+					Value: 1,
+				},
 			}
 		case 2:
 			date := today.AddDate(0, 0, -14)
 			filter = bson.D{
-				{"fecha", bson.D{
-					{"$gt", date},
-				}},
-				{"box", 2},
+				primitive.E{
+					Key: "fecha",
+					Value: bson.D{
+						primitive.E{
+							Key:   "$lt",
+							Value: date,
+						},
+					}},
+				primitive.E{
+					Key:   "box",
+					Value: 2,
+				},
 			}
 		case 3:
 			date := today.AddDate(0, 0, -28)
 			filter = bson.D{
-				{"fecha", bson.D{
-					{"$gt", date},
-				}},
-				{"box", 3},
+				primitive.E{
+					Key: "fecha",
+					Value: bson.D{
+						primitive.E{
+							Key:   "$lt",
+							Value: date,
+						},
+					}},
+				primitive.E{
+					Key:   "box",
+					Value: 3,
+				},
 			}
 		default:
 			filter = bson.D{}
@@ -117,12 +144,22 @@ func Update(id string) error {
 		"_id": v,
 	}
 	update := bson.D{
-		{"$inc", bson.D{
-			{"box", 1},
-		}},
-		{"$set", bson.D{
-			{"fecha", time.Now()},
-		}},
+		primitive.E{
+			Key: "$inc",
+			Value: bson.D{
+				primitive.E{
+					Key:   "box",
+					Value: 1,
+				},
+			}},
+		primitive.E{
+			Key: "$set",
+			Value: bson.D{
+				primitive.E{
+					Key:   "fecha",
+					Value: time.Now(),
+				},
+			}},
 	}
 	c := db.Collection(COLLECTION)
 	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
@@ -158,9 +195,14 @@ func Unupdate(id string) error {
 		"_id": v,
 	}
 	update := bson.D{
-		{"$set", bson.D{
-			{"box", 0},
-		}},
+		primitive.E{
+			Key: "$set",
+			Value: bson.D{
+				primitive.E{
+					Key:   "box",
+					Value: 0,
+				},
+			}},
 	}
 	c := db.Collection(COLLECTION)
 	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
