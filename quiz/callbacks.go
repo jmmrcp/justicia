@@ -21,11 +21,11 @@ func FillInAnswer(g *gocui.Gui, v *gocui.View) error {
 		return err
 	}
 
-	filledInAnswer := &answers.Answer{v.Buffer(), true}
+	filledInAnswer := &answers.Answer{Answer: v.Buffer(), Correct: true}
 
 	a := user.Answer{
-		cQuestion,
-		filledInAnswer,
+		Question: cQuestion,
+		Answer:   filledInAnswer,
 	}
 
 	//User answers -- The plus one is so the count starts at 1
@@ -58,8 +58,8 @@ func SelectAnswer(g *gocui.Gui, v *gocui.View) error {
 	selectedAnswer := AnswersToBoxViews[v.Name()]
 
 	a := user.Answer{
-		cQuestion,
-		selectedAnswer,
+		Question: cQuestion,
+		Answer:   selectedAnswer,
 	}
 
 	//User answers -- The plus one is so the count starts at 1
