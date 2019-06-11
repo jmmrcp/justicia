@@ -29,14 +29,6 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		return nil, err
 	}
 
-	// categoty filter
-	if cat != "" {
-		filter = bson.D{
-			primitive.E{
-				Key:   "categoria",
-				Value: cat},
-		}
-	}
 	// test filter
 	if test != 0 {
 		filter = bson.D{
@@ -96,6 +88,15 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 			}
 		default:
 			filter = bson.D{}
+		}
+	}
+
+	// categoty filter
+	if cat != "" {
+		filter = bson.D{
+			primitive.E{
+				Key:   "categoria",
+				Value: cat},
 		}
 	}
 

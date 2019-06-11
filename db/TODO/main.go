@@ -337,14 +337,3 @@ func listar(db *sql.DB) {
 	fmt.Printf("%v\n", data)
 	rows.Close()
 }
-
-func mlab() {
-	// user - jmmrcp
-	// pass - J538MTUSbg3v3Vh
-	// conect mongodb://<dbuser>:<dbpassword>@ds263876.mlab.com:63876/justicia
-
-	_, err := mgo.Dial("mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876/justicia")
-	if err != nil {
-		log.Fatal(err)
-	}
-}

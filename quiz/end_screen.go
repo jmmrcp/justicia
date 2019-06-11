@@ -3,6 +3,7 @@ package quiz
 import (
 	"fmt"
 	"justicia/quiz/dao"
+	"justicia/quiz/db"
 	"justicia/quiz/user"
 	"log"
 	"os"
@@ -23,7 +24,11 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	//End quiz when you run out of answers
 	if CurrentUserAnswer > len(UserAnswers) {
 		g.Close()
-		box()
+		if FileExists("data/data.db") {
+			boxDb()
+		} else {
+			boxDao()
+		}
 		os.Exit(0)
 	}
 
@@ -83,11 +88,29 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	return nil
 }
 
-func box() {
+func boxDao() {
 	for _, v := range C {
 		dao.Update(v)
 	}
 	for _, v := range I {
 		dao.Unupdate(v)
 	}
+}
+
+func boxDb() {
+	for _, v := range C {
+		db.Update(v)
+	}
+	for _, v := range I {
+		db.Unupdate(v)
+	}
+}
+
+// FileExists check filename
+func FileExists(filename string) bool {
+	_, err := os.Stat(filename)
+	if os.IsNotExist(err) {
+		return false
+	}
+	return true
 }

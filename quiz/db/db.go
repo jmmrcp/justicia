@@ -48,12 +48,6 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	defer db.Close()
 
 	//Read the database
-	if cat != "" {
-		rows, err = db.Query("SELECT * FROM just WHERE categoria = ?", cat)
-		if rows != nil {
-			return records, err
-		}
-	}
 	if test != 0 {
 		rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
 		if err != nil {
@@ -81,6 +75,12 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 			if err != nil {
 				return records, err
 			}
+		}
+	}
+	if cat != "" {
+		rows, err = db.Query("SELECT * FROM just WHERE categoria = ?", cat)
+		if rows != nil {
+			return records, err
 		}
 	}
 	//counter

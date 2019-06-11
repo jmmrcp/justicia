@@ -40,11 +40,11 @@ func init() {
 		defaultPdf   = false
 		usagePdf     = "Generate a PDF with Test and Answers"
 	)
-	flag.StringVar(&CAT, "Category_Type", defaultCat, usageCat)
-	flag.IntVar(&TEST, "Test_number", defaultTest, usageTest)
-	flag.IntVar(&COUNT, "Question_number", defaultCount, usageCount)
-	flag.IntVar(&VIEW, "Mark_number", defaultView, usageView)
-	flag.BoolVar(&PDFS, "PDF", defaultPdf, usagePdf)
+	// flag.StringVar(&CAT, "Category_Type", defaultCat, usageCat)
+	// flag.IntVar(&TEST, "Test_number", defaultTest, usageTest)
+	// flag.IntVar(&COUNT, "Question_number", defaultCount, usageCount)
+	// flag.IntVar(&VIEW, "Mark_number", defaultView, usageView)
+	// flag.BoolVar(&PDFS, "PDF", defaultPdf, usagePdf)
 	flag.StringVar(&CAT, "C", defaultCat, usageCat+" (shorthand)")
 	flag.IntVar(&TEST, "T", defaultTest, usageTest+" (shorthand)")
 	flag.IntVar(&COUNT, "Q", defaultCount, usageCount+" (shorthand)")
@@ -53,7 +53,7 @@ func init() {
 
 	flag.Usage = func() {
 		fmt.Printf("Usage of %s:\n", os.Args[0])
-		fmt.Printf("    justicia -C='LOPJ' -T=67 -Q=100 -M=1 -P=false...\n")
+		fmt.Printf("    justicia -C='CE' -T=4 -Q=100 -M=0 -P=false ...\n")
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
@@ -63,7 +63,6 @@ func init() {
 
 func main() {
 	// Parse the flags.
-
 	quiz.QuestionLimit = COUNT
 
 	//Get gui driver
@@ -74,7 +73,7 @@ func main() {
 	defer g.Close()
 
 	//Need to create questions
-	if fileExists("data/data.db") {
+	if quiz.FileExists("data/data.db") {
 		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, CAT)
 		if err != nil {
 			log.Fatal(err)
@@ -131,12 +130,4 @@ func downloadFile(filepath string, url string) error {
 	// Write the body to file
 	_, err = io.Copy(out, resp.Body)
 	return err
-}
-
-func fileExists(filename string) bool {
-	_, err := os.Stat(filename)
-	if os.IsNotExist(err) {
-		return false
-	}
-	return true
 }
