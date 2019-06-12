@@ -5,6 +5,8 @@ import (
 	"justicia/mlab/models/lite"
 	"justicia/mlab/models/online"
 
+	"go.mongodb.org/mongo-driver/bson/primitive"
+
 	"log"
 	"time"
 )
@@ -18,15 +20,15 @@ type (
 )
 
 func main() {
-	mlabdb, err := online.NewDB()
+	local, err := initializeSQL()
 	if err != nil {
 		log.Fatal(err)
 	}
-	questions, err := mlabdb.GetTest()
+	err = local.Update()
 	if err != nil {
 		log.Fatal(err)
 	}
-	list(questions)
+	fmt.Println("Base de datos MLabs actualizada.")
 }
 
 //Index lista todos los Datos
@@ -50,16 +52,19 @@ func (env *Env) Update() error {
 		return err
 	}
 	questions, err := env.db.All()
-
-	fmt.Printf("questions: %+v\n", len(questions))
-
 	if err != nil {
 		return err
 	}
 
+	fmt.Println("Borrando la Base de Datos.")
+	mlabdb.Collection("preguntas").Drop(nil)
+	fmt.Printf("Subiendo questions: %+v\n", len(questions))
+
 	for _, question := range questions {
 
 		mlab := new(online.Mlab)
+
+		mlab.ID = primitive.NewObjectID()
 		mlab.Categoria = question.Tema
 		mlab.Test = question.Test
 		mlab.Ord = question.Ord
@@ -125,4 +130,16 @@ func list(db []*online.Mlab) {
 		}
 		fmt.Println("Articulo: ", question.Articulo)
 	}
+}
+
+func nyFuck() {
+	mlabdb, err := online.NewDB()
+	if err != nil {
+		log.Fatal(err)
+	}
+	questions, err := mlabdb.GetTest()
+	if err != nil {
+		log.Fatal(err)
+	}
+	list(questions)
 }

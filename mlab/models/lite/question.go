@@ -20,7 +20,7 @@ type Question struct {
 
 // All funcion para recuperar todo el contenido de la BD.
 func (db *DB) All() ([]*Question, error) {
-	rows, err := db.Query("SELECT * FROM just")
+	rows, err := db.Query("SELECT * FROM just ORDER BY test;")
 	if err != nil {
 		return nil, err
 	}
