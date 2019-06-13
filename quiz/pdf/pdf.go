@@ -11,6 +11,7 @@ import (
 
 // Create a PDF Document
 func Create(q questions.Questions, n int) error {
+	num := strconv.Itoa(rand.Intn(100))
 	pdf := gofpdf.New("P", "mm", "A4", "")
 	pdfs := gofpdf.New("P", "mm", "A4", "")
 	pdf.SetTopMargin(15)
@@ -19,13 +20,13 @@ func Create(q questions.Questions, n int) error {
 	pdf.SetHeaderFuncMode(func() {
 		pdf.SetY(5)
 		pdf.SetFont("Arial", "B", 8)
-		pdf.CellFormat(0, 4, "REP-##", "B", 0, "R", false, 0, "")
+		pdf.CellFormat(0, 4, "REP - "+num, "B", 0, "R", false, 0, "")
 		pdf.Ln(5)
 	}, true)
 	pdfs.SetHeaderFuncMode(func() {
 		pdfs.SetY(5)
 		pdfs.SetFont("Arial", "B", 8)
-		pdfs.CellFormat(0, 4, "RESPUESTAS", "B", 0, "C", false, 0, "")
+		pdfs.CellFormat(0, 4, "RESPUESTAS REP - "+num, "B", 0, "C", false, 0, "")
 		pdfs.Ln(5)
 	}, true)
 
@@ -65,14 +66,15 @@ func Create(q questions.Questions, n int) error {
 			pdfs.SetFont("Arial", "", 10)
 			ok := q.Questions[i].Answers.Answers[j].Correct
 			answer := q.Questions[i].Answers.Answers[j].Answer
+			art := q.Questions[i].Explanation
 			pdf.MultiCell(0, 4, tr(fmt.Sprintf("%c) ", j+97)+answer), "", "", false)
 			if ok {
-				pdfs.MultiCell(0, 4, tr(fmt.Sprintf("%c) ", j+97)+answer), "", "", false)
+				pdfs.MultiCell(0, 4, tr(fmt.Sprintf("%c) ", j+97)+answer+" (ART: "+art+")"), "", "", false)
 			}
 		}
 	}
-	r := rand.New(rand.NewSource(99))
-	num := strconv.Itoa(r.Intn(100))
+	// r := rand.New(rand.NewSource(99))
+
 	err := pdf.OutputFileAndClose("Test - " + num + ".pdf")
 	if err != nil {
 		return err
