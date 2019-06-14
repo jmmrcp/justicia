@@ -84,7 +84,7 @@ func db(preguntas []string, respuestas []string, filename string) {
 
 	test, _ := strconv.Atoi(filename)
 
-	db, err = sql.Open("sqlite3", "data.db")
+	db, err = sql.Open("sqlite3", "data/data.db")
 	if err != nil {
 		panic(err)
 	}
@@ -227,13 +227,13 @@ END;
 		log.Fatal(err)
 	}
 
-	art, err := os.Open(filename + ".art")
+	art, err := os.Open("art/" + filename + ".art")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer art.Close()
 
-	sol, err := os.Open(filename + ".sol")
+	sol, err := os.Open("sol/" + filename + ".sol")
 	if err != nil {
 		log.Fatal(err)
 	}

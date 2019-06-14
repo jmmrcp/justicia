@@ -6,6 +6,7 @@ import (
 	"strconv"
 	"time"
 
+	// Sqlite 3 Import
 	_ "github.com/mattn/go-sqlite3"
 )
 
@@ -78,11 +79,12 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 		}
 	}
 	if cat != "" {
-		rows, err = db.Query("SELECT * FROM just WHERE categoria = ?", cat)
+		rows, err = db.Query("SELECT * FROM just WHERE tema = UPPER(?)", cat)
 		if rows != nil {
 			return records, err
 		}
 	}
+	defer rows.Close()
 	//counter
 	for rows.Next() {
 		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Box)
@@ -90,7 +92,6 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 		record := []string{Pregunta, Respuesta1, Respuesta2, Respuesta3, Respuesta4, Articulo, id}
 		records = append(records, record)
 	}
-	rows.Close()
 	return records, nil
 }
 
