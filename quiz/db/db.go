@@ -2,6 +2,7 @@ package db
 
 import (
 	"database/sql"
+	"fmt"
 	"os"
 	"strconv"
 	"time"
@@ -48,42 +49,51 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	}
 	defer db.Close()
 
+	sqlQuery := createQuery(test, view, cat)
+
 	//Read the database
-	if test != 0 {
-		rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
-		if err != nil {
-			return records, err
-		}
-	} else {
-		switch view {
-		case 1:
-			rows, err = db.Query("SELECT * FROM semana < date('now', '-7 days'")
-			if err != nil {
-				return records, err
-			}
-		case 2:
-			rows, err = db.Query("SELECT * FROM quincena < date('now', '-14 days'")
-			if err != nil {
-				return records, err
-			}
-		case 3:
-			rows, err = db.Query("SELECT * FROM mes < date ('now', '-28 days'")
-			if err != nil {
-				return records, err
-			}
-		default:
-			rows, err = db.Query("SELECT * FROM dia")
-			if err != nil {
-				return records, err
-			}
-		}
+
+	rows, err = db.Query(sqlQuery)
+	if err != nil {
+		return records, err
 	}
-	if cat != "" {
-		rows, err = db.Query("SELECT * FROM just WHERE tema = UPPER(?)", cat)
-		if rows != nil {
-			return records, err
-		}
-	}
+
+	// if test != 0 {
+	// 	rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
+	// 	if err != nil {
+	// 		return records, err
+	// 	}
+	// } else {
+	// 	switch view {
+	// 	case 1:
+	// 		rows, err = db.Query("SELECT * FROM semana < date('now', '-7 days'")
+	// 		if err != nil {
+	// 			return records, err
+	// 		}
+	// 	case 2:
+	// 		rows, err = db.Query("SELECT * FROM quincena < date('now', '-14 days'")
+	// 		if err != nil {
+	// 			return records, err
+	// 		}
+	// 	case 3:
+	// 		rows, err = db.Query("SELECT * FROM mes < date ('now', '-28 days'")
+	// 		if err != nil {
+	// 			return records, err
+	// 		}
+	// 	default:
+	// 		rows, err = db.Query("SELECT * FROM dia")
+	// 		if err != nil {
+	// 			return records, err
+	// 		}
+	// 	}
+	// }
+	// if cat != "" {
+	// 	rows, err = db.Query("SELECT * FROM just WHERE tema = UPPER(?)", cat)
+	// 	if rows != nil {
+	// 		return records, err
+	// 	}
+	// }
+
 	defer rows.Close()
 	//counter
 	for rows.Next() {
@@ -143,4 +153,33 @@ func Unupdate(id string) error {
 		return err
 	}
 	return nil
+}
+
+func createQuery(test, box int, tema string) string {
+	var sqlQuery string
+	t := strconv.Itoa(test)
+	if tema != "" {
+		sqlQuery = `SELECT * FROM just WHERE tema = UPPER(` + "\"" + tema + "\"" + `);`
+		fmt.Println(sqlQuery)
+		return sqlQuery
+	}
+	if test != 0 {
+		sqlQuery = `SELECT * FROM just WHERE test = ` + t + `;`
+		return sqlQuery
+	}
+	if box != 0 {
+		switch box {
+		case 1:
+			sqlQuery = `SELECT * FROM semana WHERE fecha < date('now', '-7 days');`
+			return sqlQuery
+		case 2:
+			sqlQuery = `SELECT * FROM quincena WHERE fecha < date('now', '-14 days');`
+			return sqlQuery
+		case 3:
+			sqlQuery = `SELECT * FROM mes WHERE fecha < date('now', '-28 days');`
+			return sqlQuery
+		}
+	}
+	sqlQuery = `SELECT * FROM dia;`
+	return sqlQuery
 }
