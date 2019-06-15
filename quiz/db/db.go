@@ -12,21 +12,33 @@ import (
 )
 
 var (
-	db         *sql.DB
-	ID         int
-	Test       int
-	Tema       string
-	Pregunta   string
+	db *sql.DB
+	// ID -> Identicador unico
+	ID int
+	// Test -> numero de Test
+	Test int
+	// Tema -> Categora de Test
+	Tema string
+	// Pregunta -> Pregunta de Test
+	Pregunta string
+	// Respuesta1 -> Respuesta correcta
 	Respuesta1 string
+	// Respuesta2 -> Respuesta falsa
 	Respuesta2 string
+	// Respuesta3 -> Otra falsa
 	Respuesta3 string
+	// Respuesta4 -> Otra de las respustas falsas
 	Respuesta4 string
-	Articulo   string
-	Ord        int
-	Fecha      time.Time
-	Box        int
-	err        error
-	rows       *sql.Rows
+	// Articulo -> Art. de la Ley donde se apoya la respuesta correcta
+	Articulo string
+	// Ord -> orden original en el Test para modificaciones
+	Ord int
+	// Fecha -> Fecha de inclusion -> modifacion / fecha de acierto o fallo
+	Fecha time.Time
+	// Box -> Contenedor de respuetas acertadas a 7, 14, 28 dias
+	Box  int
+	err  error
+	rows *sql.Rows
 )
 
 //Read -- Parses db file
