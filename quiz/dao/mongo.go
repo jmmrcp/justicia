@@ -235,14 +235,6 @@ func quick() ([][]string, error) {
 	pipeline := []bson.D{
 		primitive.D{
 			primitive.E{
-				Key: "$sample",
-				Value: primitive.D{
-					primitive.E{
-						Key:   "size",
-						Value: 10,
-					}}}},
-		primitive.D{
-			primitive.E{
 				Key: "$match",
 				Value: primitive.D{
 					primitive.E{
@@ -252,7 +244,19 @@ func quick() ([][]string, error) {
 				},
 			},
 		},
+		primitive.D{
+			primitive.E{
+				Key: "$sample",
+				Value: primitive.D{
+					primitive.E{
+						Key:   "size",
+						Value: 100,
+					},
+				},
+			},
+		},
 	}
+
 	cursor, err := c.Aggregate(ctx, pipeline)
 	if err != nil {
 		return nil, err
