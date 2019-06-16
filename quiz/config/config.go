@@ -12,8 +12,8 @@ const (
 	COLLECTION = "preguntas"
 )
 
-// GetMongoDB concecta a la base de datos en MLab
-func GetMongoDB() (*mongo.Database, error) {
+// GetMlabDB concecta a la base de datos en MLab
+func GetMlabDB() (*mongo.Database, error) {
 	ctx := context.Background()
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI("mongodb://jmmrcp:J538MTUSbg3v3Vh@ds263876.mlab.com:63876/justicia"),
@@ -25,5 +25,37 @@ func GetMongoDB() (*mongo.Database, error) {
 		return nil, err
 	}
 	db := client.Database("justicia")
+	return db, nil
+}
+
+// GetMongoDB concecta a la base de datos en Mongo
+func GetMongoDB() (*mongo.Database, error) {
+	ctx := context.Background()
+	client, err := mongo.NewClient(
+		options.Client().ApplyURI("mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
+	)
+	if err != nil {
+		return nil, err
+	}
+	if err := client.Connect(ctx); err != nil {
+		return nil, err
+	}
+	db := client.Database("justicia")
+	return db, nil
+}
+
+// GetCleverDB concecta a la base de datos en Mongo
+func GetCleverDB() (*mongo.Database, error) {
+	ctx := context.Background()
+	client, err := mongo.NewClient(
+		options.Client().ApplyURI("mongodb://u2mnmnnqwwiu6tr0ugs9:4uYFMYouheqLOLnCeipb@bhmydkfk8yl7h0i-mongodb.services.clever-cloud.com:27017/bhmydkfk8yl7h0i"),
+	)
+	if err != nil {
+		return nil, err
+	}
+	if err := client.Connect(ctx); err != nil {
+		return nil, err
+	}
+	db := client.Database("bhmydkfk8yl7h0i")
 	return db, nil
 }

@@ -87,7 +87,8 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 				},
 			}
 		default:
-			filter = bson.D{}
+			//filter = bson.D{}
+			return quick()
 		}
 	}
 
@@ -217,4 +218,57 @@ func Unupdate(id string) error {
 	}
 	fmt.Println("Connection to MongoDB closed.")
 	return nil
+}
+
+func quick() ([][]string, error) {
+	var (
+		questions [][]string
+	)
+	//Open the db
+	db, err := config.GetMongoDB()
+	if err != nil {
+		return nil, err
+	}
+	// Cursor Results
+	c := db.Collection(COLLECTION)
+	ctx := context.TODO()
+	pipeline := []bson.D{
+		primitive.D{
+			primitive.E{
+				Key: "$sample",
+				Value: primitive.D{
+					primitive.E{
+						Key:   "size",
+						Value: 10,
+					}}}},
+		primitive.D{
+			primitive.E{
+				Key: "$match",
+				Value: primitive.D{
+					primitive.E{
+						Key:   "box",
+						Value: 0,
+					},
+				},
+			},
+		},
+	}
+	cursor, err := c.Aggregate(ctx, pipeline)
+	if err != nil {
+		return nil, err
+	}
+	defer cursor.Close(ctx)
+	// Next result
+	for cursor.Next(ctx) {
+		var m *models.Mlab
+		if err := cursor.Decode(&m); err != nil {
+			return nil, err
+		}
+		q := m.Parse()
+		questions = append(questions, q)
+	}
+	if err := cursor.Err(); err != nil {
+		return nil, err
+	}
+	return questions, nil
 }
