@@ -192,6 +192,6 @@ func createQuery(test, box int, tema string) string {
 			return sqlQuery
 		}
 	}
-	sqlQuery = `SELECT * FROM dia;`
+	sqlQuery = `SELECT * FROM dia ORDER BY random() LIMIT 100;`
 	return sqlQuery
 }
