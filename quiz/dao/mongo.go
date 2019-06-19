@@ -24,7 +24,7 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	)
 	today := time.Now()
 	//Open the db
-	db, err := config.GetMlabDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
@@ -133,7 +133,7 @@ func Update(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
-	db, err := config.GetMlabDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
@@ -184,7 +184,7 @@ func Unupdate(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
-	db, err := config.GetMlabDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
@@ -225,7 +225,7 @@ func quick() ([][]string, error) {
 		questions [][]string
 	)
 	//Open the db
-	db, err := config.GetMlabDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
