@@ -32,7 +32,7 @@ func GetMlabDB() (*mongo.Database, error) {
 func GetMongoDB() (*mongo.Database, error) {
 	ctx := context.Background()
 	client, err := mongo.NewClient(
-		options.Client().ApplyURI("mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
+		options.Client().ApplyURI("mongodb+srv://justicia:1234567890@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
 	)
 	if err != nil {
 		return nil, err
