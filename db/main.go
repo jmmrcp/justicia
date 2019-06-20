@@ -72,13 +72,19 @@ func quest(line string) {
 
 func db(preguntas []string, respuestas []string, filename string) {
 	var (
-		db  *sql.DB
-		err error
+		db    *sql.DB
+		err   error
+		letra string
+		R1    string
+		R2    string
+		R3    string
+		R4    string
+		A1    string
 	)
 
 	test, _ := strconv.Atoi(filename)
 
-	db, err = sql.Open("sqlite3", "data.db")
+	db, err = sql.Open("sqlite3", "data/data.db")
 	if err != nil {
 		panic(err)
 	}
@@ -221,22 +227,62 @@ END;
 		log.Fatal(err)
 	}
 
-	art, err := os.Open(filename + ".art")
+	art, err := os.Open("art/" + filename + ".art")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer art.Close()
 
+	sol, err := os.Open("sol/" + filename + ".sol")
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer sol.Close()
+
 	articulos := bufio.NewScanner(art)
+	soluciones := bufio.NewScanner(sol)
 
 	for i, P := range preguntas {
 		articulos.Scan()
-		p := i * 4
-		R1 := respuestas[p]
-		R2 := respuestas[p+1]
-		R3 := respuestas[p+2]
-		R4 := respuestas[p+3]
-		A1 := articulos.Text()
+		soluciones.Scan()
+
+		solucion := strings.Split(soluciones.Text(), ". ")
+		if len(solucion) > 1 {
+			letra = solucion[1]
+		} else {
+			letra = solucion[0]
+		}
+
+		switch letra {
+		case "A":
+			p := i * 4
+			R1 = respuestas[p]
+			R2 = respuestas[p+1]
+			R3 = respuestas[p+2]
+			R4 = respuestas[p+3]
+			A1 = articulos.Text()
+		case "B":
+			p := i * 4
+			R1 = respuestas[p+1]
+			R2 = respuestas[p]
+			R3 = respuestas[p+2]
+			R4 = respuestas[p+3]
+			A1 = articulos.Text()
+		case "C":
+			p := i * 4
+			R1 = respuestas[p+2]
+			R2 = respuestas[p+1]
+			R3 = respuestas[p]
+			R4 = respuestas[p+3]
+			A1 = articulos.Text()
+		case "D":
+			p := i * 4
+			R1 = respuestas[p+3]
+			R2 = respuestas[p+1]
+			R3 = respuestas[p+2]
+			R4 = respuestas[p]
+			A1 = articulos.Text()
+		}
 		_, err = db.Exec(`
     INSERT INTO just (
 			test,
