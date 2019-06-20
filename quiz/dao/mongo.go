@@ -24,10 +24,13 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	)
 	today := time.Now()
 	//Open the db
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
+	defer db.Client().Disconnect(ctx)
 
 	// test filter
 	if test != 0 {
@@ -103,7 +106,6 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 
 	// Cursor Results
 	c := db.Collection(COLLECTION)
-	ctx := context.TODO()
 	cursor, err := c.Find(ctx, filter)
 	if err != nil {
 		return nil, err
@@ -122,7 +124,6 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	if err := cursor.Err(); err != nil {
 		return nil, err
 	}
-
 	return questions, nil
 }
 
@@ -133,12 +134,14 @@ func Update(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
 	// Check the connection
-	err = db.Client().Ping(context.TODO(), nil)
+	err = db.Client().Ping(ctx, nil)
 	if err != nil {
 		return err
 	}
@@ -164,12 +167,12 @@ func Update(id string) error {
 			}},
 	}
 	c := db.Collection(COLLECTION)
-	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
+	updateResult, err := c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
 	fmt.Printf("Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
-	err = db.Client().Disconnect(context.TODO())
+	err = db.Client().Disconnect(ctx)
 	if err != nil {
 		return err
 	}
@@ -184,12 +187,14 @@ func Unupdate(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
 	// Check the connection
-	err = db.Client().Ping(context.TODO(), nil)
+	err = db.Client().Ping(ctx, nil)
 	if err != nil {
 		return err
 	}
@@ -207,12 +212,12 @@ func Unupdate(id string) error {
 			}},
 	}
 	c := db.Collection(COLLECTION)
-	updateResult, err := c.UpdateOne(context.TODO(), filter, update)
+	updateResult, err := c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
 	fmt.Printf("Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
-	err = db.Client().Disconnect(context.TODO())
+	err = db.Client().Disconnect(ctx)
 	if err != nil {
 		return err
 	}
@@ -225,13 +230,14 @@ func quick() ([][]string, error) {
 		questions [][]string
 	)
 	//Open the db
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
 	// Cursor Results
 	c := db.Collection(COLLECTION)
-	ctx := context.TODO()
 	pipeline := []bson.D{
 		primitive.D{
 			primitive.E{
