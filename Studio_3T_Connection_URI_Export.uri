@@ -1,0 +1,5 @@
+// Connections Exported from Studio 3T -- https://studio3t.com/
+// Exported on 20-jun-2019 8:53:58
+
+// Justice-shard-0
+mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/admin?replicaSet=Justice-shard-0&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1&3t.uriVersion=3&3t.connection.name=Justice-shard-0&3t.databases=admin,test
