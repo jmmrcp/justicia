@@ -23,14 +23,6 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		questions [][]string
 	)
 	today := time.Now()
-	//Open the db
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-	db, err := config.GetMongoDB()
-	if err != nil {
-		return nil, err
-	}
-	defer db.Client().Disconnect(ctx)
 
 	// test filter
 	if test != 0 {
@@ -104,6 +96,19 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		}
 	}
 
+	//Open the db
+	db, err := config.GetMongoDB()
+	if err != nil {
+		return nil, err
+	}
+	ctx, cancel := context.WithTimeout(db.Context, 2*time.Second)
+	defer cancel()
+
+	err = db.Client.Ping(ctx, nil)
+	if err != nil {
+		return nil, err
+	}
+
 	// Cursor Results
 	c := db.Collection(COLLECTION)
 	cursor, err := c.Find(ctx, filter)
@@ -124,6 +129,9 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	if err := cursor.Err(); err != nil {
 		return nil, err
 	}
+	if err = db.Client.Disconnect(ctx); err != nil {
+		return nil, err
+	}
 	return questions, nil
 }
 
@@ -134,17 +142,7 @@ func Update(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-	db, err := config.GetMongoDB()
-	if err != nil {
-		return err
-	}
-	// Check the connection
-	err = db.Client().Ping(ctx, nil)
-	if err != nil {
-		return err
-	}
+
 	filter := bson.M{
 		"_id": v,
 	}
@@ -166,13 +164,26 @@ func Update(id string) error {
 				},
 			}},
 	}
+	db, err := config.GetMongoDB()
+	if err != nil {
+		return err
+	}
+	ctx, cancel := context.WithTimeout(db.Context, 1*time.Second)
+	defer cancel()
+
+	// Check the connection
+	err = db.Client.Ping(ctx, nil)
+	if err != nil {
+		return err
+	}
+
 	c := db.Collection(COLLECTION)
 	updateResult, err := c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
 	fmt.Printf("Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
-	err = db.Client().Disconnect(ctx)
+	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
@@ -187,17 +198,7 @@ func Unupdate(id string) error {
 		return err
 	}
 	fmt.Printf("ID: %v\n", v)
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-	db, err := config.GetMongoDB()
-	if err != nil {
-		return err
-	}
-	// Check the connection
-	err = db.Client().Ping(ctx, nil)
-	if err != nil {
-		return err
-	}
+
 	filter := bson.M{
 		"_id": v,
 	}
@@ -211,13 +212,28 @@ func Unupdate(id string) error {
 				},
 			}},
 	}
+
+	db, err := config.GetMongoDB()
+	if err != nil {
+		return err
+	}
+
+	ctx, cancel := context.WithTimeout(db.Context, 1*time.Second)
+	defer cancel()
+
+	// Check the connection
+	err = db.Client.Ping(ctx, nil)
+	if err != nil {
+		return err
+	}
+
 	c := db.Collection(COLLECTION)
 	updateResult, err := c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
 	fmt.Printf("Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
-	err = db.Client().Disconnect(ctx)
+	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
@@ -229,13 +245,16 @@ func quick() ([][]string, error) {
 	var (
 		questions [][]string
 	)
+
 	//Open the db
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
 	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
+
+	ctx, cancel := context.WithTimeout(db.Context, 5*time.Second)
+	defer cancel()
+
 	// Cursor Results
 	c := db.Collection(COLLECTION)
 	pipeline := []bson.D{
@@ -268,6 +287,7 @@ func quick() ([][]string, error) {
 		return nil, err
 	}
 	defer cursor.Close(ctx)
+
 	// Next result
 	for cursor.Next(ctx) {
 		var m *models.Mlab
@@ -278,6 +298,9 @@ func quick() ([][]string, error) {
 		questions = append(questions, q)
 	}
 	if err := cursor.Err(); err != nil {
+		return nil, err
+	}
+	if err = db.Client.Disconnect(ctx); err != nil {
 		return nil, err
 	}
 	return questions, nil

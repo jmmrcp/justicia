@@ -13,6 +13,15 @@ const (
 	COLLECTION = "preguntas"
 )
 
+type (
+	// DB information
+	DB struct {
+		*mongo.Database
+		*mongo.Client
+		context.Context
+	}
+)
+
 // GetMlabDB concecta a la base de datos en MLab
 func GetMlabDB() (*mongo.Database, error) {
 	// ctx := context.Background()
@@ -32,10 +41,10 @@ func GetMlabDB() (*mongo.Database, error) {
 }
 
 // GetMongoDB concecta a la base de datos en Mongo
-func GetMongoDB() (*mongo.Database, error) {
-	// ctx := context.Background()
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
+func GetMongoDB() (*DB, error) {
+	ctx := context.Background()
+	// ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	// defer cancel()
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI("mongodb://jmmrcpsip:SK0umjgZr0qxTS3b@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"),
 	)
@@ -46,7 +55,7 @@ func GetMongoDB() (*mongo.Database, error) {
 		return nil, err
 	}
 	db := client.Database("justicia")
-	return db, nil
+	return &DB{db, client, ctx}, nil
 }
 
 // GetCleverDB concecta a la base de datos en Mongo
