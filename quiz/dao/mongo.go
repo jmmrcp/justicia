@@ -29,7 +29,12 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		filter = bson.D{
 			primitive.E{
 				Key:   "test",
-				Value: test},
+				Value: test,
+			},
+			primitive.E{
+				Key:   "box",
+				Value: 0,
+			},
 		}
 	} else {
 		// View filter

@@ -2,7 +2,6 @@ package db
 
 import (
 	"database/sql"
-	"fmt"
 	"os"
 	"strconv"
 	"time"
@@ -172,7 +171,6 @@ func createQuery(test, box int, tema string) string {
 	t := strconv.Itoa(test)
 	if tema != "" {
 		sqlQuery = `SELECT * FROM just WHERE tema = UPPER(` + "\"" + tema + "\"" + `);`
-		fmt.Println(sqlQuery)
 		return sqlQuery
 	}
 	if test != 0 {
