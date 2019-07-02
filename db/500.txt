@@ -41,10 +41,10 @@ b) Unidad Procesal de Apoyo Directo.
 c) Juzgado decano.
 d) Unidad Administrativa.
 
-8) Corresponde a los funcionarios del Cuerpo de Tramitación Procesa| Y Administrativa:
-a) La tramitación general de los procedimientos, mediante el empleo de los medios mecánicos U ofimáticos que corresponda
+8) Corresponde a los funcionarios del Cuerpo de Tramitación Procesal y Administrativa:
+a) La tramitación general de los procedimientos, mediante el empleo de los medios mecánicos u ofimáticos que corresponda
 b) Expedir, con conocimiento del Letrado de la Administración de Justicia, y a costa del interesado, copias simples de escritos y documentos que consten en autos no declarados secretos m reservados.
-c) Realizar las funciones de archivo de 3Ut05 Y expedientes judiciales, bajo la supervisión del Letrado de la Administración de Justicia.
+c) Realizar las funciones de archivo de autos y expedientes judiciales, bajo la supervisión del Letrado de la Administración de Justicia.
 d) Documentar los embargos, lanzamientos y demás actos cuya naturaleza lo requiera con el carácter y representación que le atribuyan las leyes.
 
 9) La jubilación forzosa de los funcionarios de carrera del Cuerpo de Gestión Procesal y Administrativa, se declarará:
@@ -152,7 +152,7 @@ d) Bienes no inmatriculados.
 26) Para tomar parte en la subasta de bienes muebles los licitadores deberán cumplir uno de los siguientes requisitos:
 a) Hacer pujas por encima del 5% del valor de los bienes.
 b) Ser ejecutante o ejecutado sin someterse a requisito alguno.
-c) Identificarse de forma suficiente. *
+c) Identificarse de forma suficiente.
 d) Haber consignado el 15% del valor de los bienes.
 
 27) Cuando la mejor postura ofrecida en la subasta de bienes inmuebles sea inferior al 70 por ciento del avalúo:
@@ -183,7 +183,7 @@ d) Sólo será necesaria la intervención de abogado.
 a) En el plazo de diez días siguientes al requerimiento de pago.
 b) Dentro de los cinco primeros días del requerimiento de pago.
 c) En los quince días siguientes al requerimiento de pago.
-d) En los diez días siguientes al requerimiento de pago, Siempre Que este hubiere sido atendido por el deudor cambiario.
+d) En los diez días siguientes al requerimiento de pago, siempre que este hubiere sido atendido por el deudor cambiario.
 
 32) En la oposición cambiaria, si ninguna de las partes solicitara la celebración de la vista:
 a) El tribunal resolverá siempre y sin más trámites la oposición.
@@ -212,7 +212,7 @@ d) Resolverá la jurisdicción contencioso-administrativa.
 36) De conformidad con la UV, será competente para conocer de los actos de conciliación:
 a) El Juez de Paz.
 b) Solo los Letrados de la Administración de Justicia.
-c) El Juzgado de Primera Instancia 0 de lo Mercantil, a elección del demandante.
+c) El Juzgado de Primera Instancia o de lo Mercantil, a elección del demandante.
 d) En todo caso, el Letrado de la Administración de Justicia del domicilio del demandante.
 
 37) Según la LJV, si el requerido de conciliación no compareciere ni alegare justa causa para no concurrir, se pondrá fin al acto, teniendo la conciliación por:
@@ -332,10 +332,10 @@ d) La responsabilidad patrimonial de las Administraciones Públicas.
 56) No pueden interponer recurso contencioso-administrativo contra la actividad de una Administración Pública:
 a) El Ministerio Fiscal.
 b) Las personas físicas o jurídicas que ostenten un derecho o interés legítimo.
-c) Los miembros de los órganos colegiados de la Administración Pública re5pecto a la actividad de la propia administración de la que dependen.
+c) Los miembros de los órganos colegiados de la Administración Pública respecto a la actividad de la propia administración de la que dependen.
 d) Las corporaciones.
 
-57) Según lo dispuesto en el artículo 50 de la UCA, la Administración se entenderá emplazada por:
+57) Según lo dispuesto en el artículo 50 de la LJCA, la Administración se entenderá emplazada por:
 a) La reclamación del expediente.
 b) El envío del expediente.
 c) Su personación ante el Tribunal.
@@ -353,7 +353,7 @@ b) Más de cinco actores.
 c) Más de tres actores.
 d) Más de tres actores y menos de diez.
 
-60) Según lo dispuesto en el artículo 74 de la US, los jueces y tribunales del orden jurisdiccional social interpretarán las normas reguladoras del proceso social ordinario según los principios de:
+60) Según lo dispuesto en el artículo 74 de la LJS, los jueces y tribunales del orden jurisdiccional social interpretarán las normas reguladoras del proceso social ordinario según los principios de:
 a) Inmediación, oralidad, concentración y celeridad.
 b) Inmediación, oralidad, eficiencia y celeridad.
 c) Inmediación, oralidad, concentración y eficacia.
@@ -445,9 +445,9 @@ d) Diligencias de ordenación.
 
 75) Con carácter general, el contenido necesario de una providencia, además de su fecha y firma, es:
 a) Exclusivamente, la determinación de lo mandado.
-b) La determinación de lo mandado y del Juez 0 Tribunal que las disponga.
-c) La determinación de lo mandado, del Juez 0 Tribunal que las disponga y una sucinta fundamentación jurídica.
-d) Una fundamentación jurídica en párrafos separados y numerados de hechos y razonamientos jurídicos, además de los datos del Juez 0 Tribunal que la dicta.
+b) La determinación de lo mandado y del Juez o Tribunal que las disponga.
+c) La determinación de lo mandado, del Juez o Tribunal que las disponga y una sucinta fundamentación jurídica.
+d) Una fundamentación jurídica en párrafos separados y numerados de hechos y razonamientos jurídicos, además de los datos del Juez o Tribunal que la dicta.
 
 76) Con carácter general, la resolución que resuelve una cuestión incidental adopta la forma de:
 a) Providencia.
@@ -486,10 +486,10 @@ c) Se remitirán siempre mediante auxilio judicial.
 d) Ninguna es correcta.
 
 82) Para la práctica de todas las diligencias que fueren necesarias para la sustanciación de las causas criminales:
-a) Se requerirá el auxilio de las fuerzas de seguridad…
-b) Se requerirá el auxilio de los funcionarios del juzgado º tribunal.
-c) Los jueces y tribunales se auxiliarán mutuamente Y se llevarán a efecto en el plazo máximo de sesenta días.
-d) Los jueces Y tribunales se auxiliarán mutuamente
+a) Se requerirá el auxilio de las fuerzas de seguridad.
+b) Se requerirá el auxilio de los funcionarios del juzgado o tribunal.
+c) Los jueces y tribunales se auxiliarán mutuamente y se llevarán a efecto en el plazo máximo de sesenta días.
+d) Los jueces y tribunales se auxiliarán mutuamente
 
 83) De conformidad con el artículo 195 de la LECrim, en caso de urgencia, la comunicación de un juez a una autoridad o funcionario que no estuvieran bajo sus órdenes inmediatas podrá hacerse:
 a) Verbalmente, haciéndolo constar en la causa.
@@ -503,7 +503,7 @@ b) Petición verbal.
 c) Mandamiento.
 d) Cédula.
 
-85) Una vez cumplimentado un exh3rto, el juzgado exhortado lo devolverá sin demora:
+85) Una vez cumplimentado un exhorto, el juzgado exhortado lo devolverá sin demora:
 a) Por correo certificado.
 b) En la misma forma en que lo hubiere recibido o en que se le hubiese presentado.
 c) Por fax, en todo caso.
@@ -549,7 +549,7 @@ d) El procurador de la parte interesada.
 a) El Letrado de la Administración de Justicia.
 b) Los funcionarios del Cuerpo de Tramitación Procesal y Administrativa, exclusivamente.
 c) Los procuradores, en todo caso.
-d) Los funcionarios del Cuerpo de Auxilio Judicial 0 por procurador de la parte que lo solicite.
+d) Los funcionarios del Cuerpo de Auxilio Judicial o por procurador de la parte que lo solicite.
 
 93) Las notificaciones, citaciones y emplazamientos por correo en el proceso penal se entenderán practicados en la fecha:
 a) En que el destinatario haga constar su recepción en el acuse de recibo.
@@ -563,7 +563,7 @@ b) La parte que haya de ser notificada no tenga obligación de comunicarse elect
 c) El acto vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.
 d) Ninguna es correcta.
 
-95) De conformidad con el artículo 1de la LRC, se inscribirán en el Registro Civil los hechos concernientes:
+95) De conformidad con el artículo 1 de la LRC, se inscribirán en el Registro Civil los hechos concernientes:
 a) A las circunstancias personales que determine la ley.
 b) Al estado personal de las personas.
 c) AI estado civil de las personas y aquellos otros que determina la Ley.

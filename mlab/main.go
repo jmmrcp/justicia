@@ -16,8 +16,9 @@ type (
 	Env struct {
 		db lite.Datastore
 	}
-	allDB struct{}
 )
+
+var allDB []interface{}
 
 func main() {
 	local, err := initializeSQL()
@@ -57,7 +58,7 @@ func (env *Env) Update() error {
 	}
 
 	fmt.Println("Borrando la Base de Datos.")
-	mlabdb.Collection("preguntas").Drop(nil)
+	// mlabdb.Collection("preguntas").Drop(nil)
 	fmt.Printf("Subiendo questions: %+v\n", len(questions))
 
 	for _, question := range questions {
@@ -79,11 +80,22 @@ func (env *Env) Update() error {
 		mlab.Fecha = time.Now()
 		mlab.Box = question.Box
 
-		err = mlabdb.InsertOne(&mlab)
-		if err != nil {
-			return err
-		}
+		allDB = append(allDB, mlab)
 	}
+	// err = mlabdb.InsertOne(&mlab)
+	// if err != nil {
+	// 	return err
+	// }
+
+	// trainers := []interface{}{misty, brock}
+
+	err = mlabdb.InsertMany(allDB)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println("Inserted multiple documents: ")
+
 	return nil
 }
 
