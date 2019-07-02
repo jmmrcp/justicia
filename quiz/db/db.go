@@ -174,7 +174,7 @@ func createQuery(test, box int, tema string) string {
 		return sqlQuery
 	}
 	if test != 0 {
-		sqlQuery = `SELECT * FROM just WHERE test = ` + t + `AND box = 0;`
+		sqlQuery = `SELECT * FROM just WHERE test = ` + t + ` AND box = 0;`
 		return sqlQuery
 	}
 	if box != 0 {

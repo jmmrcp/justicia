@@ -35,9 +35,6 @@ func main() {
 	}
 	defer file.Close()
 
-	fmt.Printf("Categoria del Test: ")
-	fmt.Scanf("%s", &t)
-
 	scanner := bufio.NewScanner(file)
 
 	for scanner.Scan() {
@@ -47,11 +44,16 @@ func main() {
 	p := len(preguntas)
 	r := len(respuestas)
 
+	fmt.Println("Numero de Preguntas del test: ", p)
+
 	if r/p == 4 {
 		fmt.Println("Proceso correcto.")
 	} else {
 		os.Exit(1)
 	}
+
+	fmt.Printf("Categoria del Test: ")
+	fmt.Scanf("%s", &t)
 
 	db(preguntas, respuestas, filename)
 }
