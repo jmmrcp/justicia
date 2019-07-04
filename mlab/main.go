@@ -58,7 +58,7 @@ func (env *Env) Update() error {
 	}
 
 	fmt.Println("Borrando la Base de Datos.")
-	// mlabdb.Collection("preguntas").Drop(nil)
+	mlabdb.Collection("preguntas").Drop(nil)
 	fmt.Printf("Subiendo questions: %+v\n", len(questions))
 
 	for _, question := range questions {

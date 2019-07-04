@@ -92,7 +92,7 @@ func main() {
 
   //Create PDF
   if PDFS {
-    err = pdf.Create(quiz.Questions, COUNT)
+    err = pdf.Create(quiz.Questions, COUNT, TEST)
     if err != nil {
       log.Fatal(err)
     }

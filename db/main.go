@@ -45,7 +45,7 @@ func main() {
 	r := len(respuestas)
 
 	fmt.Println("Numero de Preguntas del test: ", p)
-
+	
 	if r/p == 4 {
 		fmt.Println("Proceso correcto.")
 	} else {

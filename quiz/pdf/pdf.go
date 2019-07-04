@@ -10,8 +10,11 @@ import (
 )
 
 // Create a PDF Document
-func Create(q questions.Questions, n int) error {
+func Create(q questions.Questions, n int, t int) error {
 	num := strconv.Itoa(rand.Intn(100))
+	if t != 0 {
+		num = strconv.Itoa(t)
+	}
 	pdf := gofpdf.New("P", "mm", "A4", "")
 	pdfs := gofpdf.New("P", "mm", "A4", "")
 	pdf.SetTopMargin(15)
