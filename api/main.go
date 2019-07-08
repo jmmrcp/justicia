@@ -2,6 +2,10 @@ package main
 
 import (
 	"context"
+	"justicia/api/app/handlers"
+	"justicia/api/app/middlewares"
+	"justicia/api/config/logging"
+	"justicia/api/config/services"
 	"net/http"
 	"os"
 	"os/signal"
@@ -10,10 +14,6 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/sarulabs/di"
-	"github.com/sarulabs/di-example/app/handlers"
-	"github.com/sarulabs/di-example/app/middlewares"
-	"github.com/sarulabs/di-example/config/logging"
-	"github.com/sarulabs/di-example/config/services"
 )
 
 func main() {
@@ -51,15 +51,15 @@ func main() {
 		)
 	}
 
-	r.HandleFunc("/cars", m(handlers.GetCarListHandler)).Methods("GET")
-	r.HandleFunc("/cars", m(handlers.PostCarHandler)).Methods("POST")
-	r.HandleFunc("/cars/{carId}", m(handlers.GetCarHandler)).Methods("GET")
-	r.HandleFunc("/cars/{carId}", m(handlers.PutCarHandler)).Methods("PUT")
-	r.HandleFunc("/cars/{carId}", m(handlers.DeleteCarHandler)).Methods("DELETE")
+	r.HandleFunc("/quizzes", m(handlers.GetQuizListHandler)).Methods("GET")
+	// r.HandleFunc("/cars", m(handlers.PostCarHandler)).Methods("POST")
+	r.HandleFunc("/quizzes/{quizId}", m(handlers.GetQuizHandler)).Methods("GET")
+	r.HandleFunc("/quizzes/{quizId}", m(handlers.PutQuizHandler)).Methods("PUT")
+	// r.HandleFunc("/cars/{carId}", m(handlers.DeleteCarHandler)).Methods("DELETE")
 
 	srv := &http.Server{
 		Handler:      r,
-		Addr:         "0.0.0.0:" + os.Getenv("SERVER_PORT"),
+		Addr:         "127.0.0.1:8080", // + os.Getenv("SERVER_PORT"),
 		WriteTimeout: 15 * time.Second,
 		ReadTimeout:  15 * time.Second,
 	}

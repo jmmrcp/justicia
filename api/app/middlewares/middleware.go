@@ -2,9 +2,9 @@ package middlewares
 
 import (
 	"fmt"
+	"justicia/api/app/models/helpers"
 	"net/http"
 
-	"github.com/sarulabs/di-example/app/models/helpers"
 	"go.uber.org/zap"
 )
 

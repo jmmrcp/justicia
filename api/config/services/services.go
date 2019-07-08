@@ -1,14 +1,14 @@
 package services
 
 import (
+	"justicia/api/app/models/oposicion"
+	"justicia/api/config/logging"
 	"os"
 	"time"
 
 	"github.com/sarulabs/di"
-	"github.com/sarulabs/di-example/app/models/garage"
-	"github.com/sarulabs/di-example/config/logging"
 	"go.uber.org/zap"
-	mgo "gopkg.in/mgo.v2"
+	"gopkg.in/mgo.v2"
 )
 
 // Services contains the definitions of the application services.
@@ -43,20 +43,20 @@ var Services = []di.Def{
 		},
 	},
 	{
-		Name:  "car-repository",
+		Name:  "quiz-repository",
 		Scope: di.Request,
 		Build: func(ctn di.Container) (interface{}, error) {
-			return &garage.CarRepository{
+			return &oposicion.QuizRepository{
 				Session: ctn.Get("mongo").(*mgo.Session),
 			}, nil
 		},
 	},
 	{
-		Name:  "car-manager",
+		Name:  "quiz-manager",
 		Scope: di.Request,
 		Build: func(ctn di.Container) (interface{}, error) {
-			return &garage.CarManager{
-				Repo:   ctn.Get("car-repository").(*garage.CarRepository),
+			return &oposicion.QuizManager{
+				Repo:   ctn.Get("quiz-repository").(*oposicion.QuizRepository),
 				Logger: ctn.Get("logger").(*zap.Logger),
 			}, nil
 		},
