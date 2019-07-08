@@ -1,25 +1,20 @@
 package oposicion
 
-type qArr struct {
-	question string
-	option1  string
-	option2  string
-	option3  string
-	option4  string
-	answer   int
-}
-type subQuiz struct {
-	name      string
-	questions int
-	time      int
-	score     bool
-	title     string
-	qArray    []qArr
-}
-type Quiz struct {
-	ID          string
-	name        string
-	image       string
-	description string
-	subQuizzes  []subQuiz
-}
+import (
+	"time"
+)
+
+type (
+	// Quiz schema Mongo DB
+	Quiz struct {
+		ID         string    `bson:"_id" json:"id"`
+		Categoria  string    `bson:"categoria" json:"categoria"`
+		Test       int       `bson:"test" json:"test"`
+		Ord        int       `bson:"ord" json:"ord"`
+		Pregunta   string    `bson:"pregunta" json:"pregunta"`
+		Respuestas []string  `bson:"respuestas" json:"respuestas"`
+		Articulo   string    `bson:"articulo" json:"articulo"`
+		Fecha      time.Time `bson:"fecha" json:"fecha"`
+		Box        int       `bson:"box" json:"box"`
+	}
+)

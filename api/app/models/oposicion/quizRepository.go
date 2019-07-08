@@ -9,7 +9,7 @@ type QuizRepository struct {
 }
 
 func (repo *QuizRepository) collection() *mgo.Collection {
-	return repo.Session.DB("justicia").C("quizzes")
+	return repo.Session.DB("justicia").C("preguntas")
 }
 
 func (repo *QuizRepository) FindAll() ([]*Quiz, error) {
