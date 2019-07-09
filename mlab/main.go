@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"justicia/mlab/models/lite"
 	"justicia/mlab/models/online"
+	"strings"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
@@ -66,8 +67,10 @@ func (env *Env) Update() error {
 		mlab := new(online.Mlab)
 
 		mlab.ID = primitive.NewObjectID()
-		mlab.Categoria = question.Tema
 		mlab.Test = question.Test
+		mlab.Categoria = question.Categoria
+		mlab.Tema = strings.Split(question.Tema, ",")
+		mlab.Titulo = question.Titulo
 		mlab.Ord = question.Ord
 		mlab.Pregunta = question.Pregunta
 		mlab.Respuestas = []string{

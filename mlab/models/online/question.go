@@ -15,8 +15,10 @@ type (
 	// Mlab schema Mongo DB
 	Mlab struct {
 		ID         primitive.ObjectID `bson:"_id" json:"id"`
-		Categoria  string             `bson:"categoria" json:"categoria"`
 		Test       int                `bson:"test" json:"test"`
+		Categoria  string             `bson:"categoria" json:"categoria"`
+		Tema       []string           `bson:"tema" json:"tema"`
+		Titulo     string             `bson:"titulo" json:"titulo,"`
 		Ord        int                `bson:"ord" json:"ord"`
 		Pregunta   string             `bson:"pregunta" json:"pregunta"`
 		Respuestas []string           `bson:"respuestas" json:"respuestas"`
@@ -105,10 +107,7 @@ func (db *DB) InsertOne(data interface{}) error {
 	if err != nil {
 		return err
 	}
-	fmt.Printf(
-		"new question created with id: %s\n",
-		res.InsertedID.(primitive.ObjectID).Hex(),
-	)
+	fmt.Printf("new question created with id: %s\n", res.InsertedID.(primitive.ObjectID).Hex())
 	return nil
 }
 
@@ -121,9 +120,6 @@ func (db *DB) InsertMany(data []interface{}) error {
 	if err != nil {
 		return err
 	}
-	fmt.Printf(
-		"new questions created with ids: %s\n",
-		res.InsertedIDs,
-	)
+	fmt.Printf("new questions created with ids: %s\n", res.InsertedIDs)
 	return nil
 }

@@ -6,7 +6,9 @@ import "time"
 type Question struct {
 	ID         int
 	Test       int
+	Categoria  string
 	Tema       string
+	Titulo     string
 	Pregunta   string
 	Respuesta1 string
 	Respuesta2 string
@@ -32,7 +34,9 @@ func (db *DB) All() ([]*Question, error) {
 		err := rows.Scan(
 			&question.ID,
 			&question.Test,
+			&question.Categoria,
 			&question.Tema,
+			&question.Titulo,
 			&question.Pregunta,
 			&question.Respuesta1,
 			&question.Respuesta2,

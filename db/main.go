@@ -16,20 +16,36 @@ import (
 var (
 	preguntas  []string
 	respuestas []string
-	spc        string
-	t          string
+	info       []string
 )
 
 func main() {
-
-	//Check passed in files
-	if len(os.Args) < 2 {
-		fmt.Println("Please set a file name.")
-		return
+	file, err := os.Open("test.nfo")
+	if err != nil {
+		log.Fatal(err)
 	}
-	filename := os.Args[1]
+	defer file.Close()
+	scanner := bufio.NewScanner(file)
+	for scanner.Scan() {
+		line := scanner.Text()
+		if len(line) < 1 {
+			fmt.Printf("%q\n", info)
+			txt(info)
+			info = nil
+			preguntas = nil
+			respuestas = nil
+		} else {
+			info = append(info, line)
+		}
+	}
 
-	file, err := os.Open(filename + ".txt")
+}
+func txt(info []string) {
+	var (
+		filename = info[0]
+		total, _ = strconv.Atoi(info[4])
+	)
+	file, err := os.Open("txt/" + filename + ".txt")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -45,17 +61,13 @@ func main() {
 	r := len(respuestas)
 
 	fmt.Println("Numero de Preguntas del test: ", p)
-	
-	if r/p == 4 {
+
+	if r/p == 4 && p == total {
 		fmt.Println("Proceso correcto.")
 	} else {
 		os.Exit(1)
 	}
-
-	fmt.Printf("Categoria del Test: ")
-	fmt.Scanf("%s", &t)
-
-	db(preguntas, respuestas, filename)
+	db(preguntas, respuestas)
 }
 
 func quest(line string) {
@@ -72,19 +84,23 @@ func quest(line string) {
 	}
 }
 
-func db(preguntas []string, respuestas []string, filename string) {
+func db(preguntas []string, respuestas []string) {
 	var (
-		db    *sql.DB
-		err   error
-		letra string
-		R1    string
-		R2    string
-		R3    string
-		R4    string
-		A1    string
+		filename = info[0]
+		C        = info[1]
+		T        = info[2]
+		TI       = info[3]
+		db       *sql.DB
+		err      error
+		letra    string
+		R1       string
+		R2       string
+		R3       string
+		R4       string
+		A1       string
 	)
 
-	test, _ := strconv.Atoi(filename)
+	TE, _ := strconv.Atoi(filename)
 
 	db, err = sql.Open("sqlite3", "data/data.db")
 	if err != nil {
@@ -107,9 +123,10 @@ func db(preguntas []string, respuestas []string, filename string) {
 		id         INTEGER NOT NULL
 						   PRIMARY KEY AUTOINCREMENT
 						   UNIQUE,
-		test       INTEGER NOT NULL
-							 DEFAULT 1,
+		test       INTEGER NOT NULL,
+		categoria	 TEXT		 NOT NULL,
 		tema			 TEXT		 NOT NULL,
+		titulo		 TEXT		 NOT NULL,
 		pregunta   TEXT    NOT NULL,
 		respuesta1 TEXT    NOT NULL,
 		respuesta2 TEXT    NOT NULL,
@@ -288,7 +305,9 @@ END;
 		_, err = db.Exec(`
     INSERT INTO just (
 			test,
-      tema, 
+			categoria,
+			tema,
+			titulo, 
       pregunta, 
       respuesta1, 
       respuesta2, 
@@ -297,7 +316,7 @@ END;
 			articulo,
 			ord
       ) 
-      VALUES (?,?,?,?,?,?,?,?,?)`, test, &t, P, R1, R2, R3, R4, A1, i+1)
+      VALUES (?,?,?,?,?,?,?,?,?,?,?)`, TE, C, T, TI, P, R1, R2, R3, R4, A1, i+1)
 		if err != nil {
 			log.Fatal(err)
 		}
