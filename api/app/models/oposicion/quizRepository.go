@@ -2,6 +2,7 @@ package oposicion
 
 import (
 	"gopkg.in/mgo.v2"
+	"gopkg.in/mgo.v2/bson"
 )
 
 type QuizRepository struct {
@@ -19,7 +20,8 @@ func (repo *QuizRepository) FindAll() ([]*Quiz, error) {
 }
 func (repo *QuizRepository) FindByID(id string) (*Quiz, error) {
 	var quiz *Quiz
-	err := repo.collection().FindId(id).One(&quiz)
+	i := bson.ObjectIdHex(id)
+	err := repo.collection().FindId(i).One(&quiz)
 	return quiz, err
 }
 func (repo *QuizRepository) Update(quiz *Quiz) error {

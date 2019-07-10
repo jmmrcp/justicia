@@ -52,14 +52,14 @@ func main() {
 	}
 
 	r.HandleFunc("/quizzes", m(handlers.GetQuizListHandler)).Methods("GET")
+	r.HandleFunc("/quizz/{quizId}", m(handlers.GetQuizHandler)).Methods("GET")
+	r.HandleFunc("/quizz/{quizId}", m(handlers.PutQuizHandler)).Methods("PUT")
 	// r.HandleFunc("/cars", m(handlers.PostCarHandler)).Methods("POST")
-	r.HandleFunc("/quizzes/{quizId}", m(handlers.GetQuizHandler)).Methods("GET")
-	r.HandleFunc("/quizzes/{quizId}", m(handlers.PutQuizHandler)).Methods("PUT")
 	// r.HandleFunc("/cars/{carId}", m(handlers.DeleteCarHandler)).Methods("DELETE")
 
 	srv := &http.Server{
 		Handler:      r,
-		Addr:         "0.0.0.0:" + os.Getenv("SERVER_PORT"),
+		Addr:         getPort(),
 		WriteTimeout: 15 * time.Second,
 		ReadTimeout:  15 * time.Second,
 	}
@@ -87,4 +87,11 @@ func main() {
 	if err := srv.Shutdown(ctx); err != nil {
 		logging.Logger.Error(err.Error())
 	}
+}
+func getPort() string {
+	p := os.Getenv("PORT")
+	if p != "" {
+		return ":" + p
+	}
+	return ":8080"
 }

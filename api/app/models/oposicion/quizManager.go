@@ -4,6 +4,7 @@ import (
 	"justicia/api/app/models/helpers"
 
 	"go.uber.org/zap"
+	"gopkg.in/mgo.v2/bson"
 )
 
 type QuizManager struct {
@@ -40,7 +41,7 @@ func (m *QuizManager) Get(id string) (*Quiz, error) {
 }
 func (m *QuizManager) Update(id string, quiz *Quiz) (*Quiz, error) {
 
-	quiz.ID = id
+	quiz.ID = bson.ObjectId(id)
 
 	err := m.Repo.Update(quiz)
 
