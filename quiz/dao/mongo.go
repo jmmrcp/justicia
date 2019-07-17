@@ -32,14 +32,15 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		case 3:
 			Filter = StageThree
 		default:
-			return Quick()
+			if cat != "" {
+				Filter = Category(cat)
+			} else {
+				return Quick()
+			}
 		}
 	}
 
 	// categoty filter
-	if cat != "" {
-		Filter = Category(cat)
-	}
 
 	//Open the db
 	db, err := config.GetMongoDB()

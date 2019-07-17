@@ -10,8 +10,10 @@ type (
 	// Mlab Schema MLabs database
 	Mlab struct {
 		ID         primitive.ObjectID `bson:"_id" json:"id"`
-		Categoria  string             `bson:"categoria" json:"categoria"`
 		Test       int                `bson:"test" json:"test"`
+		Categoria  string             `bson:"categoria" json:"categoria"`
+		Tema       []string           `bson:"tema" json:"tema"`
+		Titulo     string             `bson:"titulo" json:"titulo,"`
 		Ord        int                `bson:"ord" json:"ord"`
 		Pregunta   string             `bson:"pregunta" json:"pregunta"`
 		Respuestas []string           `bson:"respuestas" json:"respuestas"`
