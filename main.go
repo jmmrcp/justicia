@@ -63,8 +63,8 @@ func init() {
 
 func main() {
 	// Parse the flags.
-	quiz.QuestionLimit = COUNT
 	CAT = strings.ToUpper(CAT)
+	quiz.QuestionLimit = COUNT
 
 	//Get gui driver
 	g, err := gocui.NewGui(gocui.OutputNormal)

@@ -2,7 +2,6 @@ package dao
 
 import (
 	"context"
-	"fmt"
 	"justicia/quiz/config"
 	"justicia/quiz/models"
 	"time"
@@ -100,16 +99,17 @@ func Update(id string) error {
 	}
 
 	c := db.Collection(COLLECTION)
-	updateResult, err := c.UpdateOne(ctx, filter, update)
+	//updateResult
+	_, err = c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
-	fmt.Printf("Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
+	// fmt.Printf("Correct Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
-	fmt.Println("Connection to MongoDB closed.")
+	//fmt.Println("Connection to MongoDB closed.")
 	return nil
 }
 
@@ -134,15 +134,16 @@ func Unupdate(id string) error {
 	}
 
 	c := db.Collection(COLLECTION)
-	updateResult, err := c.UpdateOne(ctx, filter, update)
+	// updateResult
+	_, err = c.UpdateOne(ctx, filter, update)
 	if err != nil {
 		return err
 	}
-	fmt.Printf("Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
+	// fmt.Printf("Wrong Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
-	fmt.Println("Connection to MongoDB closed.")
+	// fmt.Println("Connection to MongoDB closed.")
 	return nil
 }

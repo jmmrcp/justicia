@@ -15,7 +15,7 @@ var (
 	//UserAnswers -- Global container for UserAnswers
 	UserAnswers = user.Answers{}
 	//QuestionLimit -- Limits the number of questions that are shown to the user
-	QuestionLimit = 0
+	QuestionLimit = 3
 	// CurrentUserAnswer -- index for user answers
 	CurrentUserAnswer = 1
 )

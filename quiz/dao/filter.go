@@ -44,7 +44,7 @@ var (
 		primitive.E{
 			Key: "$set",
 			Value: bson.D{
-				stage(0),
+				actual(),
 			}},
 	}
 	// Wrong update a incorrect Question
@@ -88,6 +88,13 @@ func stage(week int) primitive.E {
 				Key:   "$lt",
 				Value: stages[week],
 			}}}
+}
+
+func actual() primitive.E {
+	return primitive.E{
+		Key:   "fecha",
+		Value: today,
+	}
 }
 
 func pipe(box, stage primitive.E) bson.D {
