@@ -25,36 +25,45 @@ var (
 	// CAT Categoria
 	CAT string
 	// PDFS Imprime o no
-	PDFS bool
+	PDFS    bool
+	version string
+	date    string
 )
 
 func init() {
 	const (
 		defaultCat   = ""
-		usageCat     = "Category\ndefault=none"
+		usageCat     = "Category.\ndefault = none."
 		defaultTest  = 0
-		usageTest    = "Test Number\ndefault=All"
-		defaultCount = 100
-		usageCount   = "Questions Number\ndefault=100"
+		usageTest    = "Test Number.\ndefault = All."
+		defaultCount = 10
+		usageCount   = "Questions Number.\ndefault = 10."
 		defaultView  = 0
-		usageView    = "Question Marks\ndefault=1\n 0 - Daily\n 1 - Weekly \n 2 - Quincenally\n 3 - Monthly"
+		usageView    = "Question Marks.\ndefault = 0.\n  0 - Daily.\n  1 - Weekly.\n  2 - Quincenally.\n  3 - Monthly."
 		defaultPdf   = false
-		usagePdf     = "Generate a PDF with Test and Answers"
+		usagePdf     = "Generate a PDF with Test and Answers."
 	)
+	if version == "" {
+		version = "no version"
+	}
+	if date == "" {
+		date = "(Mon YYYY)"
+	}
 	// flag.StringVar(&CAT, "Category_Type", defaultCat, usageCat)
 	// flag.IntVar(&TEST, "Test_number", defaultTest, usageTest)
 	// flag.IntVar(&COUNT, "Question_number", defaultCount, usageCount)
 	// flag.IntVar(&VIEW, "Mark_number", defaultView, usageView)
 	// flag.BoolVar(&PDFS, "PDF", defaultPdf, usagePdf)
-	flag.StringVar(&CAT, "C", defaultCat, usageCat+" (shorthand)")
-	flag.IntVar(&TEST, "T", defaultTest, usageTest+" (shorthand)")
-	flag.IntVar(&COUNT, "Q", defaultCount, usageCount+" (shorthand)")
-	flag.IntVar(&VIEW, "M", defaultView, usageView+" (shorthand)")
-	flag.BoolVar(&PDFS, "P", defaultPdf, usagePdf+" (shorthand)")
+	flag.StringVar(&CAT, "C", defaultCat, usageCat)
+	flag.IntVar(&TEST, "T", defaultTest, usageTest)
+	flag.IntVar(&COUNT, "Q", defaultCount, usageCount)
+	flag.IntVar(&VIEW, "M", defaultView, usageView)
+	flag.BoolVar(&PDFS, "P", defaultPdf, usagePdf)
 
 	flag.Usage = func() {
-		fmt.Printf("Usage of %s:\n", os.Args[0])
-		fmt.Printf("    justicia -C='CE' -T=4 -Q=100 -M=0 -P=false ...\n")
+		fmt.Printf("justicia version %s %s\n", version, date)
+		fmt.Printf("Usage of %s:\n\n", os.Args[0])
+		fmt.Printf("    justicia -C=CE -T=4 -Q=10 -M=0 -P=false ... (by default)\n\n")
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
