@@ -1,5 +1,5 @@
-version=1.2.8
-date=$(shell date "+(%b %Y)")
+version=3.1.18
+date=$(shell date "+(%d %B %Y)")
 exec=justicia
 
 .PHONY: all
