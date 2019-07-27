@@ -75,3 +75,21 @@ func GetCleverDB() (*mongo.Database, error) {
 	db := client.Database("bhmydkfk8yl7h0i")
 	return db, nil
 }
+
+// GetAtlasDB concecta a la base de datos en Mongo
+func GetAtlasDB() (*DB, error) {
+	ctx := context.Background()
+	// ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	// defer cancel()
+	client, err := mongo.NewClient(
+		options.Client().ApplyURI("mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
+	)
+	if err != nil {
+		return nil, err
+	}
+	if err := client.Connect(ctx); err != nil {
+		return nil, err
+	}
+	db := client.Database("justicia")
+	return &DB{db, client, ctx}, nil
+}

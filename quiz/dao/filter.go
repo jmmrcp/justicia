@@ -133,12 +133,12 @@ func Category(category string) bson.D {
 func Quick() ([][]string, error) {
 
 	//Open the db
-	db, err := config.GetMongoDB()
+	db, err := config.GetAtlasDB()
 	if err != nil {
 		return nil, err
 	}
 
-	ctx, cancel := context.WithTimeout(db.Context, 5*time.Second)
+	ctx, cancel := context.WithTimeout(db.Context, 10*time.Second)
 	defer cancel()
 
 	// Cursor Results

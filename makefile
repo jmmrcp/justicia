@@ -15,7 +15,7 @@ all:
 build: clean
 	@go build -v -o ${exec}
 
-build_version: check_version
+build_version: clean
 	@go build -v -ldflags='-s -w -X "main.version=${version}" -X "main.date=${date}"' -o ${exec}
 
 clean:

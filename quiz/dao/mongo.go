@@ -42,11 +42,11 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 	// categoty filter
 
 	//Open the db
-	db, err := config.GetMongoDB()
+	db, err := config.GetAtlasDB()
 	if err != nil {
 		return nil, err
 	}
-	ctx, cancel := context.WithTimeout(db.Context, 2*time.Second)
+	ctx, cancel := context.WithTimeout(db.Context, 10*time.Second)
 	defer cancel()
 
 	err = db.Client.Ping(ctx, nil)
@@ -85,11 +85,11 @@ func Update(id string) error {
 
 	filter := IDs(id)
 	update := Correct
-	db, err := config.GetMongoDB()
+	db, err := config.GetAtlasDB()
 	if err != nil {
 		return err
 	}
-	ctx, cancel := context.WithTimeout(db.Context, 1*time.Second)
+	ctx, cancel := context.WithTimeout(db.Context, 2*time.Second)
 	defer cancel()
 
 	// Check the connection
@@ -119,12 +119,12 @@ func Unupdate(id string) error {
 	filter := IDs(id)
 	update := Wrong
 
-	db, err := config.GetMongoDB()
+	db, err := config.GetAtlasDB()
 	if err != nil {
 		return err
 	}
 
-	ctx, cancel := context.WithTimeout(db.Context, 1*time.Second)
+	ctx, cancel := context.WithTimeout(db.Context, 2*time.Second)
 	defer cancel()
 
 	// Check the connection
