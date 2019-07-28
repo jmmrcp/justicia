@@ -138,7 +138,7 @@ func Quick() ([][]string, error) {
 		return nil, err
 	}
 
-	ctx, cancel := context.WithTimeout(db.Context, 10*time.Second)
+	ctx, cancel := context.WithTimeout(db.Context, 3*time.Second)
 	defer cancel()
 
 	// Cursor Results
