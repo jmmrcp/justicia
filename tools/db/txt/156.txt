@@ -1,0 +1,587 @@
+1) Según la Ley del régimen jurídico del Sector Público, la creación, modificación o supresión en los Departamentos Ministeriales de órganos inferiores a Subdirección General se determinará por:
+a) Resolución de la Subsecretaría del Departamento Ministerial en el que se crea el órgano
+b) Resolución de la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones
+c) Orden ministerial del Ministro de Hacienda y Administraciones Públicas
+d) Orden ministerial del Departamento afectado, previa autorización del Ministro de Hacienda y Administraciones Públicas. 
+
+2) Según LSP, los Subdirectores Generales: 
+a) Serán nombrados y cesados por el Director General del que dependan
+b) Serán nombrados por el Consejo de Ministros
+c) Serán nombrados y cesados por el Subsecretario del que dependan
+d) Serán nombrados y cesados, en todo caso, por el Ministro o Secretario de Estado del que dependan.
+
+3) Según LSP, dentro de la organización central de la Administración General del Estado, son órganos directivos: 
+a) Los Secretarios de Estado y Subsecretarios
+b) Los Subsecretarios y Secretarios Generales
+c) Los Delegados del Gobierno y Subdirectores Generales
+d) Los Secretarios Generales Técnicos y Secretarios de Estado
+
+4) Según LSP, en las Comunidades Autónomas uniprovinciales: 
+a) Existirá siempre un Subdelegación del Gobierno
+b) Podrán crearse por Real Decreto-Ley Subdelegaciones del Gobierno, teniendo en cuenta la población del territorio, el volumen de gestión o su singularidades geográficas, sociales o económicas
+c) Podrán crearse por Real Decreto Subdelegaciones del Gobierno, teniendo en cuenta la población del territorio, el volumen de gestión o sus singularidades geográficas, sociales o económicas
+d) No existirá, en ningún caso, Subdelegación del Gobierno
+
+5) Según la Ley 59/2003, de firma electrónica, el certificado electrónico es un documento: 
+a) Generado electrónicamente por un prestador de servicios de certificación que vincula unos datos de verificación de firma a un firmante y confirme su identidad
+b) Firmado electrónicamente por un prestador de servicios de certificación que vincula unos datos de verificación de firma a un firmante y confirma su identidad
+c) Generado electrónicamente por un prestador de servicios de certificación que no vincula los datos de verificación de firma a un firmante y confirma su identidad
+d) Firmado electrónicamente por un prestador de servicios de certificación que no vincula los datos de verificación de firma a un firmante y no necesita confirmar su identidad 
+
+6) Real Decreto 1065/2015, sobre comunicaciones electrónicas en la Administración de Justicia en el ámbito territorial del Ministerio de Justicia y por el que se regula el sistema LexNET, es de fecha: 
+a) 27 de noviembre de 2015
+b) 27 de diciembre de 2015
+c) 28 de noviembre de 2015
+d) 28 de diciembre de 2015
+
+7) Según la Ley del régimen jurídico del Sector Público, establece que a los Subdelegados del Gobierno les corresponde: 
+a) Elevar con carácter anual, un informe al Gobierno, a través del Ministro de Hacienda y Administraciones Públicas, sobre el funcionamiento de los servicios públicos estatales y su evaluación global.
+b) Suspender la ejecución de actos impugnados dictados por los órganos de la Delegación del Gobierno, cuando le corresponda resolver el recurso, y proponer la suspensión en los restantes casos, así como respecto de los actos impugnados dictados por los servicios no integrados en la Delegación del Gobierno
+c) Formular a los Ministerios competentes, en cada caso, las propuestas que estime convenientes sobre los objetivos contenidos en los planes y programas que hayan de ejecutar los servicios territoriales y los de sus Organismos Públicos, e informar, regular y periódicamente, a los Ministerios competentes sobre la gestión de sus servicios territoriales.
+d) Desempeñar las funciones de comunicación, colaboración y cooperación con las Corporaciones locales, y en particular, informar sobre la incidencia en el territorio de los programas de financiación estatal.
+
+8) Según LSP, ¿a qué órgano directivo corresponde desempeñar la jefatura superior de todo el personal del Departamento?: 
+a) A los Ministros
+b) A los Secretarios Generales
+c) A los Subsecretarios
+d) A los Directores Generales
+
+9) Según LSP, los Secretarios Generales con rango de Subsecretario son: 
+a) Órganos directivos de existencia extraordinaria, sin el carácter excepcional, en la Administración General del Estado
+b) Órganos directivos de existencia ordinaria en la Administración General del Estado
+c) Órganos directivos de existencia excepcional en la Administración General del Estado
+d) Órganos superiores de existencia excepcional en la Administración General del Estado
+
+10) Señale la respuesta correcta en relación a la regulación de los órganos superiores y directivos de la Administración General del Estado que realiza la LSP: 
+a) Los órganos de nivel inferior a Subdirección General se crean, modifican o suprimen por orden ministerial, previa autorización del Ministro de Hacienda y Administraciones Públicas
+b) La determinación del número, la denominación y el ámbito de competencia de las Secretarías de Estado se establece mediante Real Decreto del Consejo de Ministros
+c) Las Subdirecciones Generales están necesariamente adscritas a una Dirección General
+d) Las Secretarías Generales con rango de Subsecretaria se crean, modifican y suprimen por Real Decreto del Presidente del Gobierno.
+
+11) Según la LSP, los Delegados del Gobierno en las Comunidades Autónomas: 
+a) Representan al Gobierno en el territorio de la Provincia
+b) Representan al Gobierno en el territorio de la Comunidad Autónoma
+c) No existen en las Comunidades Autónomas uniprovinciales
+d) Son órganos de la Administración periférica de existencia excepcional
+
+12) La Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público dispone que, en la organización central, los órganos directivos: 
+a) Se ordenan jerárquicamente entre sí de la siguiente forma: Secretario de Estado, Director General y Subdirector general.
+b) Son los Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales
+c) No tienen la condición de alto cargo
+d) Se crean, modifican y suprimen por Orden del Ministro respectivo, previa autorización del Ministerio de Hacienda y Función Pública.
+
+13) Los Subdelegados del Gobierno en cada provincia son nombrados por: 
+a) El Ministro de la Presidencia
+b) El Ministro de Hacienda y Administraciones Públicas
+c) El Delegado del Gobierno de su respectiva Comunidad Autónoma
+d) El Consejo de Ministros
+
+14) Los Directores Insulares son nombrados: 
+a) Mediante Real Decreto del Consejo de Ministros, a propuesta del Delegado del Gobierno
+b) Mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de la Presidencia
+c) Mediante Orden del Ministro de la Presidencia
+d) Mediante Resolución del Delegado del Gobierno
+
+15) La estructura básica de la Oficina Judicial estará basada en los principios de: 
+a) Dependencia jerárquica, división de tareas y concentración
+b) Jerarquía, coordinación y cooperación
+c) Jerarquía, división de funciones y coordinación
+d) Jerarquía, eficacia y racionalización del trabajo
+
+16) Los puestos de trabajo de la Oficina Judicial se ordenarán de acuerdo a lo establecido en: 
+a) Las relaciones de puestos de trabajo
+b) Los centros de destino
+c) Las unidades procesales de apoyo directo al juez y en los servicios comunes procesales
+d) La especialización de puestos singularizados y genéricos
+
+17) ¿Quién determinará las dotaciones básicas de las unidades procesales de apoyo directo?: 
+a) El Consejo General del Poder Judicial, previo informe del Ministerio de Justicia y de las Comunidades Autónomas con competencias asumidas
+b) El Gobierno, previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas con competencias asumidas
+c) El Ministerio de Justicia, previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas con competencias asumidas
+d) El Ministerio de Justicia, y en su caso las Comunidades Autónomas con competencias asumidas, previo informe del Consejo General del Poder Judicial
+
+18) Podrán solicitar la creación de servicios comunes, conforme a las específicas necesidades:
+a) El Ministerio de Justicia.
+b) El Ministerio de Justicia y las Comunidades Autónomas en sus respectivos territorios
+c) El Juez Decano.
+d) La Sala de Gobierno y las Juntas de Jueces.
+
+19) ¿Quién dirigirá un Servicio Común Procesal?
+a) Un Magistrado.
+b) Quien se determine reglamentariamente.
+c) Un Letrado de la Administración de Justicia.
+d) El Juez decano.
+
+20) Según la LOPJ, se entiende por unidades administrativas aquellas que:
+a) Estando integradas en la Oficina Judicial, se constituye para la jefatura, ordenación y gestión de los recursos humanos de la Oficina Judicial.
+b) Sin estar integrada en la Oficina Judicial, se constituyen para la jefatura, ordenación y gestión de los recursos materiales de la oficina judicial.
+c) Estando integradas en la Oficina judicial, se constituyen para la jefatura, ordenación y gestión de los recursos materiales de la Oficina Judicial.
+d) Sin estar integrada en la Oficina Judicial, se constituyen para la jefatura, ordenación y gestión de los recursos humanos de la Oficina Judicial
+
+21) Según la LOPJ, la Oficina Judicial funcionará con criterios de:
+a) Agilidad, eficacia y eficiencia
+b) Coordinación, desconcentración y cooperación entre administraciones
+c) Racionalización de la gestión, y responsabilidad por el trabajo
+d) Todas son ciertas
+
+22) Según la LOPJ, en atención a sus funciones se distinguirán dos tipos de unidades:
+a) Unidades procesales de apoyo directo y unidades de servicios comunes procesales
+b) Unidades procesales de apoyo directo y servicios comunes procesales
+c) Unidades de tramitación y unidades de apoyo
+d) Unidades procesales y unidades administrativas
+
+23) Según la LOPJ, las unidades procesales de apoyo directo contarán con:
+a) Dos Letrados de la Administración de Justicia
+b) Un Letrado de la Administración de Justicia
+c) Un Letrado de la Administración de Justicia que podrá actuar en más de estas unidades
+d) Dos Letrados de la Administración de Justicia que pondrán actuar en más de una de estas unidades
+
+24) ¿Cómo será la estructura básica de la Oficina Judicial en todo el territorio nacional?
+a) Instrumental.
+b) Flexible.
+c) Homogénea.
+d) Única.
+
+25) Los puestos de trabajo de la Oficina Judicial podrán ser cubiertos:
+a) Sólo por el personal de los cuerpos de funcionarios al servicio de la Administración de Justicia
+b) Por el personal de los cuerpos de funcionarios al servicio de la Administración de Justicia y, en su caso de la Administración General del Estado.
+c) Por el personal de los cuerpos de funcionarios al servicio de la Administración de Justicia y por personal interino.
+d) Por el personal de los cuerpos de funcionarios al servicio de la Administración de Justicia y en su caso por personal laboral e interino.
+
+26) Señale la respuesta correcta en relación con la Comisión General de Secretarios de Estado y Subsecretarios:
+a) Las deliberaciones de la Comisión son secretas
+b) En ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Presidente del Gobierno.
+c) El examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros.
+d) Todas las opciones anteriores son incorrectas.
+
+27) La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por:
+a) El Secretario de Estado de la Presidencia
+b) El Subsecretario de la Presidencia.
+c) El Director del Secretariado del Gobierno.
+d) El Ministro de la Presidencia.
+
+28) Las competencias en materia de organización administrativa, régimen de personal, procedimientos e inspección de servicios, no atribuidos específicamente conforme a una Ley a ningún otro órgano de la Administración General del Estado, corresponderá al:
+a) Ministerio de Hacienda.
+b) Ministerio de Hacienda y Administraciones Públicas.
+c) Ministerio de Administraciones Públicas.
+d) Ninguna respuesta es correcta.
+
+29) La Administración General del Estado se organiza en….
+a) Ministerios
+b) Presidencia del Gobierno y en Ministerios.
+c) Departamentos Ministeriales y Organismos Públicos.
+d) Ministerios y Organismos Públicos.
+
+30) Señale la respuesta correcta en relación a la responsabilidad de la ejecución de los Secretarios de Estado:
+a) Ostentarán la representación de estos en materias propias de su competencia.
+b) Los Secretarios de Estados dirigen y coordinan las Secretarías Generales y Direcciones Generales situadas bajo su dependencia.
+c) Son directamente responsables de la ejecución de la acción del Gobierno.
+d) Responden ante el Ministerio de la ejecución de los objetivos fijados para la Secretaría de Estado en un sector de actividad específica.
+
+31) Conforme a la Ley 40/2015, artículo 67, los Subdirectores Generales serán nombrados y cesados por:
+a) Por el Ministro, Secretario de Estado o Subsecretario del que dependan
+b) Por el Ministro, Secretario de Estado o Director General del que dependan
+c) Por el Ministro, Subsecretario de Estado o Director General del que dependan.
+d) Por el Ministro exclusivamente
+
+32) La Comisión interministerial de coordinación de la Administración periférica del Estado es un órgano colegiado…
+a) Adscrito al Ministerio de Hacienda y Administraciones Públicas.
+b) Con dependencia orgánica del Ministerio de Administraciones Públicas.
+c) Con dependencia funcional del Ministerio de Hacienda y Administraciones Públicas.
+d) Adscrito al Ministerio de Administraciones Públicas.
+
+33) Las funciones de intervención y control económico financiero en relación con las Subdelegaciones del Gobierno se ejercerán:
+a) Por la Abogacía del Estado.
+b) Por la Intervención General de la Administración del Estado.
+c) Por la Abogacía del Estado y la Administración General del Estado.
+d) Por la Delegación del Gobierno.
+
+34) Los Delegados del Gobierno dependen orgánicamente…
+a) De la Presidencia del Gobierno.
+b) Del Ministerio de Hacienda y Administraciones Publicas 
+c) Del Presidente del Gobierno
+d) Del Ministro competente por razón de la materia
+
+35) Los Delegados del Gobierno dependen funcionalmente…
+a) Del Ministerio de Hacienda y Administraciones Publicas 
+b) Del Presidente del Gobierno
+c) Del Ministro competente por razón de la materia
+d) De la Presidencia del Gobierno.
+
+36) Los Delegados del Gobierno serán nombrados:
+a) Atendiendo a criterios de competencia profesional y experiencia y deberá reunir los requisitos de idoneidad establecido en la Ley 3/2015, mediante el procedimiento de libre designación.
+b) Mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las entidades locales, a los que se exija, para su ingreso, el título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
+c) Mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.
+d) Atendiendo a criterios de competencia profesional y experiencia y deberá reunir los requisitos de idoneidad establecido en la Ley 3/2015.
+
+37) Los Delegados del Gobierno dirigirán y supervisarán la Administración General del Estado en las respectivas Comunidades Autónomas y la coordinarán… 
+a) Externamente y cuando proceda, con la administración propia de las Entidades Locales radicadas en la Comunidad Autónomas.
+b) Externamente y cuando proceda, con la administración propia de cada una de ellas.
+c) Internamente y cuando proceda, con la administración propia de las Entidades Locales radicadas en la Comunidad Autónomas.
+d) Internamente y cuando proceda, con la administración propia de cada una de ellas y con la de las Entidades Locales radicadas en la Comunidad.
+
+38) En la organización territorial de la Administración General del Estado los Delegados del Gobierno en las Comunidades Autónomas tendrán rango de:
+a) Subdirector General
+b) Director General
+c) Subsecretario
+d) Secretario de Estado
+
+39) Según la Ley del régimen jurídico del Sector Público, es competencia del Subsecretario de un Ministerio: 
+a) Desempeñar la jefatura superior de todo el personal del Departamento
+b) Autorizar las modificaciones presupuestarias que les atribuya la Ley General Presupuestaria
+c) Nombrar y separar a los Subdirectores generales de la Secretaria de Estado
+d) Mantener las relaciones con los órganos de las Comunidades Autónomas competentes por razón de la materia
+
+40) Los Delegados del gobierno serán nombrados y separados por: 
+a) El Presidente de la Comunidad Autónoma
+b) Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno
+c) El Ministro del Interior
+d) El Ministro de Administraciones Públicas
+
+41) En la provincia de Segovia, ¿quién es competente para dirigir y coordinar los servicios de Protección Civil? 
+a) El Delegado del Gobierno
+b) El Subdelegado del Gobierno
+c) El Ministro del Interior
+d) El Presidente de la Comunidad Autónoma de Castilla y León
+
+42) Según LSP, ¿a quién corresponde establecer los planes de actuación, su desarrollo y ejecución?
+a) A los órganos superiores, salvo la ejecución y desarrollo de los planes que es función de los órganos directivos
+b) A los órganos directivos, salvo establecer los planes de actuación que es función de los órganos superiores
+c) A los órganos directivos, exclusivamente
+d) A los órganos superiores, exclusivamente
+
+43) Los Delegados del Gobierno tendrán su sede en la localidad donde:
+a) Radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros determine otra cosa y sin perjuicio de lo que disponga, expresamente, el Estatuto de Autonomía.
+b) Radique el Consejo de Gobierno de la Comunidad Autónoma o en su defecto el Tribunal Superior de Justicia, salvo que el Consejo de Ministros determine otra cosa y sin perjuicio de lo que disponga expresamente, el Estatuto de Autonomía.
+c) Radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta y sin perjuicio de lo que disponga expresamente el Estatuto de Autonomía.
+d) Radique el Consejo de Gobierno de la Comunidad Autónoma, sin perjuicio de lo que disponga, expresamente, el Estatuto de Autonomía.
+
+44) Los Directores Generales serán nombrados y separados por:
+a) Real Decreto del Consejo de Ministros, a propuesta del titular del Departamento o del Presidente del Gobierno
+b) Real Decreto del Ministro respectivo.
+c) Real Decreto del Consejo de Ministros, a propuesta del titular del Departamento
+d) Real Decreto del Presidente del Gobierno
+
+45) ¿Cuál de los siguientes órganos pueden existir en los Ministerios?
+a) Secretarías de Estado y Subsecretarías
+b) Secretaría General
+c) Subsecretaría y una Secretaría Generales Técnica 
+d) Secretarías de Estado y, excepcionalmente, Secretarías Generales.
+
+46) Mediante un Real Decreto del Consejo de Ministros a propuesta del titular del Ministerio no podremos nombrar a:
+a) Subsecretario
+b) Secretario General
+c) Subdirector General
+d) Secretario General Técnico
+
+47) Ejercerá las competencias propias de los servicios comunes de los Departamentos en relación con el área de la Presidencia del Gobierno:
+a) La Secretaría de Estado del Ministerio de la Presidencia, en coordinación con la Subsecretaría del Ministerio de la Presidencia.
+b) La Subsecretaría del Ministerio de la Presidencia, en coordinación con la Secretaría General de la Presidencia.
+c) La Secretaría General de la Presidencia, en coordinación con la Secretaría de la Presidencia del Gobierno.
+d) Ninguna respuesta es correcta.
+
+48) Según la Ley del Sector Público, el Subdelegado del Gobierno: 
+a) Asume la representación del Gobierno en el territorio de la Comunidad Autónoma
+b) Dirige los servicios integrados de la Administración General del Estado de acuerdo con las instrucciones del Delegado del Gobierno
+c) Depende directamente de Presidencia del Gobierno
+d) Es nombrado por un período máximo de dos años entre personas de reconocida competencia profesional
+
+49) Los Subdelegados del Gobierno son nombrados por:
+a) Real Decreto acordado en Consejo de Ministros a propuesta del Ministerio de Administraciones Públicas
+b) Real Decreto acordado en Consejo de Ministros a propuesta del Ministro de Administraciones Públicas entre personas con cualificación y experiencia en el desarrollo de puestos de responsabilidad en la gestión pública o privada
+c) Orden conjunta de los Ministros de Administraciones Públicas e Interior y la aprobación de Presidencia del Gobierno
+d) El procedimiento de libre designación por el Delegado de Gobierno correspondiente entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.
+
+50) La protección del libre ejercicio de los derechos y libertades, garantizando la seguridad ciudadana: 
+a) No puede ser ejercida, en ningún caso, por los Subdelegados del Gobierno
+b) Compete a los Subdelegados del Gobierno en las provincias en las que no radique la sede de las Delegaciones del Gobierno
+c) Es ejercida por todos los Subdelegados del Gobierno, a quienes compete directamente
+d) Además de por los Delegados del Gobierno, sólo puede ser ejercida por los Directores insulares dentro de su ámbito territorial.
+
+51) ¿Qué autoridad ostenta la representación ordinaria del Estado en una Comunidad Autónoma?: 
+a) El Delegado del Gobierno
+b) El Presidente de la Comunidad Autónoma
+c) El Gobernador Civil
+d) El Ministro de Administraciones Públicas
+
+52) De acuerdo con la Ley 40/2015, de régimen jurídico del Sector Público, la dirección de los servicios comunes de cada Ministerio es competencia de:
+a) Los Subsecretarios
+b) Los Secretarios de Estado
+c) Los Ministros
+d) El Consejo de Ministros
+
+53) De acuerdo con la Ley 40/2015, de régimen jurídico del Sector Público la Administración General del Estado: 
+a) Actúa con personalidad jurídica única
+b) Tiene distinta personalidad jurídica en cada Ministerio
+c) Carece de personalidad jurídica
+d) Tiene una personalidad jurídica para la Administración General y otra para la Periférica.
+
+54) El Secretario General Técnico depende del…
+a) Secretario General.
+b) Subsecretario
+c) Secretario de Estado
+d) Director General 
+
+55) Los Delegados del Gobierno son órganos directivos de la Administración General del Estado y tienen rango de: 
+a) Director General 
+b) Subdirector General
+c) Secretaria Gª Técnico 
+d) Subsecretario
+
+56) El elemento organizativo básico de la estructura de la Oficina judicial:
+a) Serán los Juzgados, Audiencias y Tribunales
+b) Serán la unidad judicial o servicios comunes
+c) Será la unidad
+d) Todas las respuestas son ciertas
+
+57) Según la Ley Orgánica del Poder Judicial la organización de la nueva Oficina Judicial se determinará:
+a) Por el Consejo General del Poder Judicial exclusivamente
+b) Por la Administración Pública competente
+c) Por un organismo nombrado por la Comunidad Autónoma
+d) Por el Consejo General del Poder Judicial con el informe de las Juntas de Jueces
+
+58) Según la Ley Orgánica del Poder Judicial ¿cuántas unidades procesales de apoyo directo pueden existir?:
+a) Una por partido judicial
+b) Todas aquellas que la carga de trabajo de los órganos judiciales justifique su creación
+c) Una por Jurisdicción
+d) Tantas como Juzgados, o en su caso, salas o secciones de Tribunales estén creados y en funcionamiento
+
+59) Conforme al artículo 435 de la LOPJ, la organización de carácter instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de Jueces y Tribunales:
+a) Los servicios comunes procesales
+b) Las Unidades procesales de apoyo directo
+c) La Oficina Judicial.
+d) La organización de los Letrados de la Administración de Justicia tras la reforma
+
+60) La Oficina judicial podrá prestar su apoyo a órganos de ámbito:
+a) Nacional
+b) Comarcal
+c) De municipio
+d) Todas las respuestas anteriores son correctas
+
+61) De acuerdo con el artículo 58 de la Ley 40/2015, los órganos de gestión de una o varias áreas funcionalmente homogéneas son:
+a) Los Ministerios
+b) Las Secretarías Generales
+c) Las Subsecretarías
+d) Las Direcciones Generales
+
+62) Según la LOPJ, los Servicios Comunes Procesales no tienen funciones de:
+a) Auxilio Judicial
+b) Mediación y arbitraje
+c) Ejecución de resoluciones judiciales
+d) Ordenación del procedimiento.
+
+63) Los Letrados de la Administración de Justicia cuando así lo prevean las leyes procesales tendrán competencias: 
+a) En materia de jurisdicción voluntaria, asumiendo solo su tramitación sin perjuicio de los recursos que quepa interponer
+b) En materia de jurisdicción voluntaria, asumiendo su tramitación y resolución y decisión de cualquier recurso que quepa interponer
+c) En materia de jurisdicción voluntaria, asumiendo su tramitación y resolución, sin perjuicio de los recursos que quepa interponer
+d) En materia de jurisdicción voluntaria, solo si no hay contienda entre las partes
+
+64) De conformidad al artículo 438.4 de la LOPJ, en razón de la actividad concreta que realicen, podrán estructurarse en secciones: 
+a) Los servicios comunes procesales
+b) Las unidades procesales de apoyo directo
+c) Las unidades administrativas
+d) La oficina judicial
+
+65) De conformidad con el artículo 438 de la LOPJ, los servicios comunes procesales, en razón de la actividad concreta que realicen, podrán estructurarse en: 
+a) Unidades administrativas
+b) Negociados
+c) Secciones
+d) Grupos
+
+66) Según la LOPJ, la organización y dimensión de la Oficina Judicial se determinarán: 
+a) Por el Consejo General del Poder Judicial
+b) Por la Administración Pública competente
+c) Por las Comunidades Autónomas con competencias asumidas
+d) Por el Ministerio de Justicia previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas con competencias asumidas
+
+67) Según la Ley 40/2015 son los jefes superiores del Departamento:
+a) Los Subsecretarios
+b) Los Secretarios de Estado
+c) Los Ministros
+d) Los Secretarios Generales
+
+68) Según le Ley 40/2015 los Secretarios de Estado dirigen y coordinan: 
+a) Las Subdirecciones Generales situadas bajo su dependencia
+b) Las Secretarías y Subdirecciones Generales situadas bajo su dependencia
+c) Las Direcciones Generales situadas bajo su dependencia
+d) Las Subsecretarías y Direcciones Generales bajo su dependencia
+
+69) De acuerdo con el artículo 58 de la Ley de Régimen Jurídico del Sector Público, en los Ministerios pueden existir:
+a) Secretarias de Estado
+b) Secretarías Generales y Subsecretarías
+c) Secretarías de Estado y Secretaría Generales
+d) Secretarías Generales
+
+70) Las unidades que no tengan la consideración de órganos se crean, modifican y suprimen
+a) Por medio de orden ministerial
+b) Por orden del ministro de administraciones publicas
+c) Por acuerdo del consejo de ministros
+d) A través de las relaciones de puestos de trabajo.
+
+71) De conformidad con lo dispuesto en el artículo 11 de la Ley 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia, ¿cuál de los siguientes servicios no forma parte del contenido que, al menos, ha de disponer una sede judicial electrónica a disposición de los usuarios?
+a) La carta de derechos de los ciudadanos ante la justicia. 
+b) Un enlace para la formulación de sugerencias y quejas ante los órganos competentes. 
+c) La carta de servicios y la carta de servicios electrónicos. 
+d) La carta de derechos y deberes de los profesionales ante la justicia. 
+
+72) El punto de acceso general de la Administración de Justicia, de acuerdo con lo dispuesto en el artículo 13 de la Ley 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia es creado y gestionado por:
+a) El Ministerio de Justicia. 
+b) El Consejo General del Poder Judicial para asegurar la coordinación. 
+c) La Consejería de la Comunidad Autónoma con competencias en materia de Justicia. 
+d) De forma conjunta por el Ministerio y las Comunidades Autónomas a través de un órgano colegiado. 
+
+73) Conforme al artículo 32 de la Ley 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia a los efectos del cómputo de plazo fijado en días hábiles o naturales, y en lo que se refiere a cumplimiento de plazos por los interesados, la presentación de un escrito en un registro electrónico, en un día inhábil a efectos procesales conforme a la ley, se entenderá realizada:
+a) En la primera hora del día hábil siguiente en todo caso. 
+b) En la primera hora del día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil. 
+c) En el día de la presentación, pues el registro funciona los 365 días del año. 
+d) En el día de la presentación, excepto que se trate de un festivo de carácter nacional. 
+
+74) El uso de la firma electrónica de acuerdo con lo dispuesto en el artículo 16 de la Ley de 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia:
+a) No excluye la obligación de incluir en el documento o comunicación electrónica los datos de identificación que sean necesarios de acuerdo con la legislación aplicable. 
+b) Excluye la obligación de incluir en el documento o comunicación electrónica los datos de identificación necesarios de acuerdo con la legislación aplicable únicamente en el caso de personas físicas-. 
+c) Excluye la obligación de incluir en el documento o documentación electrónica los datos de identificación necesarios de acuerdo con la legislación aplicable tanto en el caso de personas físicas como de personas jurídicas, siempre que actúen como profesionales del derecho en representación de sus clientes. 
+d) Excluye la obligación de incluir en el documento o documentación electrónica los datos de identificación necesarios de acuerdo con la legislación aplicable únicamente en el caso de personas jurídicas. 
+
+75) Seleccione la afirmación correcta de entre las siguientes:
+a) El foliado de los expedientes judiciales electrónicos se llevará a cabo mediante un índica electrónico firmado por la oficina judicial actuante, según proceda. 
+b) El foliado de los expedientes judiciales electrónicos se llevará a cabo mediante un índice electrónico que no es preciso se firme al integrarse en el expediente como un documento más. 
+c) Al ser el expediente electrónico, no es preciso que el interesado incorpore ningún índice electrónico, los documentos se ordenan por su fecha de creación. 
+d) El foliado de los expedientes judiciales electrónicos se llevará a cabo insertando la paginación electrónica secuencial de los documentos que lo componen por la oficina judicial actuante. 
+
+76) Conforme el artículo 18 del RD 1065/2015, por el que se regula el sistema LEXNET, cuando por exceso del volumen de los archivos adjuntos, el sistema LEXNET no permite su inclusión e impide su envío conjunto con el escrito principal, se deberá remitir en todo caso a través del sistema electrónico:
+a) En todo caso el escrito principal junto con el formulario normalizado y el acuse de recibo de dicho envío. 
+b) El escrito principal. 
+c) El escrito principal junto con el formulario normalizado previsto. 
+d) En estos casos electrónicamente no se debe presentar nada, todos los documentos se deben presentar en formato papel y enviarlos por correo postal a la oficina judicial centralizada, creada en exclusiva para la recepción de este tipo de documentación. 
+
+77) Conforme al artículo 28.5 de la Ley 18/2011, de 5 de julio, para que las copias realizadas en soporte papel de documentos judiciales electrónicos, firmados electrónicamente por el Letrado de la Administración de Justicia, tengan la consideración de copias auténticas es preciso que, además:
+a) Vayan firmadas manualmente por el Letrado de la Administración de Justicia de la oficina judicial emisora. 
+b) Siempre que incluyan la impresión de un código de seguro de verificación. 
+c) Vayan firmadas electrónicamente por el sello de órgano emisor y el documento conserve su formato original. 
+d) Vayan firmadas y selladas electrónicamente por el Magistrado de la oficina judicial emisora.
+
+78) De conformidad con el Real Decreto 1065/2015 sobre comunicaciones, ¿qué sujetos no están Obligados a comunicarse con la Administración de Justicia, en todo caso, a través de canales electrónicos?: T18
+a) Las personas físicas.
+b) Las personas jurídicas.
+c) Las entidades sin personalidad jurídica.
+d) Los funcionarios de las Administraciones Públicas para los trámites y actuaciones que realicen por razón de su cargo.
+
+79) A los efectos del Real Decreto 1065/2015, de 27 noviembre, sobre comunicaciones electrónicas en la Administración de Justicia en el ámbito territorial del Ministerio de Justicia y por el que se regula el sistema LexNET, los administradores concursales tendrán la consideración: T18
+a) De integrantes de los órganos judiciales.
+b) De profesionales de la justicia.
+c) De integrantes de las oficinas judiciales.
+d) De particulares.
+
+80) Conforme a lo dispuesto en la Ley reguladora del uso de tecnologías de la información y la comunicación en la Administración Pública los sistemas informáticos puestos al servicio de la Administración de Justicia serán de uso: A18
+a) Potestativo para la actividad de los órganos y oficinas judiciales y de las fiscalías.
+b) Obligatorio para la actividad de los órganos y oficinas judiciales y de las fiscalías.
+c) Potestativo para las fiscalías y obligatorio para la actividad de los órganos y oficinas judiciales.
+d) Obligatorio para las fiscalías y potestativo para los órganos y oficinas judiciales.
+
+81) Conforme a lo dispuesto en el Real Decreto 1065/2015, de 27de noviembre, por el que se regula el sistema LexNET: A18
+a) La presentación de toda clase de escritos, documentos y dictámenes, deberán ir acompañada de un formulario normalizado. La obligatoriedad de la presentación telemática ha quedado diferida a 31 de diciembre de 2017.
+b) La presentación de toda clase de escritos, documentos y dictámenes, podrán ir acompañadas de un formulario normalizado. 
+c) La presentación de toda clase de escritos, documentos y dictámenes, deberán ir acompañada de un formulario normalizado. 
+d) Sólo la presentación de escritos principales, documentos y dictámenes, deberán ir acompañada de un formulario normalizado.
+
+82) Según el Real Decreto 1065/15 de 27de noviembre, sobre comunicaciones electrónicas en la Administración de Justicia en el ámbito territorial del Ministerio de Justicia y por el que se regula el sistema LexNET: A18
+a) Ni los ciudadanos, ni las personas jurídicas están obligadas a comunicarse con la Administración de Justicia por canales electrónicos.
+b) Los ciudadanos y las entidades si personalidad jurídica podrán elegir en todo momento la manera de comunicarse con la Administración de Justicia.
+c) Los ciudadanos podrán elegir en todo momento la manera de comunicarse con la Administración de Justicia, en cambio las personas jurídicas están obligadas a comunicarse con la Administración de Justicia, en todo caso a través de canales electrónicos.
+d) Los ciudadanos, las personas jurídicas, las entidades sin personalidad jurídica y los notarios y registradores están obligados a comunicarse con la Administración de Justicia por canales electrónicos,
+
+83) Según el Real Decreto 1065/15, la presentación de escritos y documentos, el traslado de copias y la realización de comunicaciones y notificaciones por medios electrónicos se efectuarán:
+a) A través del sistema LexNET.
+b) A través del sistema LexNET o mediante la sede judicial electrónica correspondiente.
+c) A través del sistema LexNET o a través de la plataforma del Consejo General de Procuradores de España.
+d) A través del Servicio Compartido de Gestión de Notificaciones Electrónicas.
+
+84) Según el Real Decreto 1065/15, cuando de conformidad con las leyes procesales, no sea preceptiva la asistencia Letrada ni la representación por Procurador o, en su caso, Graduado Social, los ciudadanos que opten por relacionarse con la Administración de Justicia por medios electrónicos utilizarán para la presentación de escritos y documentos:
+a) La sede judicial electrónica
+b) El sistema LexNET.
+c) El sistema LexNET o la sede judicial electrónica.
+d) El Servicio Compartido de Gestión de Notificaciones Electrónicas y la Carpeta Ciudadana.
+
+85) Según el Real Decreto 1065/15, la obligación de realizar el traslado de copias de escritos y documentos cuando intervengan Procuradores será exigible:
+a) En los órdenes Civil y Penal
+b) Sólo en el orden Civil
+c) En los órdenes Civil, Contencioso-Administrativo y Social
+d) En los órdenes Civil, Penal, Contencioso-Administrativo y Social
+
+86) De conformidad con el Real Decreto 1065/2015, Mediante qué canal electrónico los órganos y oficinas judiciales y fiscales realizarán los actos de comunicación con las partes procesales y en su caso, terceros intervinientes:
+a) Sólo el sistema LexNET
+b) El sistema LexNET y la sede judicial electrónica
+c) El sistema LexNET, la sede judicial electrónica y el Servicio Compartido de Gestión de Notificaciones Electrónicas.
+d) El sistema LexNET, la sede judicial electrónica, el Servicio Compartido de Gestión de Notificaciones Electrónicas y la Carpeta Ciudadana y otros sistemas electrónicos de información y comunicación que puedan establecerse.
+
+87) Según el Real Decreto 1065/2015, en los casos de interrupción planificada por la ineludible realización de trabajos de mantenimiento u otras razones técnicas lorequieran, podrán planificarse paradas de los sistemas informáticos que afecten o imposibiliten de forma temporal el servicio de comunicaciones electrónicas. Estas paradas serán avisadas por el propio sistema informático con una antelación mínima…
+a) De 5 días, indicando el tiempo estimado de indisponibilidad del servicio
+b) De 10 días, indicando el tiempo estimado de indisponibilidad del servicio
+c) De 15 días, indicando el tiempo estimado de indisponibilidad del servicio
+d) De 20 días, indicando el tiempo estimado de indisponibilidad del servicio
+
+88) El sistema LexNET tendrá la consideración:
+a) Sistema de entrega electrónica certificada.
+b) Sistema de transmisión electrónica de información
+c) Sistema de comunicación electrónica
+d) Sistema electrónico de información y comunicación.
+
+89) Según el Real Decreto 1065/15, en el sistema LexNET, una vez depositados en los buzones virtuales de los usuarios los escritos, las comunicaciones y notificaciones, así como cualquier otro documento procesal transmitido por medios electrónicos, se encontrarán accesibles por un periodo:
+a) De 30 días
+b) De un mes
+c) De 60 días
+d) De dos meses
+
+90) Según el Real Decreto 1065/15, los usuarios del sistema LexNET presentarán sus escritos y los documentos electrónicos anexos utilizando:
+a) Firma electrónica cualificada.
+b) Firma electrónica cualificada para la presentación de sus escritos y para los documentos electrónicos anexos será firmado mediante certificado electrónico reconocido o cualificado.
+c) Firma electrónica reconocida.
+d) Firma electrónica reconocida para la presentación de sus escritos y para los documentos electrónicos anexos será firmado mediante certificado electrónico cualificado.
+
+91) Según el Real Decreto 1065/15, la dirección electrónica habilitada tendrá una vigencia:
+a) Indefinida
+b) De 5 años
+c) De 10 años
+d) De 3 años.
+
+92) Según el Real Decreto 1065/15, los órganos y oficinas judiciales y fiscales ¿pueden realizar actos de comunicación en las direcciones de correo electrónico que los ciudadanos elijan?:
+a) No, debe ser una dirección electrónica habilitada.
+b) Sí, el ciudadano opta por el correo electrónico como medio preferente de comunicación con la Administración de Justicia
+c) No, sólo sirve para comunicar su puesta a disposición en el Servicio Compartido de Gestión de Notificaciones Electrónicas y la Carpeta Ciudadana
+d) Sí, siempre que en el momento del acceso del contenido de la comunicación se genera automáticamente y de forma independiente a la voluntad del ciudadano un acuse de recibió acreditativo del día y hora de la remisión del acto de comunicación y de la recepción íntegra de su contenido y de sus documentos adjuntos.
+
+93) Según el Real Decreto 1065/15, los números de teléfonos móviles proporcionado por las partes procesales y terceros intervinientes en los procesos para que puedan ponerse en contacto los órganos y oficinas judiciales y fiscales con el fin de que les sean remitidos mensajes de textos o avisos de apoyo a los actos de comunicación:
+a) Nunca produce efectos procesales
+b) Sí produce efectos procesales
+c) Sí produce efectos procesales en el orden civil
+d) No produce efectos procesales en el orden penal.
+
+94) Según el Real Decreto 1065/15, señale que requisito debe cumplir el servicio de notificación por comparecencia electrónica:
+a) Después de acceder al contenido del acto de comunicación, el interesado deberá visualizar un aviso del carácter de notificación, citación, emplazamiento o requerimiento
+b) El sistema electrónico de información y comunicación correspondiente dejará constancia de dicho acceso con indicación de fecha y hora.
+c) Inmediatamente antes de acceder al contenido del acto de comunicación, el interesado será advertido que produce efectos procesales el acceso al contenido del mensaje.
+d) Todas las opciones anteriores son correctas.
+
+95) Según el Real Decreto 1065/15, señale la respuesta correcta en relación a las formas de identificación y autenticación en los sistemas electrónicos de información y comunicación:
+a) Las personas jurídicas podrán utilizar sistemas basados en certificados electrónicos de persona jurídica
+b) Las entidades sin personalidad jurídica podrán utilizar sellos electrónicos avanzados.
+c) La Administración de Justicia podrá utilizar para su identificación electrónica y para la autenticación de los documentos electrónicos que produzcan sistemas de firma electrónica para la actuación judicial automatizada que permitan atribuir la firma del firmante y comprobar la autenticidad de documentos en base a Códigos Seguros de Validación.
+d) Todas las opciones anteriores son correctas.
+
+96) Según el Real Decreto 1065/15, Todos los sistemas electrónicos de información y comunicación deberán regirse por:
+a) Las Bases del Esquema Judicial de Interoperabilidad y Seguridad
+b) Las Bases del Comité Técnico Estatal de la Administración de Justicia Electrónica.
+c) Las Bases del Esquema Judicial de Comunicación y Seguridad
+d) Las Bases del Esquema Judicial de Sistemas Electrónicos de Información y Comunicación
+
+97) Según el Real Decreto 1065/15, podrá utilizarse el sistema de acceso a LexNET, mediante usuario y contraseña:
+a) Sí, cuando el envío proceda de una Administración u organismo público
+b) Sí, cuando el envío proceda de las Fuerzas y Cuerpos de Seguridad
+c) No.
+d) La repuesta a) y b) es correcta, siempre que se utilice a través de los Sistemas de Aplicaciones y Redes para las Administraciones 
+
+98) Según el Real Decreto 1065/15, Permitirá la realización del traslado de copias de escritos y documentos sólo entre Procuradores del Colegio de Procuradores de adscripción:
+a) El sistema LexNET
+b) La plataforma del Consejo General de Procuradores de España
+c) El sistema LexNET o la Sede Judicial Electrónica
+d) Ninguna respuesta es correcta.

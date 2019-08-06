@@ -1,0 +1,215 @@
+1) Al día de la fecha de la Responsabilidad Penal de los Menores es aplicable: T01
+a) Sólo a los mayores de catorce años y menores de dieciocho
+b) A los menores comprendidos entre catorce y dieciocho años y a los comprendidos entre dieciocho y veintidós años
+c) A los menores de doce años
+d) A los menores comprendidos entre doce y dieciocho años
+
+2) La detención de un menor por la policía y su puesta a disposición del Ministerio Fiscal, no podrá exceder como máximo de: T03
+a) Doce horas
+b) Setenta y dos horas
+c) Cuarenta y ocho horas
+d) Veinticuatro horas
+
+3) ¿De quién es competencia la ejecución de las medidas adoptadas por los Jueces de Menores en sus sentencias firmes?: T03
+a) Del Ministerio Fiscal
+b) Del Juez que dictó la sentencia
+c) De las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla
+d) De los Equipos Técnicos
+
+4) Según la Ley Orgánica 5/2000 de Responsabilidad Penal de los Menores, ¿a quién corresponde ejercer la acción para exigir la responsabilidad civil en el procedimiento regulada en esta Ley?: G07
+a) Al perjudicado en cualquier caso, único competente para ejercitarla en el orden civil
+b) Al Ministerio Fiscal, cuando el perjudicado renuncie a ella
+c) Al Ministerio Fiscal, cuando el perjudicado no la ejercite por sí mismo
+d) A los padres, tutores o acogedores del menor de dieciocho años responsable de los hechos
+
+5) Según la Ley Orgánica 5/2000 de Responsabilidad Penal de los Menores, ¿a quién se considera menor a los efectos de aplicación de esta Ley?: G07
+a) A los mayores de trece años y menores de dieciocho años
+b) A los mayores de trece años y menores de veintiún años
+c) A los mayores de catorce años y menores de veintiún años
+d) A los mayores de catorce años y menores de dieciocho.
+
+6) ¿Puede el Juez de Menores dictar sentencia de conformidad cuando el menor esté de acuerdo con la medida solicitada por el Ministerio Fiscal, aunque no con los hechos que se le imputan?: G07
+a) Sí, sin ningún otro requisito
+b) Sí, pero sólo cuando el Letrado del menor muestre también su conformidad
+c) Sí, pero sólo cuando también muestre su conformidad su representante legal
+d) No.
+
+7) La detención de un menor por funcionarios de policía: G07
+a) No podrá durar más tiempo del estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y , en todo caso, dentro del plazo máximo de veinticuatro horas, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal
+b) No podrá durar más de cuarenta y ocho horas, después de las cuales, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal
+c) No podrá durar más tiempo del estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, salvo autorización expresa por escrito de sus padres o representante legal
+d) El menor no puede permanecer detenido sin previa puesta a disposición del Ministerio Fiscal
+
+8) Corresponde a los Juzgados de Menores el ejercicio de las funciones que establezcan las Leyes con menores que: G95
+a) Hubieran incurrido en conductas tipificadas por la Ley como delito o delito leve
+b) Sólo cuando hubieren incurrido en conductas tipificadas como delito
+c) Sólo cuando hubieran incurrido en conductas tipificadas por la Ley como delito leve
+d) Cuando hubieran incurrido en conductas tipificadas por la Ley como asociales
+
+9) Los delitos cometidos por un menor de edad emancipado, que tenga quince años cumplidos, serán competencia de: T99
+a) Los Juzgados de lo Penal
+b) Los Juzgados de Menores
+c) Los Juzgados de Vigilancia Penitenciaria
+d) Los Juzgados de Instrucción
+
+10) En la jurisdicción penal de menores (L.O. 5/2000) las faltas prescriben: T09
+a) A los 30 días
+b) A los 2 meses
+c) A los 3 meses
+d) A los 6 meses
+
+11) La competencia administrativa para la ejecución de las medidas adoptadas por los Jueces de menores en sus sentencias firmes, corresponde: T09
+a) A las Comunidades Autónomas y a las Ciudades de Ceuta y Melilla
+b) Al Defensor del Menor
+c) Al Subdelegado de Gobierno en la provincia respectiva
+d) Al Grupo de menores de la Planta Judicial
+
+12) En la Ley reguladora de la responsabilidad penal de los menores, los trámites para la exigencia de la responsabilidad civil derivada del ilícito penal se tramitará: T09
+a) Según lo dispuesto en el Juicio Verbal civil ante la Fiscalía de menores.
+b) Abriéndose pieza de responsabilidad civil de forma simultánea con el proceso principal.
+c) No abriéndose pieza de responsabilidad civil.
+d) Abriéndose pieza de ejecución penal y posteriormente la civil.
+
+13) Según la Ley Orgánica de Responsabilidad Penal de los Menores, ¿cuál es el tiempo máximo de duración de la medida cautelar de internamiento?: G09
+a) 6 meses, prorrogable por otros 3 meses
+b) 3 meses, prorrogable por otros 3 meses
+c) 6 meses, prorrogable por otros 6 meses
+d) 3 meses, prorrogable por otros 6 meses.
+
+14) Según la Ley Orgánica de Responsabilidad Penal de los Menores, ¿puede suspender la ejecución del fallo contenido en la sentencia?: G09
+a) Sí, cuando la medida cautelar no sea superior a 2 años y durante un máximo de otros 3 años
+b) Sí, cuando la medida cautelar no sea superior a 2 años y durante un máximo de otros 2 años
+c) Sí, cuando la medida cautelar no sea superior a 1 año y durante un máximo de otros 2 años.
+d) No, pues no cabe la posibilidad de suspensión de la ejecución del fallo.
+
+15) Para la ejecución de las medidas adoptadas por los Jueces de menores en sentencia firme ¿quién es competente?: G09
+a) La Dirección General de Instituciones Penitenciarias
+b) El equipo técnico competente en proceso realizados a menores
+c) Las Comunidades Autónomas y las ciudades de Ceuta y Melilla
+d) El Ministerio Fiscal de ejecuciones penales
+
+16) Según la actual Ley Orgánica 5/2000 ¿qué tipo de responsabilidad es exigible a los menores de catorce años que infringen lo dispuesto en dicha Ley?: G09
+a) Ningún tipo de responsabilidad con arreglo a dicha Ley
+b) Únicamente la responsabilidad civil que se derive del hecho punible
+c) La responsabilidad penal y civil que se derive del hecho punible
+d) La responsabilidad penal, pero que sólo le será exigible cuando alcance la mayoría de edad
+
+17) Según el artículo 47 de la Ley 5/2000 de Responsabilidad Penal de los Menores: G09
+a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra
+b) La medida de internamiento en régimen cerrado se ejecutará con preferencia a cualquier otra
+c) La medida de internamiento se cumplirá antes que las no privativas de libertad y, en su caso, no interrumpirá la ejecución de éstas.
+d) Las medidas de libertad vigilada se ejecutarán una vez finalizado el internamiento en régimen abierto.
+
+18) Cuando el Juez de Menores no dicte sentencia de conformidad tras recibir el expediente remitido por el Ministerio Fiscal, ¿cuál de las siguientes decisiones no podrá adoptar? G12
+a) Practicar las pruebas propuestas por las partes y que hubieran sido admitidas por el Ministerio Fiscal durante la instrucción
+b) El sobreseimiento, mediante auto motivado, de las actuaciones
+c) La celebración de la audiencia
+d) La remisión de las actuaciones al Juez competente, cuando el Juez de Menores considere que no le corresponde el conocimiento del asunto.
+
+19) En el procedimiento para exigir la responsabilidad penal de un menor, la medida cautelar de internamiento tendrá una duración de: G12
+a) Seis meses improrrogable
+b) Seis meses prorrogables a instancias del Ministerio Fiscal por otros tres meses como máximo.
+c) Seis meses prorrogables a instancia del Ministerio Fiscal o de la acusación particular por otros tres meses como máximo
+d) Seis meses prorrogables a instancia del Ministerio Fiscal o de la acusación particular por otros seis meses como máximo.
+
+20) Según la Ley Orgánica 5/2000, de 12 de enero, reguladora de la Responsabilidad Penal de los Menores, cuando el autor de hechos tipificados como delitos o faltas se menor de 14 años:
+a) Se le exigirá responsabilidad con arreglo a la Ley Orgánica 5/2000 de Responsabilidad Penal de los Menores
+b) No se le exigirá ningún tipo de responsabilidad
+c) Se le aplicará lo dispuesto en las normas sobre protección de menores previstas en el Código Civil y demás disposiciones vigentes
+d) El Defensor del Menor acordará cuantas medidas sean necesarias a la circunstancias del menor
+
+21) Cuando los hechos cometidos por un menor sean calificados como delito leve, las medidas de libertad vigilada solo podrán imponerse por un periodo máximo de: G10
+a) Tres meses
+b) Dieciséis semanas
+c) Seis meses
+d) Un mes
+
+22) Según el artículo 28.3 de la Ley Orgánica 5/2000 de responsabilidad penal de los menores, el tiempo máximo de la medida cautelar de internamiento es de: G10
+a) Tres meses prorrogables por otros tres meses
+b) Nueve meses, prorrogables por tres meses
+c) Seis meses, prorrogables por tres meses
+d) Tres meses, sin posibilidad de prórroga alguna
+
+23) ¿En qué momento del procedimiento regulado en la Ley del Menor se abre pieza separada de responsabilidad civil?: G14
+a) Cuando el Ministerio Fiscal remite el expediente junto con el escrito de alegaciones al Juez de Menores
+b) En el momento en que la parte ejercita la acción civil presenta escrito de alegaciones
+c) En el momento en el que el Juez de Menores es informado de la incoación del expediente
+d) Cuando en la sentencia se señale las responsabilidades civiles derivadas del hecho delictivo
+
+24) De conformidad con el artículo 1 de la Ley 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, ésta se aplicará: G14
+a) A los mayores de 15 años y menores de 17
+b) A los mayores de 13 años y menores de 19
+c) A los mayores de 14 años y menores de 18
+d) A los mayores de 16, no emancipados y menores de 18.
+
+25) En los casos en los que los delitos atribuidos al menor expedientado hubieran sido cometidos en diferentes territorios, la determinación del órgano judicial competente para el enjuiciamiento de todos en unidad de expediente, se hará teniendo en cuenta de manera preferente: G16
+a) El lugar en el que el menor haya sido detenido.
+b) El lugar del domicilio del menor.
+c) El lugar en el que se hayan descubierto pruebas materiales del hecho.
+d) El lugar de comisión de los hechos.
+
+26) Cuando al menor de edad se le hubiese impuesto una medida de internamiento en régimen cerrado y alcance la edad de 18 años sin haberla finalizado, una vez verificado el trámite del artículo 14.2 de la Ley Orgánica 5/2000, que regula la responsabilidad penal de los menores, el juez: G16
+a) Podrá acordar que su cumplimiento se lleve a cabo en centro penitenciario.
+b) Tendrá que acordar que su cumplimiento se lleve a cabo en centro penitenciario.
+c) Ordenará continuar con el cumplimiento de la medida sin modificación alguna hasta alcanzar los objetivos propuestos en sentencia
+d) Tendrá que sustituir el resto de la pena por una medida que considere más adecuada.
+
+27) De conformidad con el art. 10.4 de la Ley 5/2000, de 12 de enero, de Responsabilidad Penal del Menor, la medida de libertad vigilada:
+a) No necesita de ratificación. 
+b) Se debe ratificar a las 24 horas de su comienzo. 
+c) Se ha de ratificar previamente al inicio del internamiento. 
+d) Se ha de ratificar al finalizar el internamiento. 
+
+28) El Ministerio Fiscal, a tenor del artículo 61.1 dela Ley 5/2000, de 12 de enero, de Responsabilidad Penal del Menor, puede ejercitar acción para exigir responsabilidad civil que derive de un hecho delictivo realizado por menor:
+a) Solo cuando el perjudicado padezca patología invalidante. 
+b) En todos los supuestos. 
+c) En ningún caso. 
+d) Siempre y cuando, entre otros supuestos, el perjudicado no se reserve la acción para ejercitarla en vía civil. 
+
+29) Si al tiempo de cometer los hechos el menor tuviere 16 o 17 años, y el hecho revista extrema gravedad, el Juez deberá imponer una medida de internamiento cerrado de…
+a) 1 a 4 años
+b) 1 a 6 años
+c) 1 a 5 años
+d) 1 a 3 años
+
+30) Como regla general recogida en el artículo 9.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, ¿Cuál es la duración de las medidas?:
+a) Si el menor tuviera 16 o 17 años de edad, la duración máxima de la medida será de 4 años.
+b) Será el tiempo que estime el Juez de Menores a propuesta del Ministerio Fiscal
+c) No podrá exceder de dos años.
+d) Si el menor tuviere 14 o 15 años de edad, la medida no podrá exceder de 3 años. 
+
+31) Según la Ley Orgánica 5/2000, ¿Qué requisitos debe observar el Ministerio Fiscal para poder desistir de la incoación del expediente por corrección en el ámbito educativo?:
+a) Los hechos denunciados constituyan delitos leves o delitos de cualquier gravedad.
+b) El informe del Equipo Técnico sea preceptivo y vinculante.
+c) El hecho se haya cometido sin violencia o intimidación en las personas.
+d) El menor haya cometido con anterioridad otros hechos de la misma naturaleza.
+
+32) ¿Pueden los menores internados en régimen cerrado disfrutar de permisos ordinarios de salida?:
+a) No, en ningún caso.
+b) Sí, con autorización del Ministerio Fiscal, pasado el primer mes de internamiento
+c) Sí, una vez cumplido el primer tercio del periodo de internamiento.
+d) Sí, una vez cumplida la mitad del periodo de internamiento.
+
+33) ¿Cuál es el tiempo máximo de detención de un menor?:
+a) 72 horas
+b) 48 horas
+c) 36 horas
+d) 24 horas.
+
+34) En la Ley Orgánica 5/2000, de 12 de Enero, ¿Cómo se llama el compromiso que asume el menor con la víctima, de realizar determinadas acciones en beneficio de aquélla o de la comunidad, seguido de su realización efectiva?:
+a) Conciliación
+b) Reparación
+c) Mediación
+d) Compensación
+
+35) De acuerdo con la Ley Orgánica 5/2000, de 12 de Enero, una vez firmada la sentencia y aprobado el programa de ejecución de la medida impuesta, la liquidación de la medida será practicada por:
+a) El Juez de Menores.
+b) El responsable competente de la Comunidad Autónoma donde se sitúe el Juzgado de Menores que haya dictado la sentencia.
+c) El Letrado de la Administración de Justicia del Juzgado de Menores que hubiera dictado la sentencia.
+d) El responsable competente de la Comunidad Autónoma donde se hay acometido el delito.
+
+36) De acuerdo con la Ley Orgánica 5/2000, de 12 de Enero, corresponde la instrucción de los procedimientos por los hechos cometidos de las personas mayores de 14 años y menores de 18 por la comisión de hechos tipificados como delito o delito leve en el CP:
+a) El Juez de Menores.
+b) El Juez de Instrucción.
+c) El Juez de Guardia.
+d) El Ministerio Fiscal.

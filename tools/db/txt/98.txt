@@ -1,0 +1,599 @@
+1) Si se solicita la excedencia voluntaria por interés particular podrá durar esta situación de modo continuado: T95
+a) Quince años como máximo y mínimo dos
+b) Diez años como máximo y mínimo tres
+c) Diez años como máximo y mínimo de dos
+d) Tres años como mínimo, prorrogable por otros tres años
+
+2) La función de un Tramitador Procesal es incompatible con: T95
+a) La docencia jurídica
+b) La publicación científica
+c) La creación literaria
+d) El ejercicio de funciones periciales ante Juzgados y Tribunales
+
+3) Cuando un Tramitador Procesal solicita licencia por asuntos propios, ¿qué retribución percibe?: T95
+a) El total de retribuciones, si no excede de tres meses
+b) El cincuenta por ciento del total de retribuciones
+c) El veinticinco por ciento de las retribuciones básicas
+d) Ninguna retribución
+
+4) La jubilación forzosa de los Tramitadores Procesales se produce a los: T95
+a) 62 años
+b) 65 años
+c) 67 años
+d) 70 años
+
+5) Para los Tramitadores Procesales, la pérdida de la nacionalidad española es causa: T95
+a) De suspensión temporal hasta su recuperación
+b) De inhabilitación
+c) De suspensión definitiva
+d) De excedencia forzosa
+
+6) Un Auxilio Judicial reingresado, procedente de una excedencia voluntaria por interés particular, no podrá pedir una excedencia voluntaria por pertenecer a otro Cuerpo de la Administración: A95
+a) Hasta haber completado cinco años de servicios efectivos en cualquiera de las Administraciones Públicas.
+b) Hasta haber completado tres años de servicios efectivos en el Cuerpo de Auxilio Judicial
+c) Hasta haber completado tres años de servicios efectivos en la Administración
+d) Podrá hacerlo desde el mismo momento de su incorporación
+
+7) Al Médico Forense, mientras esté en activo, se le prohíbe: T98
+a) Emitir certificados médicos de defunción relacionados con la normativa sobre policía sanitaria mortuoria
+b) Asistir y vigilar facultativamente a los lesionados o enfermos que se hallen bajo su jurisdicción.
+c) Emisión de informes y dictámenes a solicitud del Oficinas del Registro Civil
+d) Asistir técnicamente a las Fiscalía
+
+8) El Auxilio Judicial está obligados a poner en conocimiento del Juez o Presidente las causas que en él concurran y que pudieran justificar su abstención en el pleito o causa: T98
+a) Sí, en todo caso
+b) No, porque las causas de abstención y recusación sólo afectan a Jueces, Magistrados, Ministerio Fiscal y Secretarios Judiciales
+c) Sí, cuando se trate exclusivamente de intervención de parientes del Auxilio Judicial en el pleito o causa
+d) Sí, debe comunicarlo, pero en ningún caso procede su abstención en la causa o pleito.
+
+9) Conforme a la LOPJ, los Auxilios Judiciales pueden compatibilizar el ejercicio de sus funciones propias con: A98
+a) El empleo al servicio de Procurador
+b) La condición de Agente de Seguros
+c) La de Gestor Administrativo
+d) La docencia
+
+10) Durante el disfrute de la licencia de asuntos propios, el Auxilio Judicial se encontrará en situación de: A98
+a) Servicios especiales
+b) Excedencia voluntaria
+c) Excedencia forzosa
+d) Servicio activo
+
+11) Conforme a la LOPJ, los Auxilios Judiciales pierden la condición de funcionarios por: A98
+a) Pérdida de la vecindad civil de la Comunidad Autónoma donde presten sus servicios
+b) Excedencia forzosa
+c) Suspensión de carácter definitivo
+d) Imposición por los tribunales, con carácter firme, de la pena de inhabilitación
+
+12) Señale las situaciones administrativas en que el periodo de permanencia en ellas es computable a efectos de trienios y derechos pasivos: G99
+a) En situación de servicios especiales, de excedencia forzosa y de excedencia para cuidado de hijos
+b) En situación de servicios especiales y de excedencia forzosa, pero no en situación de excedencia para cuidado de hijos
+c) En situación de servicios especiales y de excedencia para cuidado de hijos, pero no en situación de excedencia forzosa
+d) En situación de excedencia forzosa y de excedencia para cuidado de hijos, pero no en situación de servicios especiales
+
+13) Los funcionarios al servicio de la Administración de Justicia tienen derecho a un permiso en caso de enfermedad grave de un familiar en las siguientes condiciones; Dos días en la misma localidad y... G99
+a) Cinco días en distinta localidad, tratándose de familiares dentro del cuarto grado de consanguinidad o del segundo grado de afinidad
+b) Cuatro en distinta localidad, tratándose de familiares dentro del cuarto grado de consanguinidad o del segundo grado de afinidad
+c) Cinco en distinta localidad, tratándose de familiares dentro del segundo grado de consanguinidad o de afinidad
+d) Cuatro en distinta localidad, tratándose de familiares dentro del segundo grado de consanguinidad o de afinidad.
+
+14) Indique a quién corresponde autorizar a un Gestor Procesal de la Administración de Justicia para ejercer una actividad privada: G99 –mod-
+a) Al Ministerio de Justicia o, en su caso, al órgano competente de la Comunidad Autónoma en cuyo territorio se encuentre destinado.
+b) Al Ministerio de Administraciones Públicas, o en su caso, al órgano competente de la Comunidad Autónoma en cuyo territorio se encuentre destinado.
+c) Al Ministerio de Justicia o, en su caso, al órgano competente de la Comunidad Autónoma con competencias asumidas en cuyo territorio se encuentre destinado.
+d) Al Presidente del Tribunal Superior de Justicia al que depende el órgano donde se encuentre destinado.
+
+15) Las Gestoras Procesales de la Administración de Justicia embarazadas tienen derecho a una licencia de dieciséis semanas o dieciocho en caso de parto múltiple. La solicitud de licencia se dirige a: G99
+a) Presidente, Fiscal, Juez o Jefe respectivo en la Comunidad Autónoma
+b) Secretario Judicial o jefe del Organismo en que estuvieran destinadas
+c) Jefe de Personal o Director del Organismo correspondiente
+d) Ministerio de Justicia u órgano competente de las Comunidades Autónomas con competencias asumidas.
+
+16) Las licencias por enfermedad de los funcionarios de los Cuerpos al Servicio de la Administración de Justicia darán lugar:
+a) A plenitud de derechos económicos, durante los 6 primeros meses.
+b) A percibir el 50% de las retribuciones tanto básicas y complementarias, desde el primer al tercer día de la situación de incapacidad laboral.
+c) A percibir el 75% de las retribuciones tanto básicas y complementarias, desde el cuarto al vigésimo, ambos inclusive.
+d) A percibir la totalidad de las retribuciones básicas, desde el vigésimo primero hasta el ciento ochenta, ambos inclusive.
+
+17) Si de los días de asuntos particulares no se disfrutan antes de finalizar el mes de diciembre, por razón de servicio, ¿cuándo se podrán disfrutar?: T99
+a) Se pierde el derecho a disfrutarlos
+b) En el mes de enero del año siguiente
+c) Hasta el 31 de enero del año siguiente
+d) En los días que solicite el interesado dentro de los tres meses siguientes
+
+18) El ingreso en el Cuerpo de Auxilio Judicial de la Administración de Justicia, se efectuará: T99
+a) En dos turnos
+b) Mediante pruebas selectivas
+c) Mediante concurso restringido y pruebas selectivas
+d) Mediante concurso de méritos
+
+19) La resolución determinando la jornada laboral y horario de trabajo para el personal de la Administración de Justicia radicado en el ámbito gestionado por el Ministerio de Justicia, será aprobada por: T99 -mod
+a) El órgano competente del Ministerio de Justicia
+b) El Ministerio de Justicia, o en su caso, la Comunidad Autónoma con competencias asumidas.
+c) Director General de Relaciones con la Administración de Justicia
+d) El Consejo General del Poder Judicial
+
+20) Según la LOPJ, cuando le sea imposible asistir al trabajo por razón de enfermedad, los funcionarios deberán solicitar de la autoridad competente la licencia por enfermedad: A99-mod
+a) Durante la jornada la laboral del día en que ésta se produzca
+b) Al día siguiente de la jornada laboral en que se produjo la ausencia en el puesto de trabajo
+c) En el 3o día consecutivo desde que se produjo la ausencia en el puesto de trabajo
+d) En el 4o día consecutivo desde que se produjo la ausencia en el puesto de trabajo.
+
+21) El permiso por nacimiento para la madre biológica, en caso de múltiple se ampliará: T00
+a) En una semana más por cada hijo o hija a partir del segundo, una para cada uno de los progenitores.
+b) En dos semanas más por cada hijo o hija a partir del segundo, una para cada uno de los progenitores
+c) En dos semanas más por cada hijo o hija a partir del segundo, para la madre biológica.
+d) No se ampliará
+
+22) El derecho a una hora de ausencia del trabajo por lactancia de un hijo menor de doce meses: T00-mod
+a) Sólo puede ser disfrutado por los trabajadores
+b) Sólo puede ser disfrutado por el padre si la madre fallece
+c) Puede ser disfrutado indistintamente por el padre o la madre en caso de que ambos trabajen
+d) Constituye un derecho individual de los funcionarios.
+
+23) Cuando un Auxilio Judicial adquiera la condición de funcionario de una Organización Internacional pasará, en su cuerpo de origen, a la situación administrativa de... T00
+a) Servicio activo
+b) Excedencia voluntaria
+c) Excedencia forzosa
+d) Servicios especiales
+
+24) Cuando un funcionario de carrera sea autorizado para realizar una misión por un periodo determinado de seis meses en programas de cooperación internacional, pasará, en su cuerpo de origen, a la situación administrativa de...
+a) Servicio activo
+b) Excedencia voluntaria
+c) Excedencia forzosa
+d) Servicios especiales
+
+25) El Auxilio Judicial que se traslade de domicilio sin cambio de residencia, tiene derecho a un permiso por máximo de... A00
+a) Tres días
+b) Ocho días
+c) Un día
+d) Diez días
+
+26) ¿En qué situación administrativa se encuentran los Auxilios Judiciales destinados en el Tribunal de Cuentas? A00
+a) Servicio activo
+b) Excedencia forzosa
+c) Excedencia especial
+d) Servicios especiales
+
+27) ¿Cuál es la licencia por razón de matrimonio a la que tienen derecho los Auxilios Judiciales? A00
+a) 15 días
+b) 20 días
+c) Un mes
+d) 10 días
+
+28) Los Gestores Procesales en situación de servicios especiales tienen derecho a:
+a) Que no se les compute, a ningún efecto, el tiempo de permanencia en tal situación
+b) Recibir la retribución del cargo efectivo que desempeñen y no la que les corresponda como funcionarios, incluido el derecho a percibir los trienios que tuviesen reconocidos.
+c) Reincorporarse al servicio activo sin necesidad de realizarlo en un plazo determinado
+d) Reserva de un puesto de trabajo en la misma localidad
+
+29) Para concurrir a la realización de exámenes finales en centros oficiales, los Gestores Procesales de la Administración de Justicia pueden obtener: G01
+a) Una licencia por asuntos propios
+b) Un permiso por causa justificada
+c) Una licencia de estudios
+d) Un permiso de asuntos particulares
+
+30) Por enfermedad grave de un familiar de segundo grado de consanguinidad, que resida en la misma localidad que el Tramitador Procesal de la Administración de Justicia, se le concederá un permiso de: T01
+a) Dos días
+b) Cuatro días
+c) Tres días
+d) Cinco días
+
+31) Por la lactancia de un hijo menor de 12 meses, se tiene derecho diariamente: T01-mod
+a) A una hora de ausencia en el trabajo, constituyendo este permiso un derecho individual de los funcionarios.
+b) A una hora de ausencia en el trabajo, ejercido indistintamente por uno u otro de los progenitores, en el caso de que ambos trabajen.
+c) A la reducción de jornada de una hora al inicio de la jornada y otro al final de la jornada a la madre trabajadora.
+d) A la reducción de la jornada por una hora al inicio y otro al final de la jornada, ejercido indistintamente por uno u otro de los progenitores, en el caso de que ambos trabajen.
+
+32) Si un Gestor Procesal de la Administración de Justicia adopta un niño de 4 años, tendrá derecho a un permiso por adopción de una duración máxima de: G02-mod
+a) Dieciséis semanas, de los cuales seis semanas inmediatas posteriores al hecho causante serán en todo caso de descanso obligatorio.
+b) Seis semanas ininterrumpidas
+c) Dieciséis semanas ininterrumpidas
+d) No tiene derecho a ningún permiso, por superar el niño los tres años de edad
+
+33) El puesto de Gestor Procesal de la Administración de Justicia es incompatible con el desempeño de servicios de gestoría administrativa: G02
+a) Como titular de tales oficinas, pero no como empleado de las mismas
+b) Cuando se presten servicios efectivos de gestoría administrativa, pero no como titulares de la oficina
+c) Como titular o como empleado de tales oficinas
+d) Solo cuando se trate de asuntos que tengan relación con la actividad de los órganos judiciales.
+
+34) Un Auxilio Judicial de la Administración de Justicia destinado en el Juzgado de Primera Instancia 58 de Madrid, ha obtenido una autorización para realizar una misión como cooperante de la UNESCO, durante ocho meses, en Somalia. ¿En qué situación quedará?: A02
+a) Pasará a situación de servicios especiales
+b) Pasará directamente a la situación de excedencia forzosa, previa aceptación del cargo
+c) Deberá solicitar previamente excedencia voluntaria y obtener su concesión
+d) Se mantendrá en situación de servicio activo manteniendo sus derechos íntegramente.
+
+35) El funcionario que se encontrare en periodo de excedencia para el cuidado de hijos y que antes de finalizar dicho periodo, no hubiera solicitado el reingreso, será declarado de oficio: T02
+a) En situación de suspensión provisional
+b) En situación de excedencia forzosa
+c) En situación de excedencia voluntaria por interés particular
+d) En situación de servicios especiales
+
+36) ¿Qué permiso reconoce el EBEP al progenitor, en caso de fallecimiento de la madre en el momento del parto de su hijo?: T03 -mod
+a) El permiso por parto que restase a su esposa por disfrutar, hasta entonces
+b) Un permiso de dieciocho semanas ininterrumpidas
+c) Una excedencia para cuidado del hijo no superior a tres años
+d) Únicamente, un permiso por las seis semanas posteriores al parto
+
+37) Un Auxilio Judicial de la Administración de Justicia que pase a desempeñar funciones en el Tribunal de Cuentas: A03
+a) Tiene un derecho a la reserva de plaza y del destino que venía ocupado
+b) Deberá esperar dos años para recuperar su plaza
+c) Tiene derecho a la reserva de su plaza, pero perderá el destino.
+d) Deberá esperar cinco años para recuperar su plaza.
+
+38) El Gestor Procesal de la Administración de Justicia que se encuentre en situación de excedencia para cuidado de un hijo tendrá derecho a reserva del puesto de trabajo que desempeñe durante: G03-mod.
+a) El primer año de excedencia a contar desde su concesión
+b) Los dos primeros años de la vida del hijo
+c) Todo el tiempo en que permanezca en esta situación
+d) Ninguna de las respuestas anteriores es correcta.
+
+39) La licencia inicial por enfermedad no puede ser superior a: A09
+a) Quince días
+b) Veinte días
+c) Treinta días
+d) Un mes
+
+40) El periodo mínimo de permanencia en situación de excedencia voluntaria por interés particular, cuando sea a petición del interesado, es de: A09
+a) Un año
+b) Dos años continuados
+c) Cinco años continuados
+d) No hay periodo mínimo
+
+41) ¿En qué situación administrativa se encontrará un funcionario que haya sido nombrado Subdirector General?
+a) Servicio activo
+b) Servicios especiales
+c) Podrá optar por servicio activo o servicios especiales
+d) Excedencia voluntaria por interés particular
+
+42) En el año 2019 la duración del permiso diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo/a será de:
+a) 16 semanas
+b) 8 semanas
+c) 5 semanas
+d) 4 semanas
+
+43) Según la LOPJ, señale cuál de las siguientes afirmaciones es incorrecta: G11
+a) Los funcionarios de la Administración de Justicia que hubiesen perdido la condición de tales, como consecuencia de la pérdida de la nacionalidad, podrán ser rehabilitados, una vez desaparecida la causa objetiva que la motivó.
+b) No podrán ser rehabilitados quienes hubiesen perdido la condición de funcionario de la Administración de Justicia por inhabilitación absoluta o especial como pena principal o accesoria o por condena a pena privativa de libertad por razón de delito doloso.
+c) Podrán ser rehabilitados los funcionarios al servicio de la Administración de Justicia que hayan sido separados del servicio como consecuencia de sanción disciplinaria
+d) Los funcionarios de la Administración de Justicia que hubiesen perdido la condición de tales, por incapacidad permanente para el servicio, podrán ser rehabilitados una vez desaparecida la causa objetiva que la motivó.
+
+44) Según el artículo 495 de la LOPJ, el Mutualismo Judicial se aplica a: A11
+a) Los funcionarios de carrera, exclusivamente
+b) Los funcionarios de carrera y los funcionarios en prácticas, exclusivamente
+c) Los funcionarios de carrera y los funcionarios interinos, exclusivamente
+d) Los funcionarios de carrera, los funcionarios en prácticas y los funcionarios interinos.
+
+45) Indique en cuál de los siguientes supuestos un funcionario del Cuerpo de Auxilio Judicial no se encuentra en situación de servicios especiales: A11
+a) Cuando adquiera la condición de funcionario al servicio de Organismos internacionales
+b) Cuando por razón de su condición de funcionario preste servicios en organismos o ente públicos
+c) Cuando sea nombrado miembro del Gobierno
+d) Cuando sea nombrado Secretario General Técnico
+
+46) Señale la respuesta falsa: quedan exceptuadas del régimen de incompatibilidades de los funcionarios del Cuerpo de Auxilio Judicial las actividades siguientes: A11
+a) El desempeño de actividades privadas no relacionadas directamente con las que desarrolle en el Departamento donde estuviera destinado
+b) El dictado de cursos en centros oficiales destinados a la formación de funcionarios, cuando no tenga carácter permanente o habitual ni supongan más de 75 horas al año
+c) La preparación para el acceso a la Función Pública, en los casos y forma que reglamentariamente se determine
+d) El ejercicio del cargo de Presidente, Vocal o miembro de Juntas Rectoras de Mutualidades o Patronatos de Funcionarios, siempre que no sea retribuido
+
+47) La Comisión de Selección de Personal será nombrada mediante Orden del Ministro de Justicia y estará formada por: A12
+a) Cinco vocales representantes del Ministerio de Justicia y cinco representantes de las Comunidades Autónomas con traspasos recibidos
+b) Cuatro vocales representantes del Ministerio de Justicia y cuatro representantes de las Comunidades Autónomas con traspasos recibidos
+c) Cinco vocales representantes del Ministerio de Justicia y cuatro representantes de las Comunidades Autónomas con traspasos recibidos
+d) Cuatro vocales representantes del Ministerio de Justicia y tres representantes de las Comunidades Autónomas con traspasos recibidos
+
+48) ¿Puede un Médico Forense realizar funciones como Médico de empresa? A12
+a) No, en ningún caso
+b) Sí, en todo caso
+c) Sí, si obtiene el reconocimiento de compatibilidad
+d) Sí, si desempeña un puesto que no sea de dedicación exclusiva, sin necesidad de solicitar el reconocimiento de compatibilidad
+
+49) De conformidad con el artículo 502.2 de la LOPJ, las vacaciones se disfrutarán en el ámbito Ministerio de Justicia: T12-modificado
+a) Dentro del año natural y hasta el 15 de enero del año siguiente
+b) Dentro del año natural
+c) Dentro del año natural y hasta el 31 de enero del año siguiente
+d) Dentro del año judicial y hasta el 15 de enero del año siguiente
+
+50) A efectos de trienios, el Estatuto Básico del Empleado Público dispone que las funcionarias víctimas de violencia de género será computable:
+a) Durante los seis primeros meses
+b) Los dos primeros años.
+c) Hasta un máximo de dieciséis meses, cuando las actuaciones judiciales lo exigieran.
+d) Seis meses, se podrá prorrogar otros seis meses más.
+
+51) Según el artículo 89 del Estatuto Básico del Empleado Público, salvo que una Ley de Función Pública que se dicte en desarrollo del mismo establezca otra duración, para que un funcionario de carrera pueda obtener la excedencia voluntaria por interés particular debe haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:
+a) 4 años inmediatamente anteriores a la petición de la concesión de la excedencia
+b) 5 años inmediatamente anteriores a la petición de la concesión de la excedencia
+c) 4 años, sea cual sea el tiempo de su prestación
+d) 5 años, sea cual sea el tiempo de su prestación
+
+52) Según el Estatuto Básico del Empleado Público, las funcionarias víctimas de violencia de género tendrán derecho a solicitar la excedencia por razón de violencia de género:
+a) Sin tener que haber prestado un tiempo mínimo deservicios previos
+b) Siempre que tengan en la Administración Pública una antigüedad de un año
+c) Siempre que tengan en la Administración Pública una antigüedad de dos años
+d) Siempre que tengan en la Administración Pública una antigüedad de 18 meses
+
+53) Según el artículo 48 del Texto Refundido del Estatuto Básico del Empleado Público, el funcionario que tenga que atender a un familiar de primer grado por razones de enfermedad muy grave tendrá derecho a solicitar una reducción de hasta el 50% de la jornada laboral, con carácter retribuido, y por un plazo máximo de:
+a) Un mes
+b) Tres meses
+c) Dos meses
+d) Por el tiempo que dure la enfermedad
+
+54) Según la LOPJ, los Tribunales Calificadores gozarán:
+a) De autonomía funcional y responderán de la objetividad del procedimiento y del cumplimiento de las normas contenidas en el Real Decreto 1451/2005.
+b) De autonomía funcional y responderán de la objetividad del procedimiento y del cumplimiento de las normas contenidas en la convocatoria.
+c) De independencia funcional y responderán de la objetividad del procedimiento y del cumplimiento de las normas contenidas en el Real Decreto 1451/2005.
+d) De independencia funcional y responderán de la objetividad del procedimiento y del cumplimiento de las normas contenidas en la convocatoria.
+
+55) Según el artículo 501 de la LOPJ, ¿Quién determinará el número de funcionarios que han de prestar el servicio de guardia?:
+a) El Ministerio de Justicia y las Comunidades Autónomas con competencias asumidas.
+b) El Consejo General del Poder Judicial oído el Ministerio de Justicia y las Comunidades Autónomas con competencias asumidas.
+c) El Ministerio de Justicia y las Comunidades Autónomas con competencias asumidas, previa negociación con las organizaciones sindicales.
+d) El Consejo General del Poder Judicial oído al Ministerio de Justicia y las Comunidades Autónomas con competencias asumidas y a las organizaciones sindicales.
+
+56) Según el artículo 502 de la LOPJ, los funcionarios tendrán derecho a disfrutar de unas vacaciones retribuidas:
+a) De un mes
+b) De veintitrés días hábiles
+c) De los días que correspondan proporcionalmente si el tiempo de servicio durante el año fuera menor.
+d) Ninguna respuesta es correcta.
+
+57) Según la disposición transitoria novena del Real Decreto-Ley 6/2019, en el año 2020, la duración del permiso del progenitor diferente de la madre biológica por nacimiento será de:
+a) 8 semanas, las 2 primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento.
+b) 10 semanas, las 3 primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento.
+c) 12 semanas, las 4 primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento.
+d) 16 semanas, las 6 primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento.
+
+58) En relación a la jornada y horarios, señale cuál de las siguientes afirmaciones es incorrecta, conforme a lo establecido en la Ley Orgánica 6/1985 del Poder Judicial: G12
+a) El Ministerio de Justicia, oído el Consejo General del Poder Judicial, determinará los órganos jurisdiccionales y otros servicios de la Administración de Justicia que han de permanecer en servicio de guardia
+b) El Ministerio de Justicia y las Comunidades Autónomas en sus respectivos ámbitos territoriales garantizarán la asistencia necesaria a los órganos o servicios judiciales en funciones de guardia
+c) La incorporación de los funcionarios al servicio de la Administración de Justicia, a la jornada de mañana y tarde será voluntaria y deberá ir acompañada de medidas incentivadoras
+d) Se podrán establecer jornadas sólo de mañana o jornadas de mañana y tarde para determinados servicios u órganos jurisdiccionales.
+
+59) Indique cuál de las siguientes modalidades está contemplada como excedencia de los funcionarios en el artículo 89 del Estatuto Básico del Empleado Público:
+a) Excedencia forzosa
+b) Excedencia voluntaria por servicios en el sector público
+c) Excedencia por razón de violencia de género
+d) Excedencia por servicio en Comunidades Autónomas.
+
+60) Según el Texto Refundido del Estatuto Básico del Empleado Público, en caso de parto prematuro, el permiso por nacimiento de la madre biológica se ampliará como máximo:
+a) 16 semanas adicionales
+b) 13 semanas adicionales
+c) 12 semanas adicionales
+d) 6 semanas adicionales
+
+61) Según el Texto Refundido del Estatuto Básico del Empleado Público, en los casos de adopción internacional, si fuera necesario el desplazamiento al país de origen tendrá derecho:
+a) El permiso de adopción tendrá una duración de 16 semanas ininterrumpidas.
+b) Además, a un permiso de 2 meses de duración.
+c) A percibir durante este periodo las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.
+d) Durante el disfrute de este permiso se podrá participar en los cursos de formación que convoque la Administración, salvo las 6 primeras semanas de descanso obligatorio.
+
+62) Según el artículo 594 de la Ley Orgánica del Poder Judicial, la rehabilitación procedente de jubilación por incapacidad permanente para el personal al servicio de la Administración de Justicia, en una Comunidad Autónoma con competencias asumidas, será acordada, en todo caso por:
+a) El Ministerio de Justicia.
+b) El Ministro de Justicia
+c) El órgano competente del Ministerio de Justicia
+d) El órgano competente de la Comunidad Autónoma
+
+63) Según el Texto Refundido del Estatuto Básico del Empleado Público, el permiso de maternidad tendrá una duración de:
+a) 16 semanas ininterrumpidas
+b) 16 semanas
+c) 13 semanas ininterrumpidas
+d) Correcta es la opción b), pero el permiso es por nacimiento para la madre biológica.
+
+64) De conformidad con el artículo 503 de la Ley Orgánica del Poder Judicial, por causas justificadas, los funcionarios tendrán derecho:
+a) A iguales permisos y licencias, con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado.
+b) A iguales permisos y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado.
+c) A iguales licencias y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado.
+d) A iguales permisos y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado, con excepción del permiso por asuntos particulares.
+
+65) Entre las situaciones administrativas contempladas en el artículo 506 de la LOPJ no se encuentra: G16
+a) Servicios especiales.
+b) Comisión de servicios.
+c) Excedencia voluntaria por agrupación familiar.
+d) Suspensión de funciones.
+
+66) Respecto a los funcionarios al servicio de la Administración de Justicia en servicios especiales, la LOPJ establece que: G16
+a) En ningún caso podrán asesorar pericialmente a órganos jurisdiccionales mientras permanezcan en servicios especiales.
+b) Se les computará en todo caso el tiempo que permanezcan en servicios especiales, a efectos de trienios y derechos pasivos.
+c) En todo caso tendrán derecho a reserva de un puesto de trabajo en la misma localidad, en condiciones y con retribuciones similares a las que disfrutaban al pasar a servicios especiales.
+d) Entre otros supuestos, serán declarados en servicios especiales siempre que pasen a prestar sus servicios en el Tribunal Constitucional, en el Consejo General del Poder Judicial y en el Tribunal de Cuentas.
+
+67) Según el artículo 509 de la Ley Orgánica del Poder Judicial, en caso de excedencia por cuidado de un familiar se reserva el puesto desempeñado: A16
+a) Solamente el primer año
+b) Solamente los primeros seis meses
+c) Al menos dos años
+d) Siempre por el periodo de su duración.
+
+68) Según el artículo 519 de la Ley Orgánica del Poder Judicial, la cuantía de las retribuciones por antigüedad de los Cuerpos de la Administración de Justicia consistirá en: A16
+a) Un tres por ciento del sueldo por cada tres años de servicio
+b) Un cinco por ciento del sueldo por cada tres años de servicio
+c) Un tres por ciento del sueldo y de las retribuciones complementarias por cada tres años de servicio
+d) Un cinco por ciento del sueldo y de las retribuciones complementarias por cada tres años de servicio
+
+69) Por ser preciso atender a un familiar de primer grado, el funcionario tendrá derecho a solicitar reducción de hasta el 50% de la jornada laboral, por razones de enfermedad muy grave, por un plazo máximo de: A16
+a) Un mes con carácter retribuido
+b) Dos meses con carácter retribuido
+c) Un mes con reducción del 50% del sueldo
+d) Dos meses con reducción del 50% del sueldo
+
+70) Según el artículo 504 de la Ley Orgánica del Poder Judicial, los funcionarios podrán disfrutar de licencias por asuntos propios sin derecho a retribución alguna, cuya duración acumulada no podrá, en ningún caso, exceder de: A16
+a) Seis meses cada dos años de servicios efectivos
+b) Cuatro meses cada dos años de servicios efectivos
+c) Tres meses cada dos años de servicios efectivos
+d) Cinco meses cada dos años de servicios efectivos.
+
+71) Los funcionarios de los Cuerpos al Servicio de la Administración de Justicia en situación de incapacidad temporal por contingencias comunes, percibirán desde el cuarto día de la situación de incapacidad temporal y hasta el vigésimo, ambos inclusive: T16
+a) El 60% de las retribuciones tanto básicas como complementarias, como, en su caso, la prestación por hijo a cargo.
+b) El 50% de las retribuciones tanto básicas como complementarias, como, en su caso, la prestación por hijo a cargo.
+c) La plenitud de derechos económicos durante los 6 primeros meses desde la fecha en que se solicitó la licencia inicial.
+d) El 75% de las retribuciones tanto básicas como complementarias, como, en su caso, la prestación por hijo a cargo.
+
+72) El ejercicio de cualquier actividad de los funcionarlos al servicio de la Administración de Justicia que requiera declaración de compatibilidad, exigirá según la LOPJ, la previa autorización del: T16
+a) Presidente del Tribunal Superior de Justicia.
+b) Consejo General del Poder Judicial.
+c) Ministerio de Administración Pública.
+d) Ministerio de Justicia o Comunidad Autónoma con competencias asumidas.
+
+73) La LOPJ establece que los funcionarios al Servicio de la Administración de Justicia tendrán derecho a una excedencia para atender al cuidado de cada hijo: T16
+a) Por un periodo no superior a tres años
+b) Por un periodo no superior a seis años
+c) Por un periodo no superior a dos años
+d) Por un periodo no superior a un año.
+
+74) Según la LOPJ, los cambios de situaciones administrativas del personal al servicio de la Administración de Justicia deberán ser comunicados: T16
+a) Al Registro de personal del Tribunal Superior de Justicia
+b) Al Registro de personal del CGPJ
+c) Al Registro Central de Personal a que se refiere el artículo 481, para su anotación y podrán tener lugar, siempre que reúnan los requisitos exigidos en cada caso, sin necesidad de reingreso previo al servicio activo.
+d) Ninguna es correcta
+
+75) El artículo 500 de la LOPJ dispone que la duración de la jornada general semanal será igual a la establecida para: T16
+a) Los funcionarios de la Administración General del Estado
+b) El personal laboral independientemente de la Administración donde desempeñe su función
+c) Los funcionarios de la Administración Autonómica de la que dependan
+d) Los funcionarios de la Administración Local
+
+76) Según el Texto Refundido del Empleado Público, el disfrute del progenitor diferente de la madre biológica por el nacimiento de un hijo, será:
+a) Ininterrumpido, en todo caso.
+b) Ininterrumpido, salvo la última semana
+c) Independiente del disfrute compartido en el permiso por parto, salvo el permiso de adopción.
+d) Ininterrumpidas las 6 primeras semanas e inmediatamente posteriores a la fecha del nacimiento.
+
+77) Según el artículo 48 TREBEP, en los casos de adopción o acogimiento, o guarda con fines de adopción, los funcionarios públicos tendrán permiso por el tiempo indispensable:
+a) Para la asistencia a las facultativas sesiones de información y preparación, que deban realizar dentro de la jornada de trabajo.
+b) Para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizar dentro de la jornada de trabajo.
+c) Para la realización de exámenes prenatales.
+d) Para la asistencia a las sesiones de información y preparación, así como a la realización de los informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizar dentro de la jornada de trabajo.
+
+78) Según el artículo 483 de la LOPJ, en caso de que hubieran quedado plazas sin cubrir en alguno de los territorios:
+a) Los aspirantes que hubieran superado el proceso selectivo sin plaza podrán cubrirla.
+b) El Ministerio de Justicia podrá convocar una prueba selectiva adicional con dichas plazas a la que sólo podrán concurrir los aspirantes que hubieren superado el proceso selectivo sin plaza de cualquier territorio.
+c) El Ministerio de Justicia podrá convocar una prueba selectiva adicional con dichas plazas a la que sólo podrán concurrir los aspirantes que hubieren realizado el último ejercicio del proceso anterior.
+d) El Ministerio de Justicia y las Comunidades Autónomas con competencias asumidas, podrán convocar una prueba selectiva con dichas plazas a la que sólo podrán concurrir los aspirantes que hubieren realizado el último ejercicio del proceso anterior.
+
+79) El acceso a los cuerpos generales y especiales de la Administración de Justicia se efectuará a través de los sistemas selectivos:
+a) De oposición, siendo el sistema ordinario de ingreso, o del sistema de concurso- oposición que tendrá carácter excepcional.
+b) De oposición y de concurso-oposición.
+c) De oposición.
+d) De concurso-oposición
+
+80) Señale la respuesta correcta en relación a los procesos de selección para el acceso a los cuerpos generales y especiales de la Administración de Justicia:
+a) Los procesos de selección incluirán la realización de un curso teórico-práctico o de un periodo de prácticas, que podrán tener carácter selectivo
+b) Los aspirantes que no superen el curso teórico-práctico que tuviera o no carácter selectivo, podrán repetirlo en el siguiente, al que se incorporarán con la nueva promoción.
+c) Durante la realización del curso selectivo o en su caso el periodo de prácticas, los aspirantes tendrán consideración de funcionarios en prácticas, con los mismos derechos y obligaciones que los funcionarios de carrera.
+d) Si los aspirantes incorporados al curso de la nueva promoción, tampoco superaren este curso perderán el derecho a su nombramiento como funcionarios de carrera.
+
+81) Según el art. 486 de la LOPJ, se podrán nombrar funcionarios interinos por necesidades de servicio, cuando no sea posible la prestación por funcionario de carrera y siempre que concurra alguna de las siguientes circunstancias: señale la opción correcta.
+a) La existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera.
+b) La sustitución transitoria de los titulares
+c) El exceso o acumulación de asuntos en los órganos judiciales
+d) Todas las opciones anteriores son correctas.
+
+82) Según el art. 486 de la LOPJ, la selección de funcionarios interinos habrá de realizarse con los criterios objetivos que se fijen:
+a) En la Orden Ministerial
+b) En la Disposición de la Comunidad Autónoma que no haya recibido los traspasos de medios personales para el funcionamiento de la Administración de Justicia
+c) En el Real Decreto 1451/2005
+d) En el reglamento que establezca el Ministerio de Justicia
+
+83) Según el art. 486 de la LOPJ, desde el nombramiento del interino nombrado por el exceso o acumulación de asuntos pendientes en los órganos judiciales para su conversión en las relaciones de puestos de trabajo como incremento de plantilla, si se constatará que la necesidad de personal tiene carácter estructural, que plazo deberá transcurrir:
+a) Dos años
+b) Un año
+c) Tres años
+d) Cuatro años
+
+84) Según el art. 486 de la LOPJ, señale el órgano de colaboración entre la Administración General del Estado y las Administraciones de las Comunidades Autónomas con competencias asumidas en materia de provisión de medios materiales, económicos y personales necesarios para la Administración de Justicia:
+a) La Conferencia Sectorial de Administración de Justicia
+b) La Comisión de Recursos Humanos de la Administración de Justicia
+c) La Comisión Sectorial de la Administración de Justicia
+d) La Conferencia de Recursos Humanos de la Administración de Justicia.
+
+85) Según el art. 504 de la LOPJ, en ningún caso los funcionarios adscritos a los regímenes especiales de Seguridad Social gestionados por el mutualismo administrativo podrán percibir una cantidad...
+a) Superior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la Seguridad Social, excluido, en su caso, los complementos que les resulten de aplicación a estos últimos.
+b) Inferior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la Seguridad Social, excluido, en su caso, los complementos que les resulten de aplicación a estos últimos.
+c) Superior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la Seguridad Social,incluido, en su caso, los complementos que les resulten de aplicación a estos últimos.
+d) Inferior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la Seguridad Social, incluido, en su caso, los complementos que les resulten de aplicación a estos últimos.
+
+86) Según el art. 504 de la LOPJ, durante el tiempo de duración de la licencia por enfermedad se aplicará al personal funcionario cualquier incremento retributivo...
+a) Incluido, el abono del perfeccionamiento de los trienios, que pudiera corresponder si se encontrase en esa situación de incapacidad temporal.
+b) Incluido, el abono del perfeccionamiento de los trienios, que pudiera corresponder si no se encontrase en esa situación de incapacidad temporal.
+c) Excluido, el abono de perfeccionamiento de los trienios, que pudiera corresponder si se encontrase en esa situación de incapacidad temporal.
+d) No se aplicará ningún incremento retributivo, mientras se encuentre en situación de incapacidad temporal.
+
+87) Según el art. 48 de TREBEP, se podrá solicitar la sustitución del tiempo de lactancia por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente, está modalidad se podrá disfrutar únicamente...
+a) A partir de finalización del permiso de nacimiento, adopción, guarda o acogimiento.
+b) A partir de la finalización del permiso del progenitor diferente de la madre biológica
+c) Una vez que, desde el nacimiento del menor, haya transcurrido un tiempo equivalente al que comprenden los permisos de nacimiento, adopción, guarda o acogimiento, o del progenitor diferente de la madre biológica.
+d) Todas las respuestas son correctas.
+
+88) Según el art. 48 de TREBEP, el permiso por lactancia de un hijo menor de 12 meses se incrementará en el/los caso/s de...
+a) De parto múltiple.
+b) De parto o de adopción múltiple
+c) De parto, adopción o acogimiento múltiple.
+d) De parto, adopción, guarda con fines de adopción o acogimiento múltiple
+
+89) Según el art. 49 de TREBEP, en el caso de que ambos progenitores trabajen y transcurridas las semanas de descanso obligatorio del permiso por nacimiento para la madre biológica, el periodo de disfrute de este permiso podrá llevarse a cabo a voluntad de aquellos, de manera interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al parto. En el caso del disfrute interrumpido se requerirá, para cada periodo de disfrute, un preaviso de al menos...
+a) 2 semanas y se realizará por semanas completas
+b) 15 días y se realizará por semanas completas
+c) 1 semana y se realizará por semanas completas
+d) 10 días y se realizará por semanas completas.
+
+90) Según el art. 49 de TREBEP, en el supuesto de fallecimiento del hijo o hija, el periodo de duración del permiso por nacimiento para la madre biológica...
+a) No se verá reducido
+b) No se verá reducido, salvo que se solicite la reincorporación al puesto de trabajo.
+c) No se verá recudido, salvo que, una vez finalizadas las semanas de descanso obligatorio, se solicite la reincorporación al puesto de trabajo.
+d) Sí se verá reducido.
+
+91) Según el art. 49 de TREBEP, en el supuesto de fallecimiento del hijo o hija, el periodo de duración del permiso por adopción, por guarda con fines de adopción o acogimiento, tanto temporal como permanente...
+a) No se verá reducido
+b) No se verá reducido, salvo que se solicite la reincorporación al puesto de trabajo.
+c) No se verá recudido, salvo que, una vez finalizadas las semanas de descanso obligatorio, se solicite la reincorporación al puesto de trabajo.
+d) Sí, se verá reducido.
+
+92) Según el art. 49 de TREBEP, durante el disfrute del permiso por nacimiento para la madre biológica, ¿se podrá participar en los cursos de formación que convoque la Administración?:
+a) Sí, una vez finalizado el periodo de descanso obligatorio
+b) Sí
+c) No.
+d) SÍ, una vez finalizado un periodo de descanso de 5 semanas.
+
+93) Según el art. 49 de TREBEP, durante el disfrute del permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija, ¿se podrá participar en los cursos de formación que convoque la Administración?:
+a) Sí, transcurridas las 6 primeras semanas ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento
+b) Sí
+c) No.
+d) SÍ, una vez finalizado un periodo de descanso de 5 semanas,
+
+94) Según el art. 49 de TREBEP, en el caso de que se optará por el disfrute del permiso del progenitor diferente de la madre biológica por nacimiento con posterioridad a la semana 16 del permiso de nacimiento, si el progenitor que disfruta de éste último permiso hubiere solicitado la acumulación del tiempo de lactancia de un hijo menor de 12 meses en jornadas completas, será a la finalización de este periodo cuando se dará inicio al cómputo de las...
+a) 12 semanas restantes del permiso del progenitor diferente de la madre biológica.
+b) 10 semanas restantes del permiso del progenitor diferente de la madre biológica.
+c) 9 semanas restantes del permiso del progenitor diferente de la madre biológica.
+d) 6 semanas restantes del permiso del progenitor diferente de la madre biológica.
+
+95) Según el artículo 489bis de la LOPJ, componen la Comisión de Recursos Humanos de la Administración de Justicia:
+a) Los titulares de aquéllos órganos directivos con competencia en materia de recursos humanos de la Administración General del Estado y de las Administraciones de las Comunidades Autónomas con competencias asumidas en materia de Justicia.
+b) Los directores de las Gerencias Territoriales del Ministerio de Justicia 
+c) El Director General de Relaciones con la Administración de Justicia y los directores de las Gerencias Territoriales del Ministerio de Justicia
+d) Los titulares de aquéllos órganos directivos con competencias en materia de recursos humanos del Ministerio de Justicia y de las Administraciones de las Comunidades Autónomas con competencias asumidas en materia de Justicia
+
+96) Según TREBEP, el permiso por adopción, podrá indiciarse:
+a) Hasta 4 semanas antes de la resolución judicial por la que se constituya la adopción, para todos los supuestos
+b) Hasta 2 meses antes de la resolución judicial por la que se constituya la adopción, para el supuesto de ser necesario el desplazamiento previo de los progenitores al país de origen del adoptado.
+c) Hasta 4 semanas antes de la resolución judicial por la que se constituya la adopción, para el supuesto de ser necesario el desplazamiento previo de los progenitores al país de origen del adoptado.
+d) Sólo a partir de la resolución judicial por la que se constituya la adopción
+
+97) En los supuestos de adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, previstos en el artículo 49 del TREBEP, serán los que así se establezcan en el Código Civil o en las leyes civiles de las Comunidades Autónomas que los regulen, debiendo tener el acogimiento temporal una duración no inferior a...
+a) 2 años
+b) 1 año
+c) 9 meses
+d) 3 años.
+
+98) Los funcionarios que hayan hecho uso del permiso por nacimiento, adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, tendrán derecho, una vez finalizado el periodo de permiso, a reintegrarse a su puesto de trabajo en términos y condiciones que...
+a) No les resulten menos favorables al disfrute del permiso
+b) Les resulten más favorables al disfrute del permiso
+c) Les resulten más favorables y beneficiarse algunas mejoras en las condiciones de trabajo a las que hubieran podido tener derecho durante su ausencia.
+d) No les resulten más favorables al disfrute del permiso
+
+99) En el supuesto de que las funcionarias víctimas de violencia sobre la mujer, utilice el derecho a la reducción de la jornada, la funcionaria pública...
+a) Disminuirá proporcionalmente sus retribuciones.
+b) Mantendrá sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos
+c) Mantendrá sus retribuciones íntegras cuando reduzca su jornada en la mitad o menos
+d) Mantendrá sus retribuciones íntegras durante un plazo de un mes.
+
+100) Según la Disposición Adicional 14a del TREBEP, ¿Cuantos días adicionales de vacaciones por antigüedad podrá cada Administración Pública, en función del tiempo de servicios prestados por los funcionaros públicos?:
+a) 5 días
+b) 3 días
+c) 4 días
+d) 6 días

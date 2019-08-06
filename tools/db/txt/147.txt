@@ -1,0 +1,599 @@
+1) El Registro Civil Central estará a cargo de: A95
+a) Un Magistrado
+b) Dos Magistrados
+c) Tres Magistrados
+d) Cuatro Magistrados
+
+2) La inspección ordinaria de los Registros Consulares, se ejercerán por: A98
+a) El Ministro de Asuntos Exteriores
+b) Por el Jefe de la Misión Diplomática, al menos una vez al año
+c) Por el Jefe de la Misión Diplomática, sin sujeción a periodos
+d) Por un delegado del Director General de los Registros
+
+3) En el Registro del Estado Civil de la Familia Real: A98
+a) Solamente existe una Sección
+b) Existen cuatro Secciones con sus correspondientes libros
+c) Solamente existe un libro de inscripción
+d) Ninguna es correcta
+
+4) La declaración judicial de fallecimiento se inscribirán en el Registro Civil: A98
+a) En la Sección 1ª
+b) En la Sección 3ª, una vez dictada la resolución que declare judicialmente el fallecimiento
+c) En la Sección 3ª, cuando sea firme la resolución que declare el fallecimiento
+d) En la Sección 3ª, una vez que han transcurridos 25 años desde la declaración de fallecimiento
+
+5) Los Registros Civiles: A98
+a) Están a cargo de Jueces de Paz
+b) Están a cargo de las Audiencias Provinciales y, por Delegación de éstas por los Jueces de 1ª Instancia
+c) Están a cargo del Tribunal Superior de Justicia que corresponda y por Delegación de éstos, por los Jueces de 1ª Instancia o de Paz
+d) Están a cargo de los Jueces de 1ª Instancia e Instrucción y por delegación de éste, de los de Paz
+
+6) Es competente para instruir el expediente gubernativo de Registro Civil: T99
+a) El Ministerio Fiscal
+b) El Juez Encargado de Registro donde deba inscribirse la resolución pretendida
+c) La Dirección General de los Registros y del Notariado
+d) El Secretario Judicial
+
+7) Los hechos acaecidos en territorio español, referentes al estado civil de extranjeros se podrán inscribir: T99
+a) En el Registro Civil Consular
+b) Sólo en el Registro que determine la Ley de su país de origen
+c) En el Registro Civil del lugar en que acaecen
+d) No se podrá inscribir
+
+8) El Registro Civil está integrado: T99
+a) Sólo por Registros Municipales
+b) Sólo por Registros Municipales principales y Registros Municipales delegados
+c) Sólo por Registros Municipales y por el Registro Central
+d) Por Registros Municipales, Registros Consulares y por el Registro Central
+
+9) El cambio de vecindad civil, si no se formula declaración en contrario, se produce por la residencia habitual en provincia o territorio de diferente legislación civil durante: T99 – RRC art 225
+a) Cinco años
+b) Diez años
+c) Cuatro años
+d) Ocho años
+
+10) El Registro Civil depende: T99
+a) Del Ministerio del Interior
+b) Del Ministerio de Justicia
+c) Del Parlamento
+d) Del Consejo General del Poder Judicial
+
+11) El Libro Diario es un: T99
+a) Libro auxiliar del Registro Civil donde se consigna la fecha de entrada de todo documento
+b) Libro de Personal del Registro Civil donde se consigna la plantilla, con la fecha de toma de posesión y de cese
+c) Libro de Oficina del Registro Civil
+d) Libro principal del Registro Civil donde se registran los nacimientos, matrimonios y defunciones diarios.
+
+12) ¿Qué Sección del Registro Civil no existe en los Registros Civiles Subordinados o Delegados?: T12
+a) La Sección de Nacimientos
+b) La Sección de Matrimonios
+c) La Sección de Defunciones
+d) La Sección de Tutelas y Representaciones Legales
+
+13) Conforme a lo dispuesto en la Ley de Registro Civil ¿Qué asientos registrales tienen plena eficacia probatoria?: T12
+a) Las anotaciones
+b) Las notas marginales
+c) Las cancelaciones
+d) Las inscripciones
+
+14) De conformidad con lo dispuesto en el Reglamento del Registro Civil, ¿qué plazo tiene que transcurrir para que el Encargado del Registro Civil imponga el nombre del nacido, una vez requeridos los padres o guardadores?: T12 – RRC art. 193
+a) Dos días
+b) Cinco días
+c) Tres días
+d) Sietes días
+
+15) Según la Ley y el Reglamento del Registro Civil, las defunciones de las personas fallecidas en caso de catástrofe aérea, se inscriben: T12
+a) En el lugar donde se instruyen las primeras diligencias por Autoridades Españolas
+b) En el domicilio de los fallecidos
+c) En el lugar donde se produjo el accidente
+d) En el lugar donde se hallaron los cadáveres de los fallecidos
+
+16) Según la Ley del Registro Civil, la función registral es: T12
+a) Una función judicial
+b) Una función legislativa
+c) Una función administrativa
+d) Una función notarial
+
+17) ¿Qué datos están sometidos al régimen general de publicidad del Registro Civil?: G12
+a) La rectificación del sexo
+b) Las causas de suspensión de la patria potestad
+c) La filiación desconocida
+d) La modificación judicial de la capacidad de las personas
+
+18) ¿Cuál de las siguientes afirmaciones no es correcta conforme a la Ley de Registro Civil? G12
+a) La inscripción de nacimiento hace fe del hecho, fecha, hora y lugar del nacimiento, identidad, sexo y nacionalidad del nacido
+b) Está obligado a promover la inscripción de nacimiento el pariente más próximo
+c) La filiación determina los apellidos
+d) El Encargado impondrá un nombre y unos apellidos de uso corriente al nacido cuya filiación no quede determinada
+
+19) De acuerdo con el artículo 2 de la Ley de 8 de Junio de 1957, el Registro Civil constituye la prueba de los hechos inscritos. Se admitirán otros medios de prueba: G14
+a) En los casos de falta de inscripción cuando, simultáneamente, se haya instado la inscripción omitida o la reconstrucción del asiento
+b) En los casos en los que no fuere posible certificar el asiento, pero será requisito indispensable para su admisión que, previamente, se haya instado la reconstrucción del asiento
+c) Sólo en los casos de falta de inscripción o en los que no fuere posible certificar el asiento, pero en ambos supuestos será requisito indispensable que, simultáneamente, se inste la inscripción
+d) En ningún caso se admitirán otros medios de prueba salvo que se impugne en juicio la inscripción.
+
+20) De acuerdo con el artículo 94 de la Ley de 8 de Junio de 1957 del Registro Civil, los errores en las inscripciones que proceden de documento público o eclesiástico ulteriormente rectificado, ¿Cómo pueden rectificarse en el Registro Civil?: G14
+a) Sólo por sentencia firme recaída en juicio ordinario
+b) Por expediente gubernativo, con dictamen favorable del Ministerio Fiscal
+c) Previo expediente gubernativo sin que se requiera dictamen del Ministerio Fiscal
+d) Sin previo expediente gubernativo, sólo en virtud de declaración
+
+21) ¿Quién emite informe previo sobre las propuestas de mejora del servicio elevadas a la Dirección General de los Registros y del Notariado por los encargados del Registro Civil?: G14
+a) El Ministerio Fiscal
+b) El Presidente del Tribunal Superior de Justicia correspondiente
+c) El Secretario Judicial competente
+d) El Presidente de la Audiencia a la que corresponde ese Registro
+
+22) Según el artículo 355 del Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento de la Ley del Registro Civil, las resoluciones del Encargado del Registro Civil no admitiendo el escrito inicial son recurribles, a partir de la notificación, durante: G14
+a) Diez días hábiles
+b) Quince días hábiles
+c) Veinte días hábiles
+d) Treinta días hábiles
+
+23) ¿Cuál de estas funciones no puede desempeñar el Secretario Judicial en el Registro Civil, ni siquiera mediando delegación del encargado?: A99
+a) La de expedir licencias de enterramiento
+b) La de expedir certificaciones
+c) La de expedir inscripciones de nacimiento de hijos matrimoniales, dentro del plazo legal
+d) La de extender inscripciones ordinarias de defunción.
+
+24) ¿Cuál de estas actuaciones no puede realizar el Juez de Paz como encargado del Registro Civil?: A99
+a) Extender inscripciones de nacimientos de hijos matrimoniales, dentro del plazo legal
+b) Extender inscripciones ordinarias de defunción
+c) Extender inscripciones de matrimonio en forma religiosa, mediante la certificación respectiva
+d) Autorizar el cambio de nombre propio inscrito por el usado habitualmente.
+
+25) ¿Qué funcionario representa y asume las funciones del Ministerio Fiscal en los Registros Civiles Consulares?: A99
+a) El primer secretario de la Embajada
+b) El propio Cónsul
+c) El canciller del Consulado, o su sustituto reglamentario
+d) En los Registros Civiles Consulares no existe intervención alguna del Ministerio Fiscal
+
+26) El Registro Civil Central está a cargo de: A99
+a) Un funcionario de la Dirección General de los Registros
+b) Dos Magistrados
+c) Dos Letrados de la Dirección General de los Registros
+d) Un Magistrado
+
+27) Las inscripciones relativas al organismo tutelar se practicarán en el Registro Civil: G99
+a) Del lugar donde se constituyó la tutela
+b) Del domicilio del tutor
+c) Del lugar donde se encuentren la mayor parte de los bienes
+d) Del domicilio del tutelado
+
+28) Las certificaciones del Registro Civil deberán pedirse por escrito en los siguientes casos: G99
+a) Cuando se soliciten con carácter urgente
+b) Cuando se soliciten de una oficina distinta de la que ha de expedirlas
+c) Cuando la busca del asiento que se ha de certificar exceda de un año
+d) En ningún caso
+
+29) El Encargado del Registro Civil deberá resolver toda solicitud que no dé lugar a expediente en el plazo de: G99
+a) Diez días hábiles
+b) Cinco días hábiles
+c) Tres días naturales
+d) Dos días naturales
+
+30) Las declaraciones de ausencia y fallecimiento: A11
+a) Se inscribirán al margen de la inscripción de nacimiento
+b) Se inscribirán al margen de la inscripción de defunción
+c) Se inscribirán como inscripción principal de la Sección 3ª.
+d) Sólo se anota la declaración de fallecimiento
+
+31) El artículo 354 del Reglamento del Registro Civil dispone que durante la tramitación del expediente se evitará toda dilación o trámite superfluo o desproporcionado y, si ello ocurriera, las partes podrán: A11
+a) Recurrir en revisión ante el Ministerio de Justicia
+b) Impugnar directamente ante la Dirección General de los Registros y del Notariado
+c) Recurrir en queja ante el Presidente del Tribunal Superior de Justicia
+d) Interponer recurso de reposición ante el encargado
+
+32) Para obtener certificaciones de inscripciones registradas es necesario solicitarlo por escrito: A11
+a) Sólo, cuando la busca exceda de dos años
+b) Cuando se presente en oficina distinta de la que ha de librar la certificación
+c) Siempre que sean literales
+d) Siempre, ya sean literales o en extracto
+
+33) Los matrimonios secretos perjudican a los derechos legítimamente adquiridos por terceras personas desde: A11
+a) Su inscripción en el Libro Especial
+b) Su celebración
+c) Su publicación en el Registro Civil
+d) La aprobación del expediente
+
+34) Si el nacimiento de una persona se produce en el curso de un viaje, será registro competente para la inscripción del nacimiento. T11
+a) El del lugar de inicio del viaje
+b) El del lugar del término del viaje
+c) El de primera arribada
+d) El del lugar de domicilio de los progenitores
+
+35) El cambio de nombre y apellidos: T11
+a) Se autorizará por el Ministerio de Justicia previo expediente instruido en forma reglamentaria
+b) Podrá formalizarse mediante simple declaración ante el Encargado del Registro Civil del domicilio del solicitante
+c) Podrá formalizarse mediante simple declaración ante el Encargado previo expediente en que figure inscrito el nacimiento del solicitante
+d) Se autorizará, en cualquier caso, por el Encargado del Registro Civil previo expediente en forma reglamentaria
+
+36) El artículo 15 de la Ley de Registro Civil establece como regla de competencia que en el Registro se harán constar: G11
+a) Los hechos concernientes al estado civil de las personas y aquellos otros que determine la ley
+b) Los nacimientos, matrimonios, defunciones y las tutelas y representaciones legales
+c) Los hechos inscribibles que afectan a los españoles y a los acaecidos en territorio español, aunque afecten a extranjeros
+d) Los hechos de que hacen fe según, con indicación, si fueren conocidas, de las circunstancias de la fecha, hora y lugar en que acaecen.
+
+37) Las modificaciones judiciales de la capacidad en las que se haya constituido un cargo tutelar se inscriben conforme al artículo 46 de la Ley de Registro Civil: G11
+a) En la Sección I
+b) En la Sección II
+c) En la Sección III
+d) En la Sección IV
+
+38) Por medio de expediente gubernativo pueden rectificarse conforme al artículo 93 de la Ley de Registro Civil: G11
+a) La fecha de las inscripciones y los nombres de los funcionarios que los autoricen
+b) Los hechos relativos a españoles o acaecidos en España que afecten al estado civil según la ley extranjería
+c) Cualquier hecho que afecte a la patria potestad, salvo la muerte de los progenitores
+d) La mención registral al sexo de las personas en los casos de disforia de género
+
+39) Según el art. 63 de la Ley de Registro Civil en el juicio ordinario, no se permitirá la acumulación de acciones: T10
+a) Por el Ministerio de Interior
+b) Por el Ministerio de Justicia
+c) Por el Juzgado de Primera Instancia de la localidad donde tenga la vecindad civil el solicitante
+d) Por el Registro Civil Central
+
+40) Conforme a la Ley del Registro Civil, las declaraciones de ausencia o fallecimiento, se inscribirán al margen de la correspondiente inscripción de: T10
+a) Matrimonio
+b) Nacimiento
+c) Defunciones
+d) Tutelas y Representaciones
+
+41) Conforme al Reglamento del Registro Civil, los Libros de inscripciones tendrán un índice ordenado por: A10
+a) Orden numérico
+b) Por fecha del hecho que se inscriba
+c) Por apellidos y los de la Sección 2ª, por apellidos de ambos cónyuges
+d) Por fecha de inscripción
+
+42) Las demandas de separación y divorcio: A10
+a) Se pueden inscribir en el Registro Civil, a instancia de cualquiera de las partes una vez presentado la demanda
+b) Sólo se inscriben en el Registro Civil las de divorcio
+c) Se pueden inscribir en el Registro Civil , a instancia de cualquiera de las partes, una vez dictada sentencia definitiva
+d) Se pueden anotar en el Registro Civil, a instancia de cualquiera de las partes, una vez admitida la demanda.
+
+43) En el libro de Familia se asentará con valor de certificación cualquier hecho referente a los hijos: A10
+a) Aunque estén emancipados
+b) Sólo si no están emancipados
+c) Sólo si afecta a la patria potestad y la defunción, si ocurre antes de la emancipación
+d) Sólo si afecta a la defunción, aunque estén emancipados
+
+44) Conforme al Reglamento del Registro Civil, en los Juzgados de Paz, las certificaciones se expedirán y firmarán por: A10
+a) El Juez de Paz, que actúa por delegación del Encargado
+b) El Secretario, por delegación del Encargado
+c) El Juez y el Secretario, en todo caso
+d) El Juez y el Secretario, si así lo exige el Encargado
+
+45) Si el nacimiento de una persona se produce en el curso de un viaje, será registro competente para la inscripción del nacimiento: T10
+a) El del lugar de inicio del viaje
+b) El del lugar del término del viaje
+c) El de primera arribada
+d) El del lugar del domicilio de los progenitores
+
+46) El cambio de nombre y apellidos: T10
+a) Se autorizará por el Ministerio de Justicia previo expediente instruido en forma reglamentaria
+b) Podrá formalizarse mediante simple declaración ante el Encargado del Registro Civil del domicilio del solicitante
+c) Podrá formalizarse mediante simple declaración ante el Encargado del Registro Civil en que figure inscrito el nacimiento del solicitante
+d) Se autorizará, en cualquier caso, por el Encargado del Registro Civil previo expediente en forma reglamentaria.
+
+47) El artículo 37 de la Ley de Registro Civil establece que los asientos que se platiquen en los libros se cerrarán: G10
+a) Con las firmas de los declarantes y la fe del Secretario
+b) Con las firmas de los declarantes, los testigos y la fe del Secretario
+c) Con las firmas del encargado del Registro Civil y del Secretario
+d) Con las firmas de los declarantes, testigos y encargado del Registro Civil
+
+48) Según el artículo 43 de la Ley de Registro Civil, en el supuesto de que se trate de inscribir a un recién nacido abandonado, ¿quién estará obligado a proponer la inscripción por la declaración correspondiente: G10
+a) La policía que haya intervenido
+b) Los servicios sociales del ayuntamiento
+c) El Ministerio Fiscal
+d) La persona que lo haya recogido
+
+49) Según lo dispuesto en el artículo 293 del Reglamento del Registro Civil, cuando las inscripciones sean contradictorias con los hechos que una sentencia recaída en un proceso penal, declare probados, éstas serán rectificadas mediante: G10
+a) Exhorto al órgano correspondiente
+b) Oficio al encargado del registro correspondiente
+c) Expediente gubernativo
+d) Auto en la que se determina la rectificación correspondiente
+
+50) Según el artículo 62 del Registro Civil, ¿en qué momento surte efecto la autorización registral de cambio de nombre y apellidos?: G10
+a) Tras la firmeza de la resolución que las acuerda
+b) Tras la inscripción al margen de la correspondiente inscripción de nacimiento
+c) Tras ser notificada al solicitante
+d) Tras su notificación al Ministerio Fiscal
+
+51) Según el Reglamento del Registro Civil, si una inscripción contradice a otra en los hechos de que ambas dan fe ¿Cómo cabe obtener la rectificación): G09
+a) Sólo pueden obtenerse a través de expediente gubernativo
+b) Pueden obtenerse tanto a través de expediente gubernativo como por resolución judicial
+c) A través de resolución motivada del Encargado del Registro dejando constancia de ello en ambas inscripciones
+d) Sólo pueden obtenerse en juicio ordinario, cuya anotación en ambos folios será solicitada por el Ministerio Fiscal
+
+52) Según el Reglamento del Registro Civil ¿Existe el cargo de Secretario en los Registros Consulares?: G09
+a) No, los Registros Consulares carecen de Secretario
+b) Sí, lo ostenta el Secretario del Consulado
+c) Sí, lo ostenta el Canciller del Consulado
+d) Sí, lo ostenta el propio encargado del Registro Consular
+
+53) Las normas del Registro Civil determinan, con carácter general, que la declaración en virtud de la cual practica la inscripción en el Registro de un nacimiento, se formulará: G09
+a) Dentro de las veinticuatro horas siguientes a la llegada de la documentación al Registro
+b) Entre las cero horas y los siete días siguientes al alumbramiento
+c) Entre las veinticuatro horas y los ocho días siguientes al nacimiento
+d) Entre las cero horas y ocho días siguientes al alumbramiento
+
+54) La Inspección Superior del Registro Civil corresponderá: T09
+a) Al Servicio de Inspección del Consejo General del Poder Judicial
+b) Al Tribunal Superior de Justicia de cada Comunidad Autónoma, ejerciéndola bajo la inmediata dependencia el Presidente del Tribunal Superior junto con el Fiscal delegado
+c) Exclusivamente al Ministerio de Justicia, ejerciéndola bajo su inmediata dependencia la Dirección General de la forma que en el Reglamento disponga
+d) Al Juez de Primera Instancia bajo la dependencia del Presidente del Tribunal Superior de Justicia
+
+55) La adquisición de la vecindad civil se inscribirá: T09 –
+a) En la sección segunda de matrimonio cuando se adquiera por haber contraído matrimonio con una persona que tenga la vecindad adquirida
+b) En la inscripción de matrimonio por nota de referencia
+c) En el Registro Civil de la Comunidad Autónoma que tenga reconocida esta vecindad civil
+d) Como inscripción principal en la sección primera y general del Registro Civil Central
+
+56) El Registro Civil español está integrado: T09 – LRC1957 art. 10
+a) Por los Registros de los Ayuntamientos y de todas las juntas municipales
+b) Por los Registros Municipales, los Registros Consulares y el Registro Civil Central
+c) Por todos los Registros Municipales, las Notarías, Registros de la Propiedad y los Registros de las Embajadas
+d) Por los Registros Municipales, Registros Consulares, Registro Civil Central, Registro de la Casa Real española y los Registros de la Dirección General del Registro y Notariado
+
+57) Según el artículo 1 de la Ley de Registro Civil, son inscribibles en el Registro Civil los hechos concernientes al estado civil siguientes: G09
+a) Cambio de sexo
+b) Emancipación
+c) Mayoría de edad
+d) Repudiación de herencia
+
+58) Conforme al Reglamento de la Ley de Registro Civil, la certificación en extracto de nacimiento ordinaria: G09
+a) Da fe de la filiación
+b) Precisará la hora y sitio
+c) Declarará que sólo da fe del sexo del inscrito
+d) Entre las mencionadas de identidad referirá los nombres propios de los padres reales o figurados.
+
+59) Las resoluciones del Encargado del Registro Civil no admitiendo el escrito inicial o poniendo término al expediente gubernativo son recurribles, ante la Dirección General de los Registros y del Notariado, a partir de la notificación, durante: G09
+a) Cinco días naturales
+b) Diez días naturales
+c) Quince días hábiles
+d) Veinte días hábiles
+
+60) La licencia para el entierro se expedirá: A09 –
+a) Sólo después de practicada la inscripción
+b) En el momento de comunicarse la muerte de una persona, aunque no se hubiera practicado la inscripción
+c) Cuando lo ordene el Médico Forense, sin necesidad de inscripción
+d) Siempre que se solicite y se presente certificado médico, sin necesidad de inscripción
+
+61) El efecto del silencio en los expedientes del Registro Civil en los que se ventilan solicitudes relativas al nombre y apellidos es: A09
+a) Positivo, transcurridos tres meses desde la solicitud
+b) Positivo, transcurridos dos meses desde la solicitud
+c) Negativo, salvo en el caso de cambios de orden de los apellidos
+d) Negativo en todo caso
+
+62) La inspección ordinaria de los Registros Municipales se ejercer por: A09
+a) El Ministerio de Justicia
+b) La Dirección General de los Registros y del Notariado
+c) El Presidente del Tribunal Superior de Justicia competente
+d) El Juez de Primera Instancia correspondiente
+
+63) En la sección de tutelas y representaciones legales del Registro Civil no están sujetos a inscripción: A09
+a) Los cargos tutelares
+b) El cargo de Interventor judicial
+c) El cargo de Síndico
+d) La patria potestad
+
+64) Según establece el artículo 297 del Reglamento del Registro Civil las siguientes circunstancias o asientos sólo pueden suprimirse por expediente gubernativo: G09
+a) Las circunstancias cuya constancia esté prevista reglamentariamente
+b) Los asientos sobre hechos que no constituyen el objeto del registro
+c) Los asientos cuya práctica se haya basado de modo evidente, según el propio asiento, en título manifiestamente legal
+d) Las adiciones, apostillas, interlineados, raspaduras y enmiendas que no sean nulos.
+
+65) ¿Cuál de los requisitos señalados es necesario para la petición de cambio de apellidos según la normativa del Registro Civil: G09
+a) Que el apellido propuesto para el cambio provenga de una situación de hecho creada por el interesado
+b) Que el apellido propuesto provenga de la línea correspondiente al apellido que se trata de alterar
+c) Que el apellido propuesto que se trata de modificar no pertenezca a la misma línea de apellidos
+d) Que el o la solicitante no hayan sido objeto de violencia de género
+
+66) Respecto a lo que señala en su artículo 66 el Reglamento del Registro Civil en relación a las competencias de los Registros ¿cuál de las afirmaciones señaladas a continuación es la correcta: G09
+a) La duda sobre la nacionalidad española del sujeto no es obstáculo para la inscripción de hecho
+b) El no estar matriculado en el Consulado supone un obstáculo para la inscripción de hecho en el Registro
+c) La no acreditación de la nacionalidad española del sujeto es obstáculo para la inscripción de hecho
+d) En el Registro constarán los hechos que afecten a españoles salvo que éstos determinen la pérdida de su condición de tales.
+
+67) Según el artículo 356 del Reglamento del Registro Civil, ¿en qué plazo resolverá el Encargado del Registro toda solicitud que no dé lugar a expediente?: A07
+a) Tres días naturales
+b) Tres días hábiles
+c) Cinco días naturales
+d) Sin dilación
+
+68) Señale quién ejerce las funciones de Secretario en el Registro Civil de la Familia Real Española: A07
+a) El Jefe de la Casa Real Española
+b) El Ministro de Justicia
+c) El Director General de los Registros y del Notariado
+d) El Registro Civil de la Familia Real carece de secretario.
+
+69) Según la Ley del Registro Civil vigente, ¿son inscribibles en el Registro Civil los hechos relativos a la nacionalidad o vecindad?: G07
+a) No tras la última reforma
+b) Sí, se inscribirán al margen de la correspondiente inscripción de nacimiento
+c) Sí, serán inscribibles en la Sección Segunda
+d) Sí, serán inscribibles en la Sección Cuarta.
+
+70) De entre todos los señalados a continuación, ¿quién tiene la potestad para autorizar cambios de nombre y apellidos según recoge el Reglamento del Registro Civil: G07
+a) El Encargado del Registro Civil correspondiente, en cualquier caso
+b) El Juez de Primera Instancia de la jurisdicción del domicilio del peticionario, en cualquier caso
+c) La Sala correspondiente del Tribunal Superior de Justicia en cualquier caso
+d) El Ministerio de Justicia en todos los casos previstos y sin limitación del plazo
+
+71) Según lo dispuesto en la normativa sobre el Registro Civil, los asientos practicados en virtud de declaración, deberán ser suscritos: G07
+a) Por el Encargado del Registro y el Secretario
+b) Por los declarantes y un testigo
+c) Por los declarantes
+d) Por el Encargado del Registro, el Secretario y los declarantes.
+
+72) En relación con lo dispuesto sobre la publicidad del Registro Civil, ¿quién o quiénes tienen potestad para certificar de los asientos del mismo?: G07
+a) Las autoridades o funcionarios de la Administración del Estado cuando se le exijan los asuntos de su respectiva función
+b) El Secretario del Registro como único que tiene señalada la competencia para dar fe
+c) Los empleados o funcionarios que materialmente los extiendan
+d) El Encargado del Registro y por su delegación el Secretario del mismo.
+
+73) ¿Existe el cargo de Secretario en los Registros Consulares? En caso afirmativo, ¿quién lo ostenta?: G07
+a) No, los Registros Consulares carecen de Secretario
+b) Sí, dicho cargo lo ostenta el Canciller del Consulado
+c) Sí, dicho cargo lo ostenta el propio Secretario del Consulado
+d) Sí, lo puede ostentar un funcionario de carrera destinado en el Consulado y a este fin designado por el Cónsul
+
+74) ¿La inscripción de nacimiento, salvo que concurran circunstancias especiales, se llevará a cabo?: G07
+a) Entre las 24 horas posteriores al nacimiento y los 3 días siguientes
+b) Entre las 12 horas posteriores y las 72 horas siguientes
+c) Entre las 24 horas posteriores y los 8 días siguientes
+d) Entre las 12 horas posteriores y los 15 días siguientes
+
+75) ¿Las resoluciones del Encargado del Registro Civil poniendo término al expediente son recurribles ante la Dirección General de los Registros y del Notariado, en el plazo de?: G07
+a) 3 días hábiles a partir de la notificación
+b) 15 días hábiles a partir de la notificación
+c) 30 días hábiles a partir de la notificación
+d) 7 días hábiles a partir de la notificación
+
+76) Según la Ley del Registro Civil, las llamadas declaraciones de fallecimiento, ¿en qué Sección se inscriben?: T07
+a) En la Primera, Nacimientos
+b) En la Segunda, Matrimonios
+c) En la Tercera, Defunciones
+d) En la Cuarta, Tutela y representaciones legales
+
+77) El Registro Civil Central estará a cargo de dos Magistrados, que se sustituirán entre sí y, en su defecto, serán sustituidos por: T07
+a) Los Secretarios Judiciales
+b) Los Encargados del Registro Civil de Madrid
+c) El Magistrado que la Dirección General del Registro y del Notariado determine
+d) El Magistrado que el Presidente del Tribunal Superior de Justicia designe
+
+78) ¿Quién concede la nacionalidad por residencia?: T07
+a) El Consejo de Ministros
+b) El Ministerio de Justicia
+c) El Ministerio del Interior
+d) El Presidente del Gobierno, previo informe del Ministro de Justicia
+
+79) ¿Quién tiene competencia para conocer de las solicitudes de rectificación registral de la mención del sexo?: T07
+a) El Secretario del Registro Civil del domicilio del solicitante
+b) Cualquiera de los dos Magistrados que están a cargo del Registro Civil Central
+c) El Encargado del Registro Civil donde esté inscrito el nacimiento
+d) El Encargado del Registro Civil del domicilio del solicitante
+
+80) Según la Ley del Registro Civil, ¿ante quién son recurribles, en vía gubernativa las decisiones del encargado del Registro?: T03
+a) Ante el Secretario de Estado de Justicia
+b) Ante el Juez de Primera Instancia correspondiente
+c) Ante el Secretario de Gobierno del Tribunal Superior de Justicia respectivo
+d) Ante el Presidente del Tribunal Superior de Justicia respectivo
+
+81) ¿Cuál de los siguientes hechos, no es objeto de inscripción en la Sección Cuarta del Registro Civil?: T03
+a) La patria potestad
+b) Los cargos tutelares
+c) Los cargos de curatela
+d) Las medidas judiciales sobre control de curatela
+
+82) Las resoluciones que ponen término a los expedientes en materia de Registro Civil, son recurribles en el plazo máximo de: T03
+a) Tres días hábiles
+b) Cinco días hábiles
+c) Diez días hábiles
+d) Quince días hábiles
+
+83) Según la Ley del Registro Civil, la concesión de la nacionalidad española por residencia, se hará: T03
+a) Por el Juez de Primera Instancia correspondiente
+b) Por la Dirección General de Asuntos Consulares
+c) Por el Ministerio de Interior
+d) Por el Ministerio de Justicia
+
+84) Según la Ley del Registro Civil, cuando no existe filiación conocida de un nacido, procederá: T03
+a) Que el Encargado del Registro imponga al nacido un nombre y apellidos de uso corriente
+b) Imponerle el nombre y apellidos de la persona que lo hallare sin obligación posterior por su parte al acto
+c) Estar a la espera de que el mismo sea adoptado o sean hallados los progenitores
+d) Inscribirlo en un Libro Provisional destinado a estas situaciones
+
+85) Según el Reglamento del Registro Civil, ¿quién autoriza las certificaciones en el Registro Consular?: T03
+a) El Secretario
+b) El Canciller del Consulado
+c) El Encargado
+d) El Agregado jurídico consular
+
+86) Los libros del Registro Civil sólo pueden sacarse de la Oficina del Registro… A03
+a) Cuando lo soliciten otros Jueces Encargados de otros Registros para hacer comprobaciones necesarias
+b) Cuando así se solicite para servir de prueba documental en un procedimiento civil
+c) Cuando así se solicite para servir de prueba documental en un procedimiento penal
+d) Únicamente en peligro de destrucción, para tratar de evitarla
+
+87) El Registro Civil depende… A03
+a) Del Ministerio de Justicia
+b) De los respectivos Encargados del Registro Civil
+c) Del Juez Decano de cada provincia
+d) Del Presidente de la Audiencia Provincial respectiva
+
+88) El plazo para el cumplimiento de las obligaciones impuestas en la legislación del Registro Civil será de… A03
+a) De tres días, en todo caso
+b) De veinticuatro horas
+c) De tres días, si no son de cumplimiento inmediato o tienen señalado plazo especial
+d) De cuarenta y ocho horas
+
+89) El Registro Civil está integrado por… A03
+a) Los Registros Municipales y Central
+b) Los Registros Provinciales y Central
+c) Los Registros Municipales, Central y Consulares
+d) Los Registros Provinciales , Central y Consulares
+
+90) La comunicación entre órganos del Registro Civil se hará… A03
+a) Siempre de oficio y directamente entre sí
+b) Mediante exhorto
+c) Con los Registros Consulares a través del Ministerio de Asuntos Exteriores
+d) Entre los Registros Consulares a través de las Embajadas respectivas
+
+91) El Oficial habilitado de la Administración de Justicia en quien el Secretario, a su vez, delegue, previa autorización del Encargado del Registro Civil, aunque deba realizar funciones registrales, no podrá extender : G03
+a) Inscripciones ordinarias de defunción
+b) Inscripciones de matrimonio en forma religiosa mediante la certificación respectiva
+c) Notas marginales que no sean de rectificación o cancelación
+d) Ninguna de las respuestas anteriores es correcta.
+
+92) Las anotaciones de un Registro Civil pueden ser rectificadas y canceladas en virtud de: G03
+a) Expediente gubernativo en que se acredite la inexactitud o por título suficiente para rectificar o cancelar la correspondiente inscripción
+b) Expediente gubernativo en que se acredite la inexactitud, únicamente
+c) Título suficiente para rectificar o cancelar la correspondiente inscripción, únicamente
+d) Ninguna de las respuestas anteriores es correcta
+
+93) En el asiento del Registro Civil que se cancela parcialmente, la parte cancelada: G03
+a) Únicamente se cerrará entre paréntesis con llamada marginal al asiento cancelatorio
+b) Además de cerrarse entre paréntesis con llamada marginal al asiento cancelatorio, se subrayará.
+c) No se cerrará entre paréntesis, pero sí se subrayará, con llamada marginal al asiento cancelatorio
+d) Será cruzada con tinta de distinto color
+
+94) Los Registros Civiles Municipales remitirán cada año al Archivo Provincial, en el mes señalado por el Encargado de éste, el Libro de Defunciones, si han transcurrido, como mínimo a partir de la inscripción marginal: G03
+a) Veinticinco años
+b) Cincuenta años
+c) Cien años
+d) Ciento veinticinco años
+
+95) Las solicitudes que tiendan a concordar el Registro Civil con la realidad: G03
+a) No se admitirán si son defectuosas
+b) Se admitirán aunque sean defectuosas y continuará normalmente la tramitación
+c) Se admitirán aunque sean defectuosas y se dará un plazo de diez días para su subsanación
+d) Se admitirán aunque sean defectuosas y se informará a los interesados sobre el modo de subsanar los defectos.
+
+96) Cuando se formule cualquier recurso en un expediente gubernativo relacionado con el Registro Civil, el interesado podrá denunciar la mora si no se notificase resolución en el plazo de: G03
+a) Treinta días naturales
+b) Treinta días hábiles
+c) Noventa días naturales
+d) Noventa días hábiles
+
+97) En la inscripción de fallecimiento, no se hará constar, aunque sean conocidas…. A03
+a) Las menciones de identidad del fallecido
+b) Hora y fecha del fallecimiento
+c) Causa del fallecimiento
+d) Lugar del fallecimiento
+
+98) No es competente para autorizar el matrimonio del que no se halle en peligro de muerte… A03
+a) El Juez encargado del Registro Civil
+b) El Alcalde del municipio donde se celebre el matrimonio o Concejal en quien delegue
+c) El funcionario diplomático o consular del Registro Civil en el extranjero
+d) El Capitán o Comandante de nave o aeronave
+
+99) La inscripción de un nacimiento acaecido en un viaje, debe tener lugar… A03
+a) En el lugar donde se abandona el vehículo
+b) En el lugar donde se inicio el viaje
+c) En el lugar de destino
+d) En el término municipal donde ocurre el nacimiento.
+
+100) Si se practica la inscripción de nacimiento antes de que transcurran veinticuatro horas desde el alumbramiento… A03
+a) La inscripción es perfectamente válida en todo caso.
+b) La inscripción sólo es válida si el feto sobrevive, las veinticuatro horas que establece el artículo 30 del Código Civil y el Artículo 165 del Reglamento del Registro Civil
+c) La inscripción debe ser anulada y efectuarse una vez transcurridos las veinticuatro horas
+d) Es preciso convalidarla acreditando en expediente la supervivencia a las veinticuatro horas

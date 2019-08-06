@@ -1,0 +1,371 @@
+1) Según el Real Decreto 1451/05, la convocatoria del concurso para ingreso en el Cuerpo de Tramitación Procesal en turno restringido por promoción interna, la realiza: T00
+d) El Ministerio de Justicia
+a) El Tribunal Calificador Único
+b) El Consejo General del Poder Judicial
+c) La Comunidad Autónoma correspondiente
+
+2) Según el Real Decreto 1451/05, la comisión de servicio conferida a un Tramitador Procesal, tendrá una duración máxima de: T00
+d) Un año, prorrogable por otro
+a) Seis meses, prorrogables por otros seis
+b) Seis meses, prorrogables por otros tres
+c) Un año, prorrogable por seis meses
+
+3) Según el Real Decreto 1451/05, si un Auxilio Judicial en excedencia forzosa no acepta la adscripción provisional que le adjudica el Ministerio de Justicia por un reingreso forzoso, será declarado en situación de: T00
+c) Excedencia voluntaria por interés particular
+a) Servicios especiales
+b) Excedencia forzosa por interés particular
+d) Suspensión provisional voluntaria
+
+4) ¿Pueden las Comunidades Autónomas convocar pruebas selectivas para ingreso en el Cuerpo de Auxilio Judicial?: A00
+d) No, en ningún caso
+a) Sí, siempre que el número de vacantes supere el 75% de las previstas en su Comunidad
+b) Sí, con autorización del Ministerio de Justicia
+c) Sí, a partir de la constitución de los Tribunales Superiores
+
+5) El Auxilio Judicial de la Administración de Justicia nombrado, deberá tomar posesión de su cargo dentro del plazo de… A00 –mod
+b) Veinte días naturales desde el día siguiente a la publicación de su nombramiento en el Boletín Oficial del Estado
+a) Veinte días naturales, desde el día siguiente en que tenga conocimiento de su calificación de apto en el último ejercicio de la oposición
+c) Veinte días hábiles desde el día siguiente a la publicación de su nombramiento en el Boletín Oficial del Estado
+d) Veinte días naturales desde el día siguiente a la publicación en el Boletín Oficial del Estado de su nombramiento, o en su defecto, desde su comunicación al interesado.
+
+6) No se pierde la condición de funcionario como Gestor Procesal de la Administración de Justicia por uno de los siguientes motivos. Indique cuál: G01
+c) Condena sobrevenida como consecuencia de delito culposo relacionado con el servicio
+a) Renuncia
+b) Imposición por los Tribunales de la pena de inhabilitación
+d) Sanción disciplinaria de separación de servicio.
+
+7) Según Real Decreto 1451/2005, si la resolución de un expediente de rehabilitación fuera desfavorable, no se podrá iniciar nuevo expediente hasta transcurridos: T01
+c) Dos años
+a) Dieciocho meses
+b) Doce meses
+d) Tres años
+
+8) Los Gestores Procesales de la Administración de Justicia en situación de suspensión definitiva que hubieran perdido su puesto de trabajo y desean reingresar al servicio activo, deberán solicitarlo en el siguiente plazo desde la finalización del periodo de suspensión: G02
+a) Diez días
+b) Quince días
+c) Veinte días
+d) Un mes
+
+9) Según Real Decreto 1451/2005, en cualquier traslado, el plazo de toma de posesión empezará a contarse a partir del: T02
+c) Día siguiente al del cese
+a) Día siguiente al de la publicación en el BOE
+b) Día del cese
+d) Día de la publicación en el BOE
+
+10) Según Real Decreto 1451/2005, el Tribunal Calificador único de las pruebas selectivas para el ingreso del Cuerpo de Auxilio Judicial, podrá incluir entre sus miembros: A02mo
+b) A un funcionario de carrera que tenga como mínimo el título de graduado en ESO.
+a) A un representante sindical
+c) A un Tramitador Procesal de la Administración de Justicia
+d) A un funcionario de la Administración del Estado perteneciente al Grupo C
+
+11) Según el artículo 7 del Real Decreto 1451/2005, establece que el ingreso en el Cuerpo de Auxilio Judicial de la Administración de Justicia se efectuará… A03
+b) Mediante pruebas selectivas
+a) Mediante la toma de posesión, tras prestar juramento o promesa
+c) Tras el nombramiento publicado en el Boletín Oficial del Estado y la toma de posesión.
+d) Todas las respuestas anteriores son incorrectas
+
+12) Un Auxilio Judicial de la Administración de Justicia, para poder participar en un concurso de traslado, deberá presentar su solicitud en el plazo de… A03 –mod
+a) Que se establezca en la convocatoria
+b) Treinta días naturales, desde la publicación del concurso en el Boletín Oficial del Estado
+c) Veinte días naturales, contados a partir del día siguiente a la publicación del concurso en el Boletín Oficial del Estado
+d) Diez días naturales, contados a partir del día siguiente a la publicación del concurso en el Boletín Oficial del Estado
+
+13) Durante las pruebas selectivas de ingreso al Cuerpo de Auxilio Judicial de la Administración de Justicia, entre la terminación de uno de los ejercicios y el inicio del siguiente, habrá de mediar un mínimo de… A03
+c) Setenta y dos horas
+a) Cuarenta días
+b) Un mes
+d) Cuarenta y ocho horas.
+
+14) ¿Cuál es el plazo máximo para la resolución de concurso para cubrir puestos genéricos? A07
+a) Seis meses, contados el día siguiente al de la finalización de presentación de solicitudes.
+b) Seis meses, contados el día siguiente a la publicación de la convocatoria en el Boletín Oficial del Estado
+c) Tres meses, contados desde el día siguiente al de la finalización de presentación de solicitudes.
+d) Tres meses, contados desde el día siguiente a la publicación de la convocatoria en el Boletín Oficial del Estado
+
+15) ¿Durante cuanto tiempo se debe desempeñar un puesto de trabajo obtenido por el sistema de libre designación para poder solicitar la renuncia del mismo?… A07
+a) Al menos durante un año
+b) Al menos durante dos años
+c) Al menos durante seis meses
+d) No se puede renunciar a un puesto obtenido por el sistema de libre designación
+
+16) No podrán tomar parte en los concursos genéricos, específicos y de libre designación: T07
+c) Los funcionarios que se encuentren en situación de Excedencia Voluntaria por interés particular, durante el periodo mínimo obligatorio de permanencia en dicha situación
+a) Los funcionarios que se encuentren en situación de Excedencia por cuidado familiar hasta segundo grado del artículo 590.2 de la Ley Orgánica del Poder Judicial
+b) Los funcionarios declarados en situación de Servicios Especiales
+d) Todas son correctas.
+
+17) El Real Decreto 1451/2005, si se produce el traslado de un funcionario del Cuerpo de Tramitación Procesal de un juzgado de la capital de provincia a otro de una localidad distinta dentro de la misma, la toma de posesión deberá efectuarse: G09
+c) En el plazo de ocho días a contar desde el día siguiente al del cese en el anterior destino
+a) Dentro de los tres días siguientes al del cese en el anterior destino
+b) Dentro de los diez días siguientes al del cese en el anterior destino
+d) En el plazo de veinte días a partir del siguiente al del cese en el anterior destino
+
+18) Con motivo de un concurso de traslados en la valoración de méritos para la adjudicación de los puestos de trabajo: G09
+b) Por el conocimiento oral y escrito de una lengua oficial autonómica se otorgarán en su caso hasta doce puntos
+a) Por cada año de servicios efectivos se otorgará un punto
+c) Por antigüedad o tiempo prestado de servicios efectivos se valorará como máximo hasta 50 puntos
+d) Se tomará como fecha a efectos de valoración la de la publicación del concurso
+
+19) La Comisión de Selección de personal se nombrará: T09
+a) Por el Ministro de Justicia mediante Orden
+b) Por el Ministro de Justicia mediante Real Decreto
+c) Por el Director General de Relaciones con la Administración de Justicia, mediante el sistema de libre designación
+d) Por el Director General de Relaciones con la Administración de Justicia, mediante un concurso de méritos.
+
+20) El puesto de trabajo al que se accede a través de redistribución de efectivos tiene el carácter de: A09
+b) Definitivo
+a) Provisional
+c) Comisión de Servicios
+d) Permanente
+
+21) ¿Cuál de los siguientes centros no puede calificarse como «centro de destino»?:
+c) Cada una de las unidades procesales de apoyo directo a órganos judiciales que radiquen en el mismo municipio
+a) La Secretaría de Gobierno de la Audiencia Nacional
+b) La Mutualidad General Judicial con sede en Madrid
+d) Todas son centro de destino
+
+22) Los aspirantes que hayan superado la oposición de Auxilio Judicial serán nombrados funcionarios por: A10
+a) El Ministerio de Justicia
+b) Por las respectivas Comunidades Autónomas del ámbito territorial por el que se hayan presentado
+c) El Ministerio de Administraciones Públicas
+d) El Ministerio de Economía y Hacienda
+
+23) Según el Real Decreto 1451/2005, de 7 de diciembre, el plazo máximo para resolver el procedimiento de rehabilitación de los funcionarios al servicio de la Administración de Justicia y notificar será de: A10
+c) Seis meses
+a) Dos meses
+b) Tres meses
+d) Un año
+
+24) Conforme al Real Decreto 1451/2005, de 7 de diciembre, la adscripción, por necesidades de servicio, de los funcionarios que ocupen con carácter definitivo puestos genéricos a otros de igual naturaleza del mismo centro de destino, con el mismo complemento general del puesto y complemento específico, se denomina: A10
+c) Redistribución de efectivos
+a) Reasignación forzosa
+b) Adscripción forzosa
+d) Reordenación de efectivos
+
+25) Según el artículo 9 del Real Decreto 1451/2005, de 7 de diciembre, la Comisión de Selección de Cuerpos Especiales que no hayan sido objeto de traspaso a las Comunidades Autónomas estará formada por: A11
+c) Tres Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses, dos Médicos Forenses y tres funcionarios del Ministerio de Justicia
+a) Tres Médicos Forenses, dos funcionarios del Ministerio de Justicia y dos Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses
+b) Un Magistrado, dos Médicos Forenses, dos Facultativos y tres funcionarios del Ministerio de Justicia
+d) Un Magistrado, un Secretario Judicial, tres Médicos Forenses, dos Facultativos y dos funcionarios del Ministerio de Justicia
+
+26) Según el Real Decreto 1451/2005, de 7 de diciembre, ¿puede renunciarse a puestos de trabajo obtenidos por concurso específico?: A11
+c) Sí, mediante solicitud razonada, siempre que hayan desempeñado el citado puesto al menos durante un año
+a) No
+b) Sí, en cualquier momento, mediante solicitud razonada
+d) Sí, mediante solicitud razonada, siempre que hayan desempeñado el citado puesto al menos durante dos años
+
+27) Según el artículo 4 del Real Decreto 1451/2005, de 7 de diciembre, si las plazas reservadas y que han sido cubiertas por las personas con discapacidad no alcanzaran la tasa del 3% de las plazas convocadas, las plazas no cubiertas se acumularán al cupo de la oferta siguiente, con un límite máximo del: A11
+d) 10 por ciento
+a) 5 por ciento
+b) 7 por ciento
+c) 8 por ciento
+
+28) Según el artículo 49 del Real Decreto 1451/2005, de 7 de diciembre, en las Comunidades Autónomas cuya lengua propia tenga carácter oficial, la puntuación máxima de la primera fase de los concursos específicos será de: A12
+b) 72 puntos
+a) 75 puntos
+c) 60 puntos
+d) 45 puntos
+
+29) El Real Decreto 1451/2005, de 7 de diciembre, señala que, de acuerdo con los principios contenidos en el artículo 103 de la Constitución Española, el personal funcionario de carrera será seleccionado con criterio de: A12
+c) Objetividad y con arreglo a los principios de igualdad, mérito, capacidad y también publicidad
+a) Imparcialidad y con arreglo a los principios de igualdad, mérito, capacidad y también publicidad
+b) Imparcialidad y con arreglo a los principios de igualdad, mérito, capacidad y también publicidad
+d) Publicidad y con arreglo a los principios de igualdad, mérito y capacidad
+
+30) ¿Qué ocurre si un funcionario del Cuerpo de Auxilio Judicial en situación de suspensión definitiva, superior a seis meses, no solicita el reingreso al servicio activo en el plazo de diez días desde la finalización del periodo de suspensión?: A12
+a) Será declarado en situación de excedencia voluntaria por interés particular
+b) Será declarado en situación de excedencia forzosa
+c) Quedará en situación de expectativa de destino
+d) Se la asignará un puesto de trabajo provisional
+
+31) Los aspirantes a las pruebas selectivas deben cumplir los requisitos exigidos en la convocatoria en la fecha de: A12
+c) Finalización del plazo de presentación de instancias y mantenerlos hasta la toma de posesión como funcionarios de carrera
+a) La toma de posesión como funcionario de carrera, aunque no los cumpliera con anterioridad
+b) Finalización del plazo de presentación de instancias y mantenerlos hasta la fecha de la resolución por la que se les nombra funcionarios de carrera
+d) La resolución por la que se les nombra funcionarios de carrera, aunque no los cumpliera con anterioridad
+
+32) ¿Qué periodo mínimo debe transcurrir a partir de la firmeza del acuerdo de separación del servicio par aun funcionario del Cuerpo de Auxilio Judicial pueda solicitar la apertura del expediente de rehabilitación?: A12
+b) Dos años
+a) Un año
+c) Tres años
+d) Cinco años
+
+33) El traslado o el cambio de centro de trabajo de una trabajadora víctima de violencia de género en distinta localidad para hacer efectiva su protección tendrá una duración máxima inicial de:
+d) Seis meses
+a) Dos meses
+b) Cuatro meses
+c) Cinco meses
+
+34) Para acceder por promoción interna al Cuerpo de Tramitación Procesal se ha de tener una antigüedad como funcionario de carrera en el Cuerpo de Auxilio judicial de la menos: T12
+c) 2 años
+a) 3 años
+b) 5 años
+d) 1 año
+
+35) Según el Real Decreto 1451/2005, de 7 de diciembre, formulada la propuesta de resolución en un expediente de rehabilitación de un funcionario separado de servicio, se dará vista del expediente instruido al interesado para que presente alegaciones en el plazo máximo de: G14
+b) Quince días
+a) Diez días
+c) Veinte días
+d) Treinta días
+
+36) Los funcionarios del Cuerpo de Gestión Procesal y Administrativa que hayan cesado como Secretarios sustitutos deberán solicitar el reingreso al servicio activo en el plazo de: G14
+a) Diez días desde su cese
+b) Quince días desde su cese
+c) Veinte días desde su cese
+d) Treinta días desde su cese
+
+37) ¿Cuál es el enunciado cierto conforme a lo dispuesto en el art. 8 del Reglamento de Ingreso?
+b) Las pruebas optativas que se establezcan para evaluar los conocimientos de la lengua oficial propia o del derecho propio de las comunidades autónomas, así como las certificaciones que puedan acreditar dichos conocimientos, serán las que resulten de aplicación según la normativa en vigor en las Comunidades Autónomas que la tengan establecida.
+a) El contenido del temario, así como las pruebas a realizar, serán territorializados en los distintos ámbitos existentes en el territorio del Estado
+c) El Tribunal Calificador Único recabará de las Comunidades Autónomas dicha normativa y determinará la puntuación que deba otorgarse en las respectivas convocatorias.
+d) Las pruebas que puedan establecerse para la acreditación del conocimiento de la lengua y del derecho propio de las Comunidades Autónomas que los posean, que tendrán carácter preceptivo y serán eliminatorias.
+
+38) En la comisión de Selección existirán varios funcionarios del Ministerio de justicia que serán propuestos por:
+d) Director General de Relaciones con la Administración de Justicia
+a) Ministerio de Administraciones Públicas
+b) Ministro de Justicia
+c) Consejo General del Poder Judicial
+
+39) Será Secretario de la Comisión de Selección:
+b) Uno de los funcionarios del Ministerio de Justicia
+a) Cualquiera de sus miembros
+c) Uno de los representantes de las comunidades autónomas
+d) Ninguna respuesta es cierta
+
+40) ¿Cuál de las siguientes es función de la comisión de Selección? 
+d) Todas las respuestas son ciertas
+a) Elaborar y aprobar los temarios, que serán únicos para cada cuerpo en todo el territorio del Estado.
+b) Elaborar las bases de convocatoria por las que han de regirse los procesos selectivos para ingreso en los correspondientes cuerpos de funcionarios.
+c) Determinar el programa formativo correspondiente al periodo de prácticas o curso selectivo, así como los criterios para su evaluación.
+
+41) El funcionamiento de la Comisión de Selección se ajustará a lo dispuesto:
+c) En la Ley de Procedimiento Administrativo
+a) En la Ley Orgánica del Poder Judicial
+b) En el Reglamento de Ingreso de funcionarios al servicio de la administración de Justicia
+d) Ninguna respuesta es cierta
+
+42) El Tribunal Calificador Único para cada uno de los procesos selectivos será nombrado por:
+c) El Ministerio de Justicia
+a) El Consejo General del Poder Judicial
+b) La Comisión de Selección
+d) El Gobierno, oído el Ministerio de Justicia
+
+43) Al nombramiento de los tribunales se le dará la adecuada publicidad a través del:
+a) Boletín Oficial del Estado y de los diarios oficiales de las Comunidades Autónomas con traspasos recibidos.
+b) Boletín Oficial del Estado
+c) Boletines oficiales de las Comunidades Autónomas con traspasos recibidos
+d) Boletín Oficial del Estado y Boletines Oficiales de todas las Comunidades Autónomas
+
+44) Los Tribunales Calificadores Únicos estarán compuestos por un número impar de vocales, dicho número será:
+c) No inferior a cinco
+a) De cinco
+b) No superior a cinco
+d) No inferior a siete
+
+45) Será Secretario del Tribunal Calificador Único:
+c) Un funcionario del Ministerio de Justicia
+a) Un magistrado-juez
+b) Un secretario judicial o medico forense
+d) Cualquiera de los anteriores
+
+46) En los Tribunales Calificadores Delegados, ¿Cuántos vocales serán propuestos por el órgano competente de la Comunidad Autónoma?
+a) Dos
+b) Todos
+c) Tres
+d) Cinco
+
+47) Los tribunales no podrán constituirse ni actuar sin la presencia del presidente y secretario, o quien los sustituya, y de:
+a) Al menos, la mitad de los vocales que los componen
+b) La tercera parte de los vocales que los componen
+c) Dos terceras partes de los vocales que los componen
+d) Ninguna respuesta es cierta
+
+48) La convocatoria para sesiones del Tribunal calificador se efectuará por el Secretario, con una antelación mínima de:
+b) 48 horas
+a) 72 horas
+c) 24 horas
+d) 36 horas
+
+49) Los acuerdos del Tribunal Calificador se adoptarán por:
+c) Mayoría de votos
+a) Mayoría absoluta devotos
+b) Mayoría de dos tercios de votos
+d) Mayoría de tres quintos de votos
+
+50) Las bases de la convocatoria:
+a) Serán elaboradas por la Comisión de Selección y aprobadas por el Ministerio de Justicia, previa negociación con las organizaciones sindicales
+b) Serán elaboradas por la Comisión de Selección y aprobadas por el Ministerio de Justicia, previa negociación con las organizaciones sindicales previo informe del Consejo General del Poder Judicial
+c) Serán elaboradas por la Comisión de Selección y aprobadas por el Ministerio de Justicia, previa negociación con las organizaciones sindicales previo informe del Ministerio de Administraciones Publicas
+d) Serán elaboradas por la Comisión de Selección y aprobadas por el Ministerio de Justicia, previa negociación con las organizaciones sindicales y previo informe del correspondiente tribunal
+
+51) Desde la total conclusión de un ejercicio o prueba hasta el comienzo del siguiente deberá transcurrir un plazo mínimo de:
+c) 72 horas
+a) 48 horas
+b) 24 horas
+d) 10 días
+
+52) Desde la total conclusión de un ejercicio o prueba hasta el comienzo del siguiente deberá transcurrir un plazo máximo de:
+b) 45 días
+a) 30 días
+c) 1 mes
+d) 10 días
+
+53) Aprobada la lista provisional de admitidos y excluidos, se dispone del plazo para subsanación de:
+d) 10 días
+a) 30 días
+b) 20 días
+c) 15 días
+
+54) Una vez superadas las pruebas selectivas, los aspirantes propuestos deberán aportar la correspondiente documentación en el plazo de:
+b) 20 días naturales
+a) 20 días hábiles
+c) 10 días hábiles
+d) 10 días naturales
+
+55) El juramento y posesión en el primer destino se celebra en el plazo de:
+b) 20 días
+a) 30 días
+c) 15 días
+d) 10 días
+
+56) Durante la realización del curso o periodo de prácticas, los aspirantes tendrán la consideración de:
+a) Funcionarios en prácticas
+b) Funcionarios de carrera
+c) Funcionarios en expectativa de destino
+d) Ninguna respuesta es cierta
+
+57) Los funcionarios en prácticas dependerán jerárquicamente:
+a) De la Dirección General de Relaciones con la Administración de Justicia o de los órganos competentes de las Comunidades Autónomas con traspasos recibidos.
+b) Del Ministerio de Justicia o de los órganos competentes de las Comunidades Autónomas con traspasos recibidos.
+c) Del Consejo General del Poder Judicial
+d) Del órgano judicial en que presten las actuaciones correspondientes
+
+58) Se nombraran funcionarios interinos:
+b) Cuando no sea posible la prestación del servicio por funcionario de carrera, si existen razones de urgencia o necesidades del servicio
+a) En cualquier caso de vacante de una plaza
+c) El actual reglamento no prevé la existencia de funcionarios interinos, sino laborales.
+d) Ninguna respuesta es cierta
+
+59) Para promoción interna se reservan un total de…. Plazas
+a) 50%
+b) 25%
+c) 20%
+d) 30%
+
+60) Las plazas que no se cubran por el proceso de promoción interna:
+a) Acrecerán al turno libre en cada ámbito territorial.
+b) Acrecerán al turno libre en el conjunto del Estado
+c) No acrecerán ningún turno, reservándose para la siguiente convocatoria
+d) Ninguna respuesta es cierta
+
+61) La promoción interna se efectuará:
+a) Mediante el sistema de concurso-oposición, con sujeción a los principios de igualdad, mérito, capacidad y publicidad.
+b) Mediante el sistema de oposición, con sujeción a los principios de igualdad, mérito, capacidad y publicidad.
+c) Mediante el sistema de concurso-oposición, con sujeción a los principios de igualdad, mérito y publicidad.
+d) Mediante el sistema de concurso-oposición, con sujeción a los principios de igualdad, capacidad y publicidad.
+
+62) El baremo en la fase de concurso de la promoción interna será aprobado por:
+c) El Ministerio de Justicia
+a) La Comisión de Selección
+b) El Tribunal Calificador
+d) La Dirección General de Relaciones con la Administración de Justicia
