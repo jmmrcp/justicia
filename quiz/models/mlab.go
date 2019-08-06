@@ -12,7 +12,7 @@ type (
 		ID         primitive.ObjectID `bson:"_id" json:"id"`
 		Test       int                `bson:"test" json:"test"`
 		Categoria  string             `bson:"categoria" json:"categoria"`
-		Tema       []string           `bson:"tema" json:"tema"`
+		Tema       []int              `bson:"tema" json:"tema"`
 		Titulo     string             `bson:"titulo" json:"titulo,"`
 		Ord        int                `bson:"ord" json:"ord"`
 		Pregunta   string             `bson:"pregunta" json:"pregunta"`

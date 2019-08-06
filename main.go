@@ -61,8 +61,8 @@ func init() {
 	flag.BoolVar(&PDFS, "P", defaultPdf, usagePdf)
 
 	flag.Usage = func() {
-		fmt.Printf("\njusticia version %s %s\n", version, date)
-		fmt.Printf("Usage of %s:\n\n", os.Args[0])
+		fmt.Printf("\njusticia version %s %s.\n", version, date)
+		fmt.Printf("  Usage:\n")
 		fmt.Printf("    justicia -C=CE -T=4 -Q=10 -M=0 -P=false ... (by default)\n\n")
 		flag.PrintDefaults()
 		os.Exit(0)
