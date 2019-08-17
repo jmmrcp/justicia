@@ -1,0 +1,431 @@
+1) En el Tribunal del Jurado, si el Juez no acordare la convocatoria de la audiencia preliminar: G03
+a) Las partes podrán acudir en queja ante la Audiencia Provincial.
+b) Produce automáticamente nulidad de actuaciones.
+c) Será susceptible de apelación ante la Audiencia Provincial.
+d) No es susceptible de ningún tipo de impugnación.
+
+2) Son competencia del Tribunal del Jurado: G99
+a) Los delitos y delitos leves cometidos por los funcionarios públicos
+b) Los delitos cometidos por los funcionarios públicos en el ejercicio de sus cargos
+c) Las faltas cometidas por los funcionarios públicos en el ejercicio de sus cargos
+d) Los expedientes disciplinarios por los delitos cometidos por los funcionarios públicos en el ejercicio de sus cargos
+
+3) Contra las sentencias penales dictadas en el ámbito de la Audiencia Provincial y en primera instancia por el Magistrado Presidente del Tribunal del Jurado, cabe recurso de:
+a) Apelación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la correspondiente Comunidad Autónoma.
+b) Casación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la correspondiente Comunidad Autónoma.
+c) Casación ante la Sala Segunda del Tribunal Supremo.
+d) Ninguna de las respuestas anteriores es correcta.
+
+4) En los delitos cuyo enjuiciamiento venga atribuido a la Audiencia Nacional, el juicio del Jurado se celebrará sólo en el ámbito de: G02
+a) Los Juzgados Centrales de Instrucción.
+b) Los Juzgados Centrales de lo Penal.
+c) La Audiencia Nacional.
+d) Ninguna de las respuestas anteriores es correcta.
+
+5) El acta de la votación del Jurado será redactada, si el portavoz no disiente del parecer mayoritario, por: G02
+a) El Secretario del Tribunal, si lo solicita el portavoz.
+b) Un Gestor Procesal, si lo solicita el portavoz.
+c) El Secretario del Tribunal o un Gestor Procesal, si lo solicita el portavoz.
+d) Siempre por el portavoz.
+
+6) Según la Ley 5/95 ¿a quién corresponde la incoación del procedimiento para el juicio ante el Tribunal del Jurado?
+a) Al Juez de Instrucción.
+b) Al Magistrado Presidente.
+c) Al Ministerio Fiscal.
+d) A la Policía Judicial.
+
+7) ¿Según la Ley del Tribunal del Jurado, al candidato a jurado convocado y que sin causa no comparezca, se le impondrá la siguiente sanción?
+a) Advertencia.
+b) Amonestación.
+c) Multa.
+d) Inhabilitación.
+
+8) El auto que decrete la apertura de juicio oral en las causas seguidas por la Ley del Jurado determinará:
+a) El día para la vista del juicio oral
+b) La fundamentación de la procedencia de los medios de prueba propuestos por las partes y la anticipación de su práctica
+c) El órgano competente para el enjuiciamiento
+d) La relación definitiva de los miembros del Jurado.
+
+9) Si el veredicto emitido por el Jurado fuera de inculpabilidad, el Magistrado Presidente:
+a) Concederá la palabra al Ministerio Fiscal y a las demás partes para que hagan alegaciones
+b) Dictará sentencia en el plazo de tres días
+c) Dictará sentencia en el acto
+d) Dictará sentencia en el acto, solo si no existe oposición del Ministerio Fiscal.
+
+10) En el procedimiento para el juicio ante el Tribunal del Jurado, si alguno de los jurados tuviere duda sobre cualquiera de los aspectos del objeto del veredicto, podrá pedir, para que amplíe las instrucciones, la presencia del: G99
+a) Magistrado Presidente, en audiencia pública
+b) Ministerio Fiscal, en audiencia pública
+c) Magistrado Presidente, a puerta cerrada
+d) Secretario Judicial
+
+11) El Tribunal del Jurado está regulado en la:
+a) Ley Orgánica 19/1994, de 23 de diciembre
+b) Ley 35/1995, de 11 de diciembre
+c) Ley Orgánica 5/1995, de 22 de mayo
+d) Ley Orgánica 11/1995, de 27 de noviembre
+
+12) Los ciudadanos podrán participar en la Administración de Justicia:
+a) Mediante querella
+b) Mediante la institución del Jurado
+c) Mediante demandas
+d) Mediante la acción popular
+
+13) ¿Es competente el Tribunal del Jurado para el conocimiento de las causas por delitos contra las personas?: A02
+a) No, nunca
+b) Sí, siempre
+c) Sólo si son delitos consumados
+d) Sólo si son delitos no consumados
+
+14) En el procedimiento de la Ley del Tribunal del Jurado, podrán excusarse para actuar como jurado: A16
+a) Los mayores de 60 años
+b) Los que sufran grave trastorno por razón de las cargas familiares
+c) Los que hayan desempeñado funciones de jurado dentro de los cinco años precedentes al día de la nueva designación
+d) Nadie, la función de jurado es inexcusable
+
+15) El Tribunal del Jurado está compuesto por: T00
+a) 11 jurados
+b) 9 jurados
+c) 8 jurados
+d) 12 jurados
+
+16) Los votos del Jurado para un veredicto de culpabilidad han de ser: T95
+a) La mitad más uno
+b) Cinco votos
+c) Siete votos
+d) Nueve votos
+
+17) Los jurados en el ejercicio de sus funciones actuarán con arreglo a los principios de:
+a) Independencia, irresponsabilidad y sumisión a la ley
+b) Independencia, responsabilidad e insumisión
+c) Dependencia, responsabilidad y sumisión a la ley
+d) Independencia, responsabilidad y sumisión a la ley.
+
+18) Si, un miembro del Jurado, en el ejercicio de su función, se considera inquietado en su independencia, ¿ante quién puede reclamar amparo según la Ley de dicho Tribunal?: G07
+a) Ante el Tribunal Constitucional
+b) Ante el Consejo General del Poder Judicial
+c) Ante el Magistrado-Presidente del Tribunal del que forma parte como jurado.
+d) Ante la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+
+19) La sentencia en el Tribunal del Jurado se dictará:
+a) Por el propio Tribunal del Jurado, siendo auxiliados por un Secretario para su redacción.
+b) Por el Magistrado Presidente de la Audiencia Provincial.
+c) Por la Sala de lo Penal de la Audiencia Provincial, constituida de cuatro magistrados si la pena que se solicita es de veinte años de privación de libertad
+d) Por el Magistrado Presidente del Tribunal del Jurado.
+
+20) La determinación de la competencia del Tribunal del Jurado se hará atendiendo:
+a) Al presunto hecho delictivo
+b) A la pena que corresponda
+c) Al grado de ejecución en todo caso
+d) Ninguna es cierta
+
+21) Uno de los siguientes supuestos es cierto:
+a) La responsabilidad civil es determinada cuantitativamente por el propio jurado
+b) Nunca puede ser conocido por el Jurado delitos conexos
+c) Nunca puede ser conocido por el Jurado por conexidad el delito de prevaricación
+d) Los delitos contra las personas, aunque no estén consumados, pueden ser conocidos por el jurado.
+
+22) La función del jurado:
+a) Es un derecho ejercitable por aquellas personas en las que no concurra motivo que lo impida, que residan en España, independientemente de su nacionalidad.
+b) Su desempeño es un deber para quienes no estén incursos en causa de incompatibilidad o prohibición ni puedan excusarse conforme a la ley.
+c) El desempeño de su cargo no está retribuido
+d) Todos, sin excepción, deben ejercer esta función.
+
+23) Los requisitos para ser jurado:
+a) Español mayor de edad, encontrarse en pleno ejercicio de sus derechos políticos, saber leer y escribir, vecino de la localidad en el que el delito se haya cometido y no estar impedido física o psíquicamente para el desempeño del cargo.
+b) Residir en España, en la provincia de la localidad en que el delito se haya cometido, no estar impedido, mayor de edad
+c) Español mayor de edad, encontrarse en el pleno ejercicio de sus derechos políticos, saber leer y escribir, ser vecino de cualquiera de los municipios de la provincia en que el delito se hubiere cometido, no estar impedido física, psíquica o sensorialmente para el desempeño de la función de Jurado.
+d) Ninguna respuesta es cierta.
+
+24) Haber sido procesado es una causa de:
+a) Falta de capacidad para ser jurado
+b) Una incompatibilidad
+c) Una posibilidad de excusa
+d) Una prohibición
+
+25) Ser miembro en activo de la carrera judicial es:
+a) Falta de capacidad para ser jurado
+b) Una incompatibilidad
+c) Una posibilidad de excusa
+d) Una prohibición
+
+26) Ser Delegado del Gobierno en las Comunidades Autónomas es:
+a) Falta de capacidad para ser jurado
+b) Una incompatibilidad
+c) Una posibilidad de excusa
+d) Una prohibición
+
+27) Tener interés directo o indirecto en la causa es:
+a) Falta de capacidad para ser jurado
+b) Una incompatibilidad
+c) Una posibilidad de excusa
+d) Una prohibición
+
+28) Los incluidos en la lista de candidatos a jurados, podrán ser convocados a formar parte del Tribunal del Jurado:
+a) Durante seis meses
+b) Durante un año
+c) Durante dos años
+d) Durante tres años
+
+29) La lista de Candidatos a Jurados se publica en:
+a) Boletín Oficial de la Provincia y Ayuntamientos
+b) Boletín Oficial del Estado y Ayuntamientos
+c) Boletín Oficial de la Comunidad Autónoma y Ayuntamientos
+d) Boletín Oficial de la Provincia
+
+30) Contra el acto del sorteo de la lista de candidatos a jurados se puede realizar reclamación ante......., en el plazo de...... días.
+a) Audiencia Provincial, 7 días
+b) Juzgado Decano, 15 días
+c) Audiencia Provincial, 15 días
+d) Juzgado Decano, 7 días
+
+31) Se puede formular reclamación por los candidatos a jurados, si entendieran que existe una falta de requisitos, ante:
+a) Audiencia Provincial
+b) Oficina del Censo Electoral
+c) Ayuntamiento respectivo
+d) Juzgado Decano de su Partido
+
+32) Los incluidos en la lista de candidatos a jurados podrán ser convocados a formar parte del Tribunal del Jurados durante:
+a) Dos años
+b) Un año
+c) Cuatro años
+d) Cinco años
+
+33) Incoado el procedimiento para el juicio ante el Tribunal del Jurado, el Juez de Instrucción convocará al Ministerio Fiscal y a las partes a una comparecencia: G99
+a) Inmediatamente
+b) En el plazo de diez días
+c) En el plazo de tres días
+d) En el plazo de cinco días
+
+34) ¿Con qué antelación se realiza el sorteo para la elección de los miembros de una causa concreta del Tribunal del Jurado?
+a) Cuarenta y dos días antes del día señalado
+b) Treinta días antes del día señalado
+c) Veinte días antes del día señalado
+d) Diez días antes del día señalado
+
+35) Realizado el sorteo a que se refiere la pregunta anterior, los elegidos podrán presentar excusa dentro del plazo de:
+a) 5 días
+b) 7 días
+c) 8 días
+d) 10 días
+
+36) Presentada la excusa:
+a) El Magistrado Presidente resolverá sin audiencia de las partes.
+b) El Ministerio Fiscal podrá hacer alegaciones dentro del plazo de seis días
+c) El Magistrado Presidente señalará día para la vista de la excusa
+d) El Ministerio Fiscal resolverá previa vista
+
+37) Si se acuerda el sobreseimiento después de celebrada la preceptiva comparecencia,
+a) Cabe recurso de apelación ante el Tribunal Superior de Justicia
+b) Cabe recurso de apelación ante la Audiencia Provincial
+c) No cabe recurso alguno
+d) No puede acordarse el sobreseimiento en este trámite
+
+38) No podrán excusarse para actuar como jurado… A03
+a) Los militares profesionales que no estén en servicio activo
+b) Los que tengan su residencia en el extranjero
+c) Los que sufran grave trastorno por razón de las cargas familiares
+d) Los mayores de sesenta y cinco años
+
+39) Según la Ley Orgánica 5/1995, del Tribunal del Jurado, ¿cuántos candidatos a jurados es necesario sortear de entre la lista provincial, por cada causa?: G07
+a) Doce
+b) Veinticuatro
+c) Todos los pertenecientes a dicha lista
+d) Treinta y seis
+
+40) La audiencia preliminar se celebrará:
+a) El día más próximo posible
+b) Dentro del plazo de cinco días
+c) Dentro del plazo de siete días
+d) Dentro del plazo de nueve días
+
+41) En la Audiencia preliminar:
+a) Se comienza por la práctica de las diligencias propuestas por las partes
+b) No es necesaria la asistencia del imputado
+c) No es necesaria la asistencia del Ministerio Fiscal
+d) No es necesaria la presencia de las partes
+
+42) En el proceso de selección de los jurados, cuántos candidatos podrán recusar las partes, sin alegación de motivo determinado: T09
+a) 3 por las partes de las acusaciones y 3 por parte de las defensas
+b) 4 por el Ministerio Fiscal, 4 por la acusación y 4 por la defensa
+c) 4 por las acusaciones, 4 por las defensas y 2 por el actor civil
+d) 4 por parte de las acusaciones y 4 por parte de las defensas
+
+43) Las razones que aconsejaran la inadecuación de procedimiento las podrán hacer valer las partes:
+a) Al tiempo de personarse ante el Tribunal del Jurado después de dictado el auto de apertura de juicio oral
+b) Dentro de los cinco días siguientes al emplazamiento para ante el Tribunal del Jurado
+c) En el escrito de conclusiones
+d) Dentro de los diez días siguientes al emplazamiento para ante el Tribunal del Jurado
+
+44) En un procedimiento competencia del Tribunal del Jurado, una vez personadas las partes y resueltas las cuestiones previas propuestas, el Magistrado-Presidente, ¿qué resolución dictará?: G09
+a) Auto de apertura del juicio oral
+b) Auto de procesamiento
+c) Auto de acusación
+d) Auto de hechos justiciables
+
+45) Qué ámbito está excluido, en todo caso, para la celebración del juicio del jurado: T09
+a) El Tribunal Supremo
+b) La Audiencia Nacional
+c) El Tribunal Superior de Justicia
+d) Las Audiencias Provinciales
+
+46) Contra la decisión del Magistrado Presidente resolviendo la recusación:
+a) Cabe recurso de apelación para ante los miembros del Jurado no recusados
+b) Cabe apelación ante la Audiencia Provincial, TSJ o Tribunal Supremo, según los casos
+c) Cabe recurso de súplica
+d) No cabe ningún recurso
+
+47) En el caso de que no se comparezca a la primera citación para el acto de juicio, se impondrá al candidato una multa de:
+a) 150 euros
+b) 300 euros
+c) 450 euros
+d) 480 euros
+
+48) Si no compareciera a la segunda citación, la multa será:
+a) 480 euros
+b) Pueden ser 480 euros
+c) De 60 a 600 euros
+d) De 600 a 1.500 euros
+
+49) Según la Ley Orgánica del Tribunal del Jurado ¿Cuál de las siguientes personas puede ser jurado?: G09
+a) Una persona que habiendo sido condenada por delito doloso, haya obtenido la rehabilitación
+b) Un Procurador de los Tribunales en ejercicio
+c) Un profesor universitario en activo que imparte clases de Derecho Mercantil
+d) Un miembro de las Fuerzas y Cuerpos de Seguridad del Estado
+
+50) Si se niega a prestar juramento se incurre en multa de:
+a) 300 euros
+b) De hasta 300 euros
+c) 600 euros
+d) De hasta 600 euros
+
+51) El Tribunal del Jurado es competente para el enjuiciamiento y fallo de los delitos:
+a) De los incendios forestales
+b) Relativos a bandas armadas
+c) Del tráfico de influencias
+d) De terrorismo
+
+52) De acuerdo con el artículo 1.3 de la Ley Orgánica del Tribunal del Jurado si, por razón del aforamiento del acusado, el juicio del jurado debe celebrarse en el ámbito del Tribunal Supremo, el Magistrado-Presidente del Tribunal del Jurado será: G16
+a) Un Magistrado de la Sala de lo Penal del Tribunal del Supremo
+b) Siempre que el Magistrado de mayor antigüedad en la Sala de lo Penal del Tribunal Supremo
+c) Siempre que el Magistrado de mayor edad de la Sala de lo Penal del Tribunal Supremo
+d) Siempre el Presidente de la Sala de lo Penal del Tribunal Supremo.
+
+53) El Tribunal del Jurado, conforme al artículo 1.2, en su Ley reguladora no será competente para el conocimiento y fallo de las causas por los delitos tipificados en el Código Penal: G16
+a) Del allanamiento de morada (artículos 202 y 204)
+b) De la prevaricación de los funcionarios públicos y otros comportamientos injustos (artículos 404 a 406)
+c) De la infidelidad en la custodia de documentos (artículos 413 a 415)
+d) Del cohecho (artículos 419 a 426)
+
+54) Del Tribunal del Jurado en el ámbito de la Audiencia Provincial se compone: G16
+a) De diez jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá y además al juicio del jurado asistirán, dos jurados suplentes.
+b) De nueve jurados y un Magistrado integrante de las Secciones Penales de la Audiencia Provincial, que lo presidirá y además al juicio del jurado asistirán, tres jurados suplentes.
+c) De nueve jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá y además al juicio del jurado asistirán, dos jurados suplentes.
+d) De diez jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá y además al juicio del jurado asistirán, tres jurados suplentes.
+
+55) ¿cuál es el momento procesal oportuno en la tramitación del proceso ante el Tribunal del Jurado para presentación de cuestiones previas?: G16
+a) En la audiencia preliminar.
+b) En el escrito de conclusiones provisionales.
+c) Al tiempo de personarse ante el Tribunal competente para el enjuiciamiento
+d) En el inicio del juicio oral.
+
+56) Indicar, según el artículo 36 de la Ley Orgánica 5/1995 del Tribunal del Jurado y en el caso de plantearse alguno de los incidentes enumerados en el mismo, por qué término se dará traslado a las demás partes para que puedan instar por escrito su inadmisión: T16
+a) Tres días
+b) Cinco días
+c) Diez días
+d) Quince días.
+
+57) Conforme a lo preceptuado en el artículo 36 de la Ley Orgánica 5/1995 del Tribunal del Jurado, indicar cuál de las siguientes afirmaciones no es correcta, “Al tiempo de personarse las partes podrán…”: T16
+a) Alegar la vulneración de algún derecho fundamental
+b) Alegar lo que estimen oportuno sobre la competencia o inadecuación del procedimiento
+c) No podrán proponerse nuevos medios de prueba
+d) Interesar la ampliación del juicio o algún hecho respectivo del cual hubiese inadmitido el Juez de Instrucción.
+
+58) Una vez presentado el escrito de calificación de la defensa, el Juez señalará día:
+a) Para el juicio oral
+b) Para la práctica de prueba
+c) Para la celebración de un acto de conciliación.
+d) Para audiencia preliminar de las partes.
+
+59) Según la Ley del Jurado, ¿en qué caso se disolverá el Jurado anticipadamente?: G11
+a) Cuando concluidos los informes de la acusación, el Magistrado-Presidente estime que el Juicio no resulta la existencia de prueba de cargo que pueda fundar una condena del acusado
+b) Cuando el Magistrado-Presiente entiende que existen motivos bastantes para estima que el hecho justiciable no ha sido perpetrado por el acusado
+c) Cuando el Magistrado-Presidente entienda que los hechos aceptados por las partes pudieran no ser constitutivos de delito
+d) Cuando el Magistrado-Presidente entiende que pueda resultar la concurrencia de una causa de exención
+
+60) Conforme a lo dispuesto en la Ley Orgánica del Tribunal del Jurado ¿cabe interponer algún recurso contra la resolución del Juez de Instrucción en que se acuerde el sobreseimiento?: G10
+a) Si, cabe interponer recurso ante el Tribunal Superior de Justicia competente
+b) No es recurrible dicha resolución, salvo en lo previsto en el artículo 36 de esta Ley
+c) Sí, es recurrible en apelación ante la Audiencia Provincial correspondiente
+d) Si, cabe interponer recurso de súplica ante el órgano competente para resolver dicha resolución
+
+61) Señalado el día para la primera vista del Juicio Oral: T10
+a) El Magistrado que haya de presidir el Tribunal del Jurado dispondrá que el Secretario, en audiencia pública, realice el sorteo de 48 candidatos a jurados de entre los de la lista de la provincia correspondiente
+b) El Secretario del Tribunal del Jurado ordenará se realice el sorteo de 24 candidatos a jurados de entre los de la lista de la provincia correspondiente
+c) El Secretario del Tribunal del Jurado ordenará se realice el sorteo de 36 candidatos a jurados de entre los de la lista de la provincia correspondiente
+d) El Magistrado que haya de presidir el Tribunal del Jurado dispondrá que el Secretario, en audiencia pública, realice el sorteo de 36 candidatos a jurados de entre los de la lista de la provincia correspondiente
+
+62) Procederá la disolución del Jurado: T10
+a) Si las partes interesan se dicte sentencia de conformidad con el escrito de calificación, no pudiendo exceder la pena conformada de seis años de privación de libertad, sola o conjuntamente con las de multa o privación de derechos
+b) Si las partes interesan se dicte sentencia de conformidad con el escrito de calificación, no pudiendo exceder la pena conformada de cinco años de privación de libertad, sola o conjuntamente con las de multa y privación de derechos
+c) Si las partes interesan se dicte sentencia de conformidad con el escrito de calificación, no pudiendo exceder la pena conformada de diez años de privación de libertad, sola o conjuntamente con las de multa y privación de derechos
+d) Ninguna de las respuestas anteriores es correcta
+
+63) En el procedimiento regulado en la Ley Orgánica 5/1995, ¿pueden los jurados dirigir preguntas al testigo? A11
+a) Podrán dirigir preguntas directamente a los testigos, oralmente, en virtud del principio de contradicción
+b) No podrán dirigir preguntas ni al acusado tanto verbalmente como por escrito
+c) Podrán dirigir preguntas a los testigos el Magistrado-Presidente y previa declaración de pertinencia, mediante escrito
+d) Podrán dirigir preguntas oralmente a los testigos a través del jurado que haya sido designado portavoz, previa declaración de pertinencia por el Magistrado-Presidente
+
+64) En el procedimiento regulado por la Ley Orgánica 5/1995, sometida la votación la culpabilidad o inculpabilidad de un acusado, serán necesarios: A10
+a) Cinco votos para establecer la culpabilidad y siete votos para establecer la inculpabilidad
+b) Siete votos para establecer la culpabilidad y cinco votos para establecer la inculpabilidad
+c) Bastará con el voto favorable de cinco jurados en cualquier caso
+d) El voto favorable de cinco jurados en cualquier caso, siempre que uno de ellos sea el voto de calidad del portavoz
+
+65) En qué clase de procedimientos cabe dictar “Auto de hechos justiciables”: T07
+a) En el procedimiento Abreviado (Libro IV, título II LECr)
+b) En el procedimiento del Sumario u Ordinario (Libro II y III LECr)
+c) En el procedimiento ante el Tribunal del Jurado (L.O. 5/95)
+d) En ninguno de los tres procedimientos indicados, porque no existe “Auto de hechos justiciables”
+
+66) ¿Quién realiza los sorteos para establecer la lista bienal de candidatos a jurados?: A09
+a) La Oficina Central del Censo Electoral
+b) Las Delegaciones Provinciales del Ministerio del Interior
+c) Las Delegaciones del Gobierno en las Comunidades Autónomas
+d) Las Delegaciones Provinciales de la Oficina del Censo Electoral
+
+67) Conforme a la Ley Orgánica 5/1995, el Juez una vez dictado auto de apertura de juicio oral, mandará emplazar a las partes para que se personen ante el Tribunal competente para el enjuiciamiento, dentro del término de: T09
+a) 10 días.
+b) 15 días.
+c) 20 días
+d) 30 días
+
+68) ¿De cuál de los siguientes delitos es competente, para su conocimiento y fallo, el Tribunal del Jurado?: G09
+a) Asesinato en grado de tentativa
+b) Prevaricación
+c) Cohecho
+d) Incendios forestales.
+
+69) Según la Ley Orgánica 5/1995, del Tribunal del Jurado, la decisión para la celebración del juicio a puerta cerrada corresponde: G09
+a) Al Magistrado-Presidente, siempre que lo soliciten todas las partes.
+b) Al Magistrado-Presidente, sólo si lo insta el Ministerio Fiscal en defensa de menores e incapacitados
+c) Al Magistrado-Presidente, oídas las partes y previa consulta al Jurado
+d) Al Jurado, previa petición del Magistrado-Presidente, una vez oídas las partes.
+
+70) Las declaraciones efectuadas en la fase de instrucción del Jurado:
+a) Tendrán siempre valor probatorio
+b) No tendrán nunca valor probatorio las declaraciones de los hechos en ellas afirmados.
+c) Tendrán valor, según la sana crítica del Juez Instructor.
+d) Tendrán valor, si se tratase de prueba anticipada
+
+71) Para la prueba de inspección ocular, en el juicio ante el Tribunal del Jurado, se constituirá en el lugar del suceso:
+a) El Tribunal, el Letrado de la Administración de Justicia, el Ministerio Fiscal y las partes personadas.
+b) El Tribunal y los abogados de las partes.
+c) El Magistrado-Presidente, el Letrado de la Administración de Justicia, y las partes personadas.
+d) El Tribunal en su integridad, con los jurados.
+
+72) Si celebrado el nuevo juicio oral no se obtuviese un veredicto por parte del segundo Jurado, el Magistrado-Ponente procederá:
+a) A dictar sentencia absolutoria
+b) A disolver el Jurado
+c) A disolver el Jurado y dictar sentencia condenatoria
+d) A disolver el Jurado y dictar sentencia absolutoria.

@@ -16,8 +16,12 @@ var (
 	ID int
 	// Test -> numero de Test
 	Test int
-	// Tema -> Categora de Test
+	// Categoria -> Categoria del Test
+	Categoria string
+	// Tema -> Temas de la Oposicion
 	Tema string
+	// Titulo -> Titulo del Test
+	Titulo string
 	// Pregunta -> Pregunta de Test
 	Pregunta string
 	// Respuesta1 -> Respuesta correcta
@@ -34,6 +38,8 @@ var (
 	Ord int
 	// Fecha -> Fecha de inclusion -> modifacion / fecha de acierto o fallo
 	Fecha time.Time
+	// Contador -> Numero de veces preguntada
+	Contador int
 	// Box -> Contenedor de respuetas acertadas a 7, 14, 28 dias
 	Box  int
 	err  error
@@ -63,52 +69,15 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	sqlQuery := createQuery(test, view, cat)
 
 	//Read the database
-
 	rows, err = db.Query(sqlQuery)
 	if err != nil {
 		return records, err
 	}
-
-	// if test != 0 {
-	// 	rows, err = db.Query("SELECT * FROM just WHERE test = ?", test)
-	// 	if err != nil {
-	// 		return records, err
-	// 	}
-	// } else {
-	// 	switch view {
-	// 	case 1:
-	// 		rows, err = db.Query("SELECT * FROM semana < date('now', '-7 days'")
-	// 		if err != nil {
-	// 			return records, err
-	// 		}
-	// 	case 2:
-	// 		rows, err = db.Query("SELECT * FROM quincena < date('now', '-14 days'")
-	// 		if err != nil {
-	// 			return records, err
-	// 		}
-	// 	case 3:
-	// 		rows, err = db.Query("SELECT * FROM mes < date ('now', '-28 days'")
-	// 		if err != nil {
-	// 			return records, err
-	// 		}
-	// 	default:
-	// 		rows, err = db.Query("SELECT * FROM dia")
-	// 		if err != nil {
-	// 			return records, err
-	// 		}
-	// 	}
-	// }
-	// if cat != "" {
-	// 	rows, err = db.Query("SELECT * FROM just WHERE tema = UPPER(?)", cat)
-	// 	if rows != nil {
-	// 		return records, err
-	// 	}
-	// }
-
 	defer rows.Close()
+
 	//counter
 	for rows.Next() {
-		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Box)
+		err = rows.Scan(&ID, &Test, &Categoria, &Tema, &Titulo, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Contador, &Box)
 		id := strconv.Itoa(ID)
 		record := []string{Pregunta, Respuesta1, Respuesta2, Respuesta3, Respuesta4, Articulo, id}
 		records = append(records, record)
@@ -119,7 +88,7 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 // Update db
 func Update(id string) error {
 
-	db, err = sql.Open("sqlite3", "data/data.db")
+	db, err = sql.Open("sqlite3", "tools/mongo/data.db")
 	if err != nil {
 		return err
 	}
@@ -144,7 +113,7 @@ func Update(id string) error {
 // Unupdate db
 func Unupdate(id string) error {
 
-	db, err = sql.Open("sqlite3", "data/data.db")
+	db, err = sql.Open("sqlite3", "tools/mongo/data.db")
 	if err != nil {
 		return err
 	}
@@ -166,15 +135,16 @@ func Unupdate(id string) error {
 	return nil
 }
 
-func createQuery(test, box int, tema string) string {
+func createQuery(test, box int, categoria string) string {
 	var sqlQuery string
 	t := strconv.Itoa(test)
-	if tema != "" {
-		sqlQuery = `SELECT * FROM just WHERE tema = UPPER(` + "\"" + tema + "\"" + `);`
+	b := strconv.Itoa(box)
+	if categoria != "" {
+		sqlQuery = `SELECT * FROM just WHERE categoria = UPPER(` + "\"" + categoria + "\"" + `) AND box = ` + b + `;`
 		return sqlQuery
 	}
 	if test != 0 {
-		sqlQuery = `SELECT * FROM just WHERE test = ` + t + ` AND box = 0;`
+		sqlQuery = `SELECT * FROM just WHERE test = ` + t + ` AND box = ` + b + `;`
 		return sqlQuery
 	}
 	if box != 0 {
@@ -190,6 +160,6 @@ func createQuery(test, box int, tema string) string {
 			return sqlQuery
 		}
 	}
-	sqlQuery = `SELECT * FROM dia ORDER BY random() LIMIT 100;`
+	sqlQuery = `SELECT * FROM dia WHERE box = ` + b + ` ORDER BY random() LIMIT 150;`
 	return sqlQuery
 }

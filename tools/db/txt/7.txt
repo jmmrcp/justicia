@@ -47,10 +47,10 @@ c) Modernizar el nivel de vida de todos los españoles
 d) Todas las respuestas son correctas
 
 9) Los miembros que componen el Consejo General del Poder Judicial, además del Presidente que es del Tribunal Supremo… G99
-a) 20
-b) 18
-c) 15
-d) 10
+a) 20 miembros
+b) 18 miembros
+c) 15 miembros
+d) 10 miembros
 
 10) El Estatuto del Ministerio Fiscal tiene carácter de: T95
 a) Ley Orgánica

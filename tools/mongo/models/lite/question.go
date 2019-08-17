@@ -16,6 +16,7 @@ type Question struct {
 	Respuesta4 string
 	Articulo   string
 	Ord        int
+	Contador   int
 	Fecha      time.Time
 	Box        int
 }
@@ -45,6 +46,7 @@ func (db *DB) All() ([]*Question, error) {
 			&question.Articulo,
 			&question.Ord,
 			&question.Fecha,
+			&question.Contador,
 			&question.Box,
 		)
 		if err != nil {

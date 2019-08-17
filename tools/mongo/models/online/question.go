@@ -24,6 +24,7 @@ type (
 		Respuestas []string  `bson:"respuestas" json:"respuestas"`
 		Articulo   string    `bson:"articulo" json:"articulo"`
 		Fecha      time.Time `bson:"fecha" json:"fecha"`
+		Contador   int       `bson:"contador" json:"contador"`
 		Box        int       `bson:"box" json:"box"`
 	}
 )

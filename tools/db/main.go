@@ -20,6 +20,7 @@ var (
 )
 
 func main() {
+	err := os.Remove("../mongo/data.db")
 	file, err := os.Open("test.nfo")
 	if err != nil {
 		log.Fatal(err)
@@ -76,10 +77,12 @@ func quest(line string) {
 		_, err := strconv.Atoi(str[0])
 		if err != nil {
 			// Respuestas
-			respuestas = append(respuestas, str[1])
+			txt := str[1]
+			respuestas = append(respuestas, txt)
 		} else {
 			// Preguntas
-			preguntas = append(preguntas, str[1])
+			txt := str[1]
+			preguntas = append(preguntas, txt)
 		}
 	}
 }
@@ -102,7 +105,7 @@ func db(preguntas []string, respuestas []string) {
 
 	TE, _ := strconv.Atoi(filename)
 
-	db, err = sql.Open("sqlite3", "data/data.db")
+	db, err = sql.Open("sqlite3", "../mongo/data.db")
 	if err != nil {
 		panic(err)
 	}
@@ -135,12 +138,13 @@ func db(preguntas []string, respuestas []string) {
 		articulo   TEXT    NOT NULL,
 		ord				 INTEGER NOT NULL,
 		fecha      DATE    DEFAULT CURRENT_TIMESTAMP,
+		cont			 INTEGER DEFAULT 0,
 		box        INTEGER DEFAULT 0
 	);`)
 	if err != nil {
 		log.Fatal(err)
 	}
-	_, err = db.Exec(`CREATE INDEX IF NOT EXISTS temas ON just (
+	_, err = db.Exec(`CREATE INDEX IF NOT EXISTS categoria ON just (
     tema ASC
 );`)
 	if err != nil {
@@ -156,17 +160,20 @@ func db(preguntas []string, respuestas []string) {
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS dia AS
 		SELECT id,
-					 test,
-           tema,
-           pregunta,
-           respuesta1,
-           respuesta2,
-           respuesta3,
-           respuesta4,
-           articulo,
-					 ord,
-					 fecha,
-           box
+		test,
+		categoria,
+		tema,
+		titulo, 
+		pregunta, 
+		respuesta1, 
+		respuesta2, 
+		respuesta3, 
+		respuesta4, 
+		articulo,
+		ord,
+		fecha,
+		cont,
+		box
       FROM just
 		 WHERE box = 0;`)
 	if err != nil {
@@ -175,17 +182,20 @@ func db(preguntas []string, respuestas []string) {
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS semana AS
 		SELECT id,
-					 test,
-           tema,
-           pregunta,
-           respuesta1,
-           respuesta2,
-           respuesta3,
-           respuesta4,
-           articulo,
-					 ord,
-					 fecha,
-           box
+		test,
+		categoria,
+		tema,
+		titulo, 
+		pregunta, 
+		respuesta1, 
+		respuesta2, 
+		respuesta3, 
+		respuesta4, 
+		articulo,
+		ord,
+		fecha,
+		cont,
+		box
       FROM just
 	 WHERE box = 1;
 	 `)
@@ -195,17 +205,20 @@ func db(preguntas []string, respuestas []string) {
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS quincena AS
 		SELECT id,
-					 test,
-           tema,
-           pregunta,
-           respuesta1,
-           respuesta2,
-           respuesta3,
-           respuesta4,
-           articulo,
-					 ord,
-					 fecha,
-           box
+		test,
+		categoria,
+		tema,
+		titulo, 
+		pregunta, 
+		respuesta1, 
+		respuesta2, 
+		respuesta3, 
+		respuesta4, 
+		articulo,
+		ord,
+		fecha,
+		cont,
+		box
       FROM just
 	 WHERE box = 2;
 	 `)
@@ -215,17 +228,20 @@ func db(preguntas []string, respuestas []string) {
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS mes AS
 		SELECT id,
-					 test,
-           tema,
-           pregunta,
-           respuesta1,
-           respuesta2,
-           respuesta3,
-           respuesta4,
-           articulo,
-					 ord,
-					 fecha,
-           box
+		test,
+		categoria,
+		tema,
+		titulo, 
+		pregunta, 
+		respuesta1, 
+		respuesta2, 
+		respuesta3, 
+		respuesta4, 
+		articulo,
+		ord,
+		fecha,
+		cont,
+		box
       FROM just
 	 WHERE box = 3;
 	 `)
@@ -238,7 +254,7 @@ func db(preguntas []string, respuestas []string) {
             ON just
 BEGIN
     UPDATE just
-       SET fecha = CURRENT_TIMESTAMP
+       SET fecha = CURRENT_TIMESTAMP, cont = cont + 1
      WHERE id = OLD.id;
 END;
 	`)
@@ -302,6 +318,11 @@ END;
 			R4 = respuestas[p]
 			A1 = articulos.Text()
 		}
+		P = strings.TrimRight(P, "-1234567890modAGET ")
+		R1 = strings.TrimRight(R1, " .")
+		R2 = strings.TrimRight(R2, " .")
+		R3 = strings.TrimRight(R3, " .")
+		R4 = strings.TrimRight(R4, " .")
 		_, err = db.Exec(`
     INSERT INTO just (
 			test,
@@ -338,6 +359,7 @@ func listar(db *sql.DB) {
 		Articulo   string
 		Ord        int
 		Fecha      time.Time
+		Cont       int
 		Box        int
 		data       [][]string
 		err        error
@@ -348,7 +370,7 @@ func listar(db *sql.DB) {
 	}
 	for rows.Next() {
 		fmt.Println(rows)
-		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Box)
+		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Cont, &Box)
 		id := strconv.Itoa(ID)
 		t := strconv.Itoa(Test)
 		o := strconv.Itoa(Ord)

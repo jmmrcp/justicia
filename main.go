@@ -83,7 +83,7 @@ func main() {
 	defer g.Close()
 
 	//Need to create questions
-	if quiz.FileExists("data/data.db") {
+	if quiz.FileExists("tools/mongo/data.db") {
 		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, CAT)
 		if err != nil {
 			log.Fatal(err)

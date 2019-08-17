@@ -158,7 +158,7 @@ func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions,
 	)
 
 	//Get data from db or dbs
-	data, err = db.Read("data/data.db", data, view, test, cat)
+	data, err = db.Read("tools/mongo/data.db", data, view, test, cat)
 	if err != nil {
 		return qs, err
 	}

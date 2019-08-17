@@ -1,0 +1,449 @@
+1) Según la Ley de Enjuiciamiento Civil, contra las resoluciones judiciales de habilitación de días y horas inhábiles… A00
+a) Cabe recurso de súplica
+b) Cabe recurso de Apelación
+c) No se admitirá recurso alguno
+d) Cabe recurso de reposición
+
+2) En un proceso monitorio, una vez requerido al deudor (6500€), éste se opone en legal forma, el día 31 de Julio de 2015, ¿Hasta qué día tiene que presentar la demanda el peticionario?
+a) El día 1 de Septiembre, y si fuera inhábil el primer día hábil siguiente.
+b) El día 31 de Septiembre 2015, al disponer del plazo de un mes y Agosto es inhábil.
+c) El día 31 de Agosto de 2015, al ser éste inhábil, se presenta el día 1 de Septiembre de 2015
+d) El día 31 de Septiembre de 2015, y si éste fuera inhábil el primer día hábil siguiente.
+
+3) Según la Ley de Enjuiciamiento Civil, ¿cuándo debe el Letrado de la Administración de Justicia debe dar cuenta al Tribunal de las diligencias de ordenación que hubiere dictado?: T03
+a) Inmediatamente después de haberlas dictado
+b) En el mismo día de su dictado
+c) En el siguiente día hábil de su dictado
+d) Al tercer día hábil de su dictado
+
+4) En un procedimiento civil, las cuestiones procesales que no suponen mero impulso procesal se decidirán mediante: G03
+a) Providencia
+b) Diligencia de ordenación
+c) Sentencia
+d) Auto
+
+5) Las actuaciones judiciales realizadas fuera del tiempo establecido: A03
+a) Serán nulas de pleno derecho y no tendrán eficacia alguna
+b) Sólo podrán anularse si lo impusiere la naturaleza del término o plazo
+c) Sólo podrán anularse a instancia de parte
+d) Sólo podrán anularse de oficio
+
+6) Cuando la ley señale un plazo que comience a correr desde la finalización del otro, aquél se computará… A03
+a) Desde el día siguiente al de la notificación del vencimiento del proceso.
+b) Transcurridos una audiencia desde el día siguiente al del vencimiento del primero
+c) Desde el día siguiente del vencimiento del primero, sin necesidad de notificación
+d) No comenzará a computarse hasta que se notifique resolución judicial que lo acuerde
+
+7) Las actuaciones realizadas a través de videoconferencia deberán asegurar en todo caso, cuando así lo acuerde el Juez o tribunal: A07
+a) La posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa
+b) Sólo la posibilidad de contradicción de las partes
+c) La posibilidad de contradicción de las partes y la salvaguarda de la presunción de inocencia
+d) Sólo la salvaguarda del derecho de defensa.
+
+8) Según la Ley de Enjuiciamiento Civil, en los plazos procesales señalados por días: A07
+a) Se excluyen del cómputo sólo los domingos y festivos
+b) En todo caso los plazos se computarán de fecha a fecha
+c) No se excluye del cómputo el mes de agosto
+d) Se excluyen los inhábiles
+
+9) Señale la respuesta correcta con respecto al tiempo en que deben practicarse las actuaciones judiciales: A07
+a) Los días del mes agosto serán inhábiles para todas las actuaciones judiciales, sin excepción.
+b) Los días y horas inhábiles podrán habilitarse por el Secretario Judicial con sujeción a lo dispuesto en las leyes procesales
+c) Todos los días y horas del año serán hábiles para el enjuiciamiento de las causas criminales, sin necesidad de habilitación especial
+d) Todos los días y horas del año serán hábiles para la instrucción de las causas criminales, sin necesidad de habilitación especial
+
+10) Las actuaciones judiciales serán predominantemente orales, sin perjuicio de su documentación, sobre todo: A07
+a) En materia criminal
+b) En materia contencioso-administrativa
+c) En materia de Registro Civil
+d) En materia de derecho hipotecario
+
+11) Conforme a la Ley Orgánica del Poder Judicial indique cuál de las siguientes resoluciones debe adoptar la forma de auto: A07
+a) Las que dicte el Secretario Judicial con el fin de poner término al procedimiento del que tenga atribuida exclusiva competencia
+b) Las que resuelvan cuestiones incidentales
+c) El documento público y solemne que consigna una sentencia firme
+d) Las que tengan por objeto la ordenación material del proceso.
+
+12) Conforme a la Ley Orgánica del Poder Judicial los Autos deberán ser: A07
+a) Fundados y contendrán en párrafos separados y numerados los hechos y razonamientos jurídicos y la parte dispositiva y serán firmados por el Juez o Magistrado
+b) Sucintamente motivados sin sujeción a requisito alguno, con el nombre del Juez o Magistrado
+c) Si se dictan oralmente, no deberán ser documentados, pero sí fundamentados
+d) Necesariamente firmados por el Secretario Judicial para su validez
+
+13) Cuando los actos de comunicación se realicen a través del servicio de notificaciones organizado por los Colegios de Procuradores, se entenderán realizados: A07
+a) El día que se remitan a dicho servicio
+b) El día siguiente a la fecha de recepción en dicho servicio
+c) El día que se reciba en el Juzgado la copia sellada por dicho servicio
+d) El día que recoja la comunicación el Procurador al que se dirija.
+
+14) ¿En qué plazo debe comunicarse, a quien sea parte en el proceso, una diligencia de ordenación?: A03
+a) Sin dilación
+b) En tres días, como máximo
+c) En cinco días, como máximo
+d) Las diligencias de ordenación no se comunican a las partes
+
+15) En el orden civil, cuando la presentación de un escrito esté sujeta a plazo… A03
+a) Puede presentarse, como máximo hasta el mismo día del vencimiento en el Juzgado que preste el servicio de guardia
+b) Puede presentarse, como máximo, hasta el mismo día del vencimiento, pero sólo en la Secretaría del Tribunal, o de existir, en el Servicio Común Procesal que se hubiere establecido.
+c) Puede presentarse, como máximo, hasta el mismo día del vencimiento si se presenta ante el Juzgado que preste el servicio de guardia, o hasta el día hábil siguiente si se presenta en la Secretaría del Juzgado, u oficina que ese hubiera establecido
+d) Puede presentarse hasta las quince horas del día hábil siguiente al del vencimiento, pero sólo en el Servicio Común Procesal creado a tal efecto o, de no existir éste, en la sede del órgano judicial, pero nunca ante el Juzgado que preste servicio de guardia
+
+16) Según la Ley de Enjuiciamiento Criminal, ¿los testimonios de las sentencias contendrán los votos reservados?: T02
+a) No, en ningún caso formarán parte del testimonio
+b) Sí, siempre formarán parte del testimonio
+c) Sí, pero sólo en el caso de que el que lo pronunció lo solicite
+d) Sí, sólo en el caso de que la Sala lo estime oportuno
+
+17) ¿Cómo se denominan las resoluciones judiciales que tienen carácter gubernativo?: A02
+a) Mandamiento
+b) Autos
+c) Acuerdos
+d) Providencias
+
+18) La publicación de las sentencias será autorizada por: T99
+a) El Juez o Magistrado que las haya dictado
+b) El Letrado de la Administración de Justicia del Juzgado correspondiente
+c) El Juez y el Letrado de la Administración de Justicia, conjuntamente
+d) El Juez o Letrado de la Administración de Justicia, indistintamente
+
+19) En el cómputo civil de los plazos en el Código Civil:
+a) Se excluyen los días inhábiles si el plazo es de prescripción
+b) Se excluyen los días inhábiles si el plazo es de caducidad
+c) No se excluyen los días inhábiles
+d) Se excluyen los días inhábiles
+
+20) La nulidad de actuaciones:
+a) No podrá ser invocada contra resoluciones firmes, a través del incidente de nulidad, si no entraña la violación de algún derecho fundamental de los referidos en el artículo 53.2 de la Constitución.
+b) Si trae causa de una indebida denegación probatoria en la instancia, podrá ser invocada en apelación, aunque no se haya recurrido ni protestado ante el Juez a quo, siempre que la referida denegación una violación, real y efectiva, del derecho fundamental a la prueba pertinente.
+c) Podrá ser decretada de oficio, en vía de recurso, aun cuando no haya sido solicitada salvo que el tribunal apreciare falta de jurisdicción o de competencia objetiva o funcional
+d) Implicará la de los actos posteriores a aquel o aquellos en que se hubiese cometido la infracción que dio lugar a la nulidad
+
+21) El documento público y solemne en que se consigna una sentencia firme se denomina:
+a) Testimonio
+b) Resolución ejecutiva
+c) Ejecutoria
+d) Acta
+
+22) Cuando, para una actuación en un proceso, no se señale plazo ni término en la Ley 1/2000, la misma ha de practicarse: G14
+a) Sin dilación
+b) En un plazo máximo de tres días
+c) En un plazo máximo de cinco días
+d) En un plazo máximo de diez días
+
+23) Las resoluciones de los Secretarios Judiciales que ponen término al procedimiento o impiden su continuación se denominarán: A12
+a) Diligencias de ordenación
+b) Propuestas de resolución
+c) Decretos
+d) Diligencias de cierre de actuaciones
+
+24) De acuerdo con el artículo 184.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial: A12
+a) Los días y horas inhábiles podrán habilitarse con sujeción a lo dispuesto en las leyes procesales
+b) Los días y horas inhábiles no se pueden habilitar
+c) El Tribunal podrá habilitar días y horas inhábiles cuando lo considere necesario
+d) Podrá habilitarse cualquier día inhábil, excepto los domingos
+
+25) Los decretos de los Letrado de la Administración de Justicia que pongan fin al procedimiento o impidan su continuación será susceptibles de: A12
+a) Recurso de apelación
+b) Recurso de reforma
+c) Recurso de reposición
+d) Recurso directo de revisión
+
+26) Cuando el Letrado de la Administración de Justicia puede garantizar la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica, la celebración del acto no requerirá la presencia en la sala del Letrado de la Administración de Justicia, salvo que:
+a) Lo hubiera solicitado las partes, al menos cinco días antes de la celebración de la vista.
+b) Excepcionalmente lo considere necesario el Tribunal, atendiendo a la complejidad del asunto
+c) Excepcionalmente lo considere necesario el Letrado de la Administración de Justicia, atendiendo al número y naturaleza de las pruebas a practicar.
+d) Lo hubiera solicitado las partes, al menos tres días antes de la celebración de la vista.
+
+27) Según la LEC, cuando fueran tendentes a dar cumplimiento a las resoluciones dictadas por los Tribunales y hubiere causa urgente que lo exija, ésta habilitación se realizará…
+a) Sólo por el Letrado de la Administración de Justicia
+b) Por el Juez o Tribunal
+c) Por el Tribunal o el Letrado de la Administración de Justicia
+d) Sólo por el Tribunal
+
+28) Señala la respuesta correcta en relación con el mes de Agosto:
+a) El Consejo General del Poder Judicial, mediante reglamento, podrá habilitar los días de este mes a efectos de actuaciones judiciales
+b) Será hábil para el procedimiento de los derechos fundamentales del orden contenciosoadministrativo.
+c) Será hábil para el ejercicio de las acciones laborales derivadas de los derechos establecidos en la Ley de Medidas de Protección Integral contra la Violencia de Género.
+d) Las opciones b y c son correctas.
+
+29) Según el artículo 205.6 de la Ley Orgánica del Poder Judicial, establece que corresponderá pronunciar en audiencia pública las sentencias:
+a) Presidente del Tribunal
+b) Al Magistrado Ponente
+c) Al Letrado de la Administración de Justicia
+d) Ninguna respuesta es correcta
+
+30) Según la Ley de Enjuiciamiento Criminal, los Tribunales no podrán variar las resoluciones que pronuncien después de firmadas pero,
+a) Sí subsanar cualquier error material y explicar algún concepto oscuro
+b) Sí rectificar cualquier error formal y explicar algún concepto oscuro
+c) Sí aclarar algún concepto oscuro y rectificar cualquier error material
+d) Sí complementar algún concepto oscuro y corregir cualquier error material
+
+31) Según la Ley de Enjuiciamiento Criminal, en el Tribunal Supremo para dictar providencias, autos y sentencias, salvo que la ley disponga otra cosa, serán necesarios:
+a) Providencias 2, Autos 5 y Sentencias 7 Magistrados
+b) Providencias 3, Autos 5 y Sentencias 7 Magistrados
+c) Providencias 2, Autos 3 y Sentencias 5 Magistrados
+d) Providencias 2, Autos 3 y Sentencias 7 Magistrados
+
+32) Si los autos se hallaren en poder de alguna de las partes y transcurrido el plazo concedido para su examen no fueren devueltas, conforme a la Ley de Enjuiciamiento Civil, se impondrá por:
+a) El Letrado de la Administración de Justicia mediante decreto se impondrá al responsable multa de 20 a 200€ diarios
+b) El Letrado de la Administración de Justicia mediante diligencia se impondrá al responsable multa de 20 a 200€ diarios
+c) El Juez mediante auto se impondrá al responsable multa de 20 a 200€ diarios
+d) Ninguna respuesta es correcta
+
+33) Los plazos establecidos en la Ley de Enjuiciamiento Civil son:
+a) Improrrogables, salvo que se interrumpan los plazos
+b) Prorrogables
+c) Perentorios
+d) Improrrogables
+
+34) La resolución acordando la celebración a puerta cerrada de actuaciones de prueba en un juicio ordinario:
+a) La adoptará el tribunal tras oír a las partes que estuviesen presentes en el acto
+b) La resolución se dictará a viva voz, tras oír a las partes que estuvieren presentes en el acto.
+c) La resolución adoptará la forma de auto y contra ella no se admitirá recurso alguno.
+d) La resolución adoptará la forma de decreto y con ella sólo cabrá recurso de reposición
+
+35) Con respecto a los testimonios de las actuaciones: señale la incorrecta
+a) Se expedirán por cualquier persona que acredite interés legítimo.
+b) Se hará constar su destinatario.
+c) Se expedirá a costa de quien lo solicite.
+d) Son ciertas todas las opciones anteriores.
+
+36) Las partes, sus procuradores y abogados, peritos y testigos:
+a) Usarán siempre el castellano
+b) Usarán la lengua oficial propia de la comunidad autónoma tanto en manifestaciones orales como escritas.
+c) Podrán utilizar la lengua oficial propia de la comunidad autónoma en manifestaciones orales.
+d) Podrán utilizar la lengua oficial propia de la comunidad autónoma tanto en manifestaciones orales como escritas.
+
+37) Responderán de la debida formación de los autos dejando constancia de las resoluciones que dicten los Tribunales, o ellos mismos cuando así lo autorice la Ley:
+a) Los funcionarios del Cuerpo de Tramitación Procesal y administrativa y los del Cuerpo de Gestión Procesal y Administrativa
+b) El Letrado de la Administración de Justicia y el personal competente de la Oficina Judicial
+c) El Letrado de la Administración de Justicia
+d) El Letrado de la Administración de Justicia y el personal competente al servicio de los Tribunales
+
+38) Cuál de los siguientes supuestos no produce la nulidad del acto procesal:
+a) La falta de jurisdicción o de competencia objetiva o funcional.
+b) Que el acto se realice bajo violencia o intimidación del tribunal o de las partes o de cualquier persona que intervenga en el proceso.
+c) La inobservancia de normas del procedimiento aunque no se haya producido indefensión.
+d) La no intervención de abogado cuando sea preceptiva
+
+39) Las resoluciones que ponen fin a la primera instancia y las que decidan los recursos interpuestos frente a ellas, se denominan, conforme al art 207 LEC:
+a) Definitivas.
+b) Firmes.
+c) Irrecurribles.
+d) Interlocutorias.
+
+40) Indique cuál de los siguientes requisitos no es preciso que se contenga en las providencias, de conformidad con el artículo 208 LEC:
+a) Determinación de lo mandado.
+b) Motivación o fundamentación en párrafos separados y numerados, distinguiendo los antecedentes de hecho y los fundamentos de derecho.
+c) Mención del lugar y fecha en que se adopten.
+d) Indicación del tribunal que las dicte, con expresión del Juez o Magistrados que lo integren y su firma e indicación del nombre del Ponente, en su caso.
+
+41) Las providencias, según el art 208 LEC:
+a) Incluirán una motivación o fundamentación en párrafos separados y numerados, distinguiendo los antecedentes de hecho y los fundamentos de derecho.
+b) Incluirán en todo caso una sucinta motivación.
+c) En ningún caso deben contener motivación al ser resoluciones de mero impulso procesal.
+d) Incluirán una sucinta motivación cuando así lo disponga la ley o el tribunal lo estime conveniente
+
+42) Los errores materiales manifiestos y los aritméticos en que incurran las resoluciones judiciales podrán ser rectificados:
+a) Sólo a petición de parte o del Ministerio Fiscal formulada dentro de los dos días hábiles siguientes al de la publicación de la resolución.
+b) Sólo de oficio dentro de los dos días hábiles siguientes al de la publicación de la resolución.
+c) De oficio dentro de los dos días hábiles siguientes al de la publicación de la resolución, o a petición de parte o del Ministerio Fiscal formulada dentro del mismo plazo.
+d) En cualquier momento.
+
+43) En los órganos jurisdiccionales colegiados, los autos y sentencias se dictarán:
+a) Por mayoría absoluta de votos, salvo que la ley señale expresamente una mayor proporción.
+b) Por mayoría relativa de votos, salvo que la ley señale expresamente una mayor proporción.
+c) Por mayoría relativa de votos, en cualquier caso.
+d) Por unanimidad.
+
+44) Según el art 206 LEC, los recursos extraordinarios y los procedimientos para la revisión de sentencias firmes se resolverán mediante:
+a) Auto.
+b) Sentencia.
+c) Providencia.
+d) Acuerdo en pleno
+
+45) Salvo que la Ley permita diferir el pronunciamiento, las resoluciones que deban dictarse en la celebración de una vista, audiencia o comparecencia ante el Letrado de la Administración de Justicia:
+a) Se pronunciarán oralmente en el mismo acto, documentándose éste con expresión del fallo sin necesidad de motivación.
+b) Se pronunciarán oralmente en el mismo acto, documentándose éste a través de un auto.
+c) Se pronunciarán oralmente en el mismo acto, documentándose éste con expresión del fallo y motivación sucinta de aquellas resoluciones.
+d) No caben resoluciones orales, según la LEC
+
+46) Indique cuál de los siguientes actos, según el art 149 LEC, no es de «comunicación»:
+a) Los edictos
+b) Las oficios
+c) Las citaciones
+d) Todos los anteriores son actos de comunicación.
+
+47) Para ordenar el libramiento de certificaciones cuya ejecución corresponda a un Registrador de la Propiedad, qué acto de comunicación se emplea:
+a) Notificación.
+b) Citación.
+c) Requerimiento.
+d) Mandamiento
+
+48) En el orden jurisdiccional civil, para los actos de comunicación y ejecución se consideran horas hábiles desde las ocho de la mañana hasta las: G03
+a) Tres de la tarde.
+b) Diez de la noche.
+c) Ocho de la tarde.
+d) Doce de la noche.
+
+49) ¿Podrán los Juzgados y Tribunales celebrar juicios o vistas de asuntos fuera de la población de su sede?:
+a) Sí, cuando así lo autorice la ley.
+b) Sí, cuando las circunstancias o el buen servicio de la Administración de Justicia lo aconsejen.
+c) No, salvo que el Consejo General del Poder Judicial así lo disponga.
+d) Sí, salvo que las Salas de Gobierno de los Tribunales Superiores de Justicia que así lo disponga.
+
+50) Según el art. 144 LEC, las partes podrán impugnar la traducción del documento, hecha privadamente, redactado en idioma que no sea el castellano, o en su caso, la lengua oficial propia de la Comunidad Autónoma de que se trate:
+a) Dentro de los 2 días siguientes desde el traslado
+b) Dentro de los 3 días siguientes desde el traslado
+c) Dentro de los 5 días siguientes desde el traslado
+d) Dentro de los 10 días siguientes desde el traslado.
+
+51) El curso del procedimiento civil las partes podrán solicitar la suspensión de proceso, que será acordada, siempre que no perjudique al interés general o a un tercer, por:
+a) El Juez o Magistrado mediante auto.
+b) El Letrado de la Administración de Justicia mediante decreto
+c) El Juez o Magistrado mediante providencia
+d) El Letrado de la Administración de Justicia mediante diligencia de ordenación
+
+52) Según la LEC, en los Tribunales colegiados, el despacho ordinario y el cuidado de la tramitación de los asuntos que le hayan sido turnados, corresponderá:
+a) Al Presidente de la Sala o Sección.
+b) Al Letrado de la Administración de Justicia, sin perjuicio del impulso que corresponda al Magistrado ponente
+c) Al Magistrado ponente.
+d) Al Magistrado de la Sala o Sección determinado por el Letrado de la Administración de Justicia para cada asunto.
+
+53) Según la LEC, en caso de providencias dictadas por Salas de Justicia:
+a) Bastará con la firma del ponente.
+b) Firmaran los Magistrados que lo integren.
+c) Bastará con la firma del Presidente de la Sala o Sección.
+d) Bastará con la firma de dos Magistrados de la Sala o Sección.
+
+54) Según la LEC, salvo que la Ley permita diferir el pronunciamiento, las resoluciones que deban dictarse en la celebración de una vista, audiencia o comparecencia ante el Tribunal o Letrado de la Administración de Justicia se pronunciarán:
+a) Oralmente en el mismo acto.
+b) En ningún caso se dictarán oralmente resoluciones en procesos civiles.
+c) Oralmente en el mismo acto, pero sólo ante el Tribunal
+d) Por escrito, en todo caso.
+
+55) Según el artículo 202 de la Ley de Enjuiciamiento Criminal, serán improrrogables los términos judiciales cuando la ley no disponga expresamente lo contrario. ¿Podrán suspenderse o abrirse de nuevo si fuere posible sin retroceder el juicio del estado en que se halle?: T09
+a) No, en ningún caso
+b) Únicamente en el Procedimiento Ordinario.
+c) Únicamente en el Procedimiento Abreviado.
+d) Sí, cuando hubiere causa justa y probada.
+
+56) Según la Ley Orgánica del Poder Judicial, en la designación de ponente turnarán:
+a) Todos los Magistrados de la Sala o Sección, salvo los Presidentes.
+b) Todos los Magistrados de la Sala o Sección, incluidos los Presidentes.
+c) Todos los Magistrados de la Sala o Sección y el Presidente una de cinco.
+d) Todos los Magistrados de la Sala o Sección y el Presidente una de tres.
+
+57) Según la LEC, cuando se haya solicitado nuevo señalamiento de vista por una de las partes por resultarle imposible asistir a ella en el día señalado, de considerarse atendible y acreditada la situación que se alegue ¿Quién hará el nuevo señalamiento de vista?:
+a) El Juez hará el señalamiento de nueva vista.
+b) El Letrado de la Administración de Justicia hará el nuevo señalamiento de nueva vista.
+c) La opción b) es correcta, y pondrá en conocimiento del Tribunal la fecha y hora fijada para el nuevo señalamiento, en el mismo día o en el día hábil siguiente a aquél en que se hubiera acordado.
+d) El Juez acuerda que se haga nuevo señalamiento, pero señala fecha y hora el Letrado de la Administración de Justicia del nuevo señalamiento de vista.
+
+58) Según la LEC, cuando un testigo o perito que haya sido citado a vista por el Tribunal manifieste y acredite resultar imposible asistir a ella en el día señalado:
+a) El Letrado de la Administración de Justicia dispondrá que se oiga a las partes por plazo común de 3 días sobre si deja sin efecto el señalamiento de vista y se efectúa uno nuevo o si se cita al testigo o perito para la práctica de la actuación probatoria fuera de la vista señalada.
+b) El Tribunal dispondrá que se oiga a las partes por plazo común de 3 días sobre si deja sin efecto el señalamiento de vista y se efectúa uno nuevo o si se cita al testigo o perito para la práctica de la actuación probatoria fuera de la vista señalada.
+c) El Juez hará el señalamiento de nueva vista.
+d) El Letrado de la Administración de Justicia hará el nuevo señalamiento de nueva vista.
+
+59) Según la LEC, mantener el buen orden en las vistas, exigiendo que se guarde el respeto y consideración debidos a los tribunales y a quienes se hallen actuando ante ellos, corresponde:
+a) Al Juez o Presidente, o al Letrado de la Administración de Justicia en el caso de vistas celebradas exclusivamente ante él.
+b) Al Juez o Presidente
+c) Al Auxilio Judicial
+d) Al Juez o al Ponente.
+
+60) Según la LEC, una vez iniciada la vista, sólo podrá interrumpirse:
+a) Por imposibilidad absoluta de cualquiera de las partes citadas para ser interrogadas en el juicio o vista.
+b) Cuando no comparezcan los testigos o peritos citados judicialmente y el Tribunal considere imprescindible la declaración o el informe de los mismos.
+c) Cuando se deba practicar alguna diligencia de prueba fuera de la sede del Tribunal y pudiera verificarse en el tiempo intermedio entre una y otra sesión.
+d) Ninguna respuesta es correctas, todos son motivos de suspensión.
+
+61) Según la LEC, si el abogado defensor comunica pasados más de 4 días de retraso desde la notificación del señalamiento que se reciba de la vista relativa a causa criminal con preso, siendo ésta vista para el mismo día en distintos tribunales, solicitando la suspensión de la vista:
+a) Se acordará la suspensión de la vista, sin perjuicio de la responsabilidad en que se hubiere podido incurrir.
+b) No se acordara la suspensión de la vista porque la comunicación de la solicitud para aquella se acuerde se produce con más de 3 días de retraso desde la notificación del señalamiento a la vista relativa a causa criminal con preso.
+c) No se acordara la suspensión de la vista porque la comunicación de la solicitud para aquella se acuerde se produce con más de 2 días de retraso desde la notificación del señalamiento a la vista relativa a causa criminal con preso.
+d) Se acordará la suspensión de la vista, sin más trámites.
+
+62) Según la LEC, si el abogado defensor comunica pasados más de 4 días de retraso desde la notificación del señalamiento que se reciba de la vista relativa a causa criminal, siendo ésta vista para el mismo día en distintos tribunales, solicitando la suspensión de la vista:
+a) Se acordará la suspensión de la vista, sin perjuicio de la responsabilidad en que se hubiere podido incurrir.
+b) No se acordara la suspensión de la vista porque la comunicación de la solicitud para aquella se acuerde se produce con más de 3 días de retraso desde la notificación del señalamiento a la vista relativa a causa criminal.
+c) No se acordara la suspensión de la vista porque la comunicación de la solicitud para aquella se acuerde se produce con más de 2 días de retraso desde la notificación del señalamiento a la vista relativa a causa criminal.
+d) Se acordará la suspensión de la vista, sin más trámites.
+
+63) Según la LOPJ, las Salas de Gobierno de los Tribunales Superiores de Justicia, previa determinación del número de causas que justifican los traslados de los Tribunales fuera de su sede y siempre que su desplazamiento venga justificado por una mejor administración de justicia, dispondrán:
+a) Que los Juzgados se constituyan en población distinta de su sede para despachar los asuntos correspondientes a un determinado ámbito territorial comprendido en la circunscripción de aquéllos.
+b) Que las Secciones o Salas de los Tribunales se constituyan en población distinta de su sede para despachar los asuntos correspondientes a un determinado ámbito territorial comprendido en la circunscripción de aquéllos.
+c) Que las Audiencias se constituyan en población distinta de su sede para despachar los asuntos correspondientes a un determinado ámbito territorial comprendido en la circunscripción de aquéllos.
+d) Que los Jueces de lo Penal se constituyan para celebrar juicios orales en las ciudades donde tengan sede los Juzgados que hayan instruido las causas de las que corresponda conocer.
+
+64) Según la LOPJ, podrá habilitar los días 24 y 31 de diciembre a efectos de actuaciones judiciales en aquellos casos no previstos expresamente por las leyes:
+a) Los Tribunales, cuando pueda causar grave perjuicio a la buena administración de justicia
+b) Los Tribunales, cuando hubiera causa urgente que lo exija.
+c) El Consejo General del Poder Judicial, mediante reglamento.
+d) No.
+
+65) Según la LEC, en los plazos señalados por meses, cuando en el mes del vencimiento no hubiera día equivalente al inicial del cómputo, se entenderá que el plazo expira:
+a) El último día inhábil
+b) El último día del mes
+c) El primer día hábil siguiente.
+d) El último día hábil.
+
+66) Según la LEC, se pondrán presentar escritos y documentos en formato electrónico:
+a) Todos los días del año, salvo el mes de agosto
+b) Todos los días hábiles del año durante las 24 horas
+c) Todos los días hábiles del año e inhábiles si hubiere causa urgente que lo exija.
+d) Todos los días del año durante las 24 horas.
+
+67) Según la LEC, cuando los interesados no estén obligados a utilizar medios telemáticos y presentarán escritos y documentos en soporte papel, éstos documentos:
+a) El funcionario designado estampará en éstos escritos el correspondiente sello y lo convertirá en formato electrónico y devolverá el original al interesado.
+b) Quedarán depositados y custodiados en el archivo, a disposición de las partes, cuando no sean susceptibles de conversión a formato electrónico, asignándoles un número de orden, y dejando constancia en el expediente judicial electrónico de su existencia.
+c) El funcionario designado estampará el correspondiente sello en los escritos de iniciación o cualquier otro cuya presentación esté sujeta a plazo perentorio, lo convertirá en formato electrónico y devolverá el original al interesado.
+d) Quedarán depositados y custodiados en el archivo, a disposición de las partes, asignándoles un número de orden, y dejando constancia en el expediente judicial electrónico de su existencia.
+
+68) Según el artículo 230 de la LOPJ, las actuaciones orales y vistas grabadas y documentadas en soporte digital:
+a) No podrán transcribirse
+b) Podrán transcribirse un acta sucinta extendida por el Letrado de la Administración de Justicia
+c) No podrán transcribirse, salvo en aquellos casos en que una ley así lo determine.
+d) Deberán transcribirse un acta sucinta extendida por el Letrado de la Administración de Justicia.
+
+69) Según el artículo 230 de la LOPJ, los sistemas informáticos que se utilicen en la Administración de Justicia deberán ser:
+a) Previamente informados por el Consejo General del Poder Judicial
+b) Informados por el Consejo General del Poder Judicial
+c) Compatibles entre sí para facilitar su comunicación e integración.
+d) Previamente informados por el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+
+70) Según el artículo 142 de la LEC, en todas las actuaciones judiciales, los Jueces, Magistrados, Fiscales, Letrados de la Administración de Justicia y demás funcionarios de Juzgados y Tribunales, de una Comunidad Autónoma con lengua oficial propia:
+a) Usarán la lengua oficial propia de la Comunidad Autónoma
+b) Usarán la lengua oficial del Estado y podrán usar la lengua oficial propia de la Comunidad Autónoma, si el Juez o Magistrado no se opone.
+c) Usarán la lengua oficial del Estado y podrán usar la lengua oficial de la Comunidad Autónoma, si ninguna de las partes se opusiere.
+d) Sólo se usaran el castellano.
+
+71) Según la LEC, las sentencias que se dicten en los procedimientos sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea, se comunicarán a la Comisión Nacional de la Competencia:
+a) Por el Letrado de la Administración de Justicia
+b) Por el funcionario competente de la Oficina Judicial.
+c) Por el Letrado de la Administración de Justicia, cuando la sentencia lo disponga expresamente.
+d) Si es parte en el pleito.
+
+72) Según la LEC, contra los autos en que se deniegue completar las resoluciones que hubieran omitido manifiestamente pronunciamientos relativos a pretensiones oportunamente deducidas y sustanciadas en el proceso, ¿qué recurso cabe?:
+a) Directamente apelación.
+b) Recurso de apelación, potestativamente reposición.
+c) No cabrá recurso alguno
+d) Reposición.
+
+73) Según la LEC, cuando después de decidido el asunto por un tribunal colegiado se imposibilitare el Presidente, ¿quién firmará por él?:
+a) El Magistrado más antiguo
+b) El Magistrado ponente
+c) El Magistrado designado por el Presidente
+d) El Letrado de la Administración de Justicia de la Sala, extendiendo un acta.
+
+74) Según la LOPJ, en los casos en que los Magistrados de las diversas Secciones de una misma Sala o Tribunal sostuvieren en sus resoluciones diversidad de criterios interpretativos en la aplicación de la ley en asuntos sustancialmente iguales, ¿quién convocará pleno jurisdiccional para que conozca de uno o varios asuntos al objeto de unificar el criterio?:
+a) El Presidente de la Sala respectiva, por sí o a petición de mayoría absoluta de sus miembros.
+b) El Presidente de la Sala respectiva, por sí o a petición de mayoría de sus miembros
+c) El Presidente de la Sección o de la Sala, por sí o a petición de mayoría de sus miembros.
+d) El Presidente de la Sala respectiva, por sí o a petición del Presidente de la Sección
+
+75) Según la LECrim, si por cualquier circunstancia o accidente no se encontrare a las partes al ir a hacerles la notificación de la sentencia, se hará constar por diligencia y…
+a) Se volverá a ir una segunda vez.
+b) Se notificará por edictos.
+c) Bastará en tal caso con la notificación hecha a sus procuradores.
+d) En caso de ser condenado se hará una requisitoria para notificar la sentencia personalmente.

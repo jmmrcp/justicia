@@ -79,8 +79,6 @@ func GetCleverDB() (*mongo.Database, error) {
 // GetAtlasDB concecta a la base de datos en Mongo
 func GetAtlasDB() (*DB, error) {
 	ctx := context.Background()
-	// ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	// defer cancel()
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI("mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
 	)

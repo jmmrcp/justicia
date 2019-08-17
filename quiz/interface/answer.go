@@ -42,13 +42,14 @@ func (a *Answer) location(title string, g *gocui.Gui) (x, y, w, h int) {
 		x = -1
 		y = int(0.67 * float32(maxY))
 		w = int(0.5 * float32(maxX))
-		h = int(0.87 * float32(maxY))
+		// h = int(0.87 * float32(maxY))
+		h = int(0.90 * float32(maxY))
 		return
 	} else if strings.EqualFold(title, BoxD) {
 		x = int(0.5 * float32(maxX))
 		y = int(0.67 * float32(maxY))
 		w = maxX
-		h = int(0.87 * float32(maxY))
+		h = int(0.90 * float32(maxY))
 		return
 	} else if strings.EqualFold(title, BoxTrue) {
 		x = int(0.05 * float32(maxX))

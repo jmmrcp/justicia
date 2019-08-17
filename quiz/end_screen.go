@@ -24,7 +24,7 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	//End quiz when you run out of answers
 	if CurrentUserAnswer > len(UserAnswers) {
 		g.Close()
-		if FileExists("data/data.db") {
+		if FileExists("tools/mongo/data.db") {
 			boxDb()
 		} else {
 			boxDao()

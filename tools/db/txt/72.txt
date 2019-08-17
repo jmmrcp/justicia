@@ -1,0 +1,599 @@
+1) La declaración de procesamiento contra una determinada persona reviste la forma de: G99
+a) Providencia
+b) Propuesta de Providencia
+c) Auto
+d) Propuesta de Auto
+
+2) Todas las diligencias sobre fianzas y embargos en el procedimiento penal: G99
+a) Se tramitarán por el trámite de los incidentes
+b) Se instruirán en pieza separada
+c) Se unirán a los Autos principales
+d) Ninguna de las respuesta es correcta
+
+3) En el procedimiento penal, contra los Autos que el Juez dicte calificando la suficiencia de las fianzas, procederá: G99
+a) Recurso de reforma y subsidiario de apelación
+b) Recurso de súplica
+c) Recurso de apelación
+d) No cabe recurso alguno
+
+4) El Juez o Tribunal a quién se hiciere entrega de un detenido, elevará la detención a prisión o la dejará sin efecto en el término de: G99
+a) 72 horas a contar desde el momento de la detención
+b) 24 horas a contar desde que el detenido le fuere entregado
+c) 72 horas a contar desde que el detenido le hubiere sido entregado
+d) 48 horas a contar desde que el detenido le hubiere sido entregado, si desde el momento de la detención hasta su entrega no hubieran transcurridos más de 24 horas
+
+5) En un proceso penal, la fianza hipotecaria podrá otorgarse: G99
+a) Sólo ante notario, presentando luego la escritura pública de hipoteca en el Juzgado que hubiera exigido la fianza
+b) Ante el Secretario Judicial, en comparecencia “apud acta”
+c) Ante el Registrador de la Propiedad que inscribirá dicha fianza y lo comunicará al Juzgado que hubiera exigido la fianza
+d) En los casos a) y c)
+
+6) En el procedimiento penal ordinario, abierto el juicio oral, se dará traslado de la causa para calificación, por su orden: G99
+a) Al Ministerio Fiscal, o al acusado privado, al acusador particular y a los procesados, únicamente
+b) Sólo al Ministerio Fiscal y a los procesados
+c) Al Ministerio Fiscal, a los procesados y a los responsables civiles subsidiarios, sólo
+d) Al Ministerio Fiscal, o al acusador privado, al acusador particular, al actor civil, a los procesados y a los responsables civiles subsidiarios.
+
+7) En el procedimiento penal ordinario, procederá el sobreseimiento provisional, cuando: G99
+a) Aparezcan exentos de responsabilidad criminal los procesados como autores, cómplices o encubridores
+b) El hecho no sea constitutivo de delito
+c) No haya motivos suficientes para acusar a determinada o determinadas personas como autores, cómplices o encubridores
+d) No existan indicios racionales de haberse perpetrado el hecho
+
+8) En el procedimiento penal, el responsable civil, podrá promover y sostener cuestión de competencia: G01
+a) Sólo si se le hace el ofrecimiento de acciones del art. 110 de la LECrim
+b) Sólo durante la sustanciación del juicio
+c) Dentro de los tres días siguientes en que se le comunique la causa para calificación
+d) En cualquier estado de la causa.
+
+9) El plazo máximo que tiene el Abogado para acudir al centro de detención desde la recepción del encargo: G01-mod
+a) Diez horas
+b) Ocho horas
+c) Seis horas
+d) Tres horas
+
+10) Si en un proceso penal uno de los testigos fuera sordomudo, en el acto del juicio: G01
+a) No se le tomará declaración denegando ese medio probatorio
+b) En todo caso se procederá a nombrar un interprete
+c) Se nombrará un intérprete cuando no sepa leer ni escribir
+d) En ningún supuesto se nombrará un interprete
+
+11) En el sumario, la fianza hipotecaria podrá otorgarse: G01
+a) Sólo por escritura pública
+b) Por escritura pública o documento privado
+c) Por escritura pública o “apud acta”
+d) Por escritura pública o comparecencia en el Registro de la Propiedad
+
+12) En el sumario, los bienes de las fianzas hipotecarias serán tasados por: G01
+a) Un perito
+b) Dos peritos
+c) Tres peritos
+d) Cuatro peritos
+
+13) Presentado los escritos de calificación, o recogida la causa de poder de quien la tuviera, el Tribunal dictará auto, declarando hecha la calificación, y mandando que se pase aquélla al Ponente, para el examen de las pruebas propuestas, por término de: G01
+a) Dos días
+b) Tres días
+c) Cinco días
+d) Ninguna de las respuestas anteriores es correcta.
+
+14) Para que las partes puedan realizar el escrito de calificación del sumario, se entregarán las actuaciones a las mismas por término de cinco días: G01
+a) Sucesivamente, comenzando por el Ministerio Fiscal
+b) Siendo el plazo común para todas las partes personadas
+c) Sucesivamente, comenzando por la acusación particular
+d) Sucesivamente, comenzando por el procesado
+
+15) Si el procesado estuviere detenido, se le recibirá la primera declaración dentro del término de: G02
+a) 24 horas, que podrá prorrogarse por otras 48 horas.
+b) 48 horas, que podrá prorrogarse por otras 24 horas.
+c) 24 horas, que podrá prorrogarse por otras 72 horas.
+d) 72 horas, que podrá prorrogarse por otras 24 horas.
+
+16) Si fuere confirmado el auto declarando terminado el sumario, el Tribunal resolverá respecto a: G02
+a) La prueba propuesta
+b) La apertura de juicio oral o de sobreseimiento
+c) La práctica de prueba anticipada
+d) La calificación del delito.
+
+17) Contra el auto que desestime la excepción de prescripción del delito: G02
+a) Procede recurso de casación
+b) Sólo procede recurso de apelación en ambos efectos
+c) No se da recurso alguno salvo el que proceda contra la sentencia
+d) Ninguna de las respuestas anteriores es correcta
+
+18) Si el procesado no hiciere uso del derecho que le asiste a leer su declaración, ¿Quién lo hará?: A00
+a) El Juez
+b) El Letrado de la Administración de Justicia
+c) El Gestor Procesal
+d) No hará falta leerla
+
+19) En el orden jurisdiccional penal, ¿qué resolución ha de dictar el Juez o Tribunal para reducir una fianza?: A02
+a) Propuesta de Providencia
+b) Providencia
+c) Propuesta de Auto
+d) Auto
+
+20) Según la LECrim, ¿Quiénes no podrán prestar informe pericial acerca del delito?:T02
+a) Los peritos no titulados
+b) Los que por su cargo tengan obligación de guardar secreto
+c) Los parientes del procesado
+d) Los que tengan conocimiento del delito en virtud de su cargo
+
+21) Según la LECrim, el auto de conclusión del sumario, se notificará al procesado, para que comparezca ante la Audiencia, en el término de: T02
+a) Diez días
+b) Quince días
+c) Cinco días
+d) Treinta días
+
+22) Según la LECrim, las cuestiones o excepciones objeto de artículos de previo pronunciamiento, podrán proponerse: T02
+a) En cualquier momento antes de que recaiga sentencia firme
+b) En el término del día siguiente desde la entrega de los autos para calificar
+c) En el término de tres días, a contar desde el de la entrega de los autos para calificar
+d) En cualquier momento anterior al auto de apertura del juicio oral
+
+23) Para dar cumplimiento al auto de prisión… A03
+a) Se expedirá un mandamiento para que lo cumplimente el Auxilio Judicial de la Administración de Justicia o funcionario de Policía Judicial que haya de ejecutarlo
+b) Se expedirá un mandamiento dirigido al Director del establecimiento penitenciario para que lo reciba
+c) Se expedirá dos mandamientos: uno cometido al Auxilio Judicial de la Administración de Justicia y otro al Director del establecimiento que deba recibir al preso
+d) Se expedirá tres mandamientos: uno para el Auxilio Judicial de la Administración de Justicia, otro para el Director del Establecimiento penitenciario y un tercero para la causa
+
+24) ¿Puede cualquier persona detener? A03
+a) No, en ningún caso
+b) Tendrá que avisar a la Autoridad o agente de policía
+c) Sí, pero sólo en los supuestos expresamente previstos en la Ley
+d) La Ley no indica nada al respecto
+
+25) ¿Cuál de las siguientes afirmaciones no es cierta respecto a los requisitos y garantías que han de concurrir en la declaración de un procesado acordada en la tramitación del sumario ordinario? A03
+a) Se exigirá al procesado juramento de decir la verdad
+b) Se hará constar en la declaración el tiempo invertido en el interrogatorio
+c) El Juez podrá permitir al procesado que consulte a su presencia apuntes o notas
+d) El procesado podrá dictar por sí mismo las declaraciones
+
+26) Según el art. 520 LECrim, toda persona detenida será informada de los derechos que le asisten, entre los que no se encuentran: G03
+a) El derecho a no declara contra si mismo
+b) El derecho a designar un intérprete cuando se trate de un extranjero que no comprenda o no hable el castellano
+c) El derecho a ser reconocido por el médico forense
+d) El derecho a manifestar que sólo declarará ante el Juez
+
+27) Están dispensados de la obligación de declarar en el orden penal: G03
+a) Los parientes del procesado en línea directa ascendientes o descendientes
+b) Los eclesiásticos y ministros de cultos disidentes, en todo caso
+c) Cualquiera que pueda resultar perjudicado material o moralmente
+d) El Abogado del procesado, en todo caso
+
+28) Si se revocare el auto de conclusión del sumario, se mandará devolver el proceso al Juez que lo hubiere remitido: G03
+a) Expresando las diligencias que hayan de practicarse
+b) Devolviendo todas las piezas de convicción para la práctica de nuevas diligencias
+c) Para que el Ministerio Fiscal pueda solicitar la práctica de nuevas diligencias
+d) Devolviendo únicamente las piezas de convicción que el Ministerio Fiscal considere necesarias para la práctica de nuevas diligencias
+
+29) Según determina la LECrim, cuando un testigo deba declarar en localidad distinta de la de la sede del Juzgado o Tribunal, con exhorto que se remita se acompañará: T07
+a) Copia de la denuncia y citación al testigo
+b) Circunstancias precisas para la designación del testigo y preguntas que deba contestar
+c) Copia de la denuncia, datos de las partes y citación para el testigo
+d) Cédula de citación con las formalidades legales y preguntas que deba contestar
+
+30) Contra los autos que dicten los Jueces de Instrucción, decretando el procesamiento de alguna persona, podrá utilizarse, por la representación de ésta: T07
+a) Recurso de reforma dentro de los tres días siguientes al de haberle sido notificada la resolución, y contra los autos denegatorios de la reforma podrá se interpuesta recurso de apelación en un ambos efecto dentro de los cinco días siguientes al de la notificación del auto denegatorio.
+b) Recurso de apelación en ambos efectos dentro de los cinco días siguientes al de la notificación
+c) Recurso de reforma dentro de los cinco días siguientes al de haberle sido notificada la resolución, y contra los autos denegatorios de la reforma podrá se interpuesta recurso de apelación en un efecto dentro de los cinco días siguientes al de la notificación del auto denegatorio.
+d) Recurso de reforma dentro de los tres días siguientes al de haberle sido notificada la resolución, y contra los autos denegatorios de la reforma podrá se interpuesta recurso de apelación en un efecto dentro de los cinco días siguientes al de la notificación del auto denegatorio.
+
+31) Cuando el detenido fuere puesto a disposición del Juez de Instrucción o Tribunal que deba conocer de la causa, éste, salvo que decrete la libertad provisional sin fianza, convocará una audiencia que deberá celebrarse en el plazo más breve posible dentro de las 72 horas siguientes a la puesta a disposición judicial, y a ella se citará: T07
+a) Al imputado, al Ministerio Fiscal y a las demás partes personadas
+b) Al imputado y al Ministerio Fiscal
+c) Al imputado, al Ministerio Fiscal y al denunciante o querellante, aunque no estuvieren aún personados
+d) Al Ministerio Fiscal y al resto de las partes personadas
+
+32) Cuando no resulte debidamente justificada la perpetración del delito que haya dado motivo a la formación de la causa, procederá: T07
+a) El sobreseimiento provisional de la causa
+b) El sobreseimiento libre de la causa
+c) La apertura de juicio oral
+d) La conclusión del sumario
+
+33) ¿Quién tiene que estar presente en un registro domiciliario en todo caso?: T07
+a) El Juez o Magistrado de Guardia
+b) El Letrado de la Administración de Justicia
+c) El Funcionario del Cuerpo de Auxilio Judicial que designe el Juez o Magistrado
+d) Dos testigos.
+
+34) Según la LECrim en su artículo 588, la apertura de correspondencia se hará constar a través de: T07
+a) Nota firmada por el Juez Instructor, el Secretario Judicial y el Gestor Procesal
+b) Acta firmada por el Juez Instructor, el Secretario Judicial y demás asistentes
+c) Diligencia firmada por el Juez Instructor, el Secretario Judicial y demás asistentes
+d) Comparecencia firmada por el Secretario Judicial, el Gestor Procesal y demás asistentes.
+
+35) ¿En cuál de los siguientes casos procederá, durante la instrucción de un sumario, dictar un auto de sobreseimiento provisional parcial?: T07
+a) Cuando alguno de los procesados esté exento de responsabilidad criminal como autor, cómplice o encubridor, y deba continuar la causa respecto a los restantes.
+b) Cuando no resulte debidamente justificada la perpetración del delito que haya dado lugar a la formación de la causa, respecto de todos los procesados
+c) Cuando no haya motivos suficientes para acusar a alguno de los procesados como autor, cómplice o encubridor, y sí existan dichos motivos respecto a los restantes
+d) Cuando los hechos imputados a alguno de los procesados no sean constitutivos de delito, y sí lo fueren los correspondientes a los restantes procesados.
+
+36) En el procedimiento penal y en relación al juicio oral, ¿deberá ser informada la víctima del delito aunque no sea parte ni deba intervenir en el procedimiento?: T07
+a) Sí deberá ser informada oralmente del señalamiento del juicio
+b) No, necesariamente, pero podrá ser informada por escrito de la fecha y lugar del juicio
+c) Sí, deberá ser informada por escrito de la fecha y lugar de celebración del juicio
+d) No necesariamente, pero podrá ser informada verbalmente del señalamiento del juicio
+
+37) ¿Qué orden establece la LECrim para las declaraciones de los testigos en el acto del juicio oral, cuando concurran acusaciones particulares?: G07
+a) Primero declaran los testigos propuestos por el Ministerio Fiscal, después los de las partes personadas y por último los de la defensa del procesado
+b) Primero declaran los testigos de la defensa, en segundo lugar los del Ministerio Fiscal y en último lugar los del resto de las partes acusadoras
+c) Primero declaran los testigos del Ministerio Fiscal, después los propuestos por la defensa y por último los del resto de las partes
+d) Primero declaran los testigos de la defensa, a continuación las demás partes acusadoras, reservándose el Ministerio Fiscal el último turno de declaración de testigos.
+
+38) Para celebrar un careo entre el procesado y un testigo durante la sesión del juicio oral, será requisito imprescindible: T07
+a) Que dicha diligencia haya sido solicitada por alguna de las partes en su escrito de calificación
+b) Que alguna de las partes haya solicitado dicha diligencia en su escrito de calificación o en el acto del juicio oral
+c) Que el Tribunal considere necesaria la diligencia para comprobar los hechos enjuiciados
+d) Que el Tribunal considere necesaria la práctica de diligencia, siempre que el Ministerio Fiscal muestre su conformidad al respecto.
+
+39) Será competente para adoptar la orden de protección, en el ámbito de la violencia de género: G07
+a) En todo caso, el órgano judicial competente para conocer del correspondiente procedimiento
+b) El Juzgado que primero conozca de la citada solicitud, aunque no sea el competente
+c) El Juzgado de Violencia de género del partido judicial en que se cometieron los hechos
+d) El Juzgado de Instrucción del partido judicial en que resida la víctima
+
+40) La apertura de correspondencia se practicará: G07
+a) Abriendo el Juez, por sí mismo la correspondencia
+b) Abriéndola por sí mismo, el Secretario Judicial que es quien tiene la fe pública
+c) Abriéndola los Agentes de policía que han elaborado el atestado a presencia sólo del Secretario
+d) Abriéndola cualquier funcionario del Juzgado que lleva la causa siempre que sobre la misma se estampe el sello del juzgado.
+
+41) Con carácter general, y según la LECrim, los medios de prueba de los que partes intente valerse deberán proponerse: G07
+a) Siempre por escrito dirigido al órgano judicial competente y en cualquier fase del procedimiento, para evitar su indefensión
+b) En sus respectivos escritos de calificación provisional
+c) En las conclusiones definitivas de las partes
+d) A través de los recursos pertinentes contra el auto de apertura de juicio oral
+
+42) Cuando la declaración de un testigo en el acto del juicio oral no sea conforme en los sustancial con la prestada en el sumario: G07
+a) Cualquiera de las partes podrá pedir la lectura de sus anteriores declaraciones en instrucción, para poner de manifiesto las contradicciones
+b) El Presidente del Tribunal le apercibirá, de nuevo, de decir la verdad, y si el testigo persiste en su actitud se le procesará por la comisión de un presunto delito de falso testimonio
+c) El Presidente del Tribunal no tendrá en cuenta sus declaraciones para formar la convicción del órgano jurisdiccional
+d) Si el testigo persiste en su actitud, una vez apercibido, se le expulsará de la sala de vistas.
+
+43) Con carácter previo o previamente a recibirle declaración a un testigo en el acto del juicio oral: G07
+a) Prestará juramento de decir todo lo que supiere respecto a lo que le fuere preguntado
+b) El Secretario Judicial le informará de sus derechos en presencia del letrado
+c) Si lo solicita, será reconocido por el médico forense
+d) Se hará el ofrecimiento de acciones para que pueda constituirse en Acusación Particular en defensa del acusado
+
+44) La duración de la prisión provisional, cuando se hubiere acordado para evitar la ocultación, alteración o destrucción de las pruebas relevantes para el enjuiciamiento, no podrá exceder de: G14
+a) Un año
+b) Dos años
+c) Seis meses
+d) Nueves meses
+
+45) Salvo en los supuestos de delitos cometidos por persona integrada o relacionada con bandas armadas o terroristas o cometidos concertadamente y de forma organizada por dos o más personas: T09
+a) No podrá decretarse la prisión incomunicada
+b) Podrá decretarse la prisión incomunicada que no podrá extenderse más allá de cinco días
+c) Podrá decretarse la prisión incomunicada por un plazo de cinco días prorrogables por otro plazo no superior a cinco días
+d) Podrá decretarse la prisión incomunicada que no podrá extenderse más allá de cinco días prorrogables por otro plazo no superior a tres días
+
+46) ¿Qué consideración jurídico-procesal tiene la prescripción del delito?: T09
+a) Causa de sobreseimiento provisional
+b) Causa de sobreseimiento libre
+c) Cauda de pérdida sobrevenida del objeto del proceso
+d) Artículo de previo pronunciamiento
+
+47) Conforme a la LECrim ¿A qué persona de las citadas se hará la notificación judicial de entrada y registro cuando se trate de un establecimiento de recreo donde se tenga indicios de existencia de instrumento de delito?: T09
+a) El funcionario de Auxilio Judicial del órgano que lleve las actuaciones
+b) A la Policía Judicial
+c) A quien se halle frente del establecimiento o a quien se haga sus veces en ausencia de éste
+d) A quien fuese propietario de la finca
+
+48) Según la LECrim, cuando existan dudas sobre la edad del imputado, ¿cómo se ha de acreditar tal circunstancia?: G09
+a) A través de declaración para que el mismo manifieste su edad
+b) A través de la Policía Nacional
+c) Recabando informe forense para determinar la edad
+d) Recabando informe de la Oficina Nacional del DNI para acreditar su edad
+
+49) Según la LECrim, ¿Por qué causa, de las señaladas a continuación, se puede recusar a los peritos?: G09
+a) Por no ser titulares
+b) Por tener acreditada enemistad manifiesta con las partes
+c) Por no acudir al llamamiento del Juez en su momento
+d) Por quedar acreditada cualquier grado de consanguinidad o afinidad con el procesado
+
+50) Según el artículo 546 de la Ley de Enjuiciamiento Criminal ¿Quién es competente para cursar una orden de entrada y registro?: G09
+a) En todo caso el Juez del lugar donde se encuentre el lugar a registrar.
+b) El Juez que conozca del procedimiento, exclusivamente
+c) El Secretario Judicial del lugar donde se encuentre el lugar a registrar
+d) Los cuerpos y fuerzas de seguridad del Estado
+
+51) Una vez concluido el sumario en el procedimiento ordinario, la ley establece que las partes serán emplazadas para que comparezcan en el término: G09
+a) De diez días, si el emplazamiento no fuese ante el Tribunal Supremo
+b) De quince días, si el emplazamiento no fuese ante el Tribunal Supremo
+c) De diez días, si el emplazamiento fuese ante el Tribunal Supremo
+d) De quince días, si en la causa debe intervenir el Ministerio Fiscal
+
+52) Si el Letrado designado por un detenido, para asistirle en su declaración ante el Juzgado, no fuere hallado: T12
+a) Se requerirá al detenido para que inmediatamente designe nuevo Letrado que le asista en la declaración
+b) Se pospondrá la declaración hasta tanto el Letrado fuere hallado
+c) Se prorrogará la detención durante un máximo de cuarenta y ocho horas
+d) El Colegio de Abogados designará un nuevo abogado del turno de oficio
+
+53) Según la LECrim, los autos en que se acuerde o se deniegue la prisión provisional de una persona: T12
+a) Serán apelables en ambos efectos
+b) Solo serán apelables los que acuerden la prisión provisional
+c) Serán apelables en un solo efecto
+d) No serán apelables hasta finalizada la instrucción de la causa en que se acuerden
+
+54) Conforme al artículo 749 de la LECrim, cuando se haya acordado la suspensión del juicio quedará sin efecto la parte del juicio celebrada: G12
+a) Cuando no comparezcan los testigos de cargo y de descargo ofrecidos por las partes y el Tribunal considere necesaria la declaración de los mismos
+b) Cuando con arreglo a lo dispuesto a la Ley de Enjuiciamiento Criminal el Tribunal tuviera que practicar alguna diligencia fuera del lugar de las sesiones sin poder precisar la fecha en que hubiere de practicarse
+c) Cuando el Tribunal se demorare por un tiempo demasiado largo en resolver alguna cuestión incidental que por cualquier causa fundada no hubiera podido decidirse en el acto
+d) Cuando la preparación de elementos de prueba o la sumaria instrucción suplementaria exigiere algún tiempo y así lo acuerde el Tribunal
+
+55) Según la LECrim, respecto de la situación personal del imputado en causa penal, ¿cuál de las siguientes afirmaciones no es correcta?: G12
+a) La libertad provisional con fianza del imputado no detenido se acordará por el Juez sin necesidad del Ministerio Fiscal
+b) La prisión provisional sin prórroga no podrá exceder de dos años
+c) Si fuere condenado el imputado, la prisión provisional podrá prorrogarse hasta el límite de la mitad de la pena, si esta fuera recurrida en casación.
+d) Para el cómputo de los plazos de la prisión provisional se tendrá en cuenta el tiempo que el imputado hubiera estado detenido por la misma causa
+
+56) En la jurisdicción penal, la adopción de medidas cautelares para el aseguramiento de las responsabilidades pecuniarias se acordará por: T12
+a) Providencia y se formalizará en pieza separada
+b) Decreto y se formalizará en el procedimiento
+c) Decreto y se formalizará en pieza separada
+d) Auto y se formalizará en pieza separada
+
+57) Según el artículo 649 de la LECrim, en la fase de calificación del delito, ¿por qué término máximo el Secretario Judicial comunicará la causa al Fiscal para que califique por escrito los hechos? T12
+a) Tres días
+b) Cinco días
+c) Diez días
+d) Veinte días
+
+58) Contra los autos que dicten los Jueces de Instrucción decretando el procesamiento, podrá utilizarse: T12
+a) Recurso de reforma y subsidiario de apelación
+b) Recurso de casación ante la Sala Primera del Tribunal Supremo
+c) Recurso de reposición
+d) Recurso por infracción procesal
+
+59) Si el procesado no presente la fianza exigible: G12
+a) Se le concederá un segundo plazo para prestarla con apercibimiento de detención
+b) Se le retirará el pasaporte
+c) Será reducido a prisión
+d) Se le impondrá la obligación apud acta de comparecer los días que sean necesarios
+
+60) En el procedimiento penal, las sesiones de Juicio podrán celebrarse a puerta cerrada cuando lo decida: G12
+a) El Presidente mediante auto motivado
+b) El Juez o Tribunal
+c) El Juez en el auto de apertura de Juicio oral
+d) El Juez en el auto en el que se admitan las pruebas
+
+61) Según el art. 722 de la LECrim, los testigos que comparezcan a declarar ante el Tribunal tendrán derecho a una indemnización, si la reclamaren: G11
+a) El testigo deberá presentar la lista de gastos y el Secretario de Gobierno del Tribunal Superior de Justicia correspondiente dictará acuerdo de pago
+b) El Tribunal valorará los gastos del viaje y el importe de las jornales perdidos por el testigo con motivo de su comparecencia para declarar y por auto fijará la indemnización
+c) Los testigos no tienen derecho a indemnización en el proceso penal. Los gastos son amortizados por la parte que los propone
+d) El Secretario Judicial la fijará mediante decreto, teniendo en cuenta únicamente los gastos del viaje y el importe de los jornales perdidos por el testigo con motivo de su comparecencia para declarar
+
+62) Dictado el auto de admisión de pruebas, de conformidad a lo dispuesto en el artículo 659 de la Ley de Enjuiciamiento Criminal: G11
+a) El Presidente del Tribunal establecerá el día y la hora en que deban comenzar las sesiones del juicio oral quedando fijadas en el mismo auto de admisión de pruebas
+b) El Magistrado ponente mediante providencia fijará el comienzo de las sesiones del juicio oral
+c) El Secretario Judicial establecerá día y hora en que deban comenzar las sesiones del juicio oral, con sujeción a los criterios de la Agenda de Señalamiento que configura el Secretario de Gobierno
+d) El Secretario Judicial establecerá día y hora en que deban comenzar las sesiones del juicio oral con sujeción a lo establecido en el art. 182 de la LEC.
+
+63) Las declaraciones de los testigos menores de edad, en el Proceso Penal, se llevarán a cabo: G11
+a) Siempre en presencia del Ministerio Fiscal, sin que sea necesario la documentación de la misma por la fe pública judicial
+b) Evitando que sean vistos por el público de la sala, pero siempre es necesario que el imputado tenga confrontación visual con ellos
+c) Evitando la confrontación visual de los mismos con el inculpado, utilizando para ello cualquier medio técnico que haga posible la práctica de esta prueba
+d) Conforme a la Ley procesal española, los menores de edad nunca puede declarar como testigos
+
+64) Según el art. 544 bis de la LECrim, en caso de incumplimiento por parte del inculpado de la medida de alejamiento acordada, el Juez: G11
+a) Apercibirá al inculpado de incurrir en responsabilidad penal
+b) Impondrá una multa
+c) Acordará una orden de alejamiento, fijando una distancia mayor
+d) Convocará la comparecencia del art. 505 de la Ley de Enjuiciamiento Criminal
+
+65) Según el art. 544 ter de la LECrim, las medidas cautelares de carácter civil contenidas en la orden de protección, tendrán una vigencia de: G11
+a) Hasta que se incoe proceso de familia ante la jurisdicción civil
+b) Hasta sentencia
+c) Hasta que se presente la demanda de separación, nulidad o divorcio
+d) Treinta días
+
+66) De conformidad con lo que prevé el art. 659 de la LECrim, contra el auto en que fuere rechazado o denegado la práctica de diligencia de prueba: G11
+a) No cabe recurso alguno ni en primera ni en segunda instancia
+b) Podrá interponerse recurso de súplica ante el Tribunal que lo dictó
+c) Podrá interponerse en su día el recurso de casación, si se prepara oportunamente con la correspondiente protesta
+d) Podrá interponerse recurso de queja ante el Tribunal Supremo o ante el Tribunal Superior de Justicia correspondiente
+
+67) Los autos relativos a la situación personal del imputado: G11
+a) Se comunican a la Policía judicial que realizó la detención
+b) Se pondrán en conocimiento de los directamente ofendidos y perjudicados por el delito cuya seguridad pudiera verse afectada por la resolución
+c) Se pondrán en conocimiento de las asociaciones de perjudicados y víctimas para que nombren Abogado y Procurador que les defienda y represente en la causa
+d) Se comunican al Juzgado Decano en el que, a efectos estadísticos, se registran y guardan en el legajo correspondiente
+
+68) En el Procedimiento Ordinario, abierto el juicio oral, el Secretario Judicial, al dar traslado de la causa a las partes para la calificación del delito: G11
+a) Entregará copia de toda la causa, que se hará, a ser posible en soporte digital o por fotocopia
+b) No hay trámite de calificación del delito en al fase intermedia del proceso
+c) Dispondrá dar cuenta al Tribunal para que éste decida la forma en la que se entregará la causa a las partes para calificación
+d) Dispondrá lo que considere conveniente para que éstas puedan examinar la correspondencia, libros, papeles y demás piezas de convicción, sin peligro de alteración en su estado
+
+69) ¿Quién está exento del deber de declarar como testigo en el juicio oral seguido ante la Audiencia Provincial por causa criminal? G10
+a) El Presidente del Gobierno
+b) El Presidente del Tribunal Constitucional
+c) El Presidente del Consejo General del Poder Judicial
+d) Los Agentes diplomáticos acreditados en España
+
+70) Al procesado o condenado que estuviere en rebeldía le puede detener: G10
+a) Cualquier persona
+b) Sólo la Policía
+c) Sólo las Fuerzas y Cuerpos de Seguridad del Estado
+d) Sólo la Guardia Civil
+
+71) Declarado concluso el sumario: T10
+a) Se remitirán los autos y las piezas de convicción al Tribunal competente para conocer del delito
+b) Por el Juez instructor se acordará la apertura del Juicio Oral para ante el Tribunal competente para su enjuiciamiento
+c) Se dará traslado a las acusaciones para que en el término de cinco días califiquen por escrito los hechos
+d) Ninguna de las respuestas anteriores es correcta
+
+72) La observación de las comunicaciones postales, telegráficas o telefónicas de las personas sobre las que existan indicios de responsabilidad criminal, se podrá acordar por el Juez: T10-mod
+a) Por el tiempo que requiera la instrucción de la causa
+b) Por un plazo de hasta tres meses, prorrogable por iguales o inferiores períodos
+c) Por un plazo de hasta seis meses, prorrogable por iguales períodos
+d) Por un plazo máximo de cuatro meses
+
+73) Con carácter general, solicitada la Orden de Protección en los supuestos de Violencia de Género, la audiencia prevenida en el artículo 544 ter de la LECrim, habrá de celebrarse: T10
+a) En un plazo máximo de cuarenta y ocho horas
+b) En un plazo máximo de veinticuatro horas
+c) En un plazo máximo de setenta y dos horas
+d) A la mayor brevedad posible
+
+74) Contra el auto desestimatorio de reforma del auto denegatorio del procesamiento: T10
+a) No cabe recurso alguno
+b) Cabe interponer recurso de apelación en un solo efecto
+c) Cabe interponer recurso de apelación en doble efecto
+d) Cabe interponer recurso de queja
+
+75) ¿Cuál es el plazo máximo en el cual el detenido deberá ser puesto en libertad a disposición de la autoridad judicial, conforme a lo dispuesto en el artículo 520 de la Ley de Enjuiciamiento Criminal? A11
+a) 5 días
+b) 7 días
+c) 72 horas
+d) 48 horas
+
+76) Conforme al artículo 520 de la LECrim, el detenido o preso ¿podrá renunciar a la preceptiva asistencia de letrado? A11
+a) Sí, únicamente para la primera declaración en sede judicial
+b) No, la asistencia letrada nunca es renunciable
+c) Sí, pero todas aquellas diligencias que se practiquen antes de ser puesto a disposición judicial
+d) Si, si su detención lo fuere por hechos tipificados, exclusivamente, como delitos contra la seguridad del tráfico
+
+77) Concluido el sumario conforme a lo preceptuado en el artículo 626 de la LECrim, recibidos en el Tribunal los autos y piezas de convicción, ¿a quién corresponde la apertura de los pliegos y demás objetos cerrados y sellados que hubiere remitido el Juez de Instrucción y por quién se extenderá acta? A10
+a) La apertura corresponde al Magistrado ponente de la causa y el Secretario Judicial extenderá acta haciendo constar el estado en que se hallen
+b) La apertura corresponde al Secretario Judicial, y el funcionario del Cuerpo de Gestión Procesal y Administrativa extenderá acta haciendo constar el estado en que se encuentren
+c) La apertura corresponde al Secretario Judicial, que extenderá acta debidamente firmada, haciendo constar en que se encuentren
+d) La apertura corresponde al Magistrado-Ponente de la Sala o Sección y el Secretario Judicial extenderá acta haciendo constar el estado en que se hallen
+
+78) Concluido el sumario y recibidos en el Tribunal los autos y piezas de convicción y designado Magistrado ponente, conforme a lo establecido en el artículo 627 de la LECrim, ¿Por qué término se pasarán los autos de instrucción y a qué partes? A10
+a) Por término de entre tres y diez días, primero el Ministerio Fiscal, en su caso, después al Procurador del querellante, si se hubiera personado, y por último la defensa del procesado
+b) Al Ministerio Fiscal y acusaciones particulares por un término de entre tres y quince días
+c) De forma simultánea a todas las partes, es decir, Ministerio Fiscal, acusación particular y defensa de procesados
+d) Por un término de entre tres y quince días, a todas las partes personadas comenzando por el Ministerio Fiscal
+
+79) En el Sumario, la cantidad de la fianza para asegurar las responsabilidades pecuniarias no podrá bajar: G14
+a) Del importe probable de las responsabilidades pecuniarias
+b) De la tercera parte más de todo el importe probable de las responsabilidades pecuniarias
+c) De la mitad más de todo el importe probable de las responsabilidades pecuniarias
+d) Del doble del importe probable de las responsabilidades pecuniarias
+
+80) Según la Ley de Enjuiciamiento Criminal ¿cuál de las siguientes causas no produce la suspensión del juicio oral? G09
+a) Cuando el Tribunal tenga que resolver alguna cuestión incidental que no pueda decidirse en el acto
+b) Cuando el Ministerio Fiscal enfermara repentinamente y no pueda continuar tomando parte en el juicio
+c) Cuando se tuviere que practicar alguna diligencia fuera del lugar de las sesiones del juicio
+d) Cuando se produzca la muerte súbita del testigo
+
+81) Según la LECrim y en relación a las entradas y registros que pueda decretar un Juez ¿qué edificios o lugares de los señalados a continuación se reputan domicilio a estos efectos? G09
+a) Los buques del Estado
+b) Los buques nacionales mercantes
+c) Los destinatarios a cualquier servicio oficial donde habiten los encargados o el personal de mantenimiento
+d) Los que estuvieren destinados a cualquier establecimiento de reunión, sean lícitos o no.
+
+82) Para la entrada y registro en los templos y demás lugares religiosos: G09
+a) Bastará pasar recado de atención a las personas a cuyo cargo estuvieren
+b) Es imprescindible la autorización del Arzobispo
+c) Es necesaria la autorización del Obispo
+d) Es obligada la presencia del Cura Párroco
+
+83) ¿En qué plazo deberá resolverse el recurso de apelación contra el auto de prisión?: G16
+a) En un plazo máximo de 30 días
+b) En un plazo máximo de 15 días
+c) En el plazo de 3 días, previo informe del Ministerio Fiscal
+d) En el plazo de 5 días, previo informe del Ministerio Fiscal
+
+84) Conforme a la Ley de Enjuiciamiento Criminal la prueba testifical anticipada, ¿En qué supuesto puede practicarse sin asistencia del letrado al procesado antes de la celebración del juicio?: G16
+a) En caso de imposibilidad del testigo por haber de ausentarse del territorio nacional
+b) EN caso de que hubiere motivo racionalmente bastante para tener por la incapacidad física del testigo antes de la apertura del juicio oral
+c) En caso de que hubiere motivo racionalmente bastante para temer por la incapacidad intelectual del testigo antes de la apertura de juicio oral.
+d) En caso de inminente peligro de muerte del testigo.
+
+85) En la fase de instrucción de un proceso penal, el testigo que sea cónyuge del procesado o persona unida al mismo por relación de hecho análoga a la matrimonial: G16
+a) Está dispensado de la obligación de comparecer para declarar como testigo.
+b) El Juez instructor le advertirá de que no puede declarar en contra del procesado.
+c) No tiene la obligación de declarar en contra del procesado.
+d) El Letrado de la Administración de Justicia no recogerá las manifestaciones prestadas por los que se hallen comprendidos en esta situación.
+
+86) El artículo 504 de la LECrim dispone que si fuera condenado el investigado o encausado y hubiere sido recurrida la sentencia, la prisión provisional podrá prorrogarse hasta: G16
+a) Dos años si hubiera sido condenado a pena privativa de libertad superior a tres años.
+b) Seis meses si hubiera sido condenado a pena privativa de libertad igual o inferior a tres años.
+c) El límite de la mitad de la pena efectivamente impuesta en sentencia.
+d) El límite de las dos terceras partes de la pena efectivamente impuesta en sentencia.
+
+87) Según el art 457 LECrim, la prueba pericial se practicara:
+a) Por peritos que tengan título oficial de una ciencia o arte cuyo ejercicio esté reglamentado por la Administración, exclusivamente.
+b) Solamente por peritos que carezcan de título oficial
+c) Por peritos no titulares que tienen conocimientos o práctica especiales en alguna ciencia o arte.
+d) Por peritos titulares o no, según los casos.
+
+88) Están exentos de concurrir al llamamiento del Juez, pero no de declarar:
+a) La Reina Doña Sofía
+b) El Presidente del Tribunal Constitucional
+c) El Presidente del Consejo General del Poder Judicial
+d) Todos los anteriores.
+
+89) Serán invitados a prestar declaración por escrito:
+a) Los Agentes Diplomáticos acreditados en España.
+b) Los eclesiásticos y ministros de los cultos disidentes.
+c) Los Secretarios de Estado y Subsecretarios
+d) Los Diputados y Senadores.
+
+90) En el orden penal, si el testigo reside en el extranjero:
+a) Se le recibirá declaración en la sede del Juzgado que instruya el sumario.
+b) Se le recibirá declaración a través de la policía del lugar de su residencia
+c) Se le recibirá declaración en el Consulado Español.
+d) Se le recibirá declaración mediante suplicatorio por la vía diplomática.
+
+91) En el orden penal, las declaraciones serán autorizadas:
+a) Por el Letrado de la Administración de Justicia
+b) Por el Juez y el Letrado de la Administración de Justicia.
+c) Por el Ministerio Fiscal
+d) Por el Juez y por todos los que en ellas hubiesen intervenido.
+
+92) Terminada la declaración, el Juez Instructor hará saber al testigo:
+a) La obligación de comparecer para declarar de nuevo ante el Tribunal competente.
+b) La obligación de poner en conocimiento de la Oficina Judicial los cambios de domicilio que hiciere hasta ser citado para el juicio oral.
+c) Las prevenciones a) y b) se harán constar al final de la misma diligencia de la declaración.
+d) Ninguna respuesta es correcta, porque estas prevenciones se lo hará saber el Letrado de la Administración de Justicia.
+
+93) La persona a quien se impute un acto punible deberá ser citada:
+a) Para prestar declaración.
+b) Para hacer la comparecencia del artículo 505 LECrim.
+c) Sólo para ser oída.
+d) Para decretar su procesamiento.
+
+94) Si la persona a quien se le impute un delito no compareciera ni justificara causa legítima que se lo impida, la orden de comparecencia podrá convertirse en orden de:
+a) Prisión
+b) Detención
+c) Requisitoria
+d) Busca y captura.
+
+95) Se dictará auto declarando procesada a una persona:
+a) Desde la práctica de las primeras diligencias
+b) Desde la incoación del sumario
+c) Desde que resultare del sumario algún indicio racional de criminalidad
+d) Una vez concluso el sumario
+
+96) ¿Cómo se denomina la primera declaración que se toma al procesado?:
+a) Declaración de procesamiento
+b) Declaración indagatoria
+c) Declaración de investigación
+d) Declaración de imputación
+
+97) La declaración del procesado tendrá lugar:
+a) Siempre en la sede del Juzgado
+b) En el centro penitenciario, mediante videoconferencia
+c) En el lugar de los hechos, cuando el Juez lo considere conveniente.
+d) En su domicilio o despacho oficial, si fuera aforado.
+
+98) Durante la sustanciación del sumario, el procesado podrá declarar:
+a) Cuantas veces quisiere, si tiene relación con los hechos.
+b) En todo caso, cuando el Ministerio Fiscal lo solicite.
+c) Cuando lo solicite la defensa del procesado, en todo caso.
+d) Exclusivamente después de dictarse el auto de procesamiento
+
+99) Los detenidos en espacios marinos por la presunta comisión de los delitos contemplados en el artículo 23.4.d) de la Ley Orgánica 6/1985 del Poder Judicial, deben ser puestos a disposición de la autoridad judicial competente:
+a) Tan pronto como sea posible.
+b) En el plazo máximo de 72 horas, prorrogables por otras 48 horas, por razón de distancia.
+c) En el plazo máximo de 72 horas.
+d) Por los medios telemáticos de los que disponga el buque o aeronave.
+
+100) En el supuesto que el Juez de Instrucción acuerde la detención o prisión incomunicada, el detenido o preso podrá ser privado de los siguientes derechos:
+a) Designar un abogado de su confianza
+b) Comunicarse con todas o alguna de las personas con las que tenga derecho a hacerlo, salvo con la autoridad judicial, el Ministerio Fiscal y el Médico Forense
+c) Entrevistarse reservadamente con su abogado.
+d) De todos los derechos anteriores podrá ser privado.
