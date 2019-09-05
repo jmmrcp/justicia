@@ -42,6 +42,5 @@ func Read(path string, records [][]string) ([][]string, error) {
 		}
 		count++
 	}
-
 	return records, nil
 }

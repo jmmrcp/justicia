@@ -40,6 +40,5 @@ func TFInit(g *gocui.Gui, q *questions.Question, count string) (err error) {
 	if err := g.SetKeybinding("", gocui.KeyEnter, gocui.ModNone, SelectAnswer); err != nil {
 		log.Panicln(err)
 	}
-
 	return nil
 }

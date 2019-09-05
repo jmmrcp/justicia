@@ -1,4 +1,4 @@
-1) Para el caso de acordarse caducidad de actuaciones en procesos civiles, esta se producirá (si se trata de primera instancia) en el plazo de:
+1) Para el caso de acordarse caducidad de actuaciones en procesos civiles, esta se producirá, si se trata de primera instancia, en el plazo de:
 a) Dos años desde que se dicta la última resolución
 b) Dos años desde que se publica la última resolución
 c) Dos años desde que se practica la última notificación a las partes
@@ -232,7 +232,7 @@ b) Cuando expidan los Tribunales certificaciones o testimonios de sentencias
 c) Cuando se remitan al Tribunal Supremo
 d) Cuando se interponga y admita el recurso de casación
 
-40) En el orden Penal, las sentencias definitivas, cuando se han instruido en un Juzgado de Violencia de Género… (señalar la incorrecta)
+40) En el orden Penal, las sentencias definitivas, cuando se han instruido en un Juzgado de Violencia de Género… ,señalar la incorrecta.
 a) Se leerán y notificarán a las partes en el mismo día en que se firmen.
 b) Se leerán y notificarán a sus Procuradores en el día siguiente en que se firmen.
 c) Será remitida al Juzgado de Violencia de Género por testimonio de forma inmediata, con indicación si la misma es o no firme

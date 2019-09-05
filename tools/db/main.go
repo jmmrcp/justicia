@@ -127,18 +127,18 @@ func db(preguntas []string, respuestas []string) {
 						   PRIMARY KEY AUTOINCREMENT
 						   UNIQUE,
 		test       INTEGER NOT NULL,
-		categoria	 TEXT		 NOT NULL,
-		tema			 TEXT		 NOT NULL,
-		titulo		 TEXT		 NOT NULL,
+		categoria  TEXT	   NOT NULL,
+		tema	   TEXT	   NOT NULL,
+		titulo	   TEXT	   NOT NULL,
 		pregunta   TEXT    NOT NULL,
 		respuesta1 TEXT    NOT NULL,
 		respuesta2 TEXT    NOT NULL,
 		respuesta3 TEXT    NOT NULL,
 		respuesta4 TEXT    NOT NULL,
 		articulo   TEXT    NOT NULL,
-		ord				 INTEGER NOT NULL,
+		ord        INTEGER NOT NULL,
 		fecha      DATE    DEFAULT CURRENT_TIMESTAMP,
-		cont			 INTEGER DEFAULT 0,
+		cont       INTEGER DEFAULT 0,
 		box        INTEGER DEFAULT 0
 	);`)
 	if err != nil {

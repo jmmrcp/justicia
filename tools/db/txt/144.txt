@@ -91,7 +91,7 @@ d) Suspende el juicio si el Juez de oficio o a instancia de parte, cree necesari
 16) Según el artículo 511 de la Ley de Enjuiciamiento Criminal para llevar a efecto el auto de prisión se expedirán: A07
 a) Un único mandamiento dirigido al Director del establecimiento que deba recibir al preso
 b) Dos mandamientos, uno para la Policía Local y otra al Director del establecimiento que deba recibir al preso
-c) Dos mandamientos, uno a la Policía Judicial o Agente Judicial (ahora Auxilio Judicial), en su caso, que haya de ejecutarlo, y otro al Director del establecimiento que deba recibir al preso.
+c) Dos mandamientos, uno a la Policía Judicial o Agente Judicial, ahora Auxilio Judicial, en su caso, que haya de ejecutarlo, y otro al Director del establecimiento que deba recibir al preso.
 d) Un único mandamiento dirigido a la Policía Judicial
 
 17) Conforme al artículo 976 de la Ley de Enjuiciamiento Criminal, la sentencia dictada en Juicio de delitos leves es apelable en el plazo de los: T07
@@ -178,7 +178,7 @@ b) Lo antes posible y en todo caso dentro de los ocho días siguientes
 c) Lo antes posible y en todo caso dentro de los nueve días siguientes
 d) El día más inmediato posible y en todo caso dentro de los diez días siguientes.
 
-31) Según el artículo 313 de la LECrim, contra el auto que desestime la querella (inadmisión a trámite de querella), cuando el Juez no se considere competente para instruir el sumario objeto de la misma, procederá:
+31) Según el artículo 313 de la LECrim, contra el auto que desestime la querella, inadmisión a trámite de querella, cuando el Juez no se considere competente para instruir el sumario objeto de la misma, procederá:
 a) Recurso de reforma en un solo efecto
 b) Recurso de reforma y de apelación en un solo efecto
 c) Recurso de apelación en un solo efecto
@@ -315,15 +315,15 @@ b) Podrán ser recurridas en apelación tanto cuando no hayan respetado los requ
 c) Únicamente serán recurribles cuando no hayan respetado los requisitos o términos de la conformidad, sin que el acusado pueda impugnar por razones de fondo su conformidad libremente prestada.
 d) Sólo podrán ser recurribles en apelación en lo relativo a los pronunciamientos de responsabilidad civil.
 
-54) La ausencia injustificada del acusado que hubiera sido citado personalmente, o en el domicilio o en la persona a que se refiere el artículo 775 LECrim (primera comparecencia):
+54) La ausencia injustificada del acusado que hubiera sido citado personalmente, o en el domicilio o en la persona a que se refiere el artículo 775 LECrim, primera comparecencia:
 a) No será causa de suspensión del juicio oral si el Juez o Tribunal, a solicitud del Ministerio Fiscal o de la parte acusadora, y oída la defensa, estima que existen elementos suficientes para el enjuiciamiento, cuando la pena solicitada no exceda de los dos años de privación de libertad o, si fuera de distinta naturaleza, cuando su duración no exceda de seis años.
 b) No será causa de suspensión del juicio oral si el Juez o Tribunal, a solicitud del Ministerio Fiscal o de la parte acusadora, y oída la defensa, estima que existen elementos suficientes para el enjuiciamiento, cuando la pena solicitada no exceda de tres años de privación de libertad o, si fuera de distinta naturaleza, cuando su duración no exceda de seis años.
 c) Incurrirá en multa de 200 a 5.000 euros, que se impondrá en el acto.
 d) Se procederá contra él como autor de un delito de desobediencia.
 
 55) En el procedimiento de decomiso autónomo:
-a) El juicio se desarrollará conforme a lo dispuesto en el artículo 433 de la Ley de Enjuiciamiento Civil (juicio ordinario) y el juez o tribunal resolverá mediante sentencia en el plazo de veinte días.
-b) El juicio se desarrollará conforme a lo dispuesto en el artículo 443 de la Ley de Enjuiciamiento Civil (juicio verbal) y el juez o tribunal resolverá mediante sentencia en el plazo de diez días.
+a) El juicio se desarrollará conforme a lo dispuesto en el artículo 433 de la Ley de Enjuiciamiento Civil, juicio ordinario y el juez o tribunal resolverá mediante sentencia en el plazo de veinte días.
+b) El juicio se desarrollará conforme a lo dispuesto en el artículo 443 de la Ley de Enjuiciamiento Civil, juicio verbal y el juez o tribunal resolverá mediante sentencia en el plazo de diez días.
 c) No existe una remisión a las normas de la Ley de Enjuiciamiento Civil para el desarrollo del juicio, debiendo acudirse a las normas del juicio oral de los artículos 786 a 788 de la LECrim.
 d) No existe una remisión a las normas de la Ley de Enjuiciamiento Civil para el desarrollo del juicio, debiendo acudirse a las normas del juicio por delito leve del artículo 969 de la LECrim.
 
@@ -339,7 +339,7 @@ b) Tres meses, y podrá prorrogarse, a instancia del Ministerio Fiscal, previa a
 c) Seis meses, y no podrá prorrogarse.
 d) Un mes pudiendo ser prorrogada por el Juez de oficio atendidas las circunstancias del menor.
 
-58) Si la instrucción de una causa (sumario), es declarada compleja, el plazo de duración de la instrucción será de:
+58) Si la instrucción de una causa, sumario, es declarada compleja, el plazo de duración de la instrucción será de:
 a) Doce meses, pero el instructor de la causa podrá establecer una prórroga por igual plazo o uno inferior a instancia del Ministerio Fiscal y previa audiencia de las partes.
 b) Dieciocho meses, como máximo, sin que el instructor de la causa pueda establecer prórroga alguna, salvo que ésta sea solicitado por las partes.
 c) Dieciocho meses, pero el instructor de la causa puede establecer una prórroga por igual plazo o uno inferior a instancia del Ministerio Fiscal y previa audiencia de las partes.

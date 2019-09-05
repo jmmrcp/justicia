@@ -311,10 +311,10 @@ c) Siempre que el Magistrado de mayor edad de la Sala de lo Penal del Tribunal S
 d) Siempre el Presidente de la Sala de lo Penal del Tribunal Supremo.
 
 53) El Tribunal del Jurado, conforme al artículo 1.2, en su Ley reguladora no será competente para el conocimiento y fallo de las causas por los delitos tipificados en el Código Penal: G16
-a) Del allanamiento de morada (artículos 202 y 204)
-b) De la prevaricación de los funcionarios públicos y otros comportamientos injustos (artículos 404 a 406)
-c) De la infidelidad en la custodia de documentos (artículos 413 a 415)
-d) Del cohecho (artículos 419 a 426)
+a) Del allanamiento de morada, artículos 202 y 204
+b) De la prevaricación de los funcionarios públicos y otros comportamientos injustos, artículos 404 a 406
+c) De la infidelidad en la custodia de documentos, artículos 413 a 415
+d) Del cohecho, artículos 419 a 426
 
 54) Del Tribunal del Jurado en el ámbito de la Audiencia Provincial se compone: G16
 a) De diez jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá y además al juicio del jurado asistirán, dos jurados suplentes.
@@ -383,9 +383,9 @@ c) Bastará con el voto favorable de cinco jurados en cualquier caso
 d) El voto favorable de cinco jurados en cualquier caso, siempre que uno de ellos sea el voto de calidad del portavoz
 
 65) En qué clase de procedimientos cabe dictar “Auto de hechos justiciables”: T07
-a) En el procedimiento Abreviado (Libro IV, título II LECr)
-b) En el procedimiento del Sumario u Ordinario (Libro II y III LECr)
-c) En el procedimiento ante el Tribunal del Jurado (L.O. 5/95)
+a) En el procedimiento Abreviado, Libro IV, título II LECr
+b) En el procedimiento del Sumario u Ordinario, Libro II y III LECr
+c) En el procedimiento ante el Tribunal del Jurado, L.O. 5/95
 d) En ninguno de los tres procedimientos indicados, porque no existe “Auto de hechos justiciables”
 
 66) ¿Quién realiza los sorteos para establecer la lista bienal de candidatos a jurados?: A09

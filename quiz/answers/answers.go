@@ -47,6 +47,5 @@ func (as Answers) Shuffle() error {
 		as.Answers[i] = as.Answers[swapIndex]
 		as.Answers[swapIndex] = tempt
 	}
-
 	return nil
 }

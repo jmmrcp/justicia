@@ -13,7 +13,7 @@ const (
 )
 
 // Read Lee todos los registros de la base de datos
-func Read(records [][]string, view int, test int, cat string) ([][]string, error) {
+func Read(records [][]string, view, test, tema int, cat string) ([][]string, error) {
 	var (
 		questions [][]string
 	)
@@ -31,8 +31,13 @@ func Read(records [][]string, view int, test int, cat string) ([][]string, error
 		case 3:
 			Filter = StageThree
 		default:
-			if cat != "" {
-				Filter = Category(cat)
+			if cat != "" || tema != 0 {
+				if cat != "" {
+					Filter = Category(cat)
+				}
+				if tema != 0 {
+					Filter = Tema(tema)
+				}
 			} else {
 				return Quick()
 			}

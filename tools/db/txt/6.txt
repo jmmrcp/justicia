@@ -598,25 +598,25 @@ b) A dos provincias dentro de la Comunidad Autónoma
 c) A dos o más provincias dentro de la Comunidad Autónoma
 d) A dos o más partidos judiciales dentro de la misma provincia
 
-101) De la solicitud formulada por el CGPJ de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos), conocerá:
+101) De la solicitud formulada por el CGPJ de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos, conocerá:
 a) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
 b) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
 c) La Sala Especial del Tribunal Supremo
 d) El Juzgado Central de lo Contencioso-Administrativo
 
-102) De la solicitud formulada por la Agencia Española de Protección de Datos de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos), conocerá:
+102) De la solicitud formulada por la Agencia Española de Protección de Datos de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos, conocerá:
 a) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
 b) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
 c) La Sala Especial del Tribunal Supremo
 d) El Juzgado Central de lo Contencioso-Administrativo
 
-103) De la solicitud formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva de Datos de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos), conocerá:
+103) De la solicitud formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva de Datos de autorización para la declaración prevista en la disposición adicional 5ª de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, Autorización judicial en relación con decisiones de la Comisión Europea en materia de transferencia internacional de datos, conocerá:
 a) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
 b) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
 c) La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
 d) El Juzgado Central de lo Contencioso-Administrativo
 
-104) Según la LOPJ, de los procedimientos de revisión de medidas (procesos de violencia de género) por modificación de circunstancias podrán ser tramitados:
+104) Según la LOPJ, de los procedimientos de revisión de medidas, procesos de violencia de género, por modificación de circunstancias podrán ser tramitados:
 a) Por el juez o jueza inicialmente competente.
 b) Por el juez o la juez competente.
 c) Por el Juzgado en funciones de guardia.

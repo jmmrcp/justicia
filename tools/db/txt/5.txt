@@ -446,7 +446,7 @@ d) Se emitirá automáticamente recibo por el mismo medio, con expresión del n�
 75) Según el art. 229 de la LOPJ, en caso de realizarse una declaración mediante videoconferencia, ¿quién acreditará la identidad de las personas que intervengan a través de la videoconferencia?:
 a) El Auxilio Judicial mediante la previa remisión de documentación.
 b) El Letrado de la Administración de Justicia del Juzgado o Tribunal que haya acordado la medida, desde la propia sede judicial por conocimiento personal
-c) El Letrado de la Administración de Justicia del Juzgado o Tribunal que haya de ejecutar medida, desde la sede judicial que esté la persona que intervenga mediante la exhibición directa de documentación (DNI, NIE, PASAPORTE).
+c) El Letrado de la Administración de Justicia del Juzgado o Tribunal que haya de ejecutar medida, desde la sede judicial que esté la persona que intervenga mediante la exhibición directa de documentación, DNI, NIE, PASAPORTE.
 d) El Auxilio Judicial mediante la exhibición directa de documentación.
 
 76) Conforme al art. 41 de la Constitución Española, los poderes públicos mantendrán:

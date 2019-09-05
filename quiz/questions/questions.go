@@ -52,7 +52,6 @@ func (qs Questions) Shuffle() error {
 		qs.Questions[i] = qs.Questions[swapIndex]
 		qs.Questions[swapIndex] = tempt
 	}
-
 	return nil
 }
 
@@ -151,14 +150,14 @@ func CreateQuestionsCSV(qs Questions, files []string) (Questions, error) {
 }
 
 //CreateQuestionsDB -- used to create questions
-func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions, error) {
+func CreateQuestionsDB(qs Questions, view, test, tema int, cat string) (Questions, error) {
 	var (
 		data [][]string
 		err  error
 	)
 
 	//Get data from db or dbs
-	data, err = db.Read("tools/mongo/data.db", data, view, test, cat)
+	data, err = db.Read("tools/mongo/data.db", data, view, test, tema, cat)
 	if err != nil {
 		return qs, err
 	}
@@ -183,7 +182,6 @@ func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions,
 		as.Shuffle()
 
 		//ID, _ := strconv.Atoi(qData[l-1])
-
 		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})
 	}
 	// log.Printf("%v\n", data)
@@ -191,14 +189,14 @@ func CreateQuestionsDB(qs Questions, view int, test int, cat string) (Questions,
 }
 
 //CreateQuestionsDAO -- used to create questions
-func CreateQuestionsDAO(qs Questions, view int, test int, cat string) (Questions, error) {
+func CreateQuestionsDAO(qs Questions, view, test, tema int, cat string) (Questions, error) {
 	var (
 		data [][]string
 		err  error
 	)
 
 	//Get data from mlabs
-	data, err = dao.Read(data, view, test, cat)
+	data, err = dao.Read(data, view, test, tema, cat)
 	if err != nil {
 		return qs, err
 	}
@@ -223,7 +221,6 @@ func CreateQuestionsDAO(qs Questions, view int, test int, cat string) (Questions
 		as.Shuffle()
 
 		//ID, _ := strconv.Atoi(q[l-1])
-
 		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})
 	}
 	return qs, nil

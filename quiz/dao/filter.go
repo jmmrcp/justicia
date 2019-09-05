@@ -129,6 +129,17 @@ func Category(category string) bson.D {
 		}}
 }
 
+// Tema return test bson object
+func Tema(tema int) bson.D {
+	return bson.D{
+		primitive.E{
+			Key:   "tema",
+			Value: tema,
+		},
+		box(0),
+	}
+}
+
 // Quick Filter results
 func Quick() ([][]string, error) {
 

@@ -22,6 +22,5 @@ func (as Answers) TotalCorrect() (int, error) {
 			total++
 		}
 	}
-
 	return total, err
 }

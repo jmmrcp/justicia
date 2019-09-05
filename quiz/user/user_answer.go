@@ -29,6 +29,5 @@ func (u Answer) Correct() (bool, error) {
 	if strings.EqualFold(lowerCA, userA) {
 		return true, nil
 	}
-
 	return false, nil
 }

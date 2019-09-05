@@ -16,6 +16,8 @@ import (
 )
 
 var (
+	// TEMA numero de tema
+	TEMA int
 	// TEST Numero de test
 	TEST int
 	// VIEW Lista a utilizar
@@ -32,6 +34,8 @@ var (
 
 func init() {
 	const (
+		defaultTema  = 0
+		usageTema    = "Tema.\ndefault = none."
 		defaultCat   = ""
 		usageCat     = "Category.\ndefault = none."
 		defaultTest  = 0
@@ -57,13 +61,14 @@ func init() {
 	flag.StringVar(&CAT, "C", defaultCat, usageCat)
 	flag.IntVar(&TEST, "T", defaultTest, usageTest)
 	flag.IntVar(&COUNT, "Q", defaultCount, usageCount)
-	flag.IntVar(&VIEW, "M", defaultView, usageView)
+	flag.IntVar(&VIEW, "V", defaultView, usageView)
 	flag.BoolVar(&PDFS, "P", defaultPdf, usagePdf)
+	flag.IntVar(&TEMA, "R", defaultTema, usageTema)
 
 	flag.Usage = func() {
 		fmt.Printf("\njusticia version %s %s.\n", version, date)
 		fmt.Printf("  Usage:\n")
-		fmt.Printf("    justicia -C=CE -T=4 -Q=10 -M=0 -P=false ... (by default)\n\n")
+		fmt.Printf("    justicia -R=0 -C=CE -T=4 -Q=10 -M=0 -P=false ... (by default)\n\n")
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
@@ -84,12 +89,12 @@ func main() {
 
 	//Need to create questions
 	if quiz.FileExists("tools/mongo/data.db") {
-		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, CAT)
+		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, TEMA, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}
 	} else {
-		quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, CAT)
+		quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, TEMA, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}

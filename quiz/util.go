@@ -19,7 +19,6 @@ func FileArgs(files []string) (err error) {
 		if strings.EqualFold(file, "") {
 			return fmt.Errorf("empty string cannot be used as a file")
 		}
-
 		if f, err := os.Stat(file); err != nil {
 			if os.IsNotExist(err) {
 				//return err

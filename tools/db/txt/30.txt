@@ -58,7 +58,7 @@ b) Los dos días siguientes a la presentación del escrito o solicitud de incoac
 c) Los tres días siguientes a la presentación del escrito o solicitud de incoación de las actuaciones
 d) Los cinco días siguientes a la presentación del escrito o solicitud de incoación de las actuaciones
 
-11) Según la LEC 1/2000, la acumulación de procesos podrá ser solicitada: G01 modificada
+11) Según la LEC 1/2000, la acumulación de procesos podrá ser solicitada: G01
 a) Sólo de oficio
 b) De oficio o a instancia de parte
 c) Sólo a instancia de quien se demandante en cualquiera de los procesos
@@ -311,13 +311,13 @@ b) Dentro de los 10 días siguientes
 c) Dentro de los 3 días siguientes
 d) Dentro de los 20 días siguientes
 
-53) En el procedimiento ordinario
+53) En el procedimiento ordinario:
 a) No se admitirá el planteamiento de ninguna cuestión incidental una vez comenzada la audiencia previa
 b) No se admitirá el planteamiento de ninguna cuestión incidental una vez practicada la prueba
 c) No se admitirá el planteamiento de ninguna cuestión una vez iniciado el procedimiento
 d) No se admitirá el planteamiento de ninguna cuestión incidental una vez iniciado el juicio
 
-54) En las cuestiones incidentales de previo pronunciamiento
+54) En las cuestiones incidentales de previo pronunciamiento:
 a) No suspende el curso de los autos
 b) Se suspenderá el curso de las actuaciones hasta que aquéllas sean resueltas
 c) Suspende el curso de los autos hasta que se produzca la contestación del demandado
@@ -353,7 +353,7 @@ b) A usuarios del servicio que dio origen al proceso, para que hagan valer su de
 c) Al Ministerio Fiscal
 d) A todos hay que comunicarles este proceso
 
-60) Cuando la defunción de un litigante conste al Tribunal que conoce del asunto y no se personare el sucesor en el plazo de 5 días siguientes, el Letrado de la Administración de Justicia permitirá a las demás partes pedir, con identificación de los sucesores y de su domicilio o residencia, que se les notifique la existencia del proceso: señale la incorrecta
+60) Cuando la defunción de un litigante conste al Tribunal que conoce del asunto y no se personare el sucesor en el plazo de 5 días siguientes, el Letrado de la Administración de Justicia permitirá a las demás partes pedir, con identificación de los sucesores y de su domicilio o residencia, que se les notifique la existencia del proceso: señale la incorrecta.
 a) Por medio de diligencia de ordenación
 b) Emplazándoles para comparecer en el plazo de cinco días
 c) En la misma resolución por la que se acuerda la notificación, se acordará la suspensión del proceso hasta que comparezca los sucesores o finalice el plazo para la comparecencia.
@@ -395,7 +395,7 @@ b) Al arrendatario al pago de las costas devengadas, salvo que las rentas y cant
 c) Al arrendador al pago de las costas devengadas, salvo que las rentas y cantidades debidas se hubiesen cobrado por causas imputables al arrendatario
 d) Al arrendatario al pago de las costas devengadas, salvo que las rentas y cantidades debidas se hubiesen cobrado por causas imputables al arrendador.
 
-67) Según la LEC, podrán los litigantes comparecer por sí mismos: señale la incorrecta
+67) Según la LEC, podrán los litigantes comparecer por sí mismos: señale la incorrecta.
 a) Para la petición inicial de los procedimientos monitorios
 b) En los juicios universales, para comparecer en el Juicio u concurrir a Juntas.
 c) En los incidentes relativos a impugnación de resoluciones en materia de asistencia jurídica gratuita
@@ -467,7 +467,7 @@ b) Si es posible, para juicios verbales cuya cuantía exceda de 2000 euros
 c) Sólo cuando lo realice a efectos de oír y recibir actos de comunicación
 d) Si es posible, en los juicios universales, cuando se limite la comparecencia a la presentación de títulos de crédito
 
-79) Según el artículo 64 de la LEC, la declintatoria: señale la incorrecta
+79) Según el artículo 64 de la LEC, la declintatoria: señale la incorrecta.
 a) La suspensión del procedimiento principal obstará a que el tribunal pueda practicar cualquier actuación de aseguramiento de prueba.
 b) Se habrá de proponer dentro de los 10 primeros días del plazo para contestar a la demanda.
 c) Al proponerle en tiempo y forma, surtirá efecto de suspender el plazo para contestar la demanda y el curso del procedimiento principal
@@ -533,13 +533,13 @@ b) Mediante auto, una vez que el proceso esté pendiente sólo de sentencia.
 c) Mediante decreto.
 d) Mediante auto.
 
-90) Según el artículo 395 de la LEC, si el demandado se allana en un procedimiento ordinario: señala la correcta
+90) Según el artículo 395 de la LEC, si el demandado se allana en un procedimiento ordinario: señala la correcta.
 a) Antes de contestar la demanda, no procederá la imposición de costas
 b) Después de contestar la demanda, las costas en primera instancia se impondrán a la parte que haya visto rechazada todas sus pretensiones
 c) Antes de contestar la demanda, no procederá la imposición de costas salvo que el tribunal, razonándolo debidamente, aprecie mala fe en el demandado.
 d) Después de contestar la demanda, las costas en primera instancia no se impondrán a la parte que haya visto rechazada todas sus pretensiones si el tribunal aprecie mala fe del demandante
 
-91) La Comisión Europea en los procesos de defensa de la competencia: señala la incorrecta
+91) La Comisión Europea en los procesos de defensa de la competencia: señala la incorrecta.
 a) Podrán intervenir, sin condición de parte, por propia iniciativa o a instancia del órgano judicial.
 b) Podrá intervenir mediante la aportación de la información o presentación de observaciones escritas sobre cuestiones relativas a la aplicación de los artículos 81 y 82 del TCE.
 c) Podrán solicitar al órgano jurisdiccional competente que les remita o haga remitir todos los documentos necesarios para realizar una valoración del asunto de que se trate.

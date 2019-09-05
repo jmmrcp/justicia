@@ -107,10 +107,10 @@ c) Multa de 50 a 500 euros
 d) Multa de 200 a 1500 euros
 
 19) ¿Cuál de estas delitos leves es susceptible de ser enjuiciadas por el procedimiento de delito leve inmediato?: T07
-a) Delito Leve del artículo 618 del Código Penal (incumplimiento de convenios matrimoniales o sentencias)
-b) Delito Leve del artículo 172 del Código Penal (Coacciones)
-c) Delito Leve del artículo 249 del Código Penal (Estafa)
-d) Delito Leve del artículo 556 del Código Penal (Falta de respecto de la autoridad)
+a) Delito Leve del artículo 618 del Código Penal, incumplimiento de convenios matrimoniales o sentencias
+b) Delito Leve del artículo 172 del Código Penal, Coacciones
+c) Delito Leve del artículo 249 del Código Penal, Estafa
+d) Delito Leve del artículo 556 del Código Penal, Falta de respecto de la autoridad
 
 20) La ejecución de las sentencias en los juicios sobre delitos leves corresponde: G07
 a) Al Juzgado de Instrucción que haya conocido en apelación de la falta
@@ -418,7 +418,7 @@ b) El Letrado de la Administración de Justicia, una vez incoadas diligencias ur
 c) La Policía Judicial, antes de la remisión al Juzgado de Guardia
 d) Ninguna respuesta es correcta.
 
-71) Las diligencias señaladas en el art. 799 LECr (tomar declaración testigos, ofrecimiento de acciones al ofendido o perjudicado, reconocimiento en rueda del investigado, careo entre testigos etc…), deberán ser practicadas:
+71) Las diligencias señaladas en el art. 799 LECr, tomar declaración testigos, ofrecimiento de acciones al ofendido o perjudicado, reconocimiento en rueda del investigado, careo entre testigos etc…, deberán ser practicadas:
 a) En todo caso, durante el servicio de guardia del Juzgado de Instrucción.
 b) En aquellos partidos judiciales en que el servicio de guardia sea permanente y tenga una duración de 24 horas, podrán prorrogarse por el Juez por un periodo adicional de 48 horas desde la finalización del servicio de guardia.
 c) En aquellos partidos judiciales en que el servicio de guardia no sea permanente y tenga una duración superior a 24 horas, podrán prorrogarse por el Juez por un periodo adicional de 48 horas en aquellas actuaciones en las que el atestado se hubiera recibido dentro de las 24 horas anteriores a la finalización del servicio de guardia.

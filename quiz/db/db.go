@@ -47,7 +47,7 @@ var (
 )
 
 //Read -- Parses db file
-func Read(path string, records [][]string, view int, test int, cat string) ([][]string, error) {
+func Read(path string, records [][]string, view, test, tema int, cat string) ([][]string, error) {
 
 	//Make sure the file exists
 	_, err = os.Stat(path)
@@ -66,7 +66,7 @@ func Read(path string, records [][]string, view int, test int, cat string) ([][]
 	}
 	defer db.Close()
 
-	sqlQuery := createQuery(test, view, cat)
+	sqlQuery := createQuery(test, view, tema, cat)
 
 	//Read the database
 	rows, err = db.Query(sqlQuery)
@@ -135,10 +135,11 @@ func Unupdate(id string) error {
 	return nil
 }
 
-func createQuery(test, box int, categoria string) string {
+func createQuery(test, box, tema int, categoria string) string {
 	var sqlQuery string
 	t := strconv.Itoa(test)
 	b := strconv.Itoa(box)
+	r := strconv.Itoa(tema)
 	if categoria != "" {
 		sqlQuery = `SELECT * FROM just WHERE categoria = UPPER(` + "\"" + categoria + "\"" + `) AND box = ` + b + `;`
 		return sqlQuery
@@ -160,6 +161,11 @@ func createQuery(test, box int, categoria string) string {
 			return sqlQuery
 		}
 	}
-	sqlQuery = `SELECT * FROM dia WHERE box = ` + b + ` ORDER BY random() LIMIT 150;`
+	if tema != 0 {
+		r = "%" + r + "%"
+		sqlQuery = `SELECT * FROM just WHERE tema LIKE (` + "\"" + r + "\"" + `) AND box = ` + b + `;`
+		return sqlQuery
+	}
+	sqlQuery = `SELECT * FROM dia WHERE box = ` + b + ` ORDER BY random() LIMIT 160;`
 	return sqlQuery
 }

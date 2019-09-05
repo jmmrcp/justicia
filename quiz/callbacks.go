@@ -39,9 +39,7 @@ func FillInAnswer(g *gocui.Gui, v *gocui.View) error {
 	if err != nil {
 		return err
 	}
-
 	return nil
-
 }
 
 //SelectAnswer -- Callback used to select an answer in quiz layouts that have
@@ -73,7 +71,6 @@ func SelectAnswer(g *gocui.Gui, v *gocui.View) error {
 	if err != nil {
 		return err
 	}
-
 	return nil
 }
 

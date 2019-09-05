@@ -84,7 +84,6 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 	if err := g.SetKeybinding("", gocui.KeyEnter, gocui.ModNone, NextUserAnswer); err != nil {
 		log.Panicln(err)
 	}
-
 	return nil
 }
 

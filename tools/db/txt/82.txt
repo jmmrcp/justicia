@@ -280,7 +280,7 @@ b) Deberá ser asistido por Abogado
 c) Deberán conferir su representación a un Procurador y ser asistidas por Abogado
 d) Podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado.
 
-48) En un proceso Contencioso-Administrativo por derechos fundamentales (diferente al de reunión), acordada la prosecución del procedimiento especial, el Letrado de la Administración de Justicia pondrá de manifiesto al recurrente el expediente y demás actuaciones para que pueda formular la demanda y acompañar los documentos en el plazo improrrogable de... G01-mod
+48) En un proceso Contencioso-Administrativo por derechos fundamentales, diferente al de reunión, acordada la prosecución del procedimiento especial, el Letrado de la Administración de Justicia pondrá de manifiesto al recurrente el expediente y demás actuaciones para que pueda formular la demanda y acompañar los documentos en el plazo improrrogable de... G01-mod
 a) 48 horas
 b) 3 días
 c) 5 días
