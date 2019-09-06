@@ -1,0 +1,13 @@
+[
+	{"id": 1, "nombre": "Constitución Española"},
+	{"id": 2, "nombre": "Estatuto Básico del Empleado Público"},	
+	{"id": 7, "nombre": "Ley de Bases del Régimen Local"},
+	{"id": 11, "nombre": "Ley de Igualdad"},
+	{"id": 15, "nombre": "Ley del Gobierno"},
+	{"id": 18, "nombre": "Ley Orgánica Violencia contra la mujer"},
+	{"id": 24, "nombre": "Ley Orgánica del Poder Judicial"},
+	{"id": 27, "nombre": "Ley de Enjuiciamiento Civil"},
+	{"id": 32, "nombre": "Ley Jurisdicción Contencioso-Administrativa"},
+	{"id": 41, "nombre": "Ley de Enjuiciamiento Criminal"},
+	{"id": 48, "nombre": "Tratado de la Unión Europea"}
+]

@@ -128,7 +128,7 @@ func db(preguntas []string, respuestas []string) {
 						   UNIQUE,
 		test       INTEGER NOT NULL,
 		categoria  TEXT	   NOT NULL,
-		tema	   TEXT	   NOT NULL,
+		tema	     TEXT	   NOT NULL,
 		titulo	   TEXT	   NOT NULL,
 		pregunta   TEXT    NOT NULL,
 		respuesta1 TEXT    NOT NULL,
