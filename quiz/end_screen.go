@@ -100,12 +100,11 @@ func boxDao() {
 			}
 		}
 	*/
-	for _, v := range I {
-		err := dao.Unupdate(v)
-		if err != nil {
-			log.Fatal(err)
-		}
+	err = dao.Unupdate(I)
+	if err != nil {
+		log.Fatal(err)
 	}
+
 }
 
 func boxDb() {

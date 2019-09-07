@@ -120,36 +120,33 @@ func Update(ids []string) error {
 }
 
 // Unupdate Actualiza el contenido
-func Unupdate(id string) error {
-
-	filter := IDs(id)
+func Unupdate(ids []string) error {
 	update := Wrong
-
 	db, err := config.GetAtlasDB()
 	if err != nil {
 		return err
 	}
-
 	ctx, cancel := context.WithTimeout(db.Context, 3*time.Second)
 	defer cancel()
-
 	// Check the connection
 	err = db.Client.Ping(ctx, nil)
 	if err != nil {
 		return err
 	}
-
 	c := db.Collection(COLLECTION)
 	// updateResult
-	_, err = c.UpdateOne(ctx, filter, update)
-	if err != nil {
-		return err
+	for _, id := range ids {
+		filter := IDs(id)
+		updateResult, err := c.UpdateOne(ctx, filter, update)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Wrong Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	}
-	// fmt.Printf("Wrong Matched %v documents and unupdated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
-	// fmt.Println("Connection to MongoDB closed.")
+	fmt.Println("Connection to MongoDB closed.")
 	return nil
 }
