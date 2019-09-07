@@ -2,6 +2,7 @@ package dao
 
 import (
 	"context"
+	"fmt"
 	"justicia/quiz/config"
 	"justicia/quiz/models"
 	"time"
@@ -86,9 +87,8 @@ func Read(records [][]string, view, test, tema int, cat string) ([][]string, err
 }
 
 // Update Actualiza el contenido
-func Update(id string) error {
+func Update(ids []string) error {
 
-	filter := IDs(id)
 	update := Correct
 	db, err := config.GetAtlasDB()
 	if err != nil {
@@ -96,25 +96,26 @@ func Update(id string) error {
 	}
 	ctx, cancel := context.WithTimeout(db.Context, 3*time.Second)
 	defer cancel()
-
 	// Check the connection
 	err = db.Client.Ping(ctx, nil)
 	if err != nil {
 		return err
 	}
-
 	c := db.Collection(COLLECTION)
-	//updateResult
-	_, err = c.UpdateOne(ctx, filter, update)
-	if err != nil {
-		return err
+
+	for _, id := range ids {
+		filter := IDs(id)
+		updateResult, err := c.UpdateOne(ctx, filter, update)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Correct Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	}
-	// fmt.Printf("Correct Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 	err = db.Client.Disconnect(ctx)
 	if err != nil {
 		return err
 	}
-	//fmt.Println("Connection to MongoDB closed.")
+	fmt.Println("Connection to MongoDB closed.")
 	return nil
 }
 
