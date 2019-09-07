@@ -88,23 +88,18 @@ func ESInit(g *gocui.Gui, u user.Answers) (err error) {
 }
 
 func boxDao() {
-	err := dao.Update(C)
-	if err != nil {
-		log.Fatal(err)
-	}
-	/*
-		for _, v := range C {
-			err := dao.Update(v)
-			if err != nil {
-				log.Fatal(err)
-			}
+	if len(C) > 0 {
+		err := dao.Update(C)
+		if err != nil {
+			log.Fatal(err)
 		}
-	*/
-	err = dao.Unupdate(I)
-	if err != nil {
-		log.Fatal(err)
 	}
-
+	if len(I) > 0 {
+		err := dao.Unupdate(I)
+		if err != nil {
+			log.Fatal(err)
+		}
+	}
 }
 
 func boxDb() {

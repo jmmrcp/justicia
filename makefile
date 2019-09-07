@@ -1,4 +1,4 @@
-version=3.3.57
+version=3.3.60
 date=$(shell date "+(%d %B %Y)")
 exec=justicia
 
