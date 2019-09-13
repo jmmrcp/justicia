@@ -1,6 +1,5 @@
-{
-"preguntas":[
-	{
+	[
+		{
 		"id": 1,
 		"norma": 1,
 		"enunciado": "Según el artículo 1 de la CE, ¿cuál de estos NO es un valor superior de su ordenamiento jurídico?",
@@ -76601,4 +76600,3 @@
 		"correcta": "a"
 	}
 ]
-}

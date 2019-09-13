@@ -6,14 +6,16 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"strings"
 	"time"
 )
 
 type (
+	// Preguntas array de pregunta
 	Preguntas struct {
-		Preguntas []Pregunta `json:"preguntas,omitempty"`
+		Preguntas []Pregunta
 	}
-
+	// Pregunta datos para incluir en SQLite
 	Pregunta struct {
 		ID         int `json:"id"`
 		Test       int
@@ -33,21 +35,27 @@ type (
 		Cont       int
 		Box        int
 	}
+
+	// Normas leyes incluidas en el JSON
 	Normas struct {
-		ID     int    `json:"id"`
-		Nombre string `json:"nombre"`
+		ID        int    `json:"id,omitempty"`
+		Titulo    string `json:"nombre,omitempty"`
+		Categoria string `json:"categoria,omitempty"`
+		Tema      string `json:"tema,omitempty"`
+		Ley       string `json:"ley,omitempty"`
 	}
 )
 
+var (
+	preguntas []Pregunta
+	normas    []Normas
+)
+
 func main() {
-	var (
-		preguntas Preguntas
-		normas    []Normas
-	)
 
 	normasJSON := `[
-	{"id": 1, "nombre": "Constitución Española"},
-	{"id": 2, "nombre": "Estatuto Básico del Empleado Público"},
+	{"id": 1, "nombre": "Constitución Española", "categoria":"CE" , "tema":"1", "ley": "CE"},
+	{"id": 2, "nombre": "Estatuto Básico del Empleado Público", "categoria": "EBEP", "tema":"7"},
 	{"id": 3, "nombre": "Estatuto de los Trabajadores"},
 	{"id": 4, "nombre": "IV Convenio Único Administración/Personal Laboral"},
 	{"id": 5, "nombre": "Ley de Medidas para la reforma de la Función Pública"},
@@ -67,15 +75,15 @@ func main() {
 	{"id": 21, "nombre": "Ley General de Sanidad"},
 	{"id": 22, "nombre": "Estatuto Marco Personal de los Servicios de Salud"},
 	{"id": 23, "nombre": "Ley de Prevención de Riesgos Laborales"},
-	{"id": 24, "nombre": "Ley Orgánica del Poder Judicial"},
+	{"id": 24, "nombre": "Ley Orgánica del Poder Judicial", "categoria":"LOPJ", "team":"8", "Ley": "LOPJ"},
 	{"id": 25, "nombre": "Ley Orgánica Fuerzas y Cuerpos Seguridad del Estado"},
 	{"id": 26, "nombre": "Código Penal"},
-	{"id": 27, "nombre": "Ley de Enjuiciamiento Civil"},
+	{"id": 27, "nombre": "Ley de Enjuiciamiento Civil", "categoria":"CIVIL", "tema":"14"},
 	{"id": 28, "nombre": "Ley de Transparencia"},
 	{"id": 29, "nombre": "Ley de Régimen Jurídico del Sector Público"},
 	{"id": 30, "nombre": "Ley Orgánica General Penitenciaria"},
 	{"id": 31, "nombre": "Reglamento Penitenciario"},
-	{"id": 32, "nombre": "Ley Jurisdicción Contencioso-Administrativa"},
+	{"id": 32, "nombre": "Ley Jurisdicción Contencioso-Administrativa", "categoria":"CA", "tema":"22"},
 	{"id": 33, "nombre": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales"},
 	{"id": 34, "nombre": "Ley General de la Seguridad Social"},
 	{"id": 35, "nombre": "Estatuto de Autonomía de la Comunidad Valenciana"},
@@ -84,15 +92,16 @@ func main() {
 	{"id": 38, "nombre": "Estatuto de Autonomía de Cataluña"},
 	{"id": 39, "nombre": "Declaración Universal de los Derechos Humanos"},
 	{"id": 40, "nombre": "Ley de Haciendas Locales"},
-	{"id": 41, "nombre": "Ley de Enjuiciamiento Criminal"},
+	{"id": 41, "nombre": "Ley de Enjuiciamiento Criminal", "categoria":"PENAL", "tema":"20,21", "ley": "LeCrim"},
 	{"id": 42, "nombre": "Ley de Contratos del Sector Público"},
 	{"id": 43, "nombre": "Reglamento Europeo de Protección de Datos de las personas físicas"},
 	{"id": 44, "nombre": "Ley Orgánica de Universidades"},
 	{"id": 45, "nombre": "Estatuto de Autonomía de Galicia"},
 	{"id": 46, "nombre": "Estatuto de Autonomía de Castilla y León"},
 	{"id": 47, "nombre": "Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera"},
-	{"id": 48, "nombre": "Tratado de la Unión Europea"}
+	{"id": 48, "nombre": "Tratado de la Unión Europea", "categoria":"EUROPA", "tema":"5", "ley": "TUE"}
 ]`
+
 	json.Unmarshal([]byte(normasJSON), &normas)
 
 	jsonFile, err := os.Open("preguntas.json")
@@ -103,8 +112,54 @@ func main() {
 	defer jsonFile.Close()
 
 	byteValue, _ := ioutil.ReadAll(jsonFile)
-
 	json.Unmarshal(byteValue, &preguntas)
-	fmt.Printf("%+v\n", preguntas.Preguntas[2500].Pregunta)
-	fmt.Printf("%+v", normas[2])
+
+	contador := 0
+	test := 999
+
+	for i := 0; i < len(preguntas)-1; i++ {
+		actual := preguntas[i].Norma
+		siguiente := preguntas[i+1].Norma
+
+		categoria, tema, titulo, ley := leyes(actual)
+		t := strings.Split(preguntas[i].Pregunta, "(Art. ")
+		preguntas[i].Pregunta = t[0]
+		preguntas[i].Test = test
+		preguntas[i].Categoria = categoria
+		preguntas[i].Tema = tema
+		preguntas[i].Titulo = titulo
+		if len(t) > 1 {
+			a := t[1]
+			b := len(a) - 1
+			c := a[:b]
+			preguntas[i].Articulo = "Art. " + c + " " + ley
+		}
+		contador++
+		preguntas[i].Ord = contador
+		preguntas[i].Fecha = time.Now()
+		if actual != siguiente {
+			contador = 0
+			test++
+		}
+	}
+	fmt.Printf("%+v\n", preguntas[6220])
+	fmt.Printf("%+v\n", preguntas[6221])
+	fmt.Printf("%+v\n", preguntas[6222])
+}
+func leyes(norma int) (string, string, string, string) {
+	var (
+		categoria string
+		tema      string
+		titulo    string
+		ley       string
+	)
+	for _, v := range normas {
+		if norma == v.ID {
+			categoria = v.Categoria
+			tema = v.Tema
+			titulo = v.Titulo
+			ley = v.Ley
+		}
+	}
+	return categoria, tema, titulo, ley
 }
