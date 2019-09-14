@@ -1,13 +1,86 @@
 [
-	{"id": 1, "nombre": "Constitución Española"},
-	{"id": 2, "nombre": "Estatuto Básico del Empleado Público"},	
-	{"id": 7, "nombre": "Ley de Bases del Régimen Local"},
-	{"id": 11, "nombre": "Ley de Igualdad"},
-	{"id": 15, "nombre": "Ley del Gobierno"},
-	{"id": 18, "nombre": "Ley Orgánica Violencia contra la mujer"},
-	{"id": 24, "nombre": "Ley Orgánica del Poder Judicial"},
-	{"id": 27, "nombre": "Ley de Enjuiciamiento Civil"},
-	{"id": 32, "nombre": "Ley Jurisdicción Contencioso-Administrativa"},
-	{"id": 41, "nombre": "Ley de Enjuiciamiento Criminal"},
-	{"id": 48, "nombre": "Tratado de la Unión Europea"}
+	{
+		"id": 1,
+		"nombre": "Constitución Española",
+		"categoria": "CE",
+		"tema": "1",
+		"ley": "CE"
+	},
+	{
+		"id": 2,
+		"nombre": "Estatuto Básico del Empleado Público",
+		"categoria": "EBEP",
+		"tema": "7",
+		"ley": "EBEP"
+	},
+	{
+		"id": 7,
+		"nombre": "Ley de Bases del Régimen Local",
+		"categoria": "GOBIERNO",
+		"tema": "4",
+		"ley": "Ley 7/85"
+	},
+	{
+		"id": 11,
+		"nombre": "Ley de Igualdad",
+		"categoria": "IGUALDAD",
+		"tema": "2",
+		"ley": "LO 3/07"
+	},
+	{
+		"id": 15,
+		"nombre": "Ley del Gobierno",
+		"categoria": "GOBIERNO",
+		"tema": "3",
+		"ley": "LG"
+	},
+	{
+		"id": 18,
+		"nombre": "Ley Orgánica Violencia contra la mujer",
+		"categoria": "IGUALDAD",
+		"tema": "2",
+		"ley": "LO 1/04"
+	},
+	{
+		"id": 24,
+		"nombre": "Ley Orgánica del Poder Judicial",
+		"categoria": "LOPJ",
+		"tema": "6,7,8",
+		"ley": "LOPJ"
+	},
+	{
+		"id": 27,
+		"nombre": "Ley de Enjuiciamiento Civil",
+		"categoria": "CIVIL",
+		"tema": "16,17,18",
+		"ley": "LEC"
+	},
+	{
+		"id": 29,
+		"nombre": "Ley de Régimen Jurídico del Sector Público",
+		"categoria": "GOBIERNO",
+		"tema": "3",
+		"ley": "LSP"
+	},
+	{
+		"id": 32,
+		"nombre": "Ley Jurisdicción Contencioso-Administrativa",
+		"categoria": "CA",
+		"tema": "22",
+		"ley": "LJCA"
+	},
+	{
+		"id": 41,
+		"nombre": "Ley de Enjuiciamiento Criminal",
+		"categoria": "PENAL",
+		"tema": "20,21",
+		"ley": "LECRIM"
+	},
+	{
+		"id": 48,
+		"nombre": "Tratado de la Unión Europea",
+		"categoria": "EUROPA",
+		"tema": "5",
+		"ley": "TUE"
+	}
 ]
