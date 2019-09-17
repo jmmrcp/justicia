@@ -63,8 +63,8 @@ func (env *Env) Update() error {
 	sess.SetSafe(&mgo.Safe{})
 
 	collection := sess.DB("justicia").C("preguntas")
-	collection.DropCollection()
-	fmt.Println("Borrando la Base de Datos Mlab.")
+	// collection.DropCollection()
+	// fmt.Println("Borrando la Base de Datos Mlab.")
 
 	for _, question := range questions {
 		var T = []int{}
