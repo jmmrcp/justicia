@@ -4,8 +4,10 @@ import (
 	"context"
 	"justicia/quiz/config"
 	"justicia/quiz/models"
+	"log"
 	"time"
 
+	"github.com/denisbrodbeck/machineid"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
@@ -46,14 +48,24 @@ var (
 			Value: bson.D{
 				actual(),
 			}},
-	}
+		primitive.E{
+			Key: "$push",
+			Value: bson.D{
+				id(),
+			}}}
 	// Wrong update a incorrect Question
 	Wrong = bson.D{
 		primitive.E{
 			Key: "$set",
 			Value: bson.D{
 				box(0),
+			}},
+		primitive.E{
+			Key: "$push",
+			Value: bson.D{
+				id(),
 			}}}
+
 	result = bson.D{
 		primitive.E{
 			Key: "$sample",
@@ -93,6 +105,17 @@ func stage(week int) primitive.E {
 func actual() primitive.E {
 	return primitive.E{
 		Key:   "fecha",
+		Value: today,
+	}
+}
+
+func id() primitive.E {
+	id, err := machineid.ID()
+	if err != nil {
+		log.Fatal(err)
+	}
+	return primitive.E{
+		Key:   id,
 		Value: today,
 	}
 }
