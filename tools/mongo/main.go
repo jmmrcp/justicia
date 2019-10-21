@@ -63,8 +63,8 @@ func (env *Env) Update() error {
 	sess.SetSafe(&mgo.Safe{})
 
 	collection := sess.DB("justicia").C("preguntas")
-	// collection.DropCollection()
-	// fmt.Println("Borrando la Base de Datos Mlab.")
+	collection.DropCollection()
+	fmt.Println("Borrando la Base de Datos Mlab.")
 
 	for _, question := range questions {
 		var T = []int{}
@@ -80,7 +80,7 @@ func (env *Env) Update() error {
 		// data.ID = primitive.NewObjectID()
 		data.Test = question.Test
 		data.Categoria = question.Categoria
-		data.Tema = T
+		data.Temas = T
 		data.Titulo = question.Titulo
 		data.Ord = question.Ord
 		data.Pregunta = question.Pregunta
@@ -90,7 +90,7 @@ func (env *Env) Update() error {
 			question.Respuesta3,
 			question.Respuesta4,
 		}
-		data.Articulo = question.Articulo
+		data.Articulos = question.Articulo
 		data.Fecha = time.Now()
 		data.Box = question.Box
 
