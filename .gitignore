@@ -13,8 +13,9 @@
 
 justicia
 .vscode/
-tools/
-tools/db/
-tools/mongo/
-tools/opo
 release/
+tools/mongo/data.db
+# tools/
+# tools/db/
+# tools/mongo/
+# tools/opo

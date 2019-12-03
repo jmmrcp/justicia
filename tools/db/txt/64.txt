@@ -1,0 +1,599 @@
+1) Las Salas de Gobierno de la Audiencia Nacional, cuando el número de miembros exceda de 10, se constituirán en Pleno o en Comisión, que estará integrada por:
+a) Seis miembros, tres natos y tres electos, por el plazo de un año
+b) Seis miembros, tres natos y tres electos, por el plazo de cinco años
+c) Seis miembros, tres natos y tres electos, por el plazo de dos años.
+d) Ninguna respuesta es cierta.
+
+2) En vía contencioso administrativa los recursos contra las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales, son competencia de:
+a) Sala Tercera de la Audiencia Nacional
+b) Sala Tercera del Tribunal Supremo
+c) Juzgados de lo Contencioso administrativo
+d) Tribunal Superior de Justicia
+
+3) Para el ascenso por escalafón desde la categoría de Juez a la de Magistrado será necesario que hayan prestado:
+a) 2 años de servicios efectivos como jueces
+b) 4 años de servicios efectivos como jueces
+c) 3 años de servicios efectivos como jueces.
+d) 1 año de servicios efectivos como jueces
+
+4) Para presentarse a las pruebas selectivas o de especialización en los órdenes contencioso-administrativo y social. bastará con:
+a) 2 años de servicios efectivos como jueces
+b) 4 años de servicios efectivos como jueces
+c) 3 años de servicios efectivos como jueces.
+d) 1 año de servicios efectivos como jueces.
+
+5) Vacante la plaza de Promotor de la Acción Disciplinaria, el Consejo General del Poder Judicial hará una convocatoria para su provisión entre:
+a) Magistrados del Tribunal Supremo con una antigüedad, de al menos, dos años en esta categoría
+b) Magistrados del Tribunal Supremo con más de 25 años de antigüedad en la carrera judicial
+c) Magistrados del Tribunal Supremo y Magistrados con más de 25 años de antigüedad en la carrera judicial
+d) Magistrados del Tribunal Supremo y Magistrados con más de 20 años de antigüedad en la carrera judicial.
+
+6) Conforme a lo dispuesto en el art. 373.4 de la L.O. 6/85 de 1 de Julio del Poder Judicial, los jueces y magistrados tendrán derecho:
+a) De permisos de tres días en el año natural, separada o acumuladamente
+b) De permisos de cuatro días en el año natural, separada o acumuladamente
+c) De permisos de cinco días en el año natural, separada o acumuladamente
+d) De permisos de seis días en el año natural, separada o acumuladamente.
+
+7) Para el ingreso en el Cuerpo de Letrados de la Administración de Justicia por promoción interna por los funcionarios de carrera del Cuerpo de Gestión Procesal y Administrativa se reservará:
+a) El 50% de las plazas vacantes, siendo necesario que lleven, al menos, dos años de servicios efectivos en el mismo.
+b) El 30% de las plazas vacantes, siendo necesario que lleven, al menos, dos años de servicios efectivos en el mismo.
+c) El 50% de las plazas vacantes, siendo necesario que lleven, al menos, tres años de servicios efectivos en el mismo
+d) El 30% de las plazas vacantes, siendo necesario que lleven, al menos, tres años de servicios efectivos en el mismo
+
+8) Los Letrados de la Administración de Justicia, cuando así lo prevean las leyes procesales, no tendrá competencia en una de las siguientes materias:
+a) Jurisdicción voluntaria, asumiendo su tramitación y resolución, sin perjuicio de los recursos que quepa interponer.
+b) Tramitación y, en su caso, resolución de los procedimientos monitorios y cambiarios.
+c) Conciliaciones, llevando a cabo la labor mediadora que les sea propia.
+d) Mediación.
+
+9) De conformidad con el art. 466 de la LOPJ, señale la respuesta incorrecta en relación al Secretario Coordinador:
+a) En las Comunidades Autónomas uniprovinciales no habrá Secretario Coordinador al ser asumido estas funciones por el Secretario de Gobierno.
+b) Para desempeñar este puesto, en todo caso deberá contar con al menos cinco años de antigüedad en la segunda categoría.
+c) Habrá un Secretario Coordinador en las islas de Menorca, Ibiza, Lanzarote y La Palma.
+d) Será nombrado por el Ministerio de Justicia por el procedimiento de libre designación, a propuesta del Secretario de Gobierno, de acuerdo con las Comunidades Autónomas con competencias asumidas.
+
+10) Para la imposición de la sanción de multa, en el Cuerpo de Letrados de la Administración de Justicia, serán competentes:
+a) El Secretario General de la Administración de Justicia, el Secretario de Gobierno y el Secretario Coordinador Provincial.
+b) El Ministro de Justicia.
+c) El Secretario General de la Administración de Justicia
+d) El Secretario de Gobierno y el Secretario Coordinador Provincial.
+
+11) Entre las competencias del Consejo General del Poder Judicial está la de: A95
+a) Dictar Leyes generales
+b) Dictar Reglamentos sobre su personal
+c) Dictar Órdenes generales
+d) Dictar instrucciones para aplicar las Leyes
+
+12) Los Juzgados de lo Penal son servidos por: A95
+a) Jueces o Magistrados
+b) Jueces
+c) Jueces especialista en Penal
+d) Magistrados
+
+13) La Sala de Gobierno del Tribunal Supremo está compuesta por: A95
+a) El Presidente del Tribunal y los Presidentes de Sala
+b) El Presidente del Tribunal Supremo, los Presidentes de Sala y tantos Magistrados como Presidentes de Sala
+c) El Presidente del Tribunal, los Presidentes de Sala, y el doble de Magistrados que de Presidentes de Sala.
+d) El Presidente del Tribunal, los Presidentes de Sala y los Magistrados más antiguo y más moderno de cada Sala.
+
+14) En la Audiencia Nacional existe: G95
+a) 1 Juzgado Central de lo Penal
+b) 3 Juzgados Centrales de lo Penal
+c) 5 Juzgados Centrales de lo Penal
+d) Tantos Juzgados de lo Penal como Secciones tiene la Sala de lo Penal
+
+15) Según la LOPJ, de los recursos contra resoluciones dictadas por el Tribunal Económico-Administrativo Central, conocerá: T02
+a) La Sala Tercera del Tribunal Supremo
+b) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+c) El Tribunal de Cuentas
+d) La Sala Cuarta del Tribunal Supremo
+
+16) Según la LOPJ, los Juzgados de lo Penal, enjuiciarán: T02
+a) Todas las causas por delitos y faltas ocurridas en el ámbito de su territorio
+b) Todas las causas por delitos ocurridos en el ámbito de su territorio
+c) Todas las causas por delito que la Ley determine
+d) Todas las causas por falta ocurridas en el ámbito de un territorio
+
+17) Corresponde a la Sala de lo Civil y Penal del Tribunal Superior de Justicia el conocimiento de: A95
+a) Las demandas de responsabilidad civil por hechos realizados en el ejercicio de su cargo dirigidas contra Consejeros del Tribunal de Cuentas
+b) Las demandas de responsabilidad civil por hechos cometidos en el ejerció de su cargo contra todos los Magistrados de una Audiencia Provincial
+c) Las demandas de responsabilidad civil dirigidas contra Magistrados del Tribunal Superior de Justicia por hechos realizados en el ejercicio de su cargo
+d) Todas las respuestas anteriores son correctas
+
+18) La Sala de lo Penal del Tribunal Supremo no tiene competencia sobre: A95
+a) Los recurso de casación, revisión y otros extraordinarios en materia penal
+b) La instrucción y enjuiciamiento contra el Presidente del Gobierno
+c) La instrucción y enjuiciamiento de las causas contra Magistrados del Tribunal Constitucional
+d) Los recursos contra las resoluciones del Tribunal de Cuentas
+
+19) Los Magistrados Suplentes: A95
+a) Gozarán de inamovilidad durante su periodo de nombramiento
+b) Gozarán de inamovilidad únicamente cuando actúen
+c) Gozarán de inamovilidad temporal.
+d) Únicamente gozan de inamovilidad los Jueces y Magistrados de carrera
+
+20) El acceso a la categoría de Magistrados se produce por: A95
+a) Ascenso, pruebas selectivas y concurso entre juristas de reconocida competencia
+b) Ascenso forzoso y pruebas selectivas
+c) Pruebas selectivas entre jueces y concurso entre juristas de reconocida competencia
+d) Por ascenso y oposición
+
+21) ¿Quién es el Vocal nato del Consejo del Secretariado?: A95
+a) El Subdirector General de Relaciones con la Administración de Justicia
+b) El Secretario de Gobierno del Tribunal Supremo
+c) El Secretario General de la Administración de Justicia
+d) El Subdirector General de Planificación y Control de la Secretaría General de Justicia
+
+22) Según el art. 446.4 LOPJ, los Secretarios no podrán ser recusados:
+a) Durante la celebración de la vista, grabada por un sistema de video grabación con certificado digital
+b) Durante la celebración de la vista, grabada por un sistema de video grabación con certificado digital, con presencia del Secretario Judicial en el acto.
+c) Antes de cinco días de la vista
+d) Antes de diez días desde la contestación a la demanda
+
+23) Establecerá reglamentariamente el modo en que habrán de elaborarse los libros electrónicos de sentencias:
+a) El Ministerio de Justicia, previo informe del Consejo General del Poder Judicial
+b) El Consejo General del Poder Judicial
+c) El Consejo General del Poder Judicial, previo informe de las Administraciones competentes.
+d) El Ministerio de Justicia.
+
+24) El Consejo General del Poder Judicial, no ejercer la potestad reglamentaria en las siguientes materias:
+a) Reutilización de las resoluciones judiciales.
+b) Establecimiento de los programas informáticos que se utilicen en la Administración de Justicia
+c) Constitución de los órganos judiciales fuera de su sede.
+d) Reparto de ponencias.
+
+25) Elaborar y aprobar los sistemas de racionalización, organización y medición de trabajo que se estimen convenientes para determinar la carga de trabajo que pueda soportar un órgano jurisdiccional, corresponde:
+a) Consejo General del Poder Judicial
+b) Consejo General del Poder Judicial conjuntamente con el Ministerio de Justicia
+c) Consejo General del Poder Judicial, Ministerio de Justicia y las Comunidades con competencias asumidas
+d) Todas son incorrectas
+
+26) Todas las actividades internacionales del Consejo General del Poder Judicial se llevarán a cabo:
+a) En coordinación con el Ministerio de Asuntos Exteriores y de acuerdo con las directrices en materia de política exterior que sean fijadas por aquel, sin perjuicio de las competencias que en materia de auxilio jurisdiccional internacional ostenta el Consejo General del Poder Judicial
+b) En coordinación con el Ministerio de Asuntos Exteriores y de acuerdo con las directrices en materia de política exterior que sean fijadas por este, sin perjuicio de las competencias que en materia de auxilio jurisdiccional internacional ostenta el Consejo General del Poder Judicial
+c) En coordinación con el Ministerio de Asuntos Exteriores y de acuerdo con las directrices en materia de política exterior que sean fijadas por este, sin perjuicio de las competencias que en materia de cooperación jurisdiccional internacional ostenta el Consejo General del Poder Judicial
+d) En coordinación con el Ministerio de Asuntos Exteriores y de acuerdo con las directrices en materia de política exterior que sean fijadas por aquel, sin perjuicio de las competencias que en materia de cooperación jurisdiccional internacional ostenta el Consejo General del Poder Judicial
+
+27) El control del gasto del Consejo General del Poder Judicial se llevará a cabo:
+a) Por la Intervención General del Estado y por el Tribunal de Cuentas
+b) Por un funcionario perteneciente al Cuerpo Superior de Interventores y Auditores del Estado, que dependerá orgánicamente del Consejo General del Poder Judicial y por el Tribunal de Cuentas
+c) Por un funcionario perteneciente al Cuerpo Superior de Interventores y Auditores del Estado, el control externo y por el Tribunal de Cuentas, el control interno
+d) Todas las opciones anteriores son incorrectas
+
+28) Del enjuiciamiento de los delitos cometidos fuera del territorio nacional, cuando conforme a las Leyes o Tratados corresponde su enjuiciamiento a los Tribunales Españoles, conocerá: A98
+a) El Tribunal Supremo
+b) La Sala de lo Penal de la Audiencia Nacional
+c) El Juzgado de Penal de Madrid que le corresponda por reparto
+d) La Sala de lo Penal del Tribunal Superior de Justicia de Madrid
+
+29) Según la LOPJ, un Magistrado del Tribunal Supremo, para poder ser nombrado Presidente de Sala del mismo, deberá haber prestado al menos:
+a) Tres años de servicio en la categoría
+b) Cinco años de servicio en la categoría
+c) Diez años de servicio en la categoría
+d) Un año de servicio en la categoría
+
+30) Según la LOPJ, ¿puede ser formada una Sala del Tribunal Supremo, con más de un magistrado suplente?:
+a) Sí, siempre que los asuntos a resolver lo aconsejen
+b) No, en ningún caso
+c) Sí, cuando no hubiere el número de Magistrados Titulares para constituirla
+d) Sí, siempre que exista acuerdo firmado por el Presidente del Tribunal Supremo
+
+31) Según la LOPJ, de las pretensiones que se deduzcan, en relación con las disposiciones reglamentarias, conocerán: T02
+a) Los Tribunales y Juzgados del orden jurisdicción civil
+b) Los Tribunales y Juzgados del orden jurisdicción contencioso administrativo
+c) Los Tribunales y Juzgados del orden jurisdiccional social
+d) Los Tribunales y Juzgados del orden económico administrativo
+
+32) Según la LOPJ, en el concurso para la provisión de plazas de Presidente de Sección de la Audiencia Nacional, tendrán preferencia:
+a) Los Magistrados que ostente mejor puesto en el escalafón
+b) Los Magistrados que acrediten tres años de servicios en el mismo orden jurisdiccional
+c) Los Magistrados que ostenten la correspondiente especialización en el orden respectivo
+d) Los Magistrados que acrediten cinco años de servicios en el mismo orden jurisdiccional
+
+33) La competencia para la aprobación del proyecto del presupuesto anual del Consejo General del Poder Judicial corresponde a:
+a) La Comisión Permanente previa aprobación del borrador que le remite la Comisión de Asuntos Económicos
+b) La Comisión Permanente
+c) El Pleno
+d) La Comisión de Asuntos Económicos
+
+34) Según la LOPJ, artículo 316.2, los Magistrados serán nombrados:
+a) Por Orden del Consejo General del Poder Judicial
+b) Por Orden Ministerial a propuesta del Consejo General del Poder Judicial
+c) Por Decreto-Ley a propuesta del Consejo General del Poder Judicial
+d) Por Real Decreto a propuesta del Consejo General del Poder Judicial
+
+35) En el caso de las licencias por enfermedad, los integrantes de la Carrera Judicial, en situación de incapacidad temporal por contingencias comunes, percibirán el 75% de las retribuciones tanto básicas como complementarias, como de la prestación por hijo a cargo, en su caso:
+a) Desde el 3º al 20º día de la situación de incapacidad temporal
+b) Desde el 4º al 20º día de la situación de incapacidad temporal
+c) Desde el 3º al 21º día de la situación de incapacidad temporal
+d) Desde el 4º al 21º día de la situación de incapacidad temporal
+
+36) En la Audiencia Nacional, según la LOPJ, en el caso de que el número de asuntos lo aconseje, podrán crearse: T99
+a) Sólo una Sección dentro de una Sala
+b) Dos o más Secciones dentro de una Sala
+c) Secciones sólo en la Sala de lo Penal
+d) En ningún caso podrán crearse dos o más Secciones dentro de una Sala
+
+37) En las poblaciones donde hay menos de diez Juzgados de Primera Instancia e Instrucción, las funciones de Decano las desempeña: T99
+a) El Juez o Magistrado elegido por votación de todos los Jueces por mayoría de tres quintos
+b) El Juez o Magistrado elegido por unanimidad
+c) El Juez o Magistrado con mejor puesto en el escalafón
+d) Es rotatorio entre todos los Jueces o Magistrados
+
+38) Conforme a la LOPJ, cuando así lo aconseje la mejor administración de justicia, las Secciones de la Audiencia Provincial podrán estar formadas:
+a) Por cuatro Magistrados
+b) Por cuatro o más Magistrados
+c) Por cinco Magistrados
+d) Por cinco o más Magistrados
+
+39) Conforme a la LOPJ, los Jueces y Magistrados que se consideren perturbados en su independencia: T99
+a) Se abstendrán de conocer el procedimiento
+b) Lo pondrán en conocimiento del Consejo General del Poder Judicial, dando cuenta de los hechos al Juez o Tribunal competente para seguir el procedimiento adecuado
+c) Comunicarán el hecho al Ministerio de Justicia y al superior jerárquico de su demarcación
+d) Deberán iniciar ante el Tribunal Constitucional la solicitud de amparo, previa conformidad del Consejo General del Poder Judicial
+
+40) Los Presidentes de Sala del Tribunal Supremo se nombran por un periodo de: T99
+a) Diez años
+b) Tres años
+c) Cinco años
+d) No existe plazo
+
+41) Respecto a las relaciones del Ministerio Fiscal con los Poderes Públicos, señale la pregunta correcta:
+a) La comunicación del Gobierno con el Ministerio Fiscal se hará directamente al mismo
+b) El Fiscal General del Estado elevará a las Cortes Generales una memoria anual sobre su actividad, la evolución de la criminalidad, la prevención del delito y las reformas convenientes para una mejor eficacia de la Justicia
+c) En casos excepcionales podrá ser llamado a informar al Consejo de Ministros
+d) Las Cortes Generales se comunicarán con el Ministerio Fiscal a través del Presidente del Congreso.
+
+42) El Fiscal Jefe de la Secretaría Técnica será designado:
+a) Directamente por el Fiscal General del Estado entre fiscales pertenecientes a la primera o segunda categoría con 15 años de ejercicio en la carrera
+b) Por la Junta de Fiscales de Sala entre Fiscales pertenecientes a la primera o segunda categoría con 15 años de ejercicio en la carrera
+c) Directamente por el Fiscal General del Estado entre fiscales pertenecientes a la primera o segunda categoría sin necesidad de contar con 15 años de ejercicio en la carrera
+d) Por el Fiscal General del Estado oído el Consejo Fiscal entre fiscales pertenecientes a la primera o segunda categoría con 15 años de ejercicio en la carrera
+
+43) Para los cargos de Fiscal en el Tribunal Supremo, de Fiscal Superior de Comunidad Autónoma, de Fiscal ante el Tribunal Constitucional, de Fiscal del Tribunal de Cuentas o de Inspector Fiscal será preciso contar con al menos….…años de servicio en la carrera y pertenecer ya a la categoría…….:
+a) 15 años y segunda categoría
+b) 10 años y segunda categoría
+c) 15 años y primera categoría
+d) 10 años y primera categoría
+
+44) El Fiscal General del Estado estará asistido en sus funciones por:
+a) El Consejo Fiscal, la Junta de Fiscales de Sala, la Inspección Fiscal, la Secretaría Técnica, la Unidad de Apoyo y por los Fiscales de Sala que se determinen en plantilla
+b) El Consejo Fiscal, la Junta de Fiscales de Sala, la Inspección Fiscal y la Secretaría Técnica
+c) El Consejo Fiscal, la Junta de Fiscales de Sala, la Secretaría Técnica, la Unidad de Apoyo y por los Fiscales de Sala que se determinen en la plantilla
+d) El Consejo Fiscal, la Junta de Fiscales de Sala, la Inspección Fiscal, la Unidad de Apoyo y por los Fiscales de Sala que se determinen en plantilla
+
+45) En caso de solicitud de intervención solicitada por el Gobierno al Ministerio Fiscal, será resuelta por…
+a) La Junta de Fiscales de Sala del Tribunal Supremo
+b) El Fiscal General del Estado, personalmente
+c) El Fiscal General del Estado, oída la Junta de Fiscales de Sala del Tribunal Supremo
+d) El Fiscal General del Estado, oído el Consejo Fiscal
+
+46) Los destinos correspondientes a la categoría primera, los de Fiscales del Tribunal Supremo y los de Fiscales Superiores de Comunidades Autónomas y los de Fiscales Jefes se proveerán:
+a) Por el Consejo General del Poder Judicial
+b) Por el Gobierno, oído el Consejo Fiscal
+c) Por el Gobierno, previo informe del Fiscal General del Estado
+d) Por el Gobierno, a propuesta del Fiscal General del Estado
+
+47) Los Fiscales Jefes de las Fiscalías Provinciales tendrá la categoría:
+a) Segunda
+b) Primera o segunda categoría
+c) Equiparada al Presidente de la Audiencia Provincial
+d) Primera, segunda o tercera categoría
+
+48) La designación de los 12 Vocales del Consejo General del Poder Judicial del turno judicial deberá respetar, como mínimo, la siguiente proporción:
+a) 4 Magistrados del Tribunal Supremo
+b) 4 Magistrados con más de 25 años de antigüedad en la carrera judicial
+c) 4 Jueces o Magistrados sin sujeción a antigüedad
+d) Todas son incorrectas
+
+49) Para ser Vicepresidente del Tribunal Supremo, señala la incorrecta
+a) Será nombrado, por mayoría 3/5, por el Pleno del Consejo General del Poder Judicial
+b) A propuesta del Presidente
+c) Estar en servicio activo y reunir los requisitos para ser Presidente de Sala del Tribunal Supremo
+d) Será preciso tener la categoría de Magistrado del Tribunal Supremo
+
+50) De acuerdo con el artículo 87 ter de la Ley Orgánica del Poder Judicial, los Juzgados de Violencia sobre la Mujer conocerán de asuntos que se planteen: A16
+a) Sólo en el orden Civil
+b) Sólo en el orden Penal
+c) En los órdenes Penal y Civil
+d) En el orden Social
+
+51) Según el artículo 73 de la Ley Orgánica del Poder Judicial, ¿quién conoce de los recursos de apelación contra las resoluciones dictadas en primera instancia por las Audiencias Provinciales en el orden penal?: A16
+a) La Sala de lo Civil y Penal del Tribunal Superior de Justicia
+b) La Sala de lo Penal de la Audiencia Nacional
+c) La Sala de lo Penal del Tribunal Supremo
+d) La Sala de Apelación de la Audiencia Nacional
+
+52) La Audiencia Nacional está integrada por las siguientes Salas: A16
+a) Sala de lo Civil, Sala de lo Penal y Sala de lo Social
+b) Sala de Apelación, Sala de lo Penal, Sala de lo Contencioso-Administrativo y Sala de lo Social.
+c) Sala de lo Civil, Sala de lo Penal y Sala de lo Contencioso-Administrativo.
+d) Sala de lo Civil, Sala de lo Penal y Sala de Apelaciones
+
+53) Señale la respuesta incorrecta. El Gabinete Técnico del Tribunal Supremo: A16
+a) Está integrado por el Director y por los Letrados del Gabinete Técnico.
+b) Tendrá tantas áreas como órdenes jurisdiccionales
+c) Asistirá a la Presidencia y a sus diferentes Salas en los asuntos que conozcan.
+d) Estará dirigido por el Ministro de Justicia
+
+54) ¿Quién conoce de los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros: A16
+a) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+b) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
+c) La Sala Especial del artículo 61 de la Ley Orgánica del Poder Judicial del Tribunal Supremo
+d) El Tribunal Constitucional
+
+55) ¿Quién conocerá de los procedimientos de “habeas corpus”?: A16
+a) Los Juzgados de lo Penal
+b) Los Juzgados de Violencia sobre la Mujer
+c) Los Juzgados de Instrucción
+d) Las Audiencias Provinciales
+
+56) ¿A quién corresponde la ejecución de las sentencias dictadas por los Juzgados de Instrucción en causas por delito menos grave?: A16
+a) A los Juzgados de lo Penal
+b) A las Audiencias Provinciales
+c) A los Juzgados Centrales de Instrucción
+d) A los Juzgados Centrales de lo Penal
+
+57) Es competente para conocer de la autorización de las actividades del Centro Nacional de Inteligencia que afecten a los derechos fundamentales reconocidos en el artículo 18.1 y 3 de la Constitución: T16
+a) El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial
+b) Un Magistrado del Tribunal Supremo
+c) El Juzgado de lo Contencioso-Administrativo
+d) El Consejo de Ministros
+
+58) La decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias en una Comunidad Autónoma corresponderá a: T16
+a) El Juzgado Central de lo Penal de la Comunidad Autónoma.
+b) La Sala de lo Civil y Penal, como Sala de lo Penal, del Tribunal Superior de Justicia de la Comunidad Autónoma.
+c) Los Juzgados Centrales de Menores.
+d) La Sala de lo Penal de la Audiencia Nacional
+
+59) Los Jueces tomarán posesión de su cargo ante: T16
+a) La Sala de Gobierno del Tribunal Supremo
+b) El Juez que estuviese ejerciendo la jurisdicción y se hará en el Juzgado al que fueren destinados, en audiencia pública y con asistencia del personal del Juzgado.
+c) El Ministro de Justicia
+d) La Sala de Gobierno del Tribunal Superior de Justicia.
+
+60) De la instrucción y enjuiciamiento de las causas contra el Defensor del Pueblo conoce: T16
+a) Las Cortes Generales.
+b) La Sala Primera del Tribunal Supremo.
+c) La Sala de lo Penal del Tribunal Supremo.
+d) Ninguna es correcta, porque goza de inmunidad.
+
+61) La Sala de lo Civil y Penal del Tribunal Superior de Justicia, conocerá, como Sala de lo Penal: T16
+a) Del conocimiento de las causas civiles que los Estatutos de Autonomía, reserven al conocimiento de los Tribunales.
+b) De las cuestiones de competencia entre órganos jurisdiccionales del orden civil con sede en la Comunidad Autónoma que no tengan otro superior común.
+c) De los recursos que se deduzcan en relación con las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades Locales.
+d) De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
+
+62) La superior dirección del Gabinete Técnico del Tribunal Supremo será ejercida por: T16
+a) El Pleno del Consejo General del Poder Judicial
+b) El Director del Gabinete Técnico.
+c) La Sala de Gobierno del Tribunal Supremo
+d) El Presidente del Tribunal Supremo o, en caso de delegación de éste, por el Vicepresidente del Tribunal Supremo.
+
+63) Para conocer en primera instancia y de forma exclusiva de todos aquellos litigios que se promuevan sobre los dibujos y modelos comunitarios será competente: T16
+a) Los Juzgados de lo Mercantil de Alicante.
+b) La Sala de lo Civil del Tribunal Superior de Justicia de la Comunidad Autónoma Valenciana.
+c) Los Juzgados de lo Mercantil
+d) Los Juzgados de Primera Instancia
+
+64) ¿Dónde conoce de las funciones de apoyo y control del arbitraje que se establezcan en la ley?: G16
+a) El Juzgado de Primera Instancia
+b) El Juzgado de lo Mercantil
+c) La Audiencia Provincial
+d) El Tribunal Superior de Justicia.
+
+65) ¿Qué órgano aprueba las normas de reparto de asuntos donde hubiera dos o más juzgados del mismo orden jurisdiccional?: G14
+a) La Junta de Jueces del respectivo orden jurisdiccional
+b) El Juez Decano
+c) La Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+d) El Presidente del Consejo General del Poder Judicial
+
+66) Los nombramientos de los Jueces de Paz son expedidos por: A12
+a) La Sala de Gobierno del Tribunal Superior de Justicia
+b) El Juez Decano de su partido
+c) El Ministerio de Justicia
+d) El Pleno del Ayuntamiento por mayoría absoluta
+
+67) Cuando se establezcan Juzgados de lo Penal cuya jurisdicción se extienda a uno o varios partidos de la misma provincia, la ciudad donde tendrán su sede la fijará: A12
+a) El Consejo General del Poder Judicial
+b) La Ley de Demarcación y de Planta Judicial
+c) El Ministerio de Justicia
+d) El Gobierno
+
+68) El control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias corresponde: T11
+a) A los Juzgados de lo Contencioso-Administrativo
+b) A la Dirección General de Instituciones Penitenciarias
+c) A los Juzgados de Vigilancia Penitenciaria
+d) A la Consejería de Interior de la Comunidad Autónoma dónde radique el centro penitenciario en que sirvan dichas autoridades
+
+69) El número de Juzgados de Vigilancia Penitenciaria se determinará en la Ley de Planta: T11
+a) Atendiendo principalmente a los reclusos existentes.
+b) Atendiendo principalmente a la población de la provincia en que radiquen
+c) Atendiendo principalmente a los establecimientos penitenciarios existentes y a la clase de éstos.
+d) Atendiendo principalmente a la población penitenciaria de los establecimientos penitenciarios existentes y a la clase de éstos
+
+70) Los Juzgados de Primera Instancia conocerán en el orden civil de las siguientes materias: A11
+a) Toda medida cautelar que afecte al patrimonio del concursado, que se adopte en los procesos civiles sobre capacidad, filiación, matrimonio y menores.
+b) Las que en el procedimiento concursal deben adoptar en relación con la asistencia jurídica gratuita.
+c) Las acciones tendentes a exigir responsabilidad civil a los administradores sociales, a los auditores o, en su caso, a los liquidadores, por los perjuicios causados al concursado durante el procedimiento.
+d) Los recursos contra las resoluciones de la Dirección General de los Registros y del Notariado en materia de recursos contra la calificación del Registrador Mercantil, con arreglo a lo dispuesto en la Ley Hipotecaria para este procedimiento.
+
+71) Los Jueces de Paz son elegidos por: A09
+a) El Ayuntamiento correspondiente.
+b) La Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+c) El Presidente del Tribunal Superior de Justicia correspondiente.
+d) El Secretario de Gobierno del Tribunal Superior de Justicia correspondiente.
+
+72) El órgano competente para autorizar la entrada en un domicilio para practicar un embargo de la Agencia Tributaria: A09
+a) El Juzgado de Instrucción
+b) El Juzgado Central de Instrucción
+c) El Juzgado de lo Contencioso-Administrativo
+d) El Juzgado Central de lo Contencioso-Administrativo.
+
+73) De las pretensiones de error judicial cuando éste se impute a una Sala del Tribunal Supremo conocerá: A09
+a) El Pleno del Tribunal Supremo
+b) La Sala Tercera del Tribunal Supremo
+c) Una Sala compuesta por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.
+d) Una Sala compuesta por el Presidente del Tribunal Supremo, el Presidente de Sala de lo Contencioso-Administrativo y cinco Magistrados de esta Sala, los dos más antiguos y los tres más modernos.
+
+74) El ingreso en la carrera judicial estará basado en los principios:
+a) De mérito y capacidad
+b) De igualdad, mérito y capacidad.
+c) De igualdad, mérito, capacidad y también de publicidad.
+d) De igualdad, mérito, objetividad, capacidad y también publicidad.
+
+75) Será sometida la aprobación del temario que ha de regir la oposición para el acceso a las Carreras Judicial y Fiscal:
+a) A la Comisión de Selección.
+b) Al Pleno del Consejo General del Poder Judicial
+c) Al Ministerio de Justicia y al Pleno del Consejo General del Poder Judicial
+d) Al Consejo General del Poder Judicial y a la Fiscalía General del Estado.
+
+76) En el supuesto de que el Consejo General del Poder Judicial acordará que, en una circunscripción donde existen dos Juzgados de lo Penal (número 1 y número 2), el número 1 conozca de determinadas clases de asuntos, y dicho acuerdo se publica en el BOE el miércoles 14 de enero de 2004, no podrá producir efectos hasta…A03
+a) 20 días hábiles a contar a partir del 15 de enero de 2004
+b) El 1 de enero de 2005
+c) El 14 de febrero de 2004
+d) El 15 de enero de 2004
+
+77) El horario de audiencia pública de Juzgados y Tribunales será fijado por… A03
+a) El Ministerio de Haciendas y Administraciones Públicas
+b) El Consejo General del Poder Judicial
+c) La Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+d) El Ministerio de Justicia
+
+78) Una Audiencia Provincial… A03
+a) Ha de tener su sede en la capital de la provincia, pudiendo crearse Secciones fuera de ella.
+b) Ha de tener su sede en la capital de la provincia, y en todos los casos ha de constar con Secciones fuera de dicha capital
+c) No necesariamente ha de tener su sede en la capital de la provincia, si bien ha de tener al menos una Sección en dicha capital
+d) Puede extender su jurisdicción fuera de la provincia.
+
+79) Los Juzgados de Menores… A03-mod
+a) Tendrán competencia en todo el territorio nacional
+b) Radicarán en cada capital de provincia, pudiendo agrupar dos o más provincias
+c) Tendrán, en todo caso, competencia en una agrupación de partidos.
+d) Radicarán en la sede del Tribunal Superior de Justicia correspondiente pudiendo establecerse por ley otras sedes
+
+80) Los sustitutos de los jueces de paz…
+a) Son nombrados cada cinco años
+b) Son nombrados por la Audiencia Provincial correspondiente.
+c) Son nombrados sólo cuando el Juez de Paz titular no puede desempeñar sus funciones
+d) Son nombrados a la vez que los jueces de paz titulares
+
+81) Los Jueces de Paz:
+a) Deberán ser licenciados en Derecho.
+b) Tomarán posesión ante quien se hallara ejerciendo la jurisdicción.
+c) Serán nombrados para un periodo de cinco años
+d) Aprobado el acuerdo correspondiente por el pleno del Ayuntamiento, será remitido a la Sala de Gobierno del Tribunal Superior de Justicia
+
+82) Determinarán la capitalidad de los partidos judiciales…
+a) El Gobierno, previo informe de la Comunidad Autónoma afectada y del Consejo General del Poder Judicial, por Ley
+b) El Gobierno, previo informe del Consejo General del Poder Judicial, por orden ministerial
+c) Las Comunidades Autónomas, previo informe del Consejo General del Poder Judicial, por Ley
+d) Las Comunidades Autónomas, previo informe del Consejo General del Poder Judicial, por Decreto.
+
+83) La demarcación judicial, que determina la circunscripción territorial de los órganos judiciales, se establecerá:
+a) Por Ley
+b) Por Ley o por Real Decreto
+c) Por Real Decreto
+d) Por Orden Ministerial
+
+84) La Sala Especial del Tribunal Supremo no conoce:
+a) De los recursos de revisión contra sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo del Tribunal Supremo
+b) De los recursos de revisión contra sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo de dicho Tribunal
+c) De los incidentes de recusación del Presidente del Tribunal Supremo
+d) Del conocimiento de las pretensiones de error judicial cuando se impute a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+
+85) En el supuesto de que la Audiencia Provincial esté integrada por dos o más secciones, le corresponde presidir al Presidente de la Audiencia Provincial:
+a) La Sección Primera
+b) Ninguna porque la Audiencia Provincial no se puede organizar en Secciones, sino en Salas
+c) Una de las Secciones que determinará al principio de su mandato.
+d) La Sección Civil
+
+86) La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia, con jurisdicción limitada a una provincia, estarán formadas como mínimo:
+a) Por su Presidente y se completarán, en su caso, con Magistrados de la Audiencia Provincial de su sede
+b) Por su Presidente y dos o más Magistrados
+c) Por su Presidente y por cuatro o más Magistrados
+d) Por su Presidente y dos Magistrados.
+
+87) De los procesos de declaración de ilegalidad y consecuente disolución de los partidos políticos, conocerá:
+a) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
+b) La Sala Especial del Tribunal Supremo
+c) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+d) El Juzgado Central de lo Contencioso-Administrativo del Tribunal Supremo
+
+88) Podrá el Ministerio de Justicia adscribir temporalmente un número adicional de miembros al servicio del Gabinete Técnico:
+a) Generalmente, por razones estructurales y debidamente justificadas, con el límite máximo de dos años.
+b) Excepcionalmente, por razones estructurales y debidamente acreditadas, con el límite máximo de un año.
+c) Generalmente, por razones coyunturales y debidamente acreditadas, con el límite máximo de un año
+d) Excepcionalmente, por razones coyunturales y debidamente justificadas, con el límite máximo de un año.
+
+89) ¿Quién conocerá de las recusaciones formuladas contra el Presidente de una Audiencia Provincial?: T09
+a) Una Sala constituida por el Presidente del Tribunal Superior de Justicia, los Presidentes de Sala y el Magistrado más antiguo y más moderno de cada una de ellas.
+b) La Sala especial prevista en el artículo 61 de la Ley Orgánica del Poder Judicial
+c) La Sala especial prevista en el artículo 68 de la Ley Orgánica del Poder Judicial
+d) Una Sala constituida por el Presidente del Tribunal Superior de Justicia, los Presidentes de Sala y el Magistrado más moderno de cada una de ellas.
+
+90) Podrán crearse excepcionalmente: T11
+a) Juzgados de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una Provincia dentro de la misma Comunidad Autónoma
+b) Juzgados de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una Provincia de distintas Comunidades Autónomas
+c) Juzgados de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una Provincia de distintas Comunidades Autónomas limítrofes
+d) Juzgados de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una CC.AA.
+
+91) En el orden civil, en materia de derechos reales y arrendamientos de inmuebles, serán competentes los Juzgados y Tribunales españoles… A03
+a) Con carácter exclusivo, excepto si existe pacto de sumisión expresa
+b) Con carácter exclusivo, para los que se hallen en España
+c) Con carácter exclusivo si las partes se han sometido expresamente a los Juzgados y Tribunales españoles
+d) Todas las respuestas anteriores son incorrectas
+
+92) En las salas de los Tribunales en las que existan 2 o más secciones, se designarán por numeración:
+a) Ordinal
+b) Cardinal
+c) Por el orden que la sala de gobierno manifieste
+d) Todas son incorrectas
+
+93) Corresponde la emisión y la ejecución de otros instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley:
+a) Al Juzgado de lo Penal
+b) Al Juzgado de Vigilancia Penitenciaria
+c) Al Juzgado Central de Instrucción
+d) Al Juzgado Central de lo Penal
+
+94) Según la LOPJ, en la Villa de Madrid y con jurisdicción en toda España:
+a) Habrá uno o más Juzgados Centrales de Instrucción
+b) Podrá haber uno o más Juzgados Centrales de Instrucción
+c) Habrá dos o más Juzgados Centrales de Instrucción
+d) Podrá haber dos o más Juzgados Centrales de Instrucción.
+
+95) Para la instrucción de las causas por delito, cuyo enjuiciamiento corresponda a la Audiencia Provincial, son competentes… A00
+a) Los Juzgados de Paz
+b) Los Juzgados de lo Penal
+c) La Sala de lo Penal de la Audiencia Provincial
+d) Los Juzgados de Instrucción
+
+96) ¿Quién podrá conocer de los procedimientos que tengan por objeto la oposición a las resoluciones administrativas en materia de protección de menores?:
+a) La Sala de lo Social.
+b) Los Juzgados de Violencia sobre la Mujer.
+c) Los Juzgados de Primera Instancia, en todo caso.
+d) Los Juzgados de lo Contencioso-Administrativo.
+
+97) ¿Con cuántos Magistrados deben constar como mínimo una Audiencia Provincial en su plantilla?
+a) Con dos Magistrados y el Presidente
+b) Con un solo Magistrado
+c) Con dos Magistrados, incluido el Presidente
+d) Con un Magistrado, incluido el Presidente
+
+98) Según la LOPJ, los Letrados que hayan de prestar servicio en el Gabinete Técnico serán nombrados:
+a) Mediante concurso-oposición
+b) Mediante oposición libre
+c) Mediante el procedimiento de libre designación
+d) Mediante concurso de méritos
+
+99) En relación a las Salas de los Tribunal Superior de Justicia con jurisdicción limitada, señale la opción correcta:
+a) Podrán crearse, excepcionalmente, Salas de lo Contencioso-Administrativo o Salas de lo Social, e incluso Sala de lo Penal
+b) Podrán abarcar uno o varios partidos judiciales de la misma provincia
+c) Estarán formadas como mínimo por su Presidente y dos magistrados
+d) Tendrán su sede en la capital del partido
+
+100) El Gabinete Técnico del Tribunal Supremo prestará apoyo:
+a) A las Salas Especiales en el despacho de asuntos que les estén atribuidos.
+b) A las diferentes Salas del Tribunal Supremo en los procesos de admisión de los asuntos de que conozcan
+c) A la Presidencia
+d) Todas las opciones anteriores con correctas.

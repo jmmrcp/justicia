@@ -1,0 +1,624 @@
+1) En cuanto a la integración de la capacidad procesal de persona física regulada en el artículo 8 de la LEC., en los casos en que haya de nombrarse un defensor judicial, el nombramiento lo realizará:
+a) El letrado de la Administración de Justicia por medio de decreto.
+b) El Juez por medio de auto.
+c) El Juez por medio de providencia.
+d) El Ministerio Fiscal por medio de acuerdo.
+
+2) Podrán comparecer en juicio varias personas como demandantes o como demandados, cuando las acciones que se ejerciten:
+a) Provengan de distinto título .
+b) Provengan de un mismo título.
+c) Provengan de un mismo o diferente título o causa de pedir.
+d) Ninguna es correcta.
+
+3) En los procesos promovidos por asociaciones o entidades constituidas para la protección de los derechos e intereses de los consumidores y usuarios a que hace referencia el artículo 15 de la LEC:
+a) En todo caso será parte el Ministerio Fiscal.
+b) Será parte el Ministerio Fiscal cuando el interés social lo justifique.
+c) El Juez o Tribunal decidirá en resolución motivada si debe ser o no parte el Ministerio Fiscal.
+d) Nunca es parte el Ministerio Fiscal en estos procesos.
+
+4) En relación a la suspensión del procedimiento civil por prejudicialidad penal, ¿cuál de estas afirmaciones es cierta?:
+a) El procedimiento se suspende una vez se tiene conocimiento de la existencia de un hecho que reviste caracteres de delito y guarda relación con alguna de las pretensiones de las partes.
+b) El procedimiento se suspenderá cuando se acredite la presentación de una querella contra alguno de los litigantes del procedimiento civil por un hecho que sirva de fundamento a la demanda o la contestación.
+c) La existencia de un proceso penal sobre hechos relacionados con los que se discuten en el proceso penal nunca puede llevar aparejada la suspensión del proceso civil.
+d) La suspensión motivada por la posible existencia de un delito de falsedad de alguno de los documentos aportados se acordará, sin esperar a la conclusión del procedimiento, tan pronto como se acredite que se sigue causa criminal sobre aquel delito, cuando, a juicio del tribunal, el documento pudiera ser decisivo para resolver sobre el fondo del asunto.
+
+5) En el orden civil, ¿qué recurso cabe contra el auto por el que se rechaza la falta de competencia objetiva?:
+a) Solo cabe recurso de apelación que se interpondrá en el plazo de veinte días desde la notificación de la resolución.
+b) No cabe recurso alguno, pero podrá alegarse la falta de competencia objetiva en la apelación contra la sentencia definitiva.
+c) Sólo cabe recurso de reposición, sin perjuicio de alegar la falta de competencia objetiva en la apelación contra la sentencia definitiva.
+d) Sólo cabe interponer recurso de queja ante la Audiencia Provincial correspondiente en el plazo de cinco días desde la notificación de la resolución.
+
+6) En el orden civil, ¿qué Juzgado es competente para conocer de una demanda de reclamación de daños y perjuicios causados por vehículo a motor?:
+a) El Juzgado de Primera Instancia del domicilio del causante de los daños.
+b) El Juzgado de Primera Instancia del lugar donde se causaron los daños.
+c) El Juzgado de Primera Instancia del domicilio del demandante.
+d) El Juzgado de Primera Instancia del domicilio de la aseguradora del vehículo si resulta demandada.
+
+7) ¿Qué juzgado es competente para conocer de una demanda de impugnación de acuerdos sociales de una sociedad de responsabilidad limitada?:
+a) El juzgado de Primera Instancia del domicilio social de la sociedad.
+b) El juzgado de lo Mercantil del domicilio del administrador de la sociedad.
+c) El Juzgado de lo Mercantil del domicilio social de la sociedad.
+d) El Juzgado de lo Mercantil del domicilio del demandante.
+
+8) Los Jueces de Paz son nombrados:
+a) Por un período de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+b) Por un período de cuatro años por el Pleno del Ayuntamiento respectivo.
+c) Por un período de cinco años por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.
+d) Por un período de cinco años por el Pleno del Ayuntamiento respectivo.
+
+9) ¿Qué recurso cabe contra el auto en el que el tribunal considerare justificada la oposición a la práctica de las diligencias preliminares acordada en un procedimiento civil?:
+a) Recurso de reposición.
+b) Recurso de apelación.
+c) Recurso de revisión.
+d) No cabe interponer recurso alguno.
+
+10) La petición de actuaciones anticipadas de prueba, que se formule antes de la iniciación del proceso civil, se dirigirá:
+a) Al Juzgado o Tribunal que se considere competente para el asunto principal.
+b) Al Juzgado o Tribunal del lugar donde debe practicarse la prueba.
+c) Al Juzgado o Tribunal del domicilio del solicitante.
+d) Al Juzgado o Tribunal del domicilio de la persona con la que debe practicarse la prueba.
+
+11) En el procedimiento civil, la proposición de prueba anticipada se resuelve por medio de:
+a) Auto.
+b) Diligencia de ordenación.
+c) Decreto.
+d) Providencia.
+
+12) En relación a las Diligencias preliminares, si aplicada la caución con arreglo al Art. 262 de la LEC, quedara remanente:
+a) El remanente se devolverá inmediatamente al solicitante de las Diligencias Preliminares.
+b) El remanente se perderá a favor del Estado.
+c) No puede existir remanente, ya que el importe de la caución se entregará íntegramente a la persona que hubo de soportar las diligencias acordadas.
+d) No se devolverá el remanente al solicitante de las diligencias hasta que transcurra el plazo de un mes sin que se interponga la demanda sin justificación suficiente, a juicio del tribunal.
+
+13) ¿Qué recurso cabe contra el auto que acuerda la práctica de las diligencias preliminares interesadas en el procedimiento civil?:
+a) No cabe recurso alguno.
+b) Cabe interponer recurso de apelación.
+c) Es susceptible de recurso de reposición.
+d) Podrá interponerse recurso de queja.
+
+14) ¿Quién puede reclamar judicialmente la división de la herencia?:
+a) El cónyuge superstite.
+b) Exclusivamente los herederos.
+c) Cualquier coheredero o legatario de parte alícuota siempre que ésta no deba efectuarla un comisario o contador-partidor designado por el testador, por acuerdo entre los coherederos o por el Letrado de la Administración de Justicia o el Notario.
+d) Los acreedores de la persona de cuya sucesión se trate.
+
+15) La sentencia que recaiga si hay oposición a las operaciones particionales, ¿Qué efectos produce?:
+a) Tendrá eficacia de cosa juzgada.
+b) No tendrá eficacia de cosa juzgada, pudiendo los interesados hacer valer los derechos que crean corresponderles sobre los bienes adjudicados en el juicio ordinario que corresponda.
+c) No tendrá eficacia de cosa juzgada, pudiendo los interesados hacer valer los derechos que crean corresponderles sobre los bienes adjudicados en el juicio verbal que corresponda.
+d) No tendrá eficacia de cosa juzgada, pudiendo los interesados hacer valer los derechos que crean corresponderles sobre los bienes adjudicados en el juicio cambiario que corresponda.
+
+16) A la solicitud de liquidación del régimen económico-matrimonial, deberá acompañarse:
+a) Una propuesta de liquidación que incluya el pago de las indemnizaciones y reintegros debidos a cada cónyuge y la división del remanente en la proporción que corresponda, teniendo en cuenta, en la formación de los lotes, las preferencias que establezcan las normas civiles aplicables.
+b) Una propuesta de liquidación de los bienes utilizados constante la convivencia conyugal.
+c) Una propuesta en la que, con la debida separación, se harán constar las diferentes partidas que deban incluirse en el inventario con arreglo a la legislación civil.
+d) Una propuesta de venta de los inmuebles del haber común.
+
+17) En el proceso monitorio si el deudor no atendiere el requerimiento de pago o no compareciere, el Letrado de la Administración de Justicia dictará:
+a) Decreto dando por terminado el proceso, haciendo constar tal circunstancia y reservando al acreedor el derecho a formular la reclamación a través del juicio declarativo que corresponda con arreglo a la cuantía.
+b) Inmediatamente decreto acordando medidas ejecutivas concretas contra el deudor.
+c) Decreto dando por terminado el proceso monitorio y dará traslado al acreedor para que inste el despacho de ejecución, bastando para ello con la mera solicitud, sin necesidad de que transcurra el plazo de veinte días previsto en el artículo 548 de La LEC.
+d) Decreto dando por terminado el proceso monitorio y dará traslado al acreedor para que inste el despacho de ejecución, bastando para ello con la mera solicitud, una vez que haya transcurrido el plazo de veinte días previsto en el artículo 548 de la LEC.
+
+18) En un proceso monitorio si el deudor presenta escrito de oposición dentro de plazo:
+a) Se ordenará el inmediato embargo preventivo de los bienes del deudor por la cantidad reclamada, más otra para intereses de demora, gastos y costas, por si fuera rechazada la oposición.
+b) Se dará al asunto el curso del juicio verbal, teniendo la sentencia que dicte el juez fuerza de cosa juzgada.
+c) El asunto se resolverá definitivamente en juicio que corresponda, teniendo la sentencia que se dicte fuerza de cosa juzgada.
+d) Si se reclaman rentas o cantidades debidas por el arrendatario de finca urbana por importe superior a 6.000 euros, el asunto se resolverá definitivamente por los trámites del juicio ordinario.
+
+19) ¿Qué efecto produce la sentencia firme dictada en juicio cambiario?:
+a) Solo tiene efectos prejudiciales, por lo que las partes podrán iniciar un nuevo proceso sobre el mismo asunto.
+b) No produce el efecto de la cosa juzgada material, si bien su contenido se tendrá en cuenta en un proceso posterior como antecedente lógico.
+c) Producirá efectos de cosa juzgada, respecto de las cuestiones que pudieron ser alegadas y discutidas en el juicio cambiario, pudiéndose plantear las cuestiones restantes en el juicio correspondiente.
+d) Tiene el mismo efecto que la sentencia dictada en un juicio declarativo.
+
+20) ¿Qué efectos produce la interposición de un recurso de apelación contra una sentencia de divorcio?:
+a) Se suspenderán en todo caso la eficacia de las medidas que se hubieren acordado en ésta.
+b) No suspenderán la eficacia de las medidas que se hubieren acordado en ésta.
+c) Se suspenderá la eficacia de las medidas relativas a los hijos o hijas menores de edad.
+d) Se suspenderá la eficacia de todas las medidas exclusivamente en el caso de que se haya dictado previamente auto de medidas provisionales previas o coetáneas.
+
+21) Conforme al artículo 771 de la LEC, el cónyuge que se proponga demandar la nulidad, separación o divorcio de su matrimonio ¿Dónde puede solicitar los efectos y medidas a que se refieren los artículos 102 y 103 del Código Civil?:
+a) Ante el tribunal de la capital de provincia.
+b) Ante el tribunal del domicilio del demandado.
+c) Ante el tribunal de su domicilio.
+d) ante el tribunal de la residencia del menor.
+
+22) Conforme al Art. 775 de la LEC, ¿Cuándo puede solicitarse la modificación de las medidas definitivas de una sentencia de separación o divorcio?:
+a) Siempre que haya un cambio jurisprudencial sobre un tema.
+b) Siempre que hayan variado sustancialmente las circunstancias tenidas en cuenta al aprobarlas o acordarlas.
+c) Siempre que haya un cambio legal sobre un tema.
+d) Nunca. Las medidas inicialmente reguladas no pueden ser modificadas.
+
+23) Conforme al Art. 776 de la LEC, cuando deban ser objeto de ejecución forzosa gastos extraordinarios, no expresamente previstos en las medidas definitivas o provisionales:
+a) Deberá despacharse ejecución por la cantidad reclamada sin perjuicio de la oposición que se formule.
+b) Deberá denegarse el despacho de ejecución por no ser cantidad líquida.
+c) Deberá despacharse ejecución pero no es posible acordar medidas de aseguramiento.
+d) Deberá solicitarse previamente al despacho de ejecución la declaración de que la cantidad reclamada tiene la consideración de gasto extraordinario.
+
+24) ¿Qué pruebas y audiencias son preceptivas en los procesos de incapacitación?:
+a) La audiencia de los parientes más próximos del presunto incapaz, el examen del mismo y el dictamen pericial médico.
+b) Será exclusivamente necesario el dictamen pericial médico.
+c) Será exclusivamente necesario el examen del presunto incapaz.
+d) Será exclusivamente necesario el dictamen pericial médico, debiendo practicarse el examen del presunto incapaz si lo pide el Ministerio Fiscal.
+
+25) ¿Cómo puede presentarse una solicitud de jurisdicción voluntaria, según la ley 15/2015?:
+a) Por cualquier medio, incluyendo los previstos en la normativa de acceso electrónico de los ciudadanos a la Administración de Justicia.
+b) Exclusivamente por Lexnet.
+c) Siempre firmada por Abogado.
+d) Exclusivamente a través del Decanato del Juzgado competente.
+
+26) ¿Cuál es el objeto y ámbito de aplicación de la Ley 15/2015, de 2 de julio?:
+a) La regulación de los expedientes de jurisdicción voluntaria que se tramitan ante los órganos jurisdiccionales españoles.
+b) La regulación de los expedientes de jurisdicción voluntaria que se tramitan ante los órganos jurisdiccionales de la Unión Europea.
+c) La regulación de los expedientes de jurisdicción voluntaria en materia de personas exclusivamente.
+d) La regulación de los expedientes de jurisdicción voluntaria relativos al Derecho de obligaciones exclusivamente.
+
+27) En el orden civil, ¿en cuál de los siguientes procedimientos no se admitirán a trámite las peticiones de conciliación?:
+a) En los juicios de liquidación del régimen económico-matrimonial.
+b) En los juicios de reclamación de cantidad.
+c) En los juicios en que estén interesados los menores y las personas con capacidad modificada judicialmente para la libre administración de sus bienes.
+d) En los juicios por vulneración de derecho al honor.
+
+28) En el orden civil, ¿cuáles son los efectos de admisión de un intento de conciliación?:
+a) Interrumpirá exclusivamente la prescripción adquisitiva desde el momento de su admisión.
+b) Interrumpirá la prescripción, tanto adquisitiva como extintiva, en los términos y con los efectos establecidos en la ley, desde el momento de su presentación.
+c) Interrumpirá el devengo de cantidades en un proceso de ejecución.
+d) Interrumpirá la prescripción, tanto adquisitiva como extintiva, en los términos y con los efectos establecidos en la ley, desde la fecha de su admisión.
+
+29) De las siguientes afirmaciones en relación al recurso de reposición en el proceso civil una es incorrecta:
+a) En la interposición se habrá de expresar la infracción en que la resolución hubiera incurrido a juicio del recurrente.
+b) Admitido el recurso se concederá a las demás partes el plazo común de cinco días para impugnarlo si lo estiman conveniente.
+c) Háyanse o no presentado escritos de impugnación, el tribunal o el letrado según los casos, resolverán sin más trámite en el plazo de diez días.
+d) Háyanse o no presentado escritos de impugnación, el tribunal o el letrado según los casos, resolverán sin más trámite en el plazo de cinco días.
+
+30) Interpuesto recurso de apelación en el proceso civil y presentados, en su caso, los escritos de oposición o impugnación, el Letrado de la Administración de Justicia ordenará la remisión de los autos al tribunal competente para resolver la apelación, con emplazamiento de las partes con término de:
+a) 10 días.
+b) 15 días.
+c) 20 días.
+d) 30 días.
+
+31) A tenor de lo dispuesto en el art. 485 de la LEC, admitido el recurso de casación, el letrado de la Administración de Justicia dará traslado a la parte o partes recurridas para que formalicen su oposición por escrito en el plazo de:
+a) Cinco días.
+b) Diez días.
+c) Veinte días.
+d) Treinta días.
+
+32) En la ejecución provisional de condena civil no dineraria, si se hubiese formulado oposición, y se estimare que, de revocarse posteriormente la condena, sería imposible o extremadamente difícil restaurar la situación anterior a la ejecución provisional o garantizar el resarcimiento mediante caución:
+a) El tribunal dictará auto dejando en suspenso la ejecución, pero subsistirán los embargos y las medidas de garantía adoptadas.
+b) El Letrado de la Administración de Justicia dictará decreto dejando en suspenso la ejecución, pero subsistirán los embargos y las medidas de garantía adoptadas.
+c) El tribunal dictará auto estimando la oposición, contra el que no cabe interponer recurso alguno.
+d) El Letrado de la Administración de Justicia dictará decreto estimando la oposición, contra el que cabe interponer recurso directo de revisión.
+
+33) De conformidad con lo previsto en el artículo 2.2 del Reglamento (CE) nº 805/2004 del Parlamento Europeo y del Consejo, de 21 de abril de 2004, ¿cuál de las siguientes materias no se excluye de su ámbito de aplicación?:
+a) Los testamentos.
+b) El derecho al honor, a la intimidad y la propia imagen.
+c) Los regímenes económicos matrimoniales.
+d) El arbitraje.
+
+34) En la ejecución civil dineraria, al ejecutado que no respondiere debidamente al requerimiento efectuado para que manifieste relacionadamente bienes y derechos suficientes para cubrir la cuantía de la ejecución, podrá imponérsele multas coercitivas periódicas, en virtud de:
+a) Auto, contra el que no cabe recurso alguno.
+b) Auto, contra el que cabe recurso de apelación, sin efecto suspensivo.
+c) Decreto, contra el que cabe recurso directo de revisión, sin efecto suspensivo.
+d) Decreto, contra el que no cabe recurso alguno.
+
+35) En la ejecución civil dineraria, no se practicará el requerimiento de pago al ejecutado por la cantidad reclamada en concepto de principal e intereses devengados, en su caso, hasta la fecha de la demanda, cuando a la demanda ejecutiva se haya acompañado acta notarial que acredite haberse requerido de pago al ejecutado con al menos una antelación de:
+a) Diez días.
+b) Quince días.
+c) Veinte días.
+d) Un mes.
+
+36) De conformidad con lo previsto en el artículo 575.1 bis de la LEC, en el supuesto de ejecución de vivienda habitual las costas exigibles al deudor ejecutado no podrán superar el:
+a) 5 por cien de la cantidad que se reclame en la demanda ejecutiva.
+b) 10 por cien de la cantidad que se reclame en la demanda ejecutiva.
+c) 15 por cien de la cantidad que se reclame en la demanda ejecutiva.
+d) 20 por cien de la cantidad que se reclame en la demanda ejecutiva.
+
+37) En la ejecución civil dineraria, el embargo trabado sobre bienes que no pertenezcan al ejecutado será:
+a) Nulo de pleno derecho.
+b) Recurrible.
+c) Eficaz.
+d) Inexistente.
+
+38) El embargo de los salarios, sueldos, jornales, retribuciones o pensiones que sean superiores al salario mínimo interprofesional se practicará conforme a la escala del artículo 607.2 de la LEC. ¿Qué porcentaje procede embargar para la cuantía adicional hasta el importe equivalente a un cuarto salario mínimo interprofesional:
+a) El 60 por 100.
+b) El 65 por 100.
+c) El 70 por 100.
+d) El 75 por 100.
+
+39) Una de las siguientes afirmaciones respecto a la regulación de la realización de bienes por persona o entidad especializada en la LEC es incorrecta. Indique cuál:
+a) No se exigirá caución cuando la realización se encomiende a los Colegios de Procuradores.
+b) Las enajenaciones que se produzcan por persona o entidad especializada deberán ser aprobadas por el Letrado de la Administración de Justicia encargado de la ejecución, mediante decreto.
+c) A falta de acuerdo, los bienes muebles no podrán ser enajenados por precio inferior al 50 por ciento del avalúo.
+d) Podrá acordarse a petición del ejecutado, o del ejecutante con consentimiento del ejecutado y cuando las características del bien embargado así lo aconsejen.
+
+40) De conformidad con lo establecido en el art. 670.3 de la LEC, si en la subasta de bienes inmuebles sólo se hicieren posturas superiores al 70 por 100 del valor por el que el bien hubiere salido a subasta, pero ofreciendo pagar a plazos con garantías suficientes, bancarias o hipotecarias, del precio aplazado, se harán saber al ejecutante quien:
+a) En los diez días siguientes, podrá pedir la adjudicación del inmueble por el 60 por 100 del valor de salida.
+b) En los veinte días siguientes, podrá pedir la adjudicación del inmueble por el 60 por 100 del valor de salida.
+c) En los diez días siguientes, podrá pedir la adjudicación del inmueble por el 70 por 100 del valor de salida.
+d) En los veinte días siguientes, podrá pedir la adjudicación del inmueble por el 70 por 100 del valor de salida.
+
+41) Según la LEC, si durante el período de licitación de la subasta de un bien inmueble, el poseedor consintiera la inspección del inmueble por parte de cualquier interesado en la subasta y colaborará adecuadamente ante los requerimientos del Tribunal para facilitar el mejor desarrollo de la misma, el deudor podrá solicitar al Tribunal una reducción de la deuda de hasta:
+a) El 1 por cien.
+b) El 2 por cien.
+c) El 3 por cien.
+d) El 4 por cien.
+
+42) En la tercería de mejor derecho, si el ejecutante se hubiera allanado a la demanda, sustanciándose el procedimiento sólo con el ejecutado, y la sentencia estimase la tercería, las costas se impondrán:
+a) Al ejecutante.
+b) Al ejecutado.
+c) Al tercerista.
+d) Cada parte abonará las causadas a su instancia y las comunes por mitad.
+
+43) En la ejecución civil, cuando el inmueble cuya posesión se deba entregar fuera vivienda habitual del ejecutado o de quienes de él dependan, el Letrado de la Administración de Justicia les dará un plazo para desalojarlo de:
+a) Quince días improrrogables.
+b) Quince días, prorrogable por quince días más si existe motivo fundado.
+c) Un mes improrrogable.
+d) Un mes, prorrogable por un mes más si existe motivo fundado .
+
+44) En la ejecución civil no dineraria de una obligación de hacer no personalísima, si el ejecutado no cumpliera el requerimiento en el plazo señalado, y el ejecutante optare por encargar el hacer a un tercero, la valoración del coste realizada por un perito tasador se aprobará por:
+a) El Letrado de la Administración de Justicia mediante decreto contra el que no cabe recurso alguno.
+b) El Letrado de la Administración de Justicia mediante decreto, contra el que cabe recurso directo de revisión sin efecto suspensivo.
+c) El Juez mediante auto contra el que no cabe recurso alguno.
+d) El Juez mediante auto contra el que cabe recurso de apelación, sin efecto suspensivo.
+
+45) En la ejecución civil no dineraria, cuando el título ejecutivo se refiera a un hacer personalísimo, y se acordare apremiar al ejecutado con multas mensuales, por el Letrado de la Administración de Justicia responsable de la ejecución:
+a) Se reiterarán mensualmente los requerimientos, hasta que se cumplan seis meses desde el primero.
+b) Se reiterarán mensualmente los requerimientos, hasta que se cumpla un año desde el primero.
+c) Se reiterarán trimestralmente los requerimientos, hasta que se cumplan seis meses desde el primero.
+d) Se reiterarán trimestralmente los requerimientos, hasta que se cumpla un año desde el primero.
+
+46) En la vista regulada en el artículo 734 de la LEC, si las partes solicitaran que se practique reconocimiento judicial y no pudiere practicarse en el acto de la vista, se llevará a cabo en el plazo de:
+a) Dos días.
+b) Tres días.
+c) Cinco días.
+d) Diez días.
+
+47) Según la LEC, sin perjuicio de lo que se disponga para los procesos especiales, en las reglas especiales previstas en los Tratados y Convenios o en las normas comunitarias que sean de aplicación:
+a) Las medidas cautelares podrán ser acordadas de oficio por el tribunal.
+b) El Juez podrá acordar medidas cautelares más gravosas que las solicitadas.
+c) Podrá pedir al Tribunal medidas cautelares quien acredite ser parte de convenio arbitral con anterioridad a las actuaciones arbitrales.
+d) No se podrá solicitar de un Tribunal español la adopción de medidas cautelares cuando se trate de un proceso jurisdiccional o arbitral que se siga en un país extranjero.
+
+48) En el procedimiento civil, contra el auto que resuelva aceptar o rechazar caución sustitutoria de la medida cautelar:
+a) Cabe interponer recurso de reposición.
+b) Cabe interponer recurso de apelación, sin efectos suspensivos.
+c) Cabe interponer recurso de apelación, con efectos suspensivos.
+d) No cabe interponer recurso alguno.
+
+49) Según la LEC, si la tasación de costas se impugnara por considerar excesivos los honorarios de los abogados, se oirá al abogado de que se trate por un plazo de :
+a) 3 días.
+b) 5 días.
+c) 8 días.
+d) 10 días.
+
+50) Según la LEC, cuál de los siguientes requisitos será determinante para rechazar la práctica de la Tasación de Costas:
+a) Que haya condena en costas.
+b) Que la parte lo haya solicitado.
+c) Que la parte no hubiera pagado previamente.
+d) Cuando no sea firme la resolución donde se contuviera la condena en costas.
+
+51) Según lo dispuesto en la disposición adicional 15ª de la LOPJ, el depósito prestado para recurrir se perderá para la parte recurrente o demandante, y se le dará el destino previsto en dicha disposición adicional:
+a) Cuando el recurso haya sido parcialmente estimado .
+b) Cuando el recurso haya sido estimado si no hace mención al depósito.
+c) Cuando se inadmita el recurso o la demanda, o confirme la resolución recurrida.
+d) Cuando desista del recurso.
+
+52) Uno de los siguientes conceptos no puede considerarse costas procesales, según la relación contenida en el artículo 241 de la LEC:
+a) Tasas judiciales.
+b) Depósitos necesarios para la presentación de recursos.
+c) Coste de la publicación de edictos que procesalmente sean necesarios realizar dentro del proceso.
+d) Los derechos del Procurador en los procesos cuando no sea preceptiva su intervención.
+
+53) Dentro del Ministerio de Justicia la dirección de los servicios del Registro Civil compete:
+a) Al Secretario de Estado de Justicia.
+b) Al Subsecretario de Justicia.
+c) Al Director General de los Registros y del Notariado.
+d) Al Oficial Mayor del Ministerio .
+
+54) En la actualidad en los Municipios donde haya más de un juzgado de primera instancia, el Registro Civil estará a cargo de:
+a) Jueces de Primera Instancia.
+b) Letrado de la Administración de Justicia.
+c) Juez de Paz.
+d) Registrador de la Propiedad.
+
+55) La inspección odinaria de los Registros Municipales la ejerce:
+a) El Presidente del Tribunal Superior de Justicia respectivo.
+b) El Director General de los Registros y del Notariado.
+c) Los Encargados del Registro Civil Central, indistintamente.
+d) El presidente de la Audiencia Provincial correspondiente.
+
+56) En los casos en que la normativa reguladora de la función registral exija la firma conjunta del Encargado y del Secretario, la responsabilidad será:
+a) Mancomunada de ambos intervinientes.
+b) Principal del Encargado y subsidiaria del Secretario.
+c) Solidaria del Juez y Secretario.
+d) Del que de ellos tuviere contratado Seguro de Responsabilidad Civil.
+
+57) La inscripción de defunción es una inscripción:
+a) Principal.
+b) Marginal.
+c) Informativa.
+d) De referencia.
+
+58) La segunda incripción de una misma tutela y representación legal, es una inscripción:
+a) Principal.
+b) Marginal.
+c) Informativa.
+d) De referencia.
+
+59) El matrimonio secreto, cualquiera que sea la forma legal en que se celebre:
+a) Se inscribirá como inscripción principal en los libros de la Sección Primera del Registro Civil donde se haya celebrado.
+b) Se inscribirá en el Registro Civil donde se haya realizado el expediente previo al matrimonio secreto .
+c) No se inscribe porque dejaría de ser secreto.
+d) Se inscribirá en el Libro Especial.
+
+60) La inscripción de la defunción, si no se apreciaran indicios de muerte violenta, y la expedición de la licencia de enterramiento se realizarán dentro:
+a) De las 48 horas siguientes a la defunción.
+b) De las 24 horas siguientes a la defunción.
+c) De los cinco días siguientes a la defunción.
+d) De los ocho días siguientes a la defunción.
+
+61) La referencia al lugar de enterramiento, al practicar la inscripción de defunción :
+a) Se hará en la propia inscripción.
+b) Se hará por nota marginal.
+c) Se hará indistintamente en la propia inscripción o por nota marginal.
+d) Se hará en una incripción marginal nueva.
+
+62) La instrucción de los expedientes del Registro Civil compete:
+a) Al Ministerio Fiscal.
+b) Al Secretario en los órganos judiciales y en el Registro Civil Central.
+c) Al funcionario del cuerpo de Gestión Procesal y Administrativa, si en él se hubiera delegado.
+d) Al propio Encargado del Registro Civil.
+
+63) Según el vigente Reglamento del Registro Civil, las certificaciones positivas de asientos pueden ser:
+a) Literales exclusivamente.
+b) En extracto exclusivamente.
+c) Literales o en extracto.
+d) Lliterales, en extracto y mixtas.
+
+64) Las resoluciones del Encargado del Registro Civil poniendo fin al expediente son recurribles ante:
+a) La Gerencia de Órganos Centrales, cuando la resolución sea del Encargado del Registro Civil Central.
+b) El Encargado del Registro Civil Central cuando la resolución recurrida sea del Encargado de un Registro Municipal o Consular.
+c) La Dirección General de los Registros y del Notariado.
+d) La Audiencia Provincial.
+
+65) Según el vigente Reglamento del Registro Civil, las certificaciones literales:
+a) Comprenden íntegramente los asientos a que se refieren, con indicación de las firmas.
+b) Comprenden íntegramente los asientos a que se refieren, sin indicación de las firmas.
+c) Solo comprenderán los datos más esenciales del asiento que certifican.
+d) Comprenderán los datos que el Encargado autorice que se incorporen a la certificación literal.
+
+66) Según el art. 8 de la LECrim la jurisdicción criminal es siempre:
+a) Prorrogable.
+b) Prorrogable a instancia de parte.
+c) Improrrogable.
+d) Prorrogable de oficio.
+
+67) Conforme establece el artículo 61.1 de la LOPJ, una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas conocerá:
+a) De los recursos de revisión contra las sentencias dictadas en única instancia por la Sala de lo Civil de dicho Tribunal.
+b) Del conocimiento de las pretensiones de declaración de error judicial cuando éste se impute a una Sala del Tribunal Supremo.
+c) De los recursos de casación contra las sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo de dicho Tribunal.
+d) De los incidentes de revisión del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala.
+
+68) Según el art. 35 de la LECrim contra el auto en que se deniegue el requerimiento de inhibición solo habrá lugar al recurso de:
+a) Queja.
+b) Casación.
+c) Revisión.
+d) Apelación.
+
+69) La acción penal por delito o falta que de lugar al procedimiento de oficio no se extingue por la renuncia de la persona ofendida, según el artículo:
+a) 106 de la LECrim.
+b) 106 del Código Penal.
+c) 108 de la LECrim.
+d) 108 del Código Penal.
+
+70) Conforme al artículo 109 bis de la LECrim, las víctimas del delito que no hubieren renunciado a su derecho podrán ejercer la acción penal:
+a) A lo largo de toda la tramitación de la causa.
+b) En cualquier momento antes del trámite de calificación del delito.
+c) Antes de pasar el detenido a disposición judicial.
+d) Una vez se hayan calificado los hechos y antes del trámite del dictado de la sentencia.
+
+71) El artículo 270 de la LECrim establece que todos los ciudadanos españoles, hayan sido o no ofendidos, pueden querellarse ejercitando la acción popular establecida en:
+a) El Art. 101 de la LECrim.
+b) El Art. 91 de la LECrim.
+c) El Art. 111 de la LECrim.
+d) El Art. 112 de la LECrim.
+
+72) Según el art. 507 de la LECrim el recurso de apelación contra el auto de prisión deberá resolverse en un plazo máximo de:
+a) 10 días.
+b) 15 días.
+c) 20 días.
+d) 30 días.
+
+73) ¿En qué artículo de la LECrim se recoge la convocatoria de una audiencia en la que el Ministerio Fiscal o las partes acusadoras pueden interesar que se decrete la prisión provisional del investigado o su libertad provisional con fianza?:
+a) 503 LeCrim.
+b) 504 LeCrim.
+c) 505 LeCrim.
+d) 506 LeCrim.
+
+74) Conforme al art. 518 de la LECrim los autos en que se decrete o deniegue la prisión o excarcelación serán apelables:
+a) Sólo en el efecto suspensivo.
+b) En ambos efectos.
+c) Sólo en el efecto devolutivo.
+d) No cabe apelación.
+
+75) Según al art. 698 de la LECrim, cuando el procesado o procesados no quieran responder a las preguntas, el Presidente del Tribunal:
+a) Suspenderá la vista.
+b) Dejará el juicio visto para sentencia.
+c) Acordará deducir testimonio por desobediencia.
+d) Continuará el juicio.
+
+76) Cuando los medios de registro para la grabación y reproducción del sonido y de la imagen no se puediera utilizar, el Letrado de la Administración de Justicia al terminar la sesión leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. ¿Quién firma dicha acta además del Letrado?:
+a) El Presidente y miembros del Tribunal, Fiscal y defensores de las partes.
+b) El Presidente, Fiscal y perjudicado e investigado.
+c) El Presidente, Fiscal y defensores de los acusados.
+d) El Presidente, Fiscal, defensores de los acusados y todos los demás intervinientes.
+
+77) Según el artículo 718 de la LECrim, cuando un testigo no comparezca por imposibilidad y el Tribunal considere de importancia su declaración para el juicio:
+a) El Presidente suspenderá la sesión del juicio hasta su recuperación.
+b) El Tribunal se constituirá en su domicilio para continuar la sesión del juicio.
+c) El Presidente designará a uno de los individuos del mismo para que se constituya en la residencia del testigo, si la tuviere en el lugar del juicio, y puedan las partes hacerles las preguntas que consideren oportunas.
+d) El Ministerio Fiscal y el Letrado de la Administración de Justicia se constituirán en su domicilio para realizar las preguntas declaradas pertinentes por el Presidente del Tribunal.
+
+78) El Tribunal del Jurado se compone de:
+a) Nueve jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá, acudiendo al juicio dos jurados suplentes.
+b) Siete jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá, acudiendo al juicio dos jurados suplentes.
+c) Once jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá, acudiendo al juicio dos jurados suplentes.
+d) Cinco jurados y un Magistrado integrante de la Audiencia Provincial, que lo presidirá, acudiendo al juicio dos jurados suplentes.
+
+79) Para cuál de los siguientes delitos es competente para conocer y fallar el Tribunal del Jurado:
+a) Estafa.
+b) Homicidio.
+c) Robo con fuerza.
+d) Receptación.
+
+80) Conforme al art. 12 de la LOTJ podrán excusarse para actuar como jurado:
+a) Los que hayan desempeñado efectivamente funciones de jurado dentro de los cuatro años precedentes al día de la nueva designación.
+b) Los que hayan desempeñado efectivamente funciones de jurado dentro de los cinco años precedentes al día de la nueva designación.
+c) Los militares profesionales en la reserva.
+d) Los que aleguen sin acreditar cualquier causa que les dificulte el desempeño de la función.
+
+81) Según el art. 3 de la Ley Orgánica del Tribunal del Jurado, los Jurados en el ejercicio de sus funciones actuarán con arreglo a los principios de:
+a) Independencia, buena fe y sumisión a la Ley.
+b) Independencia, responsabilidad y sumisión a la Ley.
+c) Independencia, responsabilidad y sumisión a los principios de la sana crítica.
+d) Independencia, responsabilidad, eficacia y objetividad.
+
+82) Según el art. 544 ter. párrafo 3º de la LECrim siempre que se solicite una orden de protección y se suscite dudas acerca de la competencia territorial del Juez, ¿quién deberá iniciar y resolver el procedimiento para la adopción de tal orden?:
+a) El Fiscal de Guardia que tenga conocimiento de la misma.
+b) El Juez Decano del Partido Judicial donde se formule.
+c) El Letrado de la Administración de Justicia, previa comparecencia.
+d) El Juez ante el que se haya solicitado ésta, sin perjuicio de remitirla posteriormente a quien resulte competente.
+
+83) Según el art. 544 ter. párrafo 4º, recibida por el Juez de Guardia la solicitud de orden de protección, ¿qué plazo máximo tiene para celebrar la audiencia prevista, si no le ha sido posible realizarla durante el servicio de guardia?:
+a) Veinticuatro horas.
+b) Setenta y dos horas.
+c) Cuarenta y ocho horas.
+d) Doce horas.
+
+84) En materia de recursos, ¿ qué órgano judicial conocerá de las resoluciones dictadas por los Juzgados de Violencia sobre la Mujer tanto en el orden penal como en el civil?:
+a) La Sala Civil y Penal del Tribunal Superior de Justicia donde pertenezca el Juzgado de Violencia sobre la Mujer.
+b) Cualquier Sección de las Audiencias Provinciales.
+c) Una o varias Secciones especializadas de las Audiencias Provinciales.
+d) El Juzgado Decano del lugar de residencia de la víctima.
+
+85) En el procedimiento regulado por la LORPM, durante la instrucción del expediente, el Ministerio Fiscal requerirá del equipo técnico la elaboración de un informe o actualización de los anteriormente emitidos que deberá serle entregado:
+a) En el plazo improrrogable de quince días.
+b) En el plazo improrrogable de veinte días.
+c) En el plazo máximo de diez días, prorrogable por un período no superior a otros diez días en casos de gran complejidad.
+d) En el plazo máximo de diez días, prorrogable por un período no superior a un mes en casos de gran complejidad.
+
+86) ¿Cuál de las siguientes sanciones no se podrá imponer por la comisión de faltas graves cometidas por los menores internados en aplicación de la LORPM?:
+a) La privación de participar en las actividades recreativas del centro durante un período de siete a quince días.
+b) La amonestación.
+c) La privación de salidas de fin de semana de uno a quince días.
+d) La separación del grupo durante uno o dos fines de semana.
+
+87) El Juez competente para el procedimiento de habeas corpus en relación a un menor, cuando no conste el lugar en el que se encuentre el menor privado de libertad será:
+a) El Juez de Menores del lugar donde se hayan cometido los hechos delictivos.
+b) El Juez de Menores del lugar donde se produjo la detención.
+c) El Juez de Instrucción del lugar donde se hayan cometido los hechos delictivos.
+d) El Juez de Instrucción del lugar donde se produjo la detención.
+
+88) Según previene el artículo 238 ter de la LECrim, el recurso de revisión se interpondrá ante:
+a) El Juez o Tribunal con competencia funcional en la fase del proceso en la que haya recaído el decreto o diligencia de ordenación del Secretario judicial que se impugna, mediante escrito en el que deberá citarse la infracción en que ésta hubiere incurrido, autorizado con firma de Letrado.
+b) El Juez o Tribunal con competencia funcional en la fase del proceso en la que haya recaído la diligencia de ordenación del Secretario judicial que se impugna, mediante escrito en el que deberá citarse la infracción en que ésta hubiere incurrido, autorizado con firma de Letrado.
+c) El Juez o Tribunal con competencia funcional en la fase del proceso en la que haya recaído el decreto del Secretario judicial que se impugna, mediante escrito en el que deberá citarse la infracción en que éste hubiere incurrido, autorizado con firma de Letrado.
+d) El mismo Secretario Judicial que hubiese dictado el decreto o diligencia de ordenación que se impugna, mediante escrito en el que deberá citarse la infracción en que ésta hubiere incurrido, autorizado con firma de Letrado.
+
+89) Según el art. 990 de la LECrim., la competencia del juez o tribunal para hacer cumplir la sentencia penal, ¿excluye la de cualquier autoridad gubernativa?:
+a) En todo caso.
+b) En ningún caso.
+c) Hasta que el condenado ingrese en el establecimiento penal destinado al efecto o se traslade al lugar en que ha de cumplir la condena.
+d) Ninguna de las tres es correcta.
+
+90) Cuál de los siguientes derechos no prevé el art.49 de la Ley General Penitenciaria, LO 1/179, de 26 de septiembre, que la Administración Penitenciaria ofrezca los internos a su ingreso:
+a) Información escrita sobre el régimen del establecimiento.
+b) Información escrita sobre sus derechos y deberes.
+c) Información escrita del régimen disciplinario.
+d) Información escrita sobre el calendario de días festivos.
+
+91) En el proceso penal, la resolución sobre las costas podrá consistir en alguno de los pronunciamientos contenidos en el art. 240 de la LECrim. ¿Cuál de los siguientes no está previsto por el mencionado precepto legal?:
+a) Condenar a su pago a los procesados, señalando la parte proporcional de que cada uno de ellos deba responder, si fuesen varios.
+b) Declarar las costas de oficio.
+c) Condenar a su pago al querellante particular o actor civil.
+d) Imponer las costas al procesado absuelto.
+
+92) Las resoluciones del Juez de Vigilancia penitenciaria en materia de ejecución de penas son recurribles ante el tribunal sentenciador:
+a) En Alzada.
+b) En Revisión.
+c) En Súplica.
+d) En Apelación y Queja, excepto cuando se hayan dictado resolviendo un recurso de apelación contra resolución administrativa que no se refiera a la clasificación del penado.
+
+93) De conformidad con lo dispuesto en el artículo 19 de la LJCA, no están legitimados ante el orden jurisdiccional contencioso- administrativo:
+a) Las personas físicas o jurídicas que ostenten un derecho o interés legítimo.
+b) El Defensor del Pueblo.
+c) El Ministerio Fiscal.
+d) Cualquier ciudadano, en ejercicio de la acción popular.
+
+94) El plazo para interponer el recurso de lesividad, según lo dispuesto en la ley de la jurisdicción contencioso-administrativo, es:
+a) Un mes desde el día siguiente a la declaración de lesividad.
+b) Dos meses desde el día siguiente a la declaración de lesividad.
+c) Dos meses desde la firmeza de la declaración de lesividad.
+d) Un mes desde la firmeza de la declaración de lesividad.
+
+95) Según el artículo 701.2 de la Ley de Enjuiciamiento Civil, cuando del título ejecutivo se desprenda el deber de entregar cosa mueble cierta y determinada, y se ignorase el lugar en que ésta se encuentra, el Letrado de la Administración de Justicia:
+a) Librará los despachos necesarios para su localización.
+b) Interrogará al ejecutado o a terceros.
+c) Librará mandamiento al Registro de Bienes Muebles.
+d) Impondrá multas pecuniarias al ejecutado.
+
+96) En la jurisdicción contencioso-administrativa, todas las cuestiones incidentales que se susciten en el proceso, se sustanciarán :
+a) En el procedimiento principal y sin suspender el curso de los autos.
+b) En el procedimiento principal, con suspensión del curso de los autos.
+c) En pieza separada y sin suspender el curso de los autos.
+d) En pieza separada, con suspensión del curso de los autos .
+
+97) De la revisión de los laudos arbitrales firmes sobre materias objeto de conocimiento del orden social conocerá:
+a) El Juzgado de lo Social.
+b) La Sala de lo Social del Tribunal Superior de Justicia.
+c) La Sala de lo Social de la Audiencia Nacional.
+d) La Sala de lo Social del Tribunal Supremo.
+
+98) En el orden jurisdiccional social, los defectos u omisiones en que haya incurrido la parte al redactar la demanda en relación con los documentos de preceptiva aportación con la misma, que no hagan referencia al acto de conciliación o mediación previa, podrán subsanarse en el plazo de:
+a) Dos días.
+b) Tres días.
+c) Cuatro días.
+d) Cinco días.
+
+99) Contra las resoluciones sobre nombramiento, recusación y cese de los administradores concursales y auxiliares delegados cabe interponer:
+a) Recurso de apelación directo.
+b) Recurso de reposición, y contra el auto que lo resuelva, el de apelación .
+c) Recurso de revisión.
+d) No cabe interponer recurso alguno.
+
+100) La resolución acordando la admisión a trámite del incidente concursal adoptará, según lo dispuesto en el artículo 194.3 de la Ley Concursal la forma de:
+a) Providencia.
+b) Auto.
+c) Diligencia de Ordenación.
+d) Decreto.
+
+101) Si, despachada ejecución conforme a lo dispuesto en la LEC, se interpusiera y admitiera demanda de revisión o de rescisión de sentencia firme dictada en rebeldía:
+a) El tribunal competente para la ejecución podrá ordenar de oficio, y si las circunstancias del caso lo aconsejaran, que se suspendan las actuaciones de ejecución de la sentencia.
+b) El Letrado de la Administración de Justicia convocará a las partes a una vista que se celebrará en el plazo de cinco días para resolver sobre la suspensión de la ejecución.
+c) Antes de decidir sobre la suspensión de la ejecución de la sentencia objeto de revisión, el tribunal oirá el parecer del Ministerio Fiscal.
+d) No será necesario para acordar la suspensión exigir al que la pida caución por el valor de lo litigado y los daños y perjuicios que pudieren irrogarse por la inejecución de la sentencia.
+
+102) De conformidad con lo dispuesto en la LEC, si la sociedad demandada no hubiere emitido valores que, en el momento de la impugnación, estuvieren admitidos a negociación en mercado secundario oficial, podrán solicitar como medida cautelar la suspensión de acuerdos sociales impugnados, el demandante o demandantes que representen al menos:
+a) El 1 por 100 del capital social.
+b) El 3 por 100 del capital social.
+c) El 5 por 100 del capital social.
+d) El 10 por 100 del capital social.
+
+103) Las certificaciones expedidas por el Registro Civil:
+a) Requieren legalización para que surtan efecto ante otros organismos oficiales.
+b) No requieren legalización para que surtan efecto ante otros organismos oficiales.
+c) Sólo requieren legalización las certificaciones para las que haya transcurrido más de tres meses desde su expedición.
+d) Solo requieren legalización las certificaciones para las que haya transcurrido más de un año desde su expedición.
+
+104) En la fase de audiencia del procedimiento regulado por la LORPM, si el letrado no estuviere de acuerdo con la conformidad prestada por el propio menor con las medidas solicitadas y la responsabilidad civil interesadas por las acusaciones:
+a) El Juez suspenderá la audiencia y resolverá sobre la continuación en el plazo de cinco días mediante auto motivado.
+b) El Letrado de la Administración de Justicia acordará la suspensión de la audiencia, y el Juez resolverá sobre su continuación en el plazo de tres días.
+c) El Juez resolverá sobre la continuación o no de la audiencia, razonando esta decisión en la sentencia.
+d) El Letrado de la Administración de Justicia acordará la suspensión de la audiencia, convocando al Ministerio Fiscal y, en su caso, a la acusación particular y al actor civil, a una comparecencia en el plazo de cinco días.
+
