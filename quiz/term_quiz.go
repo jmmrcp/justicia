@@ -1,6 +1,7 @@
 package quiz
 
 import (
+	"log"
 	"strconv"
 
 	"github.com/jroimartin/gocui"
@@ -12,14 +13,20 @@ func Init(g *gocui.Gui) (err error) {
 	//Have we reached the question limit?
 	if Questions.Index >= QuestionLimit {
 		//Need to call End Screen
-		ESInit(g, UserAnswers)
+		err := ESInit(g, UserAnswers)
+		if err != nil {
+			log.Fatal(err)
+		}
 		return nil
 	}
 
 	//Have we ran out of questions?
 	if Questions.Index >= len(Questions.Questions) {
 		//Need to call End Screen
-		ESInit(g, UserAnswers)
+		err := ESInit(g, UserAnswers)
+		if err != nil {
+			log.Fatal(err)
+		}
 		return nil
 	}
 

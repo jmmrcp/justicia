@@ -6,6 +6,7 @@ import (
 	"justicia/quiz/csv"
 	"justicia/quiz/dao"
 	"justicia/quiz/db"
+	"log"
 	"math/rand"
 	"time"
 )
@@ -142,7 +143,10 @@ func CreateQuestionsCSV(qs Questions, files []string) (Questions, error) {
 		}
 
 		//Shuffle the answers
-		as.Shuffle()
+		err := as.Shuffle()
+		if err != nil {
+			log.Fatal(err)
+		}
 
 		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-1], ""})
 	}
@@ -179,7 +183,10 @@ func CreateQuestionsDB(qs Questions, view, test, tema int, cat string) (Question
 		}
 
 		//Shuffle the answers
-		as.Shuffle()
+		err := as.Shuffle()
+		if err != nil {
+			log.Fatal(err)
+		}
 
 		//ID, _ := strconv.Atoi(qData[l-1])
 		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})
@@ -218,7 +225,10 @@ func CreateQuestionsDAO(qs Questions, view, test, tema int, cat string) (Questio
 		}
 
 		//Shuffle the answers
-		as.Shuffle()
+		err := as.Shuffle()
+		if err != nil {
+			log.Fatal(err)
+		}
 
 		//ID, _ := strconv.Atoi(q[l-1])
 		qs.Questions = append(qs.Questions, &Question{qData[0], as, qData[l-2], qData[l-1]})

@@ -104,18 +104,21 @@ func boxDao() {
 
 func boxDb() {
 	for _, v := range C {
-		db.Update(v)
+		err := db.Update(v)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 	for _, v := range I {
-		db.Unupdate(v)
+		err := db.Unupdate(v)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 }
 
 // FileExists check filename
 func FileExists(filename string) bool {
 	_, err := os.Stat(filename)
-	if os.IsNotExist(err) {
-		return false
-	}
-	return true
+	return os.IsNotExist(err)
 }

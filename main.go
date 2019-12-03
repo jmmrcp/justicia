@@ -3,12 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io"
 	"justicia/quiz"
 	"justicia/quiz/pdf"
 	"justicia/quiz/questions"
 	"log"
-	"net/http"
 	"os"
 	"strings"
 
@@ -88,17 +86,17 @@ func main() {
 	defer g.Close()
 
 	//Need to create questions
-	if quiz.FileExists("tools/mongo/data.db") {
+	/* if quiz.FileExists("tools/mongo/data.db") {
 		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, TEMA, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}
-	} else {
-		quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, TEMA, CAT)
-		if err != nil {
-			log.Fatal(err)
-		}
+	} else { */
+	quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, TEMA, CAT)
+	if err != nil {
+		log.Fatal(err)
 	}
+	// }
 
 	//Shuffle Questions
 	err = quiz.Questions.Shuffle()
@@ -126,6 +124,7 @@ func main() {
 	}
 }
 
+/*
 func downloadFile(filepath string, url string) error {
 
 	// Get the data
@@ -146,3 +145,4 @@ func downloadFile(filepath string, url string) error {
 	_, err = io.Copy(out, resp.Body)
 	return err
 }
+*/

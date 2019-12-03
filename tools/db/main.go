@@ -8,30 +8,36 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"time"
 
 	_ "github.com/mattn/go-sqlite3"
 )
 
 var (
+	// Total Suna de todas las preguntas
+	Total      int
 	preguntas  []string
 	respuestas []string
 	info       []string
 )
 
 func main() {
+	// Borrado de la base de datoa
 	err := os.Remove("../mongo/data.db")
 	file, err := os.Open("test.nfo")
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal("Base de datos no existe o no se puede borrar", err)
 	}
 	defer file.Close()
+	// Leemos el fichero test.nfo
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		line := scanner.Text()
+		// Si la linea esta vacio la saltamos
 		if len(line) < 1 {
+			fmt.Println()
 			fmt.Printf("%q\n", info)
 			txt(info)
+			// Vaciamos las variables
 			info = nil
 			preguntas = nil
 			respuestas = nil
@@ -39,46 +45,66 @@ func main() {
 			info = append(info, line)
 		}
 	}
-
+	fmt.Println("Numero de Pregunta procesadas: ", Total)
 }
+
+// txt -> []string
+// return la base de datos terminada
 func txt(info []string) {
 	var (
+		// filename -> nombre del fichero definido en el fichero nfo.
 		filename = info[0]
+		// total -> numero de preguntas definido en el fichero nfo.
 		total, _ = strconv.Atoi(info[4])
 	)
+	// Leemoos el fichero de la carpeta txt
 	file, err := os.Open("txt/" + filename + ".txt")
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal("No se ha podido leer el fichero.", err)
 	}
 	defer file.Close()
-
+	// Empezamos a leer las lineas del test
 	scanner := bufio.NewScanner(file)
-
 	for scanner.Scan() {
 		line := scanner.Text()
+		// Procesamos la linea
 		quest(line)
 	}
+	// Numero de preguntas en el Test
 	p := len(preguntas)
+	// Numero de respuestas en el Test
 	r := len(respuestas)
-
+	// Mostramos las preguntas leidas.
 	fmt.Println("Numero de Preguntas del test: ", p)
-
+	// Comprobamos que todas las lineas se han leido correctamente
+	// diviendo el total de respuestas entre cuatro e igualandalo al numero de preguntas
 	if r/p == 4 && p == total {
-		fmt.Println("Proceso correcto.")
+		fmt.Println("Preproceso correcto.")
+		// Procesamos el Test
+		db(preguntas, respuestas)
+		Total += p
 	} else {
-		os.Exit(1)
+		fmt.Println("Numero de preguntas o respuestas incorrecto.")
+		fmt.Println("Respuestas: ", r)
+		// Salimos del programa
 	}
-	db(preguntas, respuestas)
 }
 
+// quest -> string
+// añade a las variables las preguntas o las respuestas
 func quest(line string) {
+	// Separamos entre por el parentesis
 	str := strings.Split(line, ") ")
+	// Si tiene dos partes es una pregunta o respuesta
 	if len(str) > 1 {
+		// la primera parte la convertimos a entero
 		_, err := strconv.Atoi(str[0])
+		// Si da error es Letra -> Respuesta a,b,c,d.
 		if err != nil {
 			// Respuestas
 			txt := str[1]
 			respuestas = append(respuestas, txt)
+			// Si es entero es Numero -> Pregunta 1,2,3,4,5 ....
 		} else {
 			// Preguntas
 			txt := str[1]
@@ -87,7 +113,10 @@ func quest(line string) {
 	}
 }
 
+// db -> []preguntas, []respuestas
+// Return -> La base datos con los datos del Test
 func db(preguntas []string, respuestas []string) {
+	// Definimos todas las variables
 	var (
 		filename = info[0]
 		C        = info[1]
@@ -102,12 +131,12 @@ func db(preguntas []string, respuestas []string) {
 		R4       string
 		A1       string
 	)
-
+	// Convertimos el nombre del Test a entero para la DB
 	TE, _ := strconv.Atoi(filename)
-
+	// Abrimos la base de datos
 	db, err = sql.Open("sqlite3", "../mongo/data.db")
 	if err != nil {
-		panic(err)
+		log.Fatal("No podemos abrir la base de datos.", err)
 	}
 	defer db.Close()
 
@@ -116,12 +145,12 @@ func db(preguntas []string, respuestas []string) {
 	if err != nil {
 		panic(err)
 	}
-
+	// Iniciamos las transaciones.
 	tx, err := db.Begin()
 	if err != nil {
 		log.Fatal(err)
 	}
-
+	// Creamos la base de datos si no existe.
 	_, err = db.Exec(`CREATE TABLE IF NOT EXISTS just (
 		id         INTEGER NOT NULL
 						   PRIMARY KEY AUTOINCREMENT
@@ -142,21 +171,23 @@ func db(preguntas []string, respuestas []string) {
 		box        INTEGER DEFAULT 0
 	);`)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal("No se ha podico crear la base de datos", err)
 	}
+	// Creamos el indice de temas.
 	_, err = db.Exec(`CREATE INDEX IF NOT EXISTS categoria ON just (
     tema ASC
 );`)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal("No se ha podico crear el indice de temas.", err)
 	}
+	// Creamos el indice de test.
 	_, err = db.Exec(`CREATE INDEX IF NOT EXISTS tests ON just (
     test ASC
 );`)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal("No de ha podido crear el indice de tests.", err)
 	}
-
+	// Creamos la Vista de Dia.
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS dia AS
 		SELECT id,
@@ -179,6 +210,7 @@ func db(preguntas []string, respuestas []string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Creamos la vista de semana.
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS semana AS
 		SELECT id,
@@ -202,6 +234,7 @@ func db(preguntas []string, respuestas []string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Creamos la vista de quincena.
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS quincena AS
 		SELECT id,
@@ -225,6 +258,7 @@ func db(preguntas []string, respuestas []string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Creamos la vista de mes.
 	_, err = db.Exec(`
   CREATE VIEW IF NOT EXISTS mes AS
 		SELECT id,
@@ -248,6 +282,8 @@ func db(preguntas []string, respuestas []string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Creamos un disparador
+	// Cuando actualizamos un registro lo hacemos a fecha de la actualizacion
 	_, err = db.Exec(`
   CREATE TRIGGER IF NOT EXISTS actualiza
          AFTER UPDATE
@@ -261,31 +297,35 @@ END;
 	if err != nil {
 		log.Fatal(err)
 	}
-
+	// Leemos el fichero de los articulos de las leyes.
 	art, err := os.Open("art/" + filename + ".art")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer art.Close()
-
+	// Leemos el fichero de las soluciones.
 	sol, err := os.Open("sol/" + filename + ".sol")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer sol.Close()
-
+	// Procesamos ambos archivos
 	articulos := bufio.NewScanner(art)
 	soluciones := bufio.NewScanner(sol)
 
 	for i, P := range preguntas {
+		// Linea de la Ley
 		articulos.Scan()
+		// Linea de la solucion correcta
 		soluciones.Scan()
-
+		// Separamos la linea
 		solucion := strings.Split(soluciones.Text(), ". ")
 		if len(solucion) > 1 {
-			letra = solucion[1]
+			// Si el archivo de soluciones tiene el numero de pregunta y la solucion
+			letra = strings.ToUpper(solucion[1])
 		} else {
-			letra = solucion[0]
+			// Si solo tiene la solucion
+			letra = strings.ToUpper(solucion[0])
 		}
 
 		switch letra {
@@ -317,12 +357,16 @@ END;
 			R3 = respuestas[p+2]
 			R4 = respuestas[p]
 			A1 = articulos.Text()
+		default:
+			log.Fatalf("Datos Incorrectos en: - %v", i*4)
 		}
 		P = strings.TrimRight(P, "-1234567890modAGET ")
 		R1 = strings.TrimRight(R1, " .")
 		R2 = strings.TrimRight(R2, " .")
 		R3 = strings.TrimRight(R3, " .")
 		R4 = strings.TrimRight(R4, " .")
+		// INSERT OR IGNORE INTO just (
+		// Insertamos el registro en la base de datos
 		_, err = db.Exec(`
     INSERT INTO just (
 			test,
@@ -342,41 +386,6 @@ END;
 			log.Fatal(err)
 		}
 	}
+	fmt.Println("Proceso correcto.")
 	tx.Commit()
-}
-
-func listar(db *sql.DB) {
-	var (
-		rows       *sql.Rows
-		ID         int
-		Test       int
-		Tema       string
-		Pregunta   string
-		Respuesta1 string
-		Respuesta2 string
-		Respuesta3 string
-		Respuesta4 string
-		Articulo   string
-		Ord        int
-		Fecha      time.Time
-		Cont       int
-		Box        int
-		data       [][]string
-		err        error
-	)
-	rows, err = db.Query(`SELECT * FROM just`)
-	if err != nil {
-		log.Fatal(err)
-	}
-	for rows.Next() {
-		fmt.Println(rows)
-		err = rows.Scan(&ID, &Test, &Tema, &Pregunta, &Respuesta1, &Respuesta2, &Respuesta3, &Respuesta4, &Articulo, &Ord, &Fecha, &Cont, &Box)
-		id := strconv.Itoa(ID)
-		t := strconv.Itoa(Test)
-		o := strconv.Itoa(Ord)
-		base := []string{id, t, Tema, Pregunta, Respuesta1, Respuesta2, Respuesta3, Respuesta4, Articulo, o}
-		data = append(data, base)
-	}
-	fmt.Printf("%v\n", data)
-	rows.Close()
 }

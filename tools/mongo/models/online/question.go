@@ -20,17 +20,17 @@ type (
 	// Mlab schema Mongo DB
 	Mlab struct {
 		// ID         primitive.ObjectID `bson:"_id" json:"id"`
-		Test       int        `bson:"test" json:"test"`
-		Categoria  string     `bson:"categoria" json:"categoria"`
-		Temas      []int      `bson:"temas" json:"temas"`
-		Titulo     string     `bson:"titulo" json:"titulo,"`
-		Ord        int        `bson:"ord" json:"ord"`
-		Pregunta   string     `bson:"pregunta" json:"pregunta"`
-		Respuestas []string   `bson:"respuestas" json:"respuestas"`
-		Articulos  []Articulo `bson:"articulos" json:"articulos"`
-		Fecha      time.Time  `bson:"fecha" json:"fecha"`
-		Contador   int        `bson:"contador" json:"contador"`
-		Box        int        `bson:"box" json:"box"`
+		Test       int       `bson:"test" json:"test"`
+		Categoria  string    `bson:"categoria" json:"categoria"`
+		Temas      []int     `bson:"temas" json:"temas"`
+		Titulo     string    `bson:"titulo" json:"titulo,"`
+		Ord        int       `bson:"ord" json:"ord"`
+		Pregunta   string    `bson:"pregunta" json:"pregunta"`
+		Respuestas []string  `bson:"respuestas" json:"respuestas"`
+		Articulos  string    `bson:"articulos" json:"articulos"`
+		Fecha      time.Time `bson:"fecha" json:"fecha"`
+		Contador   int       `bson:"contador" json:"contador"`
+		Box        int       `bson:"box" json:"box"`
 	}
 )
 
