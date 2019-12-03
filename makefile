@@ -9,7 +9,7 @@ BINARY_UNIX=$(BINARY)_unix
 PLATFORMS := windows linux darwin
 os = $(word 1, $@)
 
-VERSION ?= $(shell git tag)
+VERSION ?= $(shell git describe master)
 VERSION ?= vlatest
 DATE=$(shell date "+(%d %B %Y)")
 
