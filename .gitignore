@@ -19,3 +19,4 @@ tools/mongo/data.db
 # tools/db/
 # tools/mongo/
 # tools/opo
+.env

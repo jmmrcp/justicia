@@ -7,6 +7,7 @@ require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/go-cmp v0.3.1 // indirect
+	github.com/joho/godotenv v1.3.0
 	github.com/jroimartin/gocui v0.4.0
 	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/mattn/go-runewidth v0.0.6 // indirect

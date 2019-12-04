@@ -21,10 +21,6 @@ var (
 	stages    = []time.Time{today, week, twoWeek, fourWeek}
 	// Filter object
 	Filter bson.D
-	/*
-		stageCero = bson.D{
-			stage(0), box(0),
-		}*/
 	// StageOne Box #1
 	StageOne = bson.D{
 		stage(1), box(1),
@@ -168,7 +164,7 @@ func Tema(tema int) bson.D {
 func Quick() ([][]string, error) {
 
 	//Open the db
-	db, err := config.GetAtlasDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}

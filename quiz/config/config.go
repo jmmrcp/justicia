@@ -2,7 +2,7 @@ package config
 
 import (
 	"context"
-	"time"
+	"os"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
@@ -20,33 +20,49 @@ type (
 		*mongo.Client
 		context.Context
 	}
+	// Config information
+	Config struct {
+		proto    string
+		user     string
+		password string
+		host     string
+		options  string
+		db       string
+	}
 )
 
-// GetMlabDB concecta a la base de datos en MLab
-func GetMlabDB() (*mongo.Database, error) {
-	// ctx := context.Background()
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-	client, err := mongo.NewClient(
-		options.Client().ApplyURI("mongodb://justicia:Ha11e_B3rr4@ds249127.mlab.com:49127/justicia"),
-	)
-	if err != nil {
-		return nil, err
+// New returns a new Config struct
+func New() *Config {
+	return &Config{
+		proto:    getEnv("PROTO", "mongodb"),
+		user:     getEnv("USERNAME", ""),
+		password: getEnv("PASSWORD", ""),
+		host:     getEnv("HOST", ""),
+		options:  getEnv("OPTIONS", ""),
+		db:       getEnv("DB", ""),
 	}
-	if err := client.Connect(ctx); err != nil {
-		return nil, err
+}
+
+// Simple helper function to read an environment or return a default value
+func getEnv(key string, defaultVal string) string {
+	if value, exists := os.LookupEnv(key); exists {
+		return value
 	}
-	db := client.Database("justicia")
-	return db, nil
+
+	return defaultVal
 }
 
 // GetMongoDB concecta a la base de datos en Mongo
 func GetMongoDB() (*DB, error) {
 	ctx := context.Background()
-	// ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	// defer cancel()
+	conf := New()
+	uri := conf.proto + "://" +
+		conf.user + ":" +
+		conf.password + "@" +
+		conf.host + "/" +
+		conf.options
 	client, err := mongo.NewClient(
-		options.Client().ApplyURI("mongodb://jmmrcpsip:SK0umjgZr0qxTS3b@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"),
+		options.Client().ApplyURI(uri),
 	)
 	if err != nil {
 		return nil, err
@@ -54,40 +70,6 @@ func GetMongoDB() (*DB, error) {
 	if err := client.Connect(ctx); err != nil {
 		return nil, err
 	}
-	db := client.Database("justicia")
-	return &DB{db, client, ctx}, nil
-}
-
-// GetCleverDB concecta a la base de datos en Mongo
-func GetCleverDB() (*mongo.Database, error) {
-	// ctx := context.Background()
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-	client, err := mongo.NewClient(
-		options.Client().ApplyURI("mongodb://u2mnmnnqwwiu6tr0ugs9:4uYFMYouheqLOLnCeipb@bhmydkfk8yl7h0i-mongodb.services.clever-cloud.com:27017/bhmydkfk8yl7h0i"),
-	)
-	if err != nil {
-		return nil, err
-	}
-	if err := client.Connect(ctx); err != nil {
-		return nil, err
-	}
-	db := client.Database("bhmydkfk8yl7h0i")
-	return db, nil
-}
-
-// GetAtlasDB concecta a la base de datos en Mongo
-func GetAtlasDB() (*DB, error) {
-	ctx := context.Background()
-	client, err := mongo.NewClient(
-		options.Client().ApplyURI("mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"),
-	)
-	if err != nil {
-		return nil, err
-	}
-	if err := client.Connect(ctx); err != nil {
-		return nil, err
-	}
-	db := client.Database("justicia")
+	db := client.Database(conf.db)
 	return &DB{db, client, ctx}, nil
 }

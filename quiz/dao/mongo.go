@@ -48,7 +48,7 @@ func Read(records [][]string, view, test, tema int, cat string) ([][]string, err
 	// categoty filter
 
 	//Open the db
-	db, err := config.GetAtlasDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return nil, err
 	}
@@ -90,7 +90,7 @@ func Read(records [][]string, view, test, tema int, cat string) ([][]string, err
 func Update(ids []string) error {
 
 	update := Correct
-	db, err := config.GetAtlasDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}
@@ -122,7 +122,7 @@ func Update(ids []string) error {
 // Unupdate Actualiza el contenido
 func Unupdate(ids []string) error {
 	update := Wrong
-	db, err := config.GetAtlasDB()
+	db, err := config.GetMongoDB()
 	if err != nil {
 		return err
 	}

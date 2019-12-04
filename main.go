@@ -10,6 +10,7 @@ import (
 	"os"
 	"strings"
 
+	"github.com/joho/godotenv"
 	"github.com/jroimartin/gocui"
 )
 
@@ -31,6 +32,11 @@ var (
 )
 
 func init() {
+	// loads values from .env into the system
+	if err := godotenv.Load(); err != nil {
+		log.Print("No .env file found")
+	}
+
 	const (
 		defaultTema  = 0
 		usageTema    = "Tema.\ndefault = none."
