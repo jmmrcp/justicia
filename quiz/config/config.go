@@ -54,19 +54,16 @@ func getEnv(key string, defaultVal string) string {
 
 // GetMongoDB concecta a la base de datos en Mongo
 func GetMongoDB() (*DB, error) {
-	ctx := context.Background()
 	conf := New()
-	uri := conf.proto + "://" +
-		conf.user + ":" +
-		conf.password + "@" +
-		conf.host + "/" +
-		conf.options
+	// mongoURI := fmt.Sprintf("%s://%s:%s@%s/%s", conf.proto, conf.user, conf.password, conf.host, conf.options)
+	mongoURI := "mongodb+srv://jmmrcpsip:SK0umjgZr0qxTS3b@justice-sbfoj.mongodb.net/test?retryWrites=true&w=majority"
 	client, err := mongo.NewClient(
-		options.Client().ApplyURI(uri),
+		options.Client().ApplyURI(mongoURI),
 	)
 	if err != nil {
 		return nil, err
 	}
+	ctx := context.Background()
 	if err := client.Connect(ctx); err != nil {
 		return nil, err
 	}

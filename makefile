@@ -18,7 +18,7 @@ DATE=$(shell date "+(%d %B %Y)")
 .PHONY: $(PLATFORMS)
 $(PLATFORMS):
 	mkdir -p release
-	GOOS=$(os) GOARCH=amd64 go build -o release/$(BINARY)-$(VERSION)-$(os)-amd64
+	GOOS=$(os) GOARCH=amd64 go build -o release/$(BINARY)-$(VERSION)-$(os)-amd64 -ldflags='-X "main.version=${VERSION}" -X "main.date=${DATE}"'
 
 .PHONY: release
 release: windows linux darwin
@@ -56,4 +56,6 @@ check_version:
 
 # Cross compilation
 build-linux:
-  CGO_ENABLED=0 GOOS=linux GOARCH=amd64 $(GOBUILD) -o $(BINARY_UNIX) -v
+  CGO_ENABLED=0 GOOS=linux GOARCH=amd64 $(GOBUILD) -ldflags='-X "main.version=${VERSION}" -X "main.date=${DATE}"' -o $(BINARY_UNIX) -v
+build-windows:
+	CGO_ENABLED=0 GOOS=windows GOARCH=386 $(GOBUILD) -ldflags='-X "main.version=${VERSION}" -X "main.date=${DATE}"' -o release/$(BINARY)-$(VERSION)-windows-386.exe -v
