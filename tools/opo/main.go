@@ -22,7 +22,7 @@ type (
 		ID         int `json:"id"`
 		Test       int
 		Categoria  string
-		Tema       string
+		Temas      string
 		Titulo     string
 		Norma      int    `json:"norma"`
 		Pregunta   string `json:"enunciado"`
@@ -31,7 +31,7 @@ type (
 		Respuesta3 string `json:"c"`
 		Respuesta4 string `json:"d"`
 		Correcta   string `json:"correcta"`
-		Articulo   string
+		Articulos  string
 		Ord        int
 		Fecha      time.Time
 		Cont       int
@@ -177,13 +177,13 @@ func main() {
 		preguntas[i].Pregunta = t[0]
 		preguntas[i].Test = test
 		preguntas[i].Categoria = categoria
-		preguntas[i].Tema = tema
+		preguntas[i].Temas = tema
 		preguntas[i].Titulo = titulo
 		if len(t) > 1 {
 			a := t[1]
 			b := len(a) - 1
 			c := a[:b]
-			preguntas[i].Articulo = "Art. " + c + " " + ley
+			preguntas[i].Articulos = "Art. " + c + " " + ley
 		}
 		contador++
 		preguntas[i].Ord = contador
@@ -217,7 +217,7 @@ func main() {
 
 		data := new(online.Mlab)
 
-		t := strings.Split(question.Tema, ",")
+		t := strings.Split(question.Temas, ",")
 		for _, v := range t {
 			te, _ := strconv.Atoi(v)
 			T = append(T, te)
@@ -225,7 +225,7 @@ func main() {
 		// data.ID = primitive.NewObjectID()
 		data.Test = question.Test
 		data.Categoria = question.Categoria
-		data.Tema = T
+		data.Temas = T
 		data.Titulo = question.Titulo
 		data.Ord = question.Ord
 		data.Pregunta = question.Pregunta
@@ -235,7 +235,7 @@ func main() {
 			question.Respuesta3,
 			question.Respuesta4,
 		}
-		data.Articulo = question.Articulo
+		data.Articulos = question.Articulos
 		data.Fecha = time.Now()
 		data.Box = question.Box
 

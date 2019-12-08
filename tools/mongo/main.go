@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"justicia.old/tools/mongo/models/lite"
-	"justicia.old/tools/mongo/models/online"
+	"justicia/tools/mongo/models/lite"
+	"justicia/tools/mongo/models/online"
 	"log"
 	"os"
 	"strconv"
