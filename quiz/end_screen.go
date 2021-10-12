@@ -1,3 +1,8 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
 package quiz
 
 import (
@@ -13,10 +18,10 @@ import (
 	"github.com/jroimartin/gocui"
 )
 
-// C Correct IDs
+// C is an array for Correct IDs
 var C []string
 
-// I Incorrect Ids
+// I is an array for Incorrect IDs
 var I []string
 
 //ESInit -- End Screen Initialization. Presents the results

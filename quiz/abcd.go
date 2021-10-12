@@ -1,3 +1,19 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
+/*
+package quiz implements many types of questions.
+
+Questions types
+
+	An ABCD questions.
+	A True or False questions.
+	A fill blank questions.
+
+Selection is automatic.
+*/
 package quiz
 
 import (
@@ -47,11 +63,10 @@ func ABCDInit(g *gocui.Gui, q *questions.Question, count string) (err error) {
 	if err := g.SetKeybinding("", gocui.KeyCtrlC, gocui.ModNone, gui.Quit); err != nil {
 		log.Panicln(err)
 	}
-
+	// BUG(jmmrcp): Do refracting
 	if err := g.SetKeybinding("", gocui.KeyTab, gocui.ModNone, gui.ABCDNextView); err != nil {
 		log.Panicln(err)
 	}
-
 	if err := g.SetKeybinding("", gocui.KeyEnter, gocui.ModNone, SelectAnswer); err != nil {
 		log.Panicln(err)
 	}

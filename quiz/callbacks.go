@@ -1,3 +1,8 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
 package quiz
 
 import (
@@ -9,10 +14,8 @@ import (
 	"github.com/jroimartin/gocui"
 )
 
-var (
-	//AnswersToBoxViews -- used to map the user selected box view to the actual answer
-	AnswersToBoxViews = map[string]*answers.Answer{}
-)
+//AnswersToBoxViews -- used to map the user selected box view to the actual answer
+var AnswersToBoxViews = map[string]*answers.Answer{}
 
 //FillInAnswer -- Callback used for the fill in the blank answers
 func FillInAnswer(g *gocui.Gui, v *gocui.View) error {

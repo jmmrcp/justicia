@@ -1,3 +1,8 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
 package config
 
 import (
@@ -20,6 +25,7 @@ type (
 		*mongo.Client
 		context.Context
 	}
+
 	// Config information
 	Config struct {
 		proto    string
@@ -44,6 +50,10 @@ func New() *Config {
 }
 
 // Simple helper function to read an environment or return a default value
+//
+// TODO: What's do it?
+//
+// getEnv read .env file.
 func getEnv(key string, defaultVal string) string {
 	if value, exists := os.LookupEnv(key); exists {
 		return value
@@ -52,21 +62,26 @@ func getEnv(key string, defaultVal string) string {
 	return defaultVal
 }
 
-// GetMongoDB concecta a la base de datos en Mongo
+// GetMongoDB conect DB.
 func GetMongoDB() (*DB, error) {
 	conf := New()
-	// mongoURI := fmt.Sprintf("%s://%s:%s@%s/%s", conf.proto, conf.user, conf.password, conf.host, conf.options)
 	mongoURI := "mongodb://1234567890:1234567890@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI(mongoURI),
 	)
+
+	// if not a pre-concection with DB return a Error.
 	if err != nil {
 		return nil, err
 	}
+
+	// if not conect return a Error
 	ctx := context.Background()
 	if err := client.Connect(ctx); err != nil {
 		return nil, err
 	}
+
+	// conect exist, return a conection
 	db := client.Database(conf.db)
 	return &DB{db, client, ctx}, nil
 }

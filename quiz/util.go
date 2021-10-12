@@ -1,3 +1,8 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
 package quiz
 
 import (
@@ -10,7 +15,7 @@ import (
 func FileArgs(files []string) (err error) {
 	//At least one file must exist
 	if len(files) == 0 {
-		return fmt.Errorf("No files were passed in")
+		return fmt.Errorf("no files were passed in")
 	}
 
 	//Make sure that each files exists

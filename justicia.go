@@ -1,3 +1,9 @@
+// Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file.
+
+// Package Justicia implements an APP for Justicia Course.
 package main
 
 import (
@@ -86,9 +92,13 @@ func main() {
 
 	//Get gui driver
 	g, err := gocui.NewGui(gocui.OutputNormal)
+
+	// comprueba que se ha creado la pantalla, si hay error lo deveulve.
 	if err != nil {
 		log.Panicln(err)
 	}
+
+	// Cuando termina cierra la conexion.
 	defer g.Close()
 
 	//Need to create questions
