@@ -56,7 +56,7 @@ func getEnv(key string, defaultVal string) string {
 func GetMongoDB() (*DB, error) {
 	conf := New()
 	// mongoURI := fmt.Sprintf("%s://%s:%s@%s/%s", conf.proto, conf.user, conf.password, conf.host, conf.options)
-	mongoURI := "mongodb://jmmrcpsip:SK0umjgZr0qxTS3b@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"
+	mongoURI := "mongodb://1234567890:1234567890@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI(mongoURI),
 	)
