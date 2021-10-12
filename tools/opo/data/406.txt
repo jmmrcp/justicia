@@ -1,0 +1,599 @@
+1) ¿Cuál de las siguientes NO es una entidad local territorial? (Art. 3)
+a) Municipio
+b) La Comarca
+c) La Isla en los archipiélagos balear y canario
+d) La Provincia
+
+2) ¿Cuál de las siguientes competencias NO corresponde en todo caso a los municipios, las provincias y las islas? (Art. 4)
+a) Las potestades reglamentaria y de autoorganización
+b) Las potestades tributaria y financiera
+c) La potestad de programación o planificación
+d) La potestad de revisión de parte de sus actos y acuerdos
+
+3) Las Entidades locales sirven con objetividad los intereses públicos que les están encomendados y actúan de acuerdo con los principios de... (Art. 6)
+a) Eficiencia, recentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho
+b) Eficacia, descentralización, desconcentración y cooperación, con sometimiento pleno a la ley y al Derecho
+c) Eficacia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho
+d) Eficacia, descentralización, desconcentración y avocación, con sometimiento pleno a la ley y al Derecho
+
+4) Las competencias propias de los Municipios, las Provincias, las Islas y demás Entidades Locales territoriales... (aRt. 7)
+a) Solo podrán ser determinadas por Ley
+b) Se ejercen en régimen de autonomía y bajo la propia responsabilidad
+c) Se atendenderá siempre a la debida coordinación en su programación y ejecución con las demás Administraciones Públicas
+d) Todas las respuestas son correctas
+
+5) Las Entidades Locales solo podrán ejercer competencias distintas de las propias y de las atribuidas por delegación cuando...(Indica la respuesta FALSA) (Art. 7)
+a) No se ponga en riesgo la sostenibilidad financiera del conjunto de la Hacienda municipal
+b) Se esté de acuerdo con los requerimientos de la legislación de estabilidad presupuestaria y sostenibilidad financiera
+c) No se incurra en un supuesto de ejecución simultánea del mismo servicio público con otra entidad u empresa con participación pública
+d) A este respecto, serán necesarios y vinculantes los informes previos de la Administración competente por razón de materia
+
+6) La Administración Local y las demás Administraciones públicas ajustarán sus relaciones recíprocas a los deberes de... (Art. 10)
+a) Información mutua, colaboración coordinación y respeto a los ámbitos competenciales respectivos
+b) Información recíproca, colaboración coordinación y respeto a los ámbitos competenciales respectivos
+c) Información alterna, colaboración coordinación y respeto a los ámbitos competenciales respectivos
+d) Información bilateral, colaboración coordinación y respeto a los ámbitos competenciales respectivos
+
+7) En especial, la coordinación de las Entidades Locales tendrá por objeto asegurar el cumplimiento de la legislación de... (Art. 10)
+a) Control del padrón y el registro poblacional
+b) Estabilidad presupuestaria y sostenibilidad financiera
+c) Servicios mínimos establecidos en la Ley
+d) Las cámaras autonómica y estatal
+
+8) Son elementos del Municipio...(Indica la respuesta FALSA) (Art. 11)
+a) El territorio
+b) La población
+c) La denominación
+d) La organización
+
+9) La creación o supresión de municipios, así como la alteración de términos municipales, se regularán por... (Art. 13)
+a) El reglamento constitutivo del municipio
+b) La normativa de las Provincias sobre régimen local
+c) La legislación de las Comunidades Autónomas sobre régimen local
+d) La legislación Estatal sobre régimen local
+
+10) La creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos... (Art. 13)
+a) 2.000 habitantes
+b) 3.000 habitantes
+c) 5.000 habitantes
+d) 10.000 habitantes
+
+11) Un nuevo municipio resultante de una fusión no podrá segregarse hasta transcurridos... (Art. 13)
+a) 5 años desde la adopción del convenio de fusión
+b) 8 años desde la adopción del convenio de fusión
+c) 10 años desde la adopción del convenio de fusión
+d) 15 años desde la adopción del convenio de fusión
+
+12) El convenio de fusión deberá ser aprobado por... (Art. 13)
+a) Mayoría simple de cada uno de los plenos de los municipios fusionados
+b) Mayoría absoluta de cada uno de los plenos de los municipios fusionados
+c) Mayoría de 3/5 de cada uno de los plenos de los municipios fusionados
+d) Mayoría de 2/3 de cada uno de los plenos de los municipios fusionados
+
+13) Los cambios de denominación de los Municipios solo tendrán carácter oficial cuando, tras haber sido anotados en un Registro creado por la Administración del Estado para la inscripción de todas las Entidades a que se refiere la presente Ley, se publiquen en el... (Art. 14)
+a) Bando municipal del munipio
+b) Boletín Oficial de la Provincia
+c) Boletín Oficial de la CA
+d) Boletín Oficial del Estado
+
+14) Indica la respuesta FALSA: (Art. 15)
+a) El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio
+b) Los inscritos en el Padrón municipal son los vecinos del municipio
+c) La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón
+d) Quien viva en varios municipios deberá inscribirse únicamente en el que habite el 1 de enero de cada año
+
+15) Cuando se trate de la inscripción en el Padrón Municipal  de extranjeros no comunitarios sin autorización de residencia permanente, deberá ser objeto de renovación periódica cada... (Art. 16)
+a) Año
+b) Dos años
+c) Tres años
+d) Cuatro años
+
+16) ¿Cuál de los siguientes datos NO será obligatorio para la inscripción en el Padrón municipal? (Art. 16)
+a) Sexo
+b) Nacionalidad
+c) Teléfono
+d) Número de documento nacional de identidad
+
+17) ¿Quién podrá asumir la gestión del Padrón municipal?  (Indica la respuesta FALSA) (Art. 17)
+a) Los Ayuntamientos con medios informáticos
+b) Las Diputaciones Provinciales
+c) Cabildos y Consejos insulares
+d) El Estado
+
+18) ¿A quién corresponderá la resolución de las discrepancias que, en materia de empadronamiento, surjan entre los Ayuntamientos, Diputaciones Provinciales, Cabildos y Consejos insulares? (Art. 17)
+a) Al Presidente de la Diputación en cuestión
+b) Al Presidente del Instituto Nacional de Estadística
+c) Al Consejero de Justicia de la CA en cuestión
+d) Al Ministro de Justicia
+
+19) NO es un derecho de los vecinos: (Art. 18)
+a) Contribuir mediante las prestaciones económicas y personales reglamentariamente previstas a la realización de las competencias municipales
+b) Utilizar, de acuerdo con su naturaleza, los servicios públicos municipales, y acceder a los aprovechamientos comunales, conforme a las normas aplicables
+c) Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral
+d) Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación a todos los expedientes y documentación municipal, de acuerdo con lo previsto en el artículo 105 de la Constitución
+
+20) La Junta de Gobierno Local existe en todos los municipios con población superior a... (Art. 20)
+a) 2.000 habitantes
+b) 5.000 habitantes
+c) 10.000 habitantes
+d) 20.000 habitantes
+
+21) NO existen en todos los ayuntamientos: (Art. 20)
+a) El Alcalde
+b) Los concejales
+c) Los Tenientes de Alcalde
+d) El Pleno
+
+22) ¿Cuál de las siguientes competencias NO corresponde al Alcalde? (Art. 21)
+a) Dirigir el gobierno y la administración municipal
+b) La iniciativa para proponer a la Diputación la declaración de lesividad en materias que afecten al territorio de la Provincia
+c) Dirigir, inspeccionar e impulsar los servicios y obras municipales
+d) Dictar bandos
+
+23) La Junta de Gobierno Local se integra por el Alcalde y un número de Concejales no superior ................. del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno (Art. 23)
+a) A la cuarta parte
+b) Al tercio
+c) A la mitad
+d) A las tres cuartas partes
+
+24) ¿Cuál de las siguientes competencias NO será ejercida como propia por los Municipios? (Art. 25)
+a) Policía local, protección civil, prevención y extinción de incendios
+b) Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano
+c) Información y promoción de la actividad turística de interés y ámbito regional
+d) Protección de la salubridad pública
+
+25) En todos los Municipios se deberán prestar los servicios de... (Art. 26)
+a) Alumbrado público y cementerio
+b) Recogida de residuos y limpieza viaria
+c) Abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas
+d) Todas son correctas
+
+26) En los Municipios con población superior a 5.000 habitantes e inferior a 20.000, NO será necesario prestar el servicio de... (Art. 26)
+a) Parque público
+b) Tratamiento de residuos
+c) Protección civil
+d) Biblioteca pública
+
+27) Indica el servicio que sólo se deberá prestar en los Municipios con población superior a 50.000 habitantes  de forma exclusiva... (Art. 26)
+a) Evaluación e información de situaciones de necesidad social
+b) Atención inmediata a personas en situación o riesgo de exclusión social
+c) Prevención y extinción de incendios
+d) Medio ambiente urbano
+
+28) El Estado y las CCAA podrán delegar competencias a los municipios, dicha delegación deberá determinar el alcance, contenido, condiciones y duración de ésta, que no podrá ser inferior a... (Art. 27)
+a) Dos años
+b) Cinco años
+c) Ocho años
+d) Diez años
+
+29) Funcionan en Concejo Abierto... (Art. 29)
+a) Los municipios que tradicional y voluntariamente cuenten con ese singular régimen de gobierno y administración
+b) Aquellos otros en los que por su localización geográfica lo hagan aconsejable
+c) La mejor gestión de los intereses municipales u otras circunstancias lo hagan aconsejable
+d) Todas son correctas
+
+30) La Provincia es una Entidad local determinada por la agrupación de Municipios, con personalidad jurídica... (Art. 31)
+a) Propia
+b) Plena
+c) Autónoma
+d) Singular
+
+31) NO corresponde en todo caso al Pleno, constituido por el Presidente y los Diputados: (Art. 33)
+a) La concertación de las operaciones de crédito cuya cuantía acumulada en el ejercicio económico exceda del 10 por 100 de los recursos ordinarios
+b) El ejercicio de acciones judiciales y administrativas y la defensa de la Corporación en materias de competencia plenaria
+c) La aprobación de los planes de carácter interprovincial
+d) El planteamiento de conflictos de competencias a otras Entidades locales y demás Administraciones públicas
+
+32) Corresponde en todo caso al Presidente de la Diputación: (Art. 34)
+a) Disponer gastos, dentro de los límites de su competencia, ordenar pagos y rendir cuentas
+b) Dirigir el gobierno y la administración del municipio
+c) Aprobar la oferta de empleo público de acuerdo con el Presupuesto y la plantilla aprobados por la comisión de personal
+d) Desempeñar la jefatura superior de todo el personal, y acordar su nombramiento y sanciones, incluida la separación del servicio de los contratados laborales de la Corporación
+
+33) La Diputación, en todo caso, garantizará la prestación de los servicios de secretaría e intervención en los municipios de menos de... (Art. 36)
+a) 500 habitantes
+b) 1.000 habitantes
+c) 2.000 habitantes
+d) 5.000 habitantes
+
+34) No podrá crearse la comarca si a ello se oponen expresamente las dos quintas partes de los Municipios que debieran agruparse en ella, siempre que, en este caso, tales Municipios representen al menos... (Art. 42)
+a) La mitad del censo electoral del territorio correspondiente
+b) Dos quintas partes del censo electoral del territorio correspondiente
+c) Un tercio del censo electoral del territorio correspondiente
+d) Un cuarto del censo electoral del territorio correspondiente
+
+35) Las entidades locales integradas por los Municipios de grandes aglomeraciones urbanas entre cuyos núcleos de población existan vinculaciones económicas y sociales que hagan necesaria la planificación conjunta y la coordinación de determinados servicios y obras, se denominan... (Art. 43)
+a) Comarcas
+b) Áreas metropolitanas
+c) Mancomunidades
+d) Provincias
+
+36) El procedimiento de aprobación de los estatutos de las mancomunidades se determinará por la legislación de las comunidades autónomas y se ajustará, en todo caso, a las siguientes reglas: (Indica la respuesta FALSA) (Art. 44)
+a) La elaboración corresponderá a los concejales de la totalidad de los municipios promotores de la mancomunidad, constituidos en asamblea
+b) La Diputación o Diputaciones provinciales interesadas emitirán informe sobre el proyecto de estatutos
+c) Los Plenos de todos los ayuntamientos aprueban los estatutos
+d) La reforma de dichos estatutos requiere mayoría de dos tercios del total
+
+37) El Pleno celebra sesión ordinaria como mínimo cada mes en los Ayuntamientos de municipios de más de... (Art. 46)
+a) 5.000 habitantes
+b) 10.000 habitantes
+c) 20.000 habitantes
+d) 50.000 habitantes
+
+38) Salvo las extraordinarias que lo hayan sido con carácter urgente, las sesiones plenarias han de convocarse, al menos, con... (Art. 46)
+a) Un día hábil de antelación
+b) Dos días hábiles de antelación
+c) Tres días hábiles de antelación
+d) Cinco días hábiles de antelación
+
+39) Se requiere el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones para la adopción de acuerdos en las siguientes materias: (Indica la respuesta FALSA) (Art. 47)
+a) Creación y supresión de municipios y alteración de términos municipales
+b) Aprobación de la delimitación del término municipal
+c) Alteración del nombre y de la capitalidad del municipio
+d) Cesión onerosa de bienes a otras Administraciones o instituciones públicas
+
+40) En los asuntos en que sea preceptivo el dictamen del Consejo de Estado, la correspondiente solicitud se cursará por conducto de... (Art. 48)
+a) El Presidente de la Comunidad Autónoma
+b) El Delegado del Gobierno
+c) El Alcalde
+d) El Presidente de la Diputación
+
+41) La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento: (Art. 49)
+a) Aprobación inicial por el Pleno
+b) Información pública y audiencia a los interesados por el plazo mínimo de treinta días para la presentación de reclamaciones y sugerencias
+c) Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno
+d) Todas son correctas
+
+42) Las cuestiones que se susciten entre municipios pertenecientes a distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por... (Art. 50)
+a) El Tribunal Supremo
+b) La Administración del Estado
+c) El Senado
+d) Una Comisión bilateral de las dos CCAA afectadas
+
+43) Como norma general, ponen fin a la vía administrativa las resoluciones de los siguientes órganos y autoridades: (Indica la respuesta FALSA) (Art. 52)
+a) Las del Pleno
+b) Los Tenientes de alcalde
+c) Los Alcaldes o Presidentes
+d) Las Juntas de Gobierno
+
+44) Para asegurar la colaboración entre la Administración del Estado y la Administración Local en materia de inversiones y de prestación de servicios, el Gobierno podrá crear en cada Comunidad Autónoma un/a... (Art. 58)
+a) Consorcio económico-administrativo
+b) Comité financiero-territorial
+c) Comisión Territorial de Administración Local
+d) Comisión Autonómica de inversión
+
+45) ¿Cuál será el plazo legal mínimo para que una entidad local cumpla con sus obligaciones legales, una vez dichas obligaciones han sido recordadas por la Administración del Estado o CCAA que poseen la competencia, antes de proceder a adoptar las medidas necesarias para el cumplimiento de la obligación a costa y en sustitución de la Entidad local? (Art. 60)
+a) 10 días hábiles
+b) Un mes
+c) Dos meses
+d) Tres meses
+
+46) ¿Quién podrá proceder, en todo caso, previo acuerdo favorable del Senado, mediante real decreto, a la disolución de los órganos de las corporaciones locales en el supuesto de gestión gravemente dañosa para los intereses generales que suponga incumplimiento de sus obligaciones constitucionales? (Art. 61)
+a) El Presidente del Gobierno
+b) El Consejo de Ministros
+c) El Consejo de Gobierno de la CA
+d) Los órganos de gobierno de la Federación Española de Municipios y Provincias
+
+47) Podrán impugnar los actos y acuerdos de las Entidades locales que incurran en infracción del ordenamiento jurídico: (Art. 63)
+a) La Administración del Estado y la de las Comunidades Autónomas, en los casos y términos previstos en la Ley
+b) Los miembros de las corporaciones que hubieran votado en contra de tales actos y acuerdos
+c) Las Entidades locales territoriales para la impugnación de las disposiciones y actos de la Administraciones del Estado y de las Comunidades Autónomas que lesionen su autonomía
+d) Todas son correctas
+
+48) Cuando la Administración del Estado o de las Comunidades Autónomas considere, en el ámbito de las respectivas competencias, que un acto o acuerdo de alguna Entidad local infringe el ordenamiento jurídico, podrá requerirla, invocando expresamente el presente artículo, para que anule dicho acto en el plazo máximo de... (Art. 65)
+a) Un mes
+b) Dos meses
+c) Tres meses
+d) Seis meses
+
+49) Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interés general de España, el Delegado del Gobierno, previo requerimiento para su anulación al Presidente de la Corporación efectuado dentro de los diez días siguientes al de la recepción de aquéllos, podrá... (Art. 67)
+a) Suspenderlos y adoptar las medidas pertinentes para la protección de dicho interés
+b) Anularlos y adoptar las medidas pertinentes para la protección de dicho interés
+c) Revocarlos y adoptar las medidas pertinentes para la protección de dicho interés
+d) Derogarlos y adoptar las medidas pertinentes para la protección de dicho interés
+
+50) Cualquier vecino que se hallare en pleno goce de sus derechos civiles y políticos podrá requerir el ejercicio  de las acciones necesarias para la defensa de los bienes y derechos de la Entidad local interesada. Este requerimiento, suspenderá el plazo para el ejercicio de las mismas por un término de... (Art. 68)
+a) Diez días hábiles
+b) Veinte días hábiles
+c) Treinta días hábiles
+d) Cuarenta días hábiles
+
+51) Las sesiones del Pleno de las Corporaciones locales son públicas. No obstante, podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos a que se refiere el artículo 18.1 de la Constitución, cuando así se acuerde por... (Art. 70)
+a) Mayoría de dos tercios
+b) Mayoría simple
+c) Mayoría absoluta
+d) Todas son falsas
+
+52) Las iniciativas populares, relativas a propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal, deberán ir suscritas al menos por el siguiente porcentaje de vecinos en el municipio de hasta 5.000 habitantes: (Art. 70 bis)
+a) El 10 por ciento
+b) El 20 por ciento
+c) El 30 por ciento
+d) El 40 por ciento
+
+53) Los miembros de las Corporaciones locales quedan en situación de servicios especiales en los siguientes supuestos: (Art. 74)
+a) Cuando sean funcionarios de la propia Corporación para la que han sido elegidos
+b) Cuando sean funcionarios de carrera de otras Administraciones públicas y desempeñen en la Corporación para la que han sido elegidos un cargo retribuido y de dedicación exclusiva
+c) Cuando sean funcionarios interinos de otras Administraciones públicas y desempeñen en la Corporación para la que han sido elegidos un cargo retribuido y de dedicación exclusiva
+d) Las respuestas 1ª y 2ª son correctas
+
+54) Los acuerdos plenarios referentes a retribuciones de los cargos con dedicación exclusiva y parcial y régimen de dedicación de estos últimos, indemnizaciones y asistencias, así como los acuerdos del Presidente de la Corporación determinando los miembros de la misma que realizarán sus funciones en régimen de dedicación exclusiva o parcial, deberán publicarse íntegramente en... (Art. 75)
+a) El Boletín Oficial de la Provincia
+b) El Boletín Oficial de la CA
+c) El Boletín Oficial del Estado
+d) El Boletín Oficial de la Provincia y fijarse en el tablón de anuncios de la Corporación
+
+55) Las declaraciones de bienes y actividades de los representantes locales, así como de los miembros no electos de la Junta de Gobierno Local,  serán publicadas, y en todo caso, en los términos que fije el Estatuto municipal con carácter... (Art. 75)
+a) Semestral
+b) Anual
+c) Bianual
+d) Cada cuatro años
+
+56) Las declaraciones de los bienes patrimoniales de los concejales y de la participación en sociedades de todo tipo, con información de las sociedades por ellas participadas y de las liquidaciones de los impuestos sobre la Renta, Patrimonio y, en su caso, Sociedades, efectuadas en los modelos aprobados por los plenos respectivos, se llevarán a cabo...(Indica la respuesta FALSA) (Art. 75)
+a) Antes de la toma de posesión
+b) Con ocasión del cese y al final del mandato
+c) Cuando lo requiera la mayoría absoluta del Pleno
+d) Cuando se modifiquen las circunstancias de hecho
+
+57) El límite máximo total que pueden percibir los miembros de las Corporaciones Locales por todos los conceptos retributivos y asistencias, excluidos los trienios a los que en su caso tengan derecho aquellos funcionarios de carrera que se encuentren en situación de servicios especiales, para poblaciones de más de 500.000 habitantes será... (Art. 75 bis)
+a) La de un Secretario de Estado
+b) La de un Secretario de Estado -10%
+c) La de un Secretario de Estado -20%
+d) La de un Secretario de Estado -25%
+
+58) En los Ayuntamientos de Municipios con población comprendida entre 2.001 y 3.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de... (Art. 75 ter)
+a) 1
+b) 2
+c) 3
+d) 4
+
+59) En los Ayuntamientos de Municipios de Madrid y Barcelona, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederán, respectivamente, de... (Art. 75 ter)
+a) 40 y 30
+b) 42 y 40
+c) 45 y 32
+d) 50 y 40
+
+60) La actuación de los miembros en que concurran las causas de incompatibilidad establecidas por la Ley  implicará, cuando haya sido determinante, la... (Art. 76)
+a) Invalidez de los actos en que hayan intervenido
+b) Anulabilidad de los actos en que hayan intervenido
+c) Nulidad de los actos en que hayan intervenido
+d) Ineficacia de los actos en que hayan intervenido
+
+61) La solicitud de ejercicio del derecho a obtener del Alcalde o Presidente o de la Junta de Gobierno Local cuantos antecedentes, datos o informaciones obren en poder de los servicios de la Corporación y resulten precisos para el desarrollo de su función, habrá de ser resuelta motivadamente en los... (Art. 77)
+a) Cinco días naturales siguientes a aquél en que se hubiese presentado
+b) Cinco días hábiles siguientes a aquél en que se hubiese presentado
+c) Diez días naturales siguientes a aquél en que se hubiese presentado
+d) Diez días hábiles siguientes a aquél en que se hubiese presentado
+
+62) Los bienes comunales y demás bienes de dominio público son...(Indica la respuesta FALSA) (Art. 80)
+a) Inalienables
+b) Imprescriptibles
+c) Inembargables
+d) Están sujetos a los tributos municipales
+
+63) La alteración de la calificación jurídica de los bienes de las Entidades locales se produce automáticamente en el supuesto de adscripción de bienes patrimoniales por más de... (Art. 81)
+a) Veinticinco años a un uso o servicio públicos
+b) Treinta años a un uso o servicio públicos
+c) Cuarenta años a un uso o servicio públicos
+d) Cincuenta años a un uso o servicio públicos
+
+64) Las Entidades locales gozan, respecto de sus bienes, de la prerrogativa de recuperar por sí mismas su posesión en cualquier momento cuando se trate de los de dominio público, y los patrimoniales, en el plazo de... (Art. 82)
+a) Seis meses
+b) Un año
+c) Dos años
+d) Tres años
+
+65) Los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas a continuación: (Indica la respuesta FALSA) (Art. 85)
+a) Gestión por la propia Entidad Local
+b) Organismo autónomo local
+c) Entidad pública empresarial local
+d) Sociedad mercantil local, cuyo capital social sea de titularidad privada
+
+66) Los estatutos de los organismos autónomos locales y de las entidades públicas empresariales locales NO COMPRENDERÁN el siguiente extremo: (Art. 85 bis)
+a) Las funciones y competencias del organismo, con indicación de las potestades administrativas generales que éste puede ejercitar
+b) El régimen presupuestario, económico-social, de contabilidad, de intervención, control fiscal y control de eficiencia, que serán, en todo caso, conformes con los Presupuestos Generales del Estado
+c) El patrimonio que se les asigne para el cumplimiento de sus fines y los recursos económicos que hayan de financiar el organismo
+d) El régimen relativo a recursos humanos, patrimonio y contratación
+
+67) Las sociedades mercantiles locales se regirán íntegramente, cualquiera que sea su forma jurídica, por el ordenamiento jurídico privado, salvo las materias en que les sea de aplicación la normativa...(Indica la respuesta FALSA)(Art. 85 ter)
+a) Presupuestaria
+b) De control financiero
+c) Concursal
+d) De control de eficacia y contratación
+
+68) El personal al servicio de las Entidades locales NO estará integrado por... (Art. 89)
+a) Funcionarios de carrera
+b) Contratados en régimen de derecho laboral
+c) Contratados interinos temporales
+d) Personal eventual que desempeña puestos de confianza o asesoramiento especial
+
+69) La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de...(Indica la respuesta FALSA) (Art. 91)
+a) Libre designación
+b) Concurso
+c) Oposición
+d) Concurso-oposición libre
+
+70) Son funciones públicas necesarias en todas las Corporaciones locales, cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional: (Art. 92)
+a) La de Secretaría
+b) Intervención-caja
+c) Portavocía
+d) Secretaría-pagaduría
+
+71) En el concurso, los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un ... (Art. 99)
+a) 10%
+b) 20%
+c) 25%
+d) 30%
+
+72) Es un órgano competente para la imposición de sanciones disciplinarias a los funcionarios de administración local con habilitación de carácter nacional el siguiente: (Art. 92)
+a) El Ministro de Presidencia, cuando la sanción que recaiga sea por falta muy grave, tipificada en la normativa básica estatal
+b) La Comunidad Autónoma, cuando se trate de imponer sanciones de suspensión de funciones y destitución, cuando la sanción que recaiga sea por falta grave, tipificada en la normativa básica estatal
+c) El órgano local competente, cuando se trate de imponer sanciones por faltas leves
+d) El órgano local competente, cuando se trate de imponer sanciones por faltas graves
+
+73) ¿Quién desarrollará cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las Entidades locales? (Art. 96)
+a) El Instituto Nacional de la Administración Pública
+b) El Instituto de Estudios de Administración Local
+c) Centro Nacional de Estudios para la Función Pública
+d) Los Centros Autonómicos de Formación para la Administración Local
+
+74) ¿A quién corresponde , establecer reglamentariamente las reglas básicas y los programas mínimos a que debe ajustarse el procedimiento de selección y formación de los funcionarios locales? (Art. 99)
+a) La Administración del Estado
+b) El Gobierno Autonómico
+c) El Pleno Municipal
+d) Todas son falsas
+
+75) ¿De quién es competencia  la selección de los funcionarios de la administración local con la excepción de los funcionarios con habilitación de carácter nacional? (Art. 100)
+a) Del Estado
+b) De las CCAA
+c) De las Diputaciones
+d) De cada Corporación local
+
+76) Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en... (Art. 103 bis)
+a) El Presupuesto anual de la Corporación local
+b) Las directrices económicas emitidas anualmente por la Diputación Provincial
+c) La Ley de Presupuestos de la CA correspondiente
+d) La correspondiente Ley de Presupuestos Generales del Estado
+
+77) ¿Cuantos puestos de trabajo de personal eventual como máximo podrán incluir  en sus plantillas los Ayuntamientos de Municipios con población superior a 10.000 y no superior a 20.000 habitantes? (Art. 104 bis)
+a) 2
+b) 3
+c) 4
+d) 5
+
+78) Las Corporaciones locales publicarán ........................... en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual (Art. 104)
+a) Trimestralmente
+b) Semestralmente
+c) Anualmente
+d) Cada cuatro años
+
+79) Las Haciendas locales se nutren... (Art. 105)
+a) De tributos propios
+b) De las participaciones reconocidas en los del Estado y en los de las Comunidades Autónomas
+c) De aquellos otros recursos que prevea la Ley
+d) Todas son correctas
+
+80) NO es competencia de las Entidades locales respecto de sus tributos propios... (Art. 106)
+a) La gestión
+b) Confiscación
+c) Recaudación
+d) Inspección
+
+81) La aprobación definitiva del presupuesto por el Pleno de la Corporación habrá de realizarse antes del... (Art. 112)
+a) 31 de septiembre del año anterior al del ejercicio en que deba aplicarse
+b) 31 de octubre del año anterior al del ejercicio en que deba aplicarse
+c) 31 de noviembre del año anterior al del ejercicio en que deba aplicarse
+d) 31 de diciembre del año anterior al del ejercicio en que deba aplicarse
+
+82) Según el art. 113 LBRL Contra los actos que pongan fin a las reclamaciones formuladas en relación con los acuerdos de las Corporaciones en materia de presupuestos, imposición, aplicación y efectividad de tributos o aprobación y modificación de Ordenanzas fiscales, los interesados podrán interponer directamente el recurso.
+a) Contencioso-administrativo
+b) De reposición
+c) De Alzada
+d) Económico-administrativo
+
+83) La fiscalización externa de las cuentas y de la gestión económica de las Entidades locales corresponde a... (Art. 115)
+a) La intervención
+b) La tesorería
+c) La Consejería de Hacienda
+d) El Tribunal de Cuentas
+
+84) Las cuentas anuales se someterán a informe de la Comisión Especial de Cuentas de la Entidad local  antes del... (Art. 116)
+a) 1 de junio
+b) 1 de julio
+c) 1 de agosto
+d) 1 de septiembre
+
+85) Todas las Entidades Locales calcularán antes del día .................. de cada año el coste efectivo de los servicios que prestan, partiendo de los datos contenidos en la liquidación del presupuesto general y, en su caso, de las cuentas anuales aprobadas de las entidades vinculadas o dependientes, correspondiente al ejercicio inmediato anterior (Art. 116 ter)
+a) 1 de septiembre
+b) 1 de noviembre
+c) 1 de octubre
+d) 1 de diciembre
+
+86) NO se considerará municipio de gran población: (Art. 121)
+a) A los municipios cuya población supere los 250.000 habitantes
+b) A los municipios capitales de provincia cuya población sea superior a los 175.000 habitantes
+c) A los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas
+d) A los municipios cuya población supere los 50.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales
+
+87) Corresponderá al secretario general del Pleno, que lo será también de las comisiones, las siguientes funciones: (Indica la respuesta FALSA) (Art. 122)
+a) La redacción y custodia de las actas, así como la supervisión y autorización de las mismas, con el visto bueno del Presidente del Pleno
+b) La expedición, con el visto bueno del Presidente del Pleno, de las certificaciones de los actos y acuerdos que se adopten
+c) El asesoramiento legal al Pleno y a las comisiones
+d) La comunicación, publicación y ejecución de las deliberaciones plenarias
+
+88) Corresponden al Pleno las siguientes atribuciones: (Art. 123)
+a) El control y la fiscalización de los órganos de gobierno
+b) La votación de la moción de censura al Alcalde y de la cuestión de confianza planteada por éste, que será pública y se realizará mediante llamamiento nominal en todo caso y se regirá en todos sus aspectos por lo dispuesto en la legislación electoral general
+c) La aprobación y modificación de los reglamentos de naturaleza orgánica
+d) Todas las respuestas son correctas
+
+89) Indica la respuesta FALSA en relación a la figura del Alcalde: (Art. 124)
+a) El Alcalde ostenta la máxima representación del municipio
+b) El Alcalde es responsable de su gestión política ante el Pleno
+c) El Alcalde tendrá el tratamiento de Honorable
+d) El alcalde tiene la función de representar al ayuntamiento
+
+90) NO es función del Alcalde: (Art. 124)
+a) Establecer directrices generales de la acción de gobierno municipal y asegurar su continuidad
+b) Convocar y presidir las sesiones del Pleno y las de la Junta de Gobierno Local y decidir los empates con voto de calidad
+c) Dictar bandos, reales decretos e instrucciones
+d) Las facultades de revisión de oficio de sus propios actos
+
+91) Los Tenientes de Alcalde tendrán el tratamiento de... (Art. 125)
+a) Excelencia
+b) Ilustrísima
+c) Vuecencia
+d) Honorable
+
+92) Corresponde a la Junta de Gobierno Local: (Indica la respuesta FALSA) (Art. 127)
+a) La aprobación de los proyectos de ordenanzas y de los reglamentos, excluidos los orgánicos y las normas reguladoras del Pleno y sus comisiones
+b) La aprobación del proyecto de presupuesto
+c) La aprobación de los proyectos de instrumentos de ordenación urbanística cuya aprobación definitiva o provisional corresponda al Pleno
+d) Las aprobaciones de los instrumentos de planeamiento de desarrollo del planeamiento general no atribuidas expresamente al Pleno, así como de los instrumentos de gestión urbanística y de los proyectos de urbanización
+
+93) La creación de los distritos y su regulación en los ayuntamientos de gran población corresponde a... (Art. 128)
+a) El Alcalde
+b) La Junta de Gobierno Local
+c) Pleno de la Corporación
+d) Ninguna es correcta
+
+94) NO son órganos directivos del Ayuntamiento de gran población: (Art. 130)
+a) Los coordinadores generales de cada área o concejalía
+b) El Secretario general del Pleno
+c) Los miembros de la Junta de Gobierno Local
+d) El titular de la asesoría jurídica
+
+95) NO corresponderán al órgano de gestión tributaria en los ayuntamientos de gran población, al menos, las siguientes competencias: (Art. 135)
+a) La gestión, liquidación, inspección, recaudación y revisión de los actos tributarios municipales
+b) La recaudación en período ejecutivo de los demás ingresos de derecho público del ayuntamiento
+c) La tramitación y resolución de los expedientes sancionadores tributarios relativos a los tributos cuya competencia gestora tenga atribuida
+d) El análisis y diseño de la política individual de gastos privados en lo relativo al sistema tributario municipal
+
+96) En el seno de la Conferencia sectorial para asuntos locales, existirá una Conferencia de ciudades de la que formarán parte: (Indica la respuesta FALSA) (Art. 138)
+a) La Administración General del Estado
+b) Las comunidades autónomas
+c) Los presidentes de las Diputaciones Provinciales
+d) Los alcaldes de los municipios de gran población
+
+97) ¿Cuál de las siguientes infracciones NO será calificada como muy grave? (Art. 140)
+a) El impedimento del uso de un servicio público por otra u otras personas con derecho a su utilización
+b) El impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público
+c) Los actos de deterioro de espacios públicos o de cualquiera de sus instalaciones y elementos, sean muebles o inmuebles, derivados de alteraciones de la seguridad ciudadana
+d) El impedimento del uso de un espacio público por otra u otras personas con derecho a su utilización
+
+98) Las infracciones se clasificarán en graves y leves, de acuerdo con los siguientes criterios: (Indica la respuesta FALSA) (Art. 140)
+a) La intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas o actividades
+b) La intensidad de la perturbación causada a la opinión o reputación públicos
+c) La intensidad de la perturbación ocasionada en el uso de un servicio o de un espacio público por parte de las personas con derecho a utilizarlos
+d) La intensidad de la perturbación ocasionada en el normal funcionamiento de un servicio público
+
+99) Salvo previsión legal distinta, las multas por infracciones muy graves de Ordenanzas locales tendrán un límite de... (Art. 141)
+a) Hasta 2.000 euros
+b) Hasta 3.000 euros
+c) Hasta 5.000 euros
+d) Hasta 10.000 euros
+
+100) Salvo previsión legal distinta, las multas por infracciones leves de Ordenanzas locales tendrán un límite de... (Art. 141)
+a) Hasta 300 euros
+b) Hasta 500 euros
+c) Hasta 750 euros
+d) Hasta 1.000 euros

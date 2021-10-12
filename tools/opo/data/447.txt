@@ -1,0 +1,900 @@
+1) ¿Cuál de las siguientes es la Ley de Régimen Jurídico del Sector Público?
+a) Ley 40/2015, de 1 de octubre
+b) Ley 39/2015, de 1 de octubre
+c) Ley 38/2015, de 1 de octubre
+d) Ley 41/2015, de 1 de octubre
+
+2) La Ley de Régimen Jurídico del Sector Público regula... (Indica la respuesta FALSA) (Art. 1)
+a) El régimen jurídico de las Administraciones Públicas
+b) Los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora
+c) La organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades
+d) El procedimiento administrativo común a todas las Administraciones Públicas
+
+3) La Ley de Régimen Jurídico del Sector Público regula... (Art. 1)
+a) Los requisitos de validez y eficacia de los actos administrativos
+b) Los principios de la potestad sancionadora de las Administraciones Públicas
+c) Los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria
+d) Todas son correctas
+
+4) La presente Ley se aplica al sector público que comprende: (Indica la respuesta FALSA) (Art. 2)
+a) La Administración General del Estado
+b) Las Administraciones de las Comunidades Autónomas
+c) Las Entidades que integran la Administración Local
+d) El sector público empresarial
+
+5) El sector público institucional se integra por: (Indica la respuesta FALSA) (Art. 2)
+a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas
+b) Las Administraciones de las Comunidades Autónomas
+c) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas y en todo caso, cuando ejerzan potestades administrativas
+d) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley
+
+6) Tienen la consideración de Administraciones Públicas... (Art. 2)
+a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas
+b) las Administraciones de las Comunidades Autónomas
+c) las Entidades que integran la Administración Local
+d) Todas son correctas
+
+7) Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de... (Indica la respuesta FALSA) (Art. 3)
+a) Eficacia
+b) Jerarquía
+c) Disponibilidad
+d) Descentralización
+
+8) Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de... (Indica la respuesta FALSA) (Art. 3)
+a) Desconcentración
+b) Coordinación
+c) Intervención mínima
+d) Sometimiento pleno a la Constitución, a la Ley y al Derecho
+
+9) Las AAPP deberán respetar en su actuación y relaciones los siguientes principios: (Indica la respuesta FALSA) (Art. 3)
+a) Servicio efectivo a los españoles
+b) Simplicidad, claridad y proximidad a los ciudadanos
+c) Participación, objetividad y transparencia de la actuación administrativa
+d) Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión
+
+10) Las AAPP deberán respetar en su actuación y relaciones los siguientes principios: (Indica la respuesta FALSA) (Art. 3)
+a) Buena fe, confianza legítima y lealtad institucional
+b) Responsabilidad por la gestión pública
+c) Planificación y dirección por objetivos y control de la gestión y evaluación de los resultados de las políticas privadas
+d) Eficacia en el cumplimiento de los objetivos fijados
+
+11) Las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos públicos y entidades vinculados o dependientes a través de medios electrónicos, que... (Art. 3)
+a) Aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas
+b) Garantizarán la protección de los datos de carácter personal
+c) Facilitarán preferentemente la prestación conjunta de servicios a los interesados
+d) Todas son correctas
+
+12) Cada una de las Administraciones Públicas que comprenden el sector público actúa para el cumplimiento de sus fines con personalidad jurídica... (Art. 3)
+a) Única
+b) Propia
+c) Individual
+d) Exclusiva
+
+13) Las Administraciones Públicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán aplicar el principio de... (Art. 4)
+a) Irretroactividad
+b) Proporcionalidad
+c) Onerosidad
+d) Disponibilidad
+
+14) Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter... (Art. 5)
+a) Preceptivo
+b) Vinculante
+c) Facultativo
+d) Opcional
+
+15) ¿A quién corresponde delimitar las unidades administrativas que configuran los órganos administrativos propios de las especialidades derivadas de su organización? (Art. 5)
+a) A las leyes que conforman la estructura de las AAPP
+b) A los reglamentos de funcionamiento del Ministerio de AAPP
+c) A cada Administración Pública
+d) A los funcionarios que integran cada AAPP
+
+16) La creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de los siguientes requisitos: (Indica la respuesta FALSA) (Art. 5)
+a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica
+b) Delimitación de sus funciones y competencias
+c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento
+d) Nombramiento del cuerpo de funcionarios que van a actuar y representar a dicho órgano administrativo
+
+17) ¿Podrán crearse nuevos órganos que supongan duplicación de otros ya existentes? (Art. 5)
+a) Sí
+b) No, en ningún caso
+c) Sí, si al mismo tiempo se suprime o restringe debidamente la competencia de estos
+d) Sí, si existe dotación presupuestaria para ello
+
+18) Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante... (Art. 6)
+a) Instrucciones
+b) Órdenes de servicio
+c) Mandatos
+d) Son correctas las respuestas 1ª y 2ª
+
+19) El incumplimiento de las instrucciones u órdenes de servicio, ¿Afecta por sí solo a la validez de los actos dictados por los órganos administrativos? (Art. 6)
+a) No, como norma general
+b) Sí, con alguna excepción
+c) No, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir
+d) Sí, en cualquier caso
+
+20) La .................... podrá articularse mediante órganos específicos dotados de autonomía orgánica y funcional con respecto a la Administración activa, o a través de los servicios de esta última que prestan asistencia jurídica (Art. 7)
+a) Administración consultiva
+b) Administración punitiva
+c) Administración resolutiva
+d) Administración pasiva
+
+21) Salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en ésta u otras leyes, la competencia es ................. y se ejercerá por los órganos administrativos que la tengan atribuida como propia  (Art. 8)
+a) Traspasable
+b) Irrenunciable
+c) Cedible
+d) Refusable
+
+22) No suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén... (Indica la respuesta FALSA) (Art. 8)
+a) La delegación de competencias
+b) Las encomiendas de gestión
+c) La delegación de comparecencia
+d) La suplencia
+
+23) Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de... (Art. 8)
+a) La materia y del territorio
+b) El territorio y distribución
+c) La materia y la jerarquía
+d) El territorio y disciplina
+
+24) En el ámbito de la Administración General del Estado, la delegación de competencias deberá ser aprobada previamente por... (Art. 9)
+a) El órgano ministerial de quien dependa el órgano delegante
+b) El portavoz ministerial de quien dependa el órgano delegante
+c) El órgano ministerial de quien gobierne al órgano delegante
+d) El órgano ministerial de quien dependa el órgano delegado
+
+25) En ningún caso podrán ser objeto de delegación las competencias relativas a: (Indica la respuesta FALSA) (Art. 9)
+a) Los asuntos que se refieran a relaciones con la Jefatura del Estado, la Presidencia del Gobierno de la Nación, las Cortes Generales, las Presidencias de los Consejos de Gobierno de las Comunidades Autónomas y las Asambleas Legislativas de las Comunidades Autónomas
+b) La adopción de disposiciones de carácter particular
+c) La resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso
+d) Las materias en que así se determine por norma con rango de Ley
+
+26) Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por... (Art. 9)
+a) Avocación
+b) Encomienda de gestión
+c) Delegación
+d) Mandato
+
+27) La delegación será revocable  por el órgano que la haya conferido... (Art. 9)
+a) Si esta no interrumpe un procedimiento activo
+b) Una vez finalizados los procedimientos abiertos
+c) Otorgando un mes de plazo para efectuar la transición
+d) En cualquier momento
+
+28) Los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando lo hagan conveniente circunstancias de índole... (Indica la respuesta FALSA) (Art. 10)
+a) Técnica
+b) Económica
+c) Cultural
+d) Jurídica
+
+29) En todo caso, la avocación se realizará mediante... (Art. 10)
+a) Resolución expresa
+b) Acuerdo motivado
+c) Dictamen manifiesto
+d) Fallo patente
+
+30) Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la...  (Art. 11)
+a) Legislación de subvenciones del sector público
+b) Legislación de contratos del sector público
+c) Legislación civil del sector público
+d) Legislación mercantil del sector público
+
+31) Cuando la encomienda de gestión se realice entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante firma del correspondiente... (Art. 11)
+a) Convenio entre ellas
+b) Acuerdo entre ellas
+c) Compromiso entre ellas
+d) Concierto entre ellas
+
+32) Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que... (Art. 12)
+a) Dependan de otros
+b) Dependan de un superior jerárquico
+c) Dependan de ellos
+d) Dependan de un inferior jerárquico
+
+33) La delegación de firma no alterará la competencia del órgano delegante y para su validez... (Art. 12)
+a) Será necesaria su difusión
+b) Será necesaria su convalidación por el titular ministerial
+c) Será necesaria su publicidad
+d) No será necesaria su publicación
+
+34) En la forma que disponga cada Administración Pública, los titulares de los órganos administrativos podrán ser suplidos temporalmente en los supuestos de...  (Indica la respuesta FALSA) (Art. 13)
+a) Comisión de servicios
+b) Vacante
+c) Ausencia
+d) Enfermedad
+
+35) En las resoluciones y actos que se dicten mediante suplencia... (Art. 13)
+a) Se hará constar esta circunstancia
+b) Se especificará el titular del órgano en cuya suplencia se adoptan
+c) Se especificará quien efectivamente está ejerciendo esta suplencia
+d) Todas son correctas
+
+36) Los conflictos de atribuciones sólo podrán suscitarse... (Art. 14)
+a) Entre órganos de una misma Administración no relacionados jerárquicamente
+b) Respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo
+c) En relación a asuntos de carácter procedimental
+d) Son correctas las respuestas 1ª y 2ª
+
+37) Los órganos colegiados de las distintas Administraciones Públicas en que participen organizaciones representativas de intereses sociales, así como aquellos compuestos por representaciones de distintas Administraciones Públicas, cuenten o no con participación de organizaciones representativas de intereses sociales... (Art. 15)
+a) Podrán establecer o completar sus propias normas de funcionamiento
+b) Deberán ceñirse al régimen al régimen de funcionamiento interno reglamentario
+c) Deberán establecer sus propias normas de funcionamiento
+d) Todas son falsas
+
+38) El acuerdo de creación y las normas de funcionamiento de los órganos colegiados que dicten resoluciones que tengan efectos jurídicos frente a terceros deberán ser publicados en el... (Art. 15)
+a) Boletín Oficial del Estado
+b) Boletín Oficial de la CA
+c) Boletín Oficial de la Provincia
+d) Boletín o Diario Oficial de la Administración Pública en que se integran
+
+39) Corresponderá al Secretario de los órganos colegiados de las AAPP... (Art. 16)
+a) Velar por la legalidad formal y material de las actuaciones del órgano colegiado
+b) Certificar las actuaciones del mismo
+c) Garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas
+d) Todas son correctas
+
+40) Salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario, todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas...  (Art. 17)
+a) De forma presencial
+b) A distancia
+c) En ausencia de sus miembros
+d) Son correctas las respuestas 1ª y 2ª
+
+41) Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de . (Art. 17)
+a) La mayoría simple
+b) La mitad, al menos, de sus miembros
+c) Una mayoría de de tres quintas partes de sus miembros
+d) Una mayoría de de dos tercios de sus miembros
+
+42) No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de... (Art. 17)
+a) La mayoría
+b) La mayoría absoluta de sus miembros
+c) Una mayoría de tres quintas partes de sus miembros
+d) Una mayoría de dos terceras partes de sus miembros
+
+43) De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente... (Indica la respuesta FALSA) (Art. 18)
+a) Los asistentes y el orden del día de la reunión,
+b) Las circunstancias del lugar y tiempo en que se ha celebrado
+c) Los puntos principales de las deliberaciones
+d) El contenido de los acuerdos rechazados
+
+44) Corresponderá al Presidente del órgano colegiado: (Indica la respuesta FALSA) (Art. 19)
+a) Ostentar la representación del órgano
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros, siempre que hayan sido formuladas durante la sesión
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas
+d) Visar las actas y certificaciones de los acuerdos del órgano
+
+45) Los miembros del órgano colegiado deberán: (Indica la respuesta FALSA) (Art. 19)
+a) Presidir los debates de las sesiones
+b) Participar en los debates de las sesiones
+c) Obtener la información precisa para cumplir las funciones asignadas
+d) Recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros en igual plazo
+
+46) La constitución de un órgano colegiado en la Administración General del Estado y en sus Organismos públicos tiene como presupuesto indispensable la determinación en su norma de creación o en el convenio con otras Administraciones Públicas por el que dicho órgano se cree, de los siguientes extremos: (Art. 20)
+a) Sus fines u objetivos
+b) Su integración administrativa o dependencia jerárquica
+c) La composición y los criterios para la designación de su Presidente y de los restantes miembros
+d) Todas son correctas
+
+47) Los órganos colegiados de la Administración General del Estado y de sus Organismos públicos, por su composición, se clasifican en: (Art. 21)
+a) Órganos colegiados interministeriales, si sus miembros proceden de diferentes Ministerios
+b) Órganos colegiados ministeriales, si sus componentes proceden de los órganos de un solo Ministerio
+c) Órganos colegiados ministeriales, si sus componentes proceden de los órganos de diferentes Ministerios
+d) Son correctas las respuestas 1ª y 2ª
+
+48) La creación de órganos colegiados de la Administración General del Estado y de sus Organismos públicos sólo requerirá de norma específica, con publicación en el Boletín Oficial del Estado, en los casos en que se les atribuyan cualquiera de las siguientes competencias: (Indica la respuesta FALSA) (Art. 22)
+a) Competencias decisorias
+b) Competencias de propuesta o emisión de informes preceptivos que deban servir de base a decisiones de otros órganos administrativos
+c) Competencias complementarias
+d) Competencias de seguimiento o control de las actuaciones de otros órganos de la Administración General del Estado
+
+49) Son motivos de abstención para las autoridades y el personal al servicio de las Administraciones los siguientes: (Indica la respuesta FALSA) (Art. 23)
+a) Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél; ser administrador de sociedad o entidad interesada, o tener cuestión litigiosa pendiente con algún interesado
+b) Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior
+c) Haber intervenido como perito o como testigo en algún procedimiento en los últimos 3 años
+d) Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar
+
+50) Si el recusado niega la causa de recusación, el superior resolverá en el plazo de ........ días, previos los informes y comprobaciones que considere oportunos. (Art. 24)
+a) 2
+b) 3
+c) 4
+d) 5
+
+51) El ejercicio de la potestad sancionadora corresponde a los órganos administrativos que la tengan expresamente atribuida, por disposición de rango... (Art. 25)
+a) Constitucional
+b) Legal
+c) Reglamentario
+d) Son correctas las respuestas 2ª y 3ª
+
+52) La potestad sancionadora de las AAPP NO será de aplicación respecto de quienes estén vinculados a ellas por relaciones reguladas por... (Art. 25)
+a) La legislación de contratos del sector público
+b) La legislación patrimonial de las Administraciones Públicas
+c) El derecho administrativo en su vertiente de función pública
+d) Son correctas las respuestas 1ª y 2ª
+
+53) Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, tanto en lo referido a... (Art. 26)
+a) La tipificación de la infracción como a la sanción
+b) Sus plazos de prescripción
+c) Las sanciones pendientes de cumplimiento al entrar en vigor la nueva disposición
+d) Todas son correctas
+
+54) Sólo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por...  (Art. 27)
+a) La Constitución
+b) Una Ley
+c) Un Real Decreto
+d) Un Reglamento
+
+55) Las normas definidoras de infracciones y sanciones no serán susceptibles de... (Art. 27)
+a) Interpretación
+b) Modificación posterior
+c) Aplicación analógica
+d) Aplicación restrictiva
+
+56) Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma ............. de las infracciones que, en su caso, se cometan y de las sanciones que se impongan (Art. 28)
+a) Mancomunada
+b) Solidaria
+c) Parciaria
+d) Común
+
+57) . La graduación de la sanción considerará especialmente los siguientes criterios: (Indica la respuesta FALSA) (Art. 29)
+a) El grado de culpabilidad o la existencia de intencionalidad
+b) La continuidad o persistencia en la conducta infractora
+c) La naturaleza de los beneficios causados
+d) La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa
+
+58) Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazos de prescripción...  (Art. 30)
+a) Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses
+b) Las infracciones muy graves prescribirán a los cuatro años, las graves a los dos años y las leves a los seis meses
+c) Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves al año
+d) Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los tres meses
+
+59) Las sanciones impuestas prescribirán:  (Art. 30)
+a) Por faltas muy graves  a los cuatro años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año
+b) Por faltas muy graves  a los cuatro años, las impuestas por faltas graves a los tres años y las impuestas por faltas leves al año
+c) Por faltas muy graves  a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año
+d) Por faltas muy graves  a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves a los seis meses
+
+60) No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del... (Indica la respuesta FALSA) (Art. 31)
+a) Sujeto
+b) Hecho
+c) Momento
+d) Fundamento
+
+61) En todo caso, en relación a una persona o grupo de personasel, el daño alegado habrá de ser... (Indica la respuesta FALSA) (Art. 32)
+a) Efectivo
+b) Previsible
+c) Evaluable económicamente
+d) Individualizado
+
+62) En otros supuestos de concurrencia de varias Administraciones en la producción del daño, la responsabilidad se fijará para cada Administración atendiendo a los criterios de... (Indica la respuesta FALSA) (Art. 33)
+a) Concurrencia
+b) Competencia
+c) Interés público tutelado
+d) Intensidad de la intervención
+
+63) Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste...  (Art. 34)
+a) No tenga el deber jurídico de soportar de acuerdo con la Ley
+b) Sufra con la existencia de caso fortuito
+c) Sufra sin existir dolo o culpa
+d) Todas son falsas
+
+64) La resolución declaratoria de responsabilidad...  (Art. 36)
+a) Pondrá fin a la vía administrativa
+b) Será impugnable en reposición
+c) Será impugnable en alzada
+d) Supondrá el abono inmediato de la indemnización
+
+65) Como norma general, la exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas  (Art. 37)
+a) Revocará los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan
+b) Provocará la prescripción de los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan
+c) Anulará los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan
+d) No suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan
+
+66) Las sedes electrónicas dispondrán de sistemas que permitan el establecimiento de comunicaciones seguras... (Art. 38)
+a) Siempre
+b) Siempre que sean necesarias
+c) Cuando lo solicite el administrado
+d) Cuando lo considere el funcionario
+
+67) Se entiende por portal de internet el punto de acceso electrónico que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente cuya titularidad corresponda a... (Art. 39)
+a) Una Administración Pública
+b) Un organismo público
+c) Una entidad de Derecho Público
+d) Todas son correctas
+
+68) Las Administraciones Públicas podrán identificarse mediante el uso de un sello electrónico basado en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por la legislación de...  (Art. 40)
+a) Tratamiento de datos
+b) Protección de datos
+c) Firma electrónica
+d) Sede electrónica
+
+69) Se entiende por actuación administrativa automatizada, cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un...  (Art. 41)
+a) Ciudadano
+b) Empleado público
+c) Una persona jurídica
+d) Equipo informático
+
+70) Por razones de seguridad pública los sistemas de firma electrónica podrán referirse sólo el número de... (Art. 43)
+a) Identificación profesional del empleado público
+b) Identificación personal del funcionario
+c) Seguridad Social del funcionario
+d) Todas son falsas
+
+71) Cuando los participantes en las comunicaciones pertenezcan a una misma Administración Pública, ésta determinará las condiciones y garantías por las que se regirá que, al menos, comprenderá... (Art. 44)
+a) La relación de emisores y receptores autorizados
+b) La naturaleza de los datos a intercambiar
+c) La clave interna utilizada para la comunicación
+d) Son correctas las respuestas 1ª y 2ª
+
+72) Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos... (Art. 46)
+a) Salvo cuando no sea posible
+b) En cualquier caso
+c) Cuando el responsable lo considere
+d) Cuando el procedimiento concreto lo exija
+
+73) Los acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común, se denominan... (Art. 47)
+a) Acuerdos
+b) Convenios
+c) Pactos
+d) Memorandos
+
+74) La suscripción de convenios deberá... (Indica la respuesta FALSA) (Art. 48)
+a) Mejorar la eficiencia de la gestión pública
+b) Facilitar la utilización autónoma de medios y servicios públicos
+c) Contribuir a la realización de actividades de utilidad pública
+d) Cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera
+
+75) Los convenios a los que se refiere el apartado 1 del artículo anterior deberán incluir, al menos, las siguientes materias: (Indica la respuesta FALSA) (Art. 49)
+a) Sujetos que suscriben el convenio y la capacidad jurídica con que actúa cada una de las partes
+b) La competencia en la que se fundamenta la actuación de la Administración Pública, de los organismos públicos y las entidades de derecho público vinculados o dependientes de ella o de las Universidades públicas
+c) Objeto del convenio y actuaciones a realizar por cada sujeto para su cumplimiento, indicando, en su caso, la titularidad de los resultados obtenidos
+d) Consecuencias aplicables en caso de incumplimiento de los derechos y prerrogativas asumidas por la partes actora y, en su caso, los criterios para determinar la segura indemnización por el cumplimiento
+
+76) Los convenios que suscriba la Administración General del Estado o sus organismos públicos y entidades de derecho público vinculados o dependientes se acompañarán además de: (Indica la respuesta FALSA) (Art. 50)
+a) El informe de su servicio jurídico. Será necesario solicitar este informe cuando el convenio se ajuste a un modelo normalizado informado previamente por el servicio jurídico que corresponda
+b) Cualquier otro informe preceptivo que establezca la normativa aplicable
+c) La autorización previa del Ministerio de Hacienda y Administraciones Públicas para su firma, modificación, prórroga y resolución por mutuo acuerdo entre las partes
+d) Los convenios interadministrativos suscritos con las Comunidades Autónomas, serán remitidos al Senado por el Ministerio de Hacienda y Función Pública
+
+77) NO es causa de resolución de los convenios: (Art. 51)
+a) El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo
+b) El acuerdo de la mayoría simple de los firmantes
+c) El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes
+d) Por decisión judicial declaratoria de la nulidad del convenio
+
+78) El cumplimiento y la resolución de los convenios dará lugar a la...  (Art. 52)
+a) Actualización de los mismos
+b) Novación de los mismos
+c) Liquidación de los mismos
+d) Resolución de los mismos
+
+79) Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los  ................ euros, estos deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda. (Art. 53)
+a) 100.000
+b) 300.000
+c) 600.000
+d) 900.000
+
+80) Las competencias en materia de organización administrativa, régimen de personal, procedimientos e inspección de servicios, no atribuidas específicamente conforme a una Ley a ningún otro órgano de la Administración General del Estado, ni al Gobierno, corresponderán a... (Art. 54)
+a) El Ministerio de Política territorial y Función Pública
+b) El Ministerio de Presidencia
+c) El Ministerio de Justicia
+d) La Secretaría de Estado de Administración Pública
+
+81) La Administración General del Estado comprende: (Art. 55)
+a) La Organización Central, que integra los Ministerios y los servicios comunes
+b) La Organización Territorial
+c) La Administración General del Estado en el exterior
+d) Todas son correctas
+
+82) NO es un órgano directivo: (Art. 55)
+a) Los Subsecretarios y Secretarios generales
+b) Los Secretarios generales técnicos y Directores generales
+c) Los Subdirectores generales
+d) Los Secretarios de Estado
+
+83) Las unidades administrativas se establecen mediante ..............................., que se aprobarán de acuerdo con su regulación específica, y se integran en un determinado órgano. (Art. 56)
+a) Decreto
+b) Las relaciones de puestos de trabajo
+c) Real Decreto
+d) Todas son falsas
+
+84) La determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado se establecen mediante... (Art. 57)
+a) Real Decreto del Presidente del Gobierno
+b) Real Decreto del Consejo de Ministros
+c) Decreto Ley del Presidente del Gobierno
+d) Ley de Bases del Congreso de los Diputados
+
+85) Los Ministerios contarán, en todo caso, con... (Art. 58)
+a) Una Secretaría de Estado, y dependiendo de ella una Secretaría General Técnica, para la gestión de los servicios comunes
+b) Una Subsecretaría, y dependiendo de ella una Dirección General, para la gestión de los servicios comunes
+c) Una Subsecretaría, y dependiendo de ella una Secretaría General Técnica, para la gestión de los servicios comunes
+d) Una Subsecretaría, y dependiendo de ella una Subdirección General, para la gestión de los servicios comunes
+
+86) Las Subsecretarías, las Secretarías Generales, las Secretarías Generales Técnicas, las Direcciones Generales, las Subdirecciones Generales, y órganos similares a los anteriores se crean, modifican y suprimen, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Función Pública, por... (Art. 59)
+a) Real Decreto del Presidente del Gobierno
+b) Real Decreto del Consejo de Ministros
+c) Decreto Ley del Presidente del Gobierno
+d) Ley de Bases del Congreso de los Diputados
+
+87) Los órganos directivos dependen de alguno de los anteriores y se ordenan jerárquicamente entre sí de la siguiente forma: (Art. 60)
+a) Director general, Subsecretario y Subdirector general
+b) Subdirector general, Subsecretario y Director general
+c) Subsecretario, Director general y Subdirector general
+d) Subsecretario, Subdirector general y Director general
+
+88) Los Ministros, como titulares del departamento sobre el que ejercen su competencia, dirigen los sectores de actividad administrativa integrados en su Ministerio, y asumen la responsabilidad inherente a dicha dirección. A tal fin, les corresponden las siguientes funciones: (Indica la respuesta FALSA) (Art. 61)
+a) Ejercer la potestad legislativa en las materias propias de su Departamento
+b) Fijar los objetivos del Ministerio, aprobar los planes de actuación del mismo y asignar los recursos necesarios para su ejecución, dentro de los límites de las dotaciones presupuestarias correspondientes
+c) Determinar y, en su caso, proponer la organización interna de su Ministerio, de acuerdo con las competencias que le atribuye esta Ley
+d) Autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta para altos cargos dependientes del Ministro
+
+89) Los Secretarios de Estado dirigen y coordinan las Secretarías y las Direcciones Generales situadas bajo su dependencia, y responden ante el Ministro de la ejecución de los objetivos fijados para la Secretaría de Estado. A tal fin les corresponde: (Indica la respuesta FALSA) (Art. 62)
+a) Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado
+b) Mantener las relaciones con los órganos de las Comunidades Autónomas competentes por razón de la materia
+c) Autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta para los altos cargos dependientes de la Secretaría de Estado
+d) Imponer la sanción de separación del servicio por faltas muy graves
+
+90) Los Subsecretarios ostentan la representación ordinaria del Ministerio, dirigen los servicios comunes, ejercen las competencias correspondientes a dichos servicios comunes y, en todo caso, las siguientes: (Indica la respuesta FALSA) (Art. 63)
+a) Apoyar a los órganos superiores en la planificación de la actividad del Ministerio, a través del correspondiente asesoramiento técnico
+b) Autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta para los altos cargos dependientes de la Secretaría de Estado
+c) Proponer las medidas de organización del Ministerio y dirigir el funcionamiento de los servicios comunes a través de las correspondientes instrucciones u órdenes de servicio
+d) Desempeñar la jefatura superior de todo el personal del Departamento
+
+91) Los Secretarios generales serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del titular del Ministerio o del Presidente del Gobierno y tendrán la categoría de... (Art. 64)
+a) Subsecretario
+b) Director General
+c) Subdirector General
+d) Ministro
+
+92) Los Secretarios generales técnicos, bajo la inmediata dependencia del Subsecretario, tendrán las competencias sobre servicios comunes que les atribuya el Real Decreto de estructura del Departamento y, en todo caso, las relativas a producción normativa, asistencia jurídica y publicaciones. Tienen a todos los efectos la categoría de... (Art. 65)
+a) Subsecretario
+b) Director General
+c) Subdirector General
+d) Ministro
+
+93) Los Directores generales son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio. A tal efecto, les corresponde: (Indica la respuesta FALSA) (Art. 66)
+a) Proponer los proyectos de su Dirección general para alcanzar los objetivos establecidos por el Ministro, dirigir su ejecución y controlar su adecuado cumplimiento
+b) Ejercer las competencias atribuidas a la Dirección general y las que le sean desconcentradas o delegadas
+c) Proponer, en los restantes casos, al Ministro o al titular del órgano del que dependa, la resolución que estime procedente sobre los asuntos que afectan al órgano directivo
+d) Resolver de los recursos administrativos y declarar la lesividad de los actos administrativos cuando les corresponda
+
+94) Los nombramientos de los Subdirectores generales habrán de efectuarse entre funcionarios de carrera del Estado, o de otras Administraciones, cuando así lo prevean las normas de aplicación, pertenecientes al Subgrupo... (Art. 67)
+a) A1
+b) A1 o A2
+c) B
+d) A2
+
+95) Los órganos directivos encargados de los servicios comunes, prestan a los órganos superiores y directivos del resto del Ministerio la asistencia precisa para el más eficaz cumplimiento de sus cometidos y, en particular, la eficiente utilización de los medios y recursos... (Indica la respuesta FALSA) (Art. 68)
+a) Materiales
+b) Económicos
+c) Personales
+d) Ideológicos
+
+96) Las Delegaciones del Gobierno están adscritas orgánicamente al Ministerio de... (Art. 69)
+a) Presidencia
+b) Justicia
+c) Ministerio de Política Territorial y Función Pública
+d) Interior
+
+97) Los Directores Insulares dependen jerárquicamente de... (Art. 70)
+a) El Delegado del Gobierno en la Comunidad Autónoma
+b) El Subdelegado del Gobierno en la provincia
+c) El Ministro de Función Pública
+d) Son correctas las respuestas 1ª y 2ª
+
+98) Los servicios territoriales no integrados dependerán... (Art. 71)
+a) Del órgano central competente sobre el sector de actividad en el que aquéllos operen
+b) Del Delegado del Gobierno
+c) Del Subdelegado del Gobierno
+d) De los Directores Insulares cuando existan
+
+99) Los Delegados del Gobierno son órganos directivos con rango de Subsecretario que dependen...  (Art. 72)
+a) Orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia
+b) Orgánicamente del Ministerio competente por razón de la materia y funcionalmente el Presidente del Gobierno
+c) Orgánicamente del Ministro del Interior y funcionalmente del Ministerio competente por razón de la materia
+d) Orgánicamente del Vicepresidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia
+
+100) Los Delegados del Gobierno en las Comunidades Autónomas son los titulares de las correspondientes Delegaciones del Gobierno y tienen las siguientes competencias en relación a la Información de la acción del Gobierno e información a los ciudadanos, entre las que NO se encuentra: (Art. 73)
+a) Informar, con carácter facultativo, las propuestas de nombramiento de los suplentes de órganos territoriales de la Administración General del Estado y los Organismos públicos estatales de ámbito autonómico y provincial en la Delegación del Gobierno
+b) Coordinar la información sobre los programas y actividades del Gobierno y la Administración General del Estado y sus Organismos públicos en la Comunidad Autónoma
+c) Promover la colaboración con las restantes Administraciones Públicas en materia de información al ciudadano
+d) Recibir información de los distintos Ministerios de los planes y programas que hayan de ejecutar sus respectivos servicios territoriales y Organismos públicos en su ámbito territorial
+
+101) ¿Es necesaria la existencia de Subdelegado del Gobierno? (Art. 74)
+a) Sí, siempre
+b) No, nunca
+c) Sí, en las CCAA uniprovinciales
+d) No, en las CCAA uniprovinciales
+
+102) A los Subdelegados del Gobierno les corresponde: (Indica la respuesta FALSA) (Art. 75)
+a) Proteger el libre ejercicio de los derechos y libertades, garantizando la seguridad ciudadana, todo ello dentro de las competencias estatales en la materia
+b) Dirigir y coordinar la protección militar en el ámbito de la provincia
+c) Dirigir, en su caso, los servicios integrados de la Administración General del Estado, de acuerdo con las instrucciones del Delegado del Gobierno y de los Ministerios correspondientes; e impulsar, supervisar e inspeccionar los servicios no integrados
+d) Coordinar la utilización de los medios materiales y, en particular, de los edificios administrativos en el ámbito territorial de su competencia
+
+103) En relación a la estructura de las Delegaciones y Subdelegaciones del Gobierno, existirá siempre una... (Art. 76)
+a) Dirección General
+b) Secretaría General
+c) Subsecretaría
+d) Subdirección General
+
+104) La asistencia jurídica y las funciones de intervención y control económico financiero en relación con las Delegaciones y Subdelegaciones del Gobierno se ejercerán por... (Art. 77)
+a) La Abogacía del Estado
+b) La Intervención General de la Administración del Estado
+c) La Fiscalía General del Estado
+d) Son correctas las respuestas 1ª y 2ª
+
+105) ¿Quién se encargará de coordinar la actuación de la Administración periférica del Estado con los distintos Departamentos ministeriales? (Art. 78)
+a) La Comisión interministerial de coordinación de la Administración periférica del Estado
+b) La Junta interministerial de coordinación de la Administración periférica del Estado
+c) La Comisión interministerial de armonización de la Administración periférica del Estado
+d) La Comisión interministerial de coordinación de la Administración General del Estado
+
+106) En cada una de las Comunidades Autónomas pluriprovinciales existirá una Comisión territorial de asistencia al Delegado del Gobierno, con las siguientes funciones: (Indica la respuesta FALSA) (Art. 79)
+a) Coordinar las actuaciones que hayan de ejecutarse de forma homogénea en el ámbito de la Comunidad Autónoma, para asegurar el cumplimiento de los objetivos generales fijados por el Gobierno a los servicios territoriales
+b) Homogeneizar el desarrollo de las políticas públicas en su ámbito territorial, a través del establecimiento de criterios comunes de actuación que habrán de ser compatibles con las instrucciones y objetivos de los respectivos departamentos ministeriales
+c) Asesorar al Delegado del Gobierno en la Comunidad Autónoma en la elaboración de las propuestas de simplificación administrativa y racionalización en la utilización de los recursos
+d) Cualesquiera otras que a juicio delConsejo de Gobierno de la Comunidad Autónoma resulten adecuadas para que la Comisión territorial cumpla la finalidad de apoyo y asesoramiento en el ejercicio de las competencias que esta Ley le asigna
+
+107) Todas las Administraciones Públicas deberán establecer un sistema de supervisión continua de sus entidades dependientes, con el objeto de comprobar la subsistencia de los motivos que justificaron su creación y su sostenibilidad financiera, y que deberá incluir la formulación expresa de propuestas de... (Indica la respuesta FALSA) (Art. 81)
+a) Mantenimiento
+b) Ampliación
+c) Transformación
+d) Extinción
+
+108) NO integran el sector público institucional estatal las siguientes entidades: (Art. 84)
+a) Las autoridades administrativas independientes
+b) Las sociedades mercantiles estatales
+c) Las universidades públicas transferidas
+d) Las fundaciones del sector público
+
+109) Para llevar a cabo el control de eficacia y supervisión continua, todas las entidades integrantes del sector público institucional estatal contarán, en el momento de su creación, con un plan de actuación, que contendrá las líneas estratégicas en torno a las cuales se desenvolverá la actividad de la entidad, que se revisarán cada... (Art. 85)
+a) 3 años
+b) 4 años
+c) 5 años
+d) 10 años
+
+110) Aunque suponga modificación de la Ley de creación, la transformación de la forma jurídica de un organismo autónomo, entidad pública empresarial, sociedad mercantil estatal o fundación del sector público institucional estatal se llevará a cabo mediante... (Art. 87)
+a) Decreto Presidencial
+b) Orden Ministerial
+c) Real Decreto
+d) Decreto Ley
+
+111) Son organismos públicos dependientes o vinculados a la Administración General del Estado, bien directamente o bien a través de otro organismo público, los creados para... (Art. 88)
+a) La realización de actividades administrativas, sean de fomento, prestación o de gestión de servicios públicos o de producción de bienes de interés público susceptibles de contraprestación; actividades de contenido económico reservadas a las Administraciones Públicas;
+b) La supervisión  de sectores económicos, y cuyas características justifiquen su organización en régimen de descentralización funcional o de independencia
+c) La regulación de sectores económicos, y cuyas características justifiquen su organización en régimen de descentralización funcional o de independencia
+d) Todas son correctas
+
+112) Los organismos públicos NO tienen...  (Art. 89)
+a) Personalidad jurídica pública diferenciada
+b) Patrimonio compartido
+c) Tesorería propia
+d) Autonomía de gestión
+
+113) Los máximos órganos de gobierno de los organismos públicos son...  (Art. 90)
+a) El Presidente
+b) El Consejo Rector
+c) La Junta de Gobierno
+d) Son correctas las respuestas 1ª y 2ª
+
+114) El anteproyecto de ley de creación del organismo público que se eleve al Consejo de Ministros deberá ser acompañado de una propuesta de estatutos y de un plan inicial de actuación, junto con el informe preceptivo favorable del Ministerio de...  (Art. 91)
+a) Hacienda y Función Pública
+b) Economía
+c) Justicia
+d) Presidencia
+
+115) El plan inicial de actuación del organismo público contendrá, al menos: (Indica la respuesta FALSA) (Art. 92)
+a) Las razones que justifican la creación de un nuevo organismo público, por no poder asumir esas funciones otro ya existente, así como la constatación de que la creación no supone duplicidad con la actividad que desarrolle cualquier otro órgano o entidad preexistente
+b) La forma jurídica propuesta y un análisis que justifique que la elegida resulta más eficiente frente a otras alternativas de organización que se hayan descartado
+c) La fundamentación de la estructura organizativa elegida, determinando los órganos directivos y la previsión sobre los recursos humanos necesarios para su funcionamiento
+d) El anteproyecto del presupuesto correspondiente a los cuatro primeros ejercicios junto con un estudio socio-cultural que acredite la necesidad de la dotación económica prevista inicialmente para el mantenimiento de su actividad y la sostenibilidad futura del organismo
+
+116) Los estatutos del organismo público regularán, al menos, los siguientes extremos: (Indica la respuesta FALSA) (Art. 93)
+a) Las funciones y competencias del organismo, con indicación de las potestades administrativas que pueda ostentar
+b) El patrimonio que se les asigne y los recursos económicos que hayan de financiarlos
+c) El régimen relativo a recursos humanos, patrimonio, presupuesto y contratación
+d) La facultad de participación en fundaciones cuando ello sea posible para la consecución de los fines asignados
+
+117) El plan de redimensionamiento para la fusión de dos organismos públicos, previo informe preceptivo de ............................ deberá ser aprobado por cada uno de los organismos públicos fusionados si se integran en uno nuevo o por el organismo público absorbente, según corresponda al tipo de fusión. (Art. 94)
+a) El Secretario de Estado de Hacienda
+b) El Tribunal de Cuentas
+c) La Intervención General de la Administración del Estado
+d) El Ministro de Economía
+
+118) Se consideran servicios comunes de los organismos públicos, al menos, los siguientes: (Indica la respuesta FALSA) (Art. 95)
+a) Gestión de bienes muebles
+b) Sistemas de información y comunicación
+c) Asistencia jurídica
+d) Publicaciones
+
+119) Los Organismos públicos estatales NO deberán disolverse: (Art. 96)
+a) Por el transcurso del tiempo de existencia señalado en la ley de creación
+b) Porque la totalidad de sus fines y objetivos sean asumidos por los servicios de la Administración General del Estado
+c) Porque sus fines hayan sido totalmente cumplidos, de forma que no se justifique la pervivencia del organismo público, y así se haya puesto de manifiesto en el control de eficacia
+d) Cuando así lo acuerde el Ministro del ramo siguiendo el procedimiento determinado al efecto en el acto jurídico que acuerde la disolución
+
+120) Formalizada la liquidación del organismo público se producirá...  (Art. 97)
+a) Su extinción automática
+b) El trasvase de bienes y personal
+c) Se asumirán sus competencias por la AGE
+d) El pago de deudas y resolución de contratos vigentes
+
+121) Los organismos autónomos dependen de .................... a el/la que corresponde su dirección estratégica, la evaluación de los resultados de su actividad y el control de eficacia. (Art. 98)
+a) El Ministerio de AAPP
+b) La Administración General del Estado
+c) El Ministro que aprobó su constitución
+d) El Presidente del mismo
+
+122) El organismo autónomo estará obligado a aplicar las instrucciones sobre recursos humanos dictadas por... (Art. 100)
+a) El Ministerio de Hacienda y Función Pública
+b) El Subsecretario del Ministerio al que pertenece
+c) El Director del organismo autónomo
+d) Todas son falsas
+
+123) Los recursos económicos de los organismos autónomos podrán provenir de las siguientes fuentes: (Indica la respuesta FALSA) (Art. 101)
+a) Los bienes y valores que constituyen su pasivo
+b) Los productos y rentas de su patrimonio
+c) Las transferencias corrientes o de capital que procedan de la Administración o entidades públicas
+d) Las donaciones, legados, patrocinios y otras aportaciones de entidades privadas y de particulares
+
+124) Las entidades públicas empresariales son entidades de Derecho público, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, que se financian mayoritariamente con ingresos de mercado y que junto con el ejercicio de potestades administrativas desarrollan... (Art. 103)
+a) Actividades prestacionales
+b) Actividades de gestión de servicios o de producción de bienes de interés público
+c) Actividades susceptibles de contraprestación
+d) Todas son correctas
+
+125) Las entidades públicas empresariales se rigen en la mayoría de aspectos por...  (Art. 104)
+a) El Derecho Administrativo
+b) El Derecho privado
+c) El Derecho Comunitario
+d) El Derecho derivado
+
+126) El personal de las entidades públicas empresariales se rige por... (Art. 106)
+a) El Derecho Administrativo
+b) El Derecho privado
+c) El Derecho Comunitario
+d) El Derecho laboral
+
+127) Excepcionalmente, cuando así lo prevea la Ley de creación, podrá financiarse con los recursos económicos que provengan de las siguientes fuentes: (Indica la respuesta FALSA) (Art. 107)
+a) Las consignaciones específicas que tuvieran asignadas en los Presupuestos Generales del Estado
+b) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas
+c) Las donaciones, legados, patrocinios y otras aportaciones de entidades privadas y de particulares
+d) Los bienes y valores que constituyen su patrimonio
+
+128) Con independencia de cuál sea su denominación, cuando una entidad tenga la naturaleza jurídica de autoridad administrativa independiente deberá figurar en su denominación la indicación «autoridad administrativa independiente» o su abreviatura...  (Art. 109)
+a) A.A.I.E
+b) H.A.I
+c) A.E.I
+d) A.A.I
+
+129) Se entiende por sociedad mercantil estatal aquella sociedad mercantil sobre la que se ejerce control estatal porque la participación directa, en su capital social de la Administración General del Estado o alguna de las entidades que integran el sector público institucional estatal, incluidas las sociedades mercantiles estatales, sea superior al... (Art. 111)
+a) 49 por 100
+b) 50 por 100
+c) 51 por 100
+d) 60 por 100
+
+130) Las sociedades mercantiles estatales, en ningún caso podrán disponer de facultades que impliquen... (Art. 113)
+a) El ejercicio de autoridad pública
+b) La aplicación del derecho administrativo
+c) El uso de patrimonio público
+d) Todas son correctas
+
+131) La creación de una sociedad mercantil estatal o la adquisición de este carácter de forma sobrevenida será autorizada mediante... (Art. 114)
+a) Acuerdo del Consejo de Ministros
+b) Real Decreto Ley
+c) Decreto
+d) Ley
+
+132) Conforme a lo previsto en las leyes administrativas en materia de responsabilidad patrimonial, la Administración General del Estado podrá exigir de oficio al empleado público que designó como miembro del consejo de administración la responsabilidad en que hubiera incurrido por los daños y perjuicios causados en sus bienes o derechos cuando hubiera concurrido... (Indica la respuesta FALSA) (Art. 115)
+a) Dolo
+b) Culpa
+c) Imprudencia
+d) Negligencia grave
+
+133) Las sociedades mercantiles estatales formularán y rendirán sus cuentas de acuerdo con los principios y normas de contabilidad recogidos en... (Art. 117)
+a) El Código de Comercio
+b) El Plan General de Contabilidad y disposiciones que lo desarrollan
+c) La Ley General Tributaria
+d) Son correctas las respuestas 1ª y 2ª
+
+134) Los consorcios podrán realizar actividades... (Art. 118)
+a) De fomento
+b) Prestacionales
+c) De gestión común de servicios públicos
+d) Todas son correctas
+
+135) De acuerdo con los siguientes criterios, ordenados por prioridad en su aplicación y referidos a la situación en el primer día del ejercicio presupuestario, el consorcio quedará adscrito, en cada ejercicio presupuestario y por todo este periodo, a la Administración Pública que: (Indica la respuesta FALSA) (Art. 120)
+a) Disponga una mayoría de dos tercios de los votos en los órganos de gobierno
+b) Tenga facultades para nombrar o destituir a la mayoría de los miembros de los órganos ejecutivos
+c) Tenga facultades para nombrar o destituir a la mayoría de los miembros del personal directivo
+d) Disponga de un mayor control sobre la actividad del consorcio debido a una normativa especial
+
+136) Los consorcios se crearán mediante ............ suscrito por las Administraciones, organismos públicos o entidades participantes (Art. 123)
+a) Convenio
+b) Acuerdo
+c) Tratado
+d) Compromiso
+
+137) Los estatutos de cada consorcio determinarán la Administración Pública a la que estará adscrito, así como su régimen orgánico, funcional y financiero de acuerdo con lo previsto en esta Ley, y, al menos, los siguientes aspectos: (Indica la respuesta FALSA) (Art. 124)
+a) Sede
+b) Objeto
+c) Fines
+d) Condiciones
+
+138) La disolución del consorcio produce su liquidación y extinción. En todo caso será causa de disolución que los fines para los que fue creado el consorcio hayan sido... (Art. 127)
+a) Derogados
+b) Cumplidos
+c) Actualizados
+d) Todas son correctas
+
+139) Son fundaciones del sector público estatal aquellas que reúnan alguno de los requisitos siguientes: (Art. 128)
+a) Que se constituyan de forma inicial, con una aportación mayoritaria, directa o indirecta, de la Administración General del Estado o cualquiera de los sujetos integrantes del sector público institucional estatal, o bien reciban dicha aportación con posterioridad a su constitución
+b) Que el patrimonio de la fundación esté integrado en más de un 50 por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público institucional estatal con carácter permanente
+c) La mayoría de derechos de voto en su patronato corresponda a representantes del sector público institucional estatal
+d) Todas son correctas
+
+140) De acuerdo con los siguientes criterios, ordenados por prioridad en su aplicación, referidos a la situación en el primer día del ejercicio presupuestario, la fundación del sector público quedará adscrita, en cada ejercicio presupuestario y por todo este periodo, a la Administración Pública que: (Indica la respuesta FALSA) (Art. 129)
+a) Disponga de mayoría de patronos
+b) Tenga facultades para nombrar o destituir a la mayoría de los miembros de los órganos ejecutivos
+c) Tenga facultades para nombrar o destituir a la mayoría de los miembros del personal directivo
+d) Ostente un porcentaje de participación en el fondo patrimonial superior al 10%
+
+141) La creación de fondos carentes de personalidad jurídica en el sector público estatal se efectuará por... (Art. 137)
+a) Acuerdo del Consejo de Ministros
+b) Real Decreto Ley
+c) Decreto
+d) Ley
+
+142) Las diferentes Administraciones Públicas actúan y se relacionan con otras Administraciones y entidades u organismos vinculados o dependientes de éstas de acuerdo con los siguientes principios: (Indica la respuesta FALSA) (Art. 140)
+a) Lealtad institucional
+b) Adecuación al orden de distribución de competencias establecido en la Constitución y en los Estatutos de Autonomía y en la normativa del régimen local
+c) Responsabilidad de cada Administración Pública en el cumplimiento de sus obligaciones y compromisos
+d) Solidaridad interministerial de acuerdo con el Código Civil
+
+143) Las Administraciones Públicas deberán: (Indica la respuesta FALSA) (Art. 141)
+a) Respetar el ejercicio legítimo por las otras Administraciones de sus competencias
+b) Ponderar, en el ejercicio de las competencias propias, la totalidad de los intereses públicos implicados y, en concreto, aquellos cuya gestión esté encomendada a las otras Administraciones
+c) Prestar, en el ámbito ajeno, la asistencia que las otras Administraciones pudieran ordenar para el eficaz ejercicio de sus competencias
+d) Cumplir con las obligaciones concretas derivadas del deber de colaboración y las restantes que se establezcan normativamente
+
+144) Las obligaciones que se derivan del deber de colaboración se harán efectivas a través de las siguientes técnicas: (Indica la respuesta FALSA) (Art. 142)
+a) El suministro de información, datos, documentos o medios probatorios que se hallen a disposición del organismo público o la entidad al que se dirige la solicitud y que la Administración solicitante precise disponer para el ejercicio de sus competencias
+b) La creación y mantenimiento de sistemas integrados de información administrativa con el fin de disponer de datos actualizados, completos y permanentes referentes a los diferentes ámbitos de actividad administrativa en todo el territorio nacional
+c) El deber de asistencia y auxilio, para atender las solicitudes formuladas por otras Administraciones para el mejor ejercicio de sus competencias, en especial cuando los efectos de su actividad administrativa se extiendan fuera de su ámbito territorial
+d) Cualquier otra prevista en un Reglamento
+
+145) Se podrá dar cumplimiento al principio de cooperación de acuerdo con las técnicas que las Administraciones interesadas estimen más adecuadas, como pueden ser: (Indica la respuesta FALSA) (Art. 144)
+a) La participación en órganos de sanción, con el fin de deliberar y, en su caso, acordar medidas en materias sobre las que tengan competencias diferentes Administraciones Públicas
+b) La participación en órganos consultivos de otras Administraciones Públicas
+c) La participación de una Administración Pública en organismos públicos o entidades dependientes o vinculados a otra Administración diferente
+d) La prestación de medios materiales, económicos o personales a otras Administraciones Públicas
+
+146) La Conferencia de Presidentes es un órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas y está formada por... (Indica la respuesta FALSA) (Art. 146)
+a) El Presidente del Gobierno, que la preside
+b) Los Presidentes de las Comunidades Autónomas
+c) Los Presidentes de las Ciudades de Ceuta y Melilla
+d) Los Cabildos y Consejos Insulares
+
+147) En particular, las Conferencias Sectoriales ejercerán, entre otras, las siguientes funciones: (Indica la respuesta FALSA) (Art. 148)
+a) Establecer planes específicos de cooperación entre Comunidades Autónomas en la materia sectorial correspondiente, procurando la supresión de duplicidades, y la consecución de una mejor eficiencia de los servicios públicos
+b) Intercambiar información sobre las actuaciones programadas por las distintas Administraciones Públicas, en ejercicio de sus competencias, y que puedan afectar a las otras Administraciones
+c) Establecer mecanismos de intercambio de información, especialmente de contenido cultural
+d) Acordar la organización interna de la Conferencia Sectorial y de su método de trabajo
+
+148) Corresponde al Ministro que presida la Conferencia Sectorial acordar la convocatoria de las reuniones por iniciativa propia, al menos una vez al... (Art. 149)
+a) Mes
+b) Trimestre
+c) Semestre
+d) Año
+
+149) Para el desarrollo de su actividad, las Comisiones Bilaterales de Cooperación podrán crear ................ y podrán convocarse y adoptar acuerdos por videoconferencia o por medios electrónicos (Art. 153)
+a) Grupos de trabajo
+b) Asociaciones puntuales
+c) Reuniones eventuales
+d) Todas son falsas
+
+150) Cuando la proximidad territorial o la concurrencia de funciones administrativas así lo requiera, podrán crearse Comisiones Territoriales de Coordinación, de composición multilateral, entre Administraciones cuyos territorios sean coincidentes o limítrofes, para mejorar la coordinación de la prestación de servicios, prevenir duplicidades y mejorar la eficiencia y calidad de los servicios. En función de las Administraciones afectadas por razón de la materia, estas Comisiones podrán estar formadas por: (Art. 154)
+a) Representantes de la Administración General del Estado y representantes de las Entidades Locales
+b) Representantes de las Comunidades Autónomas y representantes de las Entidades locales
+c) Representantes de la Administración General del Estado, representantes de las Comunidades Autónomas y representantes de las Entidades Locales
+d) Todas son correctas
+

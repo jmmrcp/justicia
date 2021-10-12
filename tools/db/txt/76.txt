@@ -1,0 +1,149 @@
+1) ¿Cuáles de los siguientes principios no rige en la oficina judicial?:
+a) División de funciones.
+b) Coordinación.
+c) Independencia jerárquica.
+d) Todas son correctas.
+
+2) El elemento organizativo básico de la oficina judicial es:
+a) La Secretaría.
+b) La Unidad.
+c) Los Servicios Comunes.
+d) Todas son correctas.
+
+3) ¿Qué respuesta es correcta?
+a) El diseño de la Oficina judicial será flexible.
+b) El diseño de la Oficina Judicial inflexible.
+c) El diseño de la Oficina Judicial podrá ser flexible o inflexible dependiendo de lo que establezcan las relaciones de puestos de trabajo.
+d) Todas las respuestas son correctas.
+
+4) Asisten directamente a jueces y tribunales:
+a) Las Unidades de Apoyo Directo.
+b) Los servicios Comunes Procesales.
+c) Las unidades Administrativas.
+d) Todas son correctas.
+
+5) Existirán tantas unidades de apoyo directo como:
+a) Servicios Comunes.
+b) Juzgados.
+c) Salas o Secciones de tribunales.
+d) Son correctas b y c.
+
+6) Las dotaciones básicas de las unidades de apoyo directo se determina por:
+a) El Consejo General del Poder Judicial previo informe de las Comunidades Autónomas con competencias asumidas.
+b) El Ministerio de Justicia previa negociación de las Comunidades Autónomas y con informe del Consejo General del Poder Judicial.
+c) El Ministerio de Justicia previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas con competencias asumidas.
+d) El Ministerio de Justicia o las Comunidades Autónomas previo informe del Consejo General del Poder Judicial.
+
+7) Al frente de cada servicio común procesal:
+a) Se encuentra el Juez Decano.
+b) Se encuentran varios Secretarios Judiciales, Letrados de la Administración deJusticia, de la segunda categoría.
+c) Se encuentra un Secretario Judicial; Letrados de la Administración de Justicia.
+d) Se encuentra el Secretario Coordinador provincial.
+
+8) La aplicación tecnológica que permite comunicar un documento de forma electrónica utilizando la firma digital en el ámbito de la administración de justicia se denomina:
+a) TELNEX. 
+b) LEXNET. 
+c) LNFONET. 
+d) LIBRANEX.
+
+9) Están obligados a comunicarse con la Administración de Justicia a través de canales electrónicos:
+a) Las personas jurídicas
+b) Las entidades sin personalidad jurídica
+c) Notarios y Registradores
+d) Todas son correctas
+
+10) Las unidades administrativas:
+a) No están integradas en la Oficina Judicial. 
+b) Están integradas en la Oficina Judicial.
+c) La respuesta a) es correcta y se constituyen en el ámbito de la Administración de Justicia.
+d) La respuesta b) es correcta y se constituyen en el ámbito de la Administración de Justicia.
+
+11) Los puestos de trabajo de las unidades administrativas:
+a) Sólo podrán estar cubiertos por personal al servicio de la Administración de Justicia.
+b) Podrán ser cubiertos por personas del Ministerio de Justicia y de las Comunidades Autónomas.
+c) Sólo podrán ser cubiertos por personal del Ministerio de Justicia y de las Comunidades Autónomas.
+d) Ninguna es correcta.
+
+12) La oficina judicial se rige por los principios de:
+a) Jerarquía, división de funciones y correlación.
+b) Independencia jerárquica, división de funciones y coordinación. 
+c) Jerarquía, división de funciones y coordinación.
+d) Jerarquía, dependencia de funciones y coordinación.
+
+13) De qué fecha es la ley del uso de las tecnologías de la información en la administración de justicia:
+a) Ley 18/2011, de 3 de junio. 
+b) Ley 18/2011, de 5 de julio. 
+c) L.O 13/2011, de 4 de julio. 
+d) L.O. 17/2011, de 7 de julio.
+
+14) No forman parte de la oficina judicial:
+a) Los servicios comunes procesales.
+b) Las unidades de apoyo directo.
+c) Las respuestas a y b son correctas.
+d) Las unidades administrativas.
+
+15) Asumen labores centralizadas de gestión y apoyo en actuaciones derivadas de la aplicación de leyes procesales, prestando su apoyo a todos o a alguno de los órganos judiciales de su ámbito territorial:
+a) Los servicios comunes procesales.
+b) Las unidades de apoyo central. 
+c) Las unidades administrativas.
+d) Las unidades de apoyo directo.
+
+16) Se encargan de la jefatura, ordenación y gestión de los recursos humanos de la oficina judicial así como de los medios informáticos, nuevas tecnologías y demás medios materiales:
+a) Los servicios comunes procesales.
+b) Las unidades de apoyo central. 
+c) Las unidades administrativas.
+d) Las unidades de apoyo directo.
+
+17) ¿Qué normativa regula la LEXNET?:
+a) Real Decreto 84/2007, de 26 de marzo. 
+b) Ley 85/2007, de 26 de febrero.
+c) Real Decreto 1065/2015, de 27 de noviembre.
+d) Ley 84/2011, de 28 de septiembre.
+
+18) ¿Para quién no será obligatoria la utilización del sistema LEXNET?:
+a) Para los Secretarios Judiciales.
+b) Para los funcionarios al servicio de la Administración de Justicia. 
+c) Para los ciudadanos.
+d) Para ninguno es obligatoria.
+
+19) El sistema telemático de la LEXNET estará en funcionamiento durante:
+a) Las horas hábiles de los Juzgados.
+b) 24 horas del día todos los días del año. 
+c) 24 horas del día los días hábiles.
+d) Las horas que se establezcan reglamentariamente.
+
+20) Una vez depositados en los buzones virtuales de los usuarios los escritos de notificaciones se encontrarán accesibles por periodo de:
+a) 30 días. 
+b) 20 días. 
+c) 60 días. 
+d) 5 días.
+
+21) ¿Qué módulo permite el registro de los asuntos, su seguimiento estadístico y la tramitación de los procedimientos judiciales en el ámbito del Ministerio de Justicia?:
+a) Punto Neutro Judicial.
+b) Sistema de registros administrativos de apoyo a la Administración de Justicia (SIRAJ)
+c) Minerva.
+d) Módulo de intercambio genérico 
+
+22) ¿Qué programa permite la intercomunicación entre las distintas redes judiciales de comunidades autónomas, Ministerio de Justicia y CGPJ, así como con terceros organismos, permitiendo acceder por ejemplo al padrón?:
+a) Punto Neutro Judicial.
+b) Módulo de intercambio genérico. 
+c) Minerva.
+d) Sistema de registros administrativos de apoyo a la Administración de Justicia.
+
+23) En razón de la actividad concreta que realicen, podrán estructurarse en secciones:
+a) Las unidades procesales de apoyo directo (UPAD)
+b) Las unidades administrativas
+c) Las unidades
+d) Los servicios comunes procesales
+
+24) A quien debe comunicar el usuario la pérdida de la clave privada de la firma electrónica:
+a) A Gestión de Personal.
+b) A la Unidad Administrativa.
+c) A la correspondiente entidad prestadora de los Servicios de Certificación y/o Registro. 
+d) Ninguna es correcta.
+
+25) Según la ley del uso de las tecnologías de la información en la Administración de justicia qué respuesta es correcta:
+a) Los ciudadanos tienen el deber de utilizar los medios electrónicos para relacionarse con la Administración de justicia.
+b) Los profesionales están obligados de utilizar los medios electrónicos para relacionarse con la Administración de justicia. 
+c) Ambas son correctas.
+d) Ninguna es correcta.

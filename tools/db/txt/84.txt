@@ -1,0 +1,449 @@
+1) En el juicio sobre delitos leves: A95-mod
+a) El Fiscal asistirá, en todo caso
+b) El Fiscal asistirá, siempre que a ello sea citado
+c) El Fiscal aunque hubiese sido citado, podrá dejar de asistir al juicio cuando la persecución del delito leve exija la denuncia del ofendido o perjudicado.
+d) No será necesaria la asistencia del Fiscal, en ningún caso.
+
+2) La querella que dé lugar a un juicio sobre delito leve: G99
+a) Deberá reunir los mismos requisitos que las presentadas cuando el hecho punible pueda calificarse como delito.
+b) Deberá tener sólo el requisito de ser presentada por medio de Procurador con poder bastante y suscrita por Letrado
+c) Deberá reunir los requisitos que se exigen a las presentadas para el caso de que el hecho punible pueda calificarse como delito, salvo que no necesite la firma de Abogado ni de Procurador.
+d) Debe tener sólo la relación circunstanciada del hecho.
+
+3) El presunto culpable de un delito leve, que resida fuera de la demarcación del Juzgado: G99-mod
+a) Tiene siempre, obligación de concurrir al acto del juicio
+b) Puede apoderar sólo a Procurador, para que presente, en el acto del juicio, las pruebas de descargo que tuviere
+c) Puede apoderar persona que presente, en el acto del juicio, las pruebas de descargo que tuviere.
+d) Puede apoderar a Abogado, para que presente en el acto del juicio las pruebas de descargo que tuviere.
+
+4) La sentencia dictada en juicio sobre delitos leves: T99
+a) Es apelable en el plazo de los tres días siguientes al de su notificación.
+b) Es apelable en el plazo de los cinco días siguientes al de su notificación
+c) No es susceptible de ningún recurso
+d) No es recurrible en apelación
+
+5) El Procedimiento Abreviado: T99
+a) Se incluyó en la Ley de Enjuiciamiento Criminal mediante Ley Orgánica 7/1988, de 28 de diciembre
+b) Se incluyó en la Ley de Enjuiciamiento Criminal mediante Ley Orgánica 10/1980, de 11 de noviembre
+c) Siempre ha estado regulado en la Ley de Enjuiciamiento Criminal
+d) No está regulado en la Ley de Enjuiciamiento Criminal
+
+6) Cuando el Juez de guardia dicte auto acordando inhibición a la jurisdicción militar, en el mismo acordará lo que proceda sobre la adopción de medidas cautelares frente al investigado, frente al pronunciamiento del Juez sobre medidas cautelares, ¿qué recurso cabe?:
+a) Recurso de apelación
+b) Recursos de reforma y apelación
+c) Recurso de queja.
+d) No cabe recurso alguno
+
+7) En qué caso, de entre los señalados, puede un Juez o Tribunal dejar en suspenso la ejecución de una pena privativa de libertad: T01
+a) Cuando la pena impuesta no sea superior a dos años
+b) Cuando la pena impuesta se hay cumplido en prisión preventiva
+c) Cuando tenga ya otra pena suspendida por el mismo motivo
+d) Cuando se trate únicamente de penas consideradas como leves
+
+8) En un juicio sobre delitos leves, a la citación que se haga por la policía judicial a la persona denunciada se le informará, según el art. 962 de la LECr:
+a) Por escrito, entregando copia de la denuncia
+b) Verbalmente, relacionando sucintamente los hechos en que consista la denuncia
+c) Por escrito, sucintamente de los hechos en que consista la denuncia.
+d) Ninguna de las respuestas anteriores es correcta.
+
+9) ¿En qué pasos podrá el Juez disponer la celebración del juicio sobre delitos leves fuera del local del Juzgado, en el punto en que se considere conveniente?: G02
+a) Nunca
+b) Cuando algún testigo importante, que resida dentro del término municipal, estuviere físicamente impedido de concurrir al local del Juzgado
+c) Sólo cuando lo solicitaren todas las partes personadas
+d) Ninguna de las respuestas anteriores es correcta
+
+10) El Juez de Instrucción, en el acto del juicio sobre delitos leves, puede declarar la firmeza: G01
+a) En ningún caso
+b) Si las partes, conocido el fallo, expresan su decisión de no recurrir
+c) Si las partes, en su informe, expresan su decisión de no recurrir
+d) Si las partes, como cuestión previa, expresan su decisión de no recurrir
+
+11) El plazo máximo para dictar sentencia en un juicio sobre delitos leves es de: G01
+a) Un día
+b) Tres días
+c) Cinco días
+d) Diez días
+
+12) En el juicio sobre delitos leves la ausencia injustificada del acusado citado con las formalidades prescritas en la Ley: G03
+a) Suspenderá la celebración del juicio, en todo caso
+b) Suspenderá la celebración del juicio sólo en el supuesto de que lo solicite el Ministerio Fiscal
+c) No suspenderá la celebración del juicio, a no ser que el Juez, de oficio o a instancia de parte, crea necesaria la declaración de aquél
+d) No suspenderá la celebración del juicio, aunque sí su resolución hasta que no sea oído
+
+13) En un juicio rápido, cumplidos los requisitos que la Ley exige, y en caso de que el acusado preste su conformidad con la pena solicitada por el Ministerio Fiscal: A03
+a) El Juez de Instrucción dictará sentencia en los términos solicitados por el Ministerio Fiscal
+b) El Juez de Instrucción dictará sentencia imponiendo la pena solicitada por el Ministerio Fiscal reducida en un tercio
+c) El Juez de Instrucción, sin más trámites, citará a las partes para la celebración del juicio oral ante el Juzgado de lo Penal correspondiente
+d) El acusado presentará su escrito de defensa
+
+14) Cuando un supuesto no está previsto expresamente en las normas del procedimiento abreviado rápido para determinados delitos, ¿qué procedimiento se aplicará supletoriamente?: G07
+a) El procedimiento ordinario
+b) La Ley de Enjuiciamiento Civil
+c) Cualquier norma análoga a la Ley de Enjuiciamiento Criminal
+d) El Procedimiento abreviado normal
+
+15) ¿Hasta qué pena privativa de libertad se puede aplicar el Procedimiento Abreviado Rápido para determinados Delitos?: G07
+a) Delitos castigados con pena privativa de libertad que no exceda de cinco años
+b) Delitos castigados con pena privativa de libertad que no exceda de tres años
+c) Delitos castigados con pena privativa de libertad que no exceda de dos años
+d) Delitos castigados con pena privativa de libertad que no exceda de seis años
+
+16) En el procedimiento Abreviado Rápido para determinados delitos, es posible prestar conformidad ante el Juez de Guardia cuando no exista acusación particular y el Ministerio Fiscal hubiere solicitado la apertura del juicio oral y el Juez lo admite, cuando el Ministerio Fiscal presente escrito de acusación con una pena o suma de penas reducidas un tercio de dos años de prisión y cuando… T07
+a) Los hechos objeto de acusación hayan sido calificados como delito castigado con pena de hasta cinco años de prisión, con pena de multa cualquiera que sea su cuantía o con otra pena distinta naturaleza cuya duración no exceda de diez años
+b) Los hechos objeto de acusación hayan sido calificados como delito castigado con pena de dos a cinco años de prisión, con pena de multa cualquiera que sea su cuantía o con otra pena distinta naturaleza cuya duración no exceda de diez años
+c) Los hechos objeto de acusación no lleven aparejada pena superior a un año de prisión, con pena de multa cualquiera que sea su cuantía o con otra pena distinta naturaleza cuya duración no exceda de diez años
+d) Los hechos objeto de acusación hayan sido calificados como delito castigado con pena de hasta tres años de prisión, con pena de multa cualquiera que sea su cuantía o con otra pena distinta naturaleza cuya duración no exceda de diez años
+
+17) En un juicio sobre delitos leves, ¿Cuando el denunciado no tiene la obligación de acudir al juicio y puede dirigir escrito alegando lo que a su derecho convenga para su defensa, y apoderar a un abogado o procurador para que le presente en el juicio las alegaciones y pruebas en su descargo?: T07
+a) Siempre que sea menor de edad
+b) Cuando se trata de una falta privada
+c) Cuando reside fuera de la demarcación del juzgado
+d) Cuando tiene un trabajo inexcusable o se encuentra enfermo
+
+18) ¿Cuál es la cuantía de la multa con que el Juez puede sancionar a las partes, testigos y peritos que no comparecen ni alegan justa causa en el juicio sobre delitos leves: T07
+a) Multa de 200 a 2000 euros
+b) Multa de 50 a 250 euros
+c) Multa de 50 a 500 euros
+d) Multa de 200 a 1500 euros
+
+19) ¿Cuál de estas delitos leves es susceptible de ser enjuiciadas por el procedimiento de delito leve inmediato?: T07
+a) Delito Leve del artículo 618 del Código Penal, incumplimiento de convenios matrimoniales o sentencias
+b) Delito Leve del artículo 172 del Código Penal, Coacciones
+c) Delito Leve del artículo 249 del Código Penal, Estafa
+d) Delito Leve del artículo 556 del Código Penal, Falta de respecto de la autoridad
+
+20) La ejecución de las sentencias en los juicios sobre delitos leves corresponde: G07
+a) Al Juzgado de Instrucción que haya conocido en apelación de la falta
+b) Órgano que haya conocido del juicio en primera instancia
+c) Juzgado de instrucción o Juzgado de lo Penal que hay conocido en primera instancia
+d) Juzgado de Paz en todo caso
+
+21) La notificación de la Sentencia que ponga término al Juicio por Delito Leve, se hará constar: T07
+a) Los recursos procedentes contra la resolución comunicada y plazo para su presentación
+b) El plazo para la presentación de los recursos que contra dicha resolución quepan y órgano judicial ante quien deban interponerse
+c) Los recursos procedentes contra la resolución comunicada y órgano judicial ante quien deba interponerse
+d) Los recursos procedentes contra la resolución comunicada así como el plazo para su presentación y órgano judicial ante quien deba interponerse
+
+22) La Ley de Enjuiciamiento Criminal señala que el Juez de lo Penal, en el procedimiento para enjuiciamiento rápido de determinados delitos, dictará sentencia: T07
+a) Dentro de los 5 días siguientes a la finalización del juicio oral
+b) Dentro de los 3 días siguientes a la finalización del juicio oral
+c) En el mismo día o en el día siguiente a la finalización de la vista
+d) Dentro de los 10 días siguientes a la finalización de la vista oral
+
+23) ¿Quién cita al denunciado cuando no se haya procedido a su detención en el procedimiento para el enjuiciamiento rápido de determinados delitos? G07
+a) El Secretario Judicial una vez recibidas las actuaciones en el Juzgado de Guardia
+b) El funcionario del Cuerpo de Auxilio Judicial
+c) El funcionario del Cuerpo de Gestión Procesal y Administrativa
+d) La Policía Judicial
+
+24) En el procedimiento para el enjuiciamiento rápido de determinados delitos, si el Juez considera que las diligencias practicadas son insuficientes, debe acordar: G07
+a) La devolución del procedimiento a la Policía Judicial
+b) El sobreseimiento del procedimiento para la práctica de nuevas diligencias
+c) Nuevas diligencias a practicar por el propio órgano manteniendo el mismo procedimiento
+d) La continuación del procedimiento como Diligencias Previas del procedimiento abreviado
+
+25) ¿La Audiencia Provincial es competente para conocer en primera instancia del procedimiento para el enjuiciamiento rápido de determinados delitos dentro del ámbito del Procedimiento Abreviado? T07
+a) No, nunca
+b) Sí
+c) Únicamente será competente si el delito está castigado con pena privativa de libertad superior a 5 años
+d) Solamente conocerá de estos procedimientos cuando alguno de los acusados esté privado de libertad
+
+26) ¿Podría hacerse verbalmente por la Policía Judicial una citación sin perjuicios de dejar constancia de su contenido levantado el acta correspondiente? T09
+a) Nunca las diligencias judiciales verbales no tienen validez
+b) Las citaciones judiciales verbales no pueden efectuarse nunca por la Policía Judicial
+c) Sí, si la urgencia lo requiere y actuando en el procedimiento para el enjuiciamiento rápido de determinados delitos o delitos leves
+d) Las citaciones judiciales verbales siempre son válidas
+
+27) En el orden jurisdiccional penal, en el juicio de faltas, cuando el juicio oral no pueda concluirse en un solo acto, ¿determina la Ley algún plazo o requisito para la continuación de la celebración del juicio oral? A10
+a) La Ley no marca ningún plazo, el más inmediato posible
+b) Será el Juez de Instrucción quien examinará los requisitos exigidos por la Ley y el Secretario Judicial señalará para su continuación el día más inmediato, que no podrá ser superior a los veinte días, con validez de lo actuado
+c) Será el Juez de Instrucción quien examinará los requisitos exigidos por la Ley y el Secretario Judicial señalará para su continuación el día más inmediato, que no podrá ser superior a los diez días, con validez de lo actuado
+d) El Secretario Judicial señalará para su continuación el día más inmediato posible, dentro de los siete siguientes, haciéndolo saber a los interesados
+
+28) En los Juicios rápidos el señalamiento para la celebración del Juicio Oral lo hará: T10
+a) El Secretario del Juzgado de lo penal en la fecha más próxima posible, y en cualquier caso dentro de los quince días siguientes, en los días y horas predeterminados a tal fin
+b) El Secretario del Juzgado de Guardia en la fecha más próxima posible, y en cualquier caso dentro de los quince días siguientes, en los días y horas predeterminados a tal fin en los órganos judiciales
+c) El Secretario del Juzgado de lo Penal, en la fecha que estime conveniente
+d) El Juez de Guardia en la fecha más próxima posible, y en cualquier caso dentro de los quince días siguientes, en los días y horas predeterminados a tal fin en los órganos judiciales enjuiciadores
+
+29) En el procedimiento establecido en los arts. 795 y siguientes de la Ley de Enjuiciamiento Criminal para el enjuiciamiento rápido de delitos flagrantes no será aplicable: T09
+a) A los daños referidos en el artículo 263 del Código Penal
+b) A los delitos contra la salud pública prevista en el art. 368, inciso segundo, del Código Penal
+c) A los delitos de falsificación de documentos públicos
+d) A los delitos de hurto y robo de uso de vehículos
+
+30) En la pena de localización permanente dictada por un Juez de Instrucción en un juicio por delito leve, la realización del plan de ejecución de dicha pena para hacer efectiva su cumplimiento corresponde: T09
+a) Al Ministerio Fiscal
+b) Al Juez de Vigilancia Penitenciaria
+c) Al Juez de Instrucción que ha dictado la sentencia
+d) Al establecimiento penitenciario del lugar donde el penado tenga fijada su residencia
+
+31) ¿Qué beneficio consigue el acusado que presta su conformidad dentro del procedimiento para el enjuiciamiento rápido de determinados delitos: G14
+a) La reducción de un tercio de la pena solicitada, siempre que no suponga la imposición de una pena inferior al límite mínimo previsto en el Código Penal
+b) La reducción de un tercio de la pena solicitada, aun cuando suponga la imposición de una pena inferior al límite mínimo previsto en el Código Penal
+c) La reducción de un tercio de la cuantía de las responsabilidades civiles
+d) La suspensión de la ejecución sin tener en cuenta las responsabilidades civiles originadas
+
+32) Cuando el Juez de Guardia, en las diligencias urgentes de juicio rápido, considere suficientes las diligencias practicadas y reputare falta el hecho que hubiere dado lugar a la formación de la causa: G14
+a) Procederá a su enjuiciamiento inmediato
+b) Dictará auto quedando pendiente de señalamiento
+c) Dictará auto acordando la apertura de juicio oral
+d) Procederá a su remisión al Juzgado Decano para su reparto entre los Juzgados de Instrucción
+
+33) La sentencia que se dicte en el juicio por delito leve deberá ser notificada entre otros: T12
+a) A las partes, sólo si personadas formalmente, concurren al acto del juicio oral
+b) A los ofendidos y perjudicados por el delito leve
+c) A las víctimas del delito leve, sólo si están personadas formalmente
+d) A los testigos que citados al efecto, comparecieron al acto del juicio oral
+
+34) En el juicio por delito leve, si el denunciado reside fuera de la demarcación del Juzgado: T10
+a) Tiene obligación de concurrir al acto del juicio
+b) Tiene la obligación de designar abogado
+c) Tiene la obligación de apoderar a Procurador que le represente pero no de designar Abogado.
+d) No tiene la obligación de concurrir al acto del juicio y podrá dirigir al Juez escrito alegando lo que estime conveniente para su defensa
+
+35) Las citaciones para la celebración de Juicio Inmediato de Delito Leve: T10
+a) Las practicará el Secretario Judicial del Juzgado de Guardia
+b) La practicará al Policía Judicial
+c) Las practicará el Servicio Común de Notificaciones y Embargos donde los haya
+d) Las practicará el funcionario del Cuerpo de Auxilio Judicial del Juzgado de Guardia
+
+36) Cabe incoar Diligencias Urgentes/Juicio Rápido: T11
+a) En virtud de denuncia interpuesta en dependencias policiales
+b) En virtud de denuncia o querella de particular si la instrucción es sencilla
+c) En virtud de denuncia formulada en el Juzgado de Guardia
+d) Este procedimiento sólo puede iniciarse en virtud de atestado policial
+
+37) Según el artículo 973 de la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes afirmaciones no es correcta en relación a la sentencia dictada en el Juicio por Delito Leve?: G12
+a) La sentencia se dictará en el acto de finalizar el juicio y a no ser posible dentro de los tres días siguientes
+b) La sentencia se notificará a los ofendidos y perjudicados por la falta, aunque no se hayan mostrado parte en el procedimiento
+c) En la sentencia se harán constar los recursos procedentes contra la misma, así como el plazo para su presentación y el órgano judicial ante quien deba interponerse
+d) La sentencia que condene al pago de la responsabilidad civil puede dejar sin fijar su importe
+
+38) ¿Cuál de los siguientes no es requisito necesario para que pueda dictarse sentencia de conformidad en el enjuiciamiento rápido de determinados delitos?: G12
+a) Que, en el caso de solicitarse varias penas, ninguna de ellas supere, reducida un tercio, los dos años de prisión, aunque la suma de todas ellas superen el límite
+b) Que la duración de las penas que no sean privativas de libertad no excedan de diez años
+c) Que el Ministerio Fiscal haya presentado escrito de acusación tras haber acordado el Juez de guardia la apertura del juicio oral, sin que se hubiere constituido acusación particular
+d) Que la pena solicitada reducida un tercio suponga la imposición de una pena inferior al límite mínimo previsto en el Código Penal
+
+39) ¿Cuál de las siguientes afirmaciones no es correcta en las especialidades previstas para la impugnación de la sentencia dictada en el procedimiento para el enjuiciamiento rápido de determinados delitos?: G12
+a) La sentencia habrá de dictarse dentro de los cinco días siguientes a la celebración de la vista
+b) El plazo para presentar el escrito de alegaciones será de cinco días para las partes que no hayan impugnado la sentencia
+c) La tramitación y resolución de este recurso tendrá carácter preferente
+d) El plazo para presentar el escrito de formalización será de cinco días
+
+40) En el juicio inmediato por delito leve ante el Juzgado de guardia: G12
+a) Es necesario que comparezcan todas las personas citadas por la Policía Judicial
+b) El asunto debe corresponder al Juzgado de guardia en virtud de las normas de competencia y de reparto
+c) El procedimiento no puede iniciarse en virtud de denuncia presentada directamente por el ofendido ante el órgano judicial
+d) El juicio debe celebrarse durante la prestación del servicio de guardia
+
+41) Según el artículo 976 de la Ley de Enjuiciamiento Criminal, la sentencia dictada en el Juicio por Delito Leve es apelable en el plazo de: G11
+a) Tres días siguientes al de su notificación
+b) Dos días siguientes al de su notificación
+c) Al día siguiente hábil de su notificación
+d) Cinco días siguientes al de su notificación
+
+42) Según el artículo 796 de la Ley de Enjuiciamiento Criminal, ¿cuál de las diligencias no está expresamente previsto que efectúe la Policía Judicial en el procedimiento para el enjuiciamiento rápido de determinados delitos? G11
+a) Recabar del Colegio de Abogados la designación de un letrado de oficio
+b) Practicar el reconocimiento en rueda del imputado
+c) Remitir al Instituto Nacional de Toxicología las sustancias aprendidas, cuyo análisis resulte pertinente
+d) Solicitar inmediatamente la presencia del perito para tasar algún objeto
+
+43) Según el artículo 800 de la Ley de Enjuiciamiento Criminal, abierto del juicio oral, si no se hubiera constituido acusación particular, el Ministerio Fiscal presentará su escrito de acusación en un plazo de: G11
+a) Dos días
+b) Cinco días
+c) Un día
+d) De inmediato
+
+44) En un juicio por delito leve ¿cómo se inicia el acto del Juicio Oral?: G09
+a) El Juez empezará preguntando al imputado si se confiesa rea de la falta que se le imputa
+b) Se empezará concediendo la palabra al Ministerio Fiscal para que formalice la acusación
+c) Se empezará por el interrogatorio de los testigos propuestos por el querellante o denunciante
+d) Se empezará dando lectura a la querella o denuncia
+
+45) En el procedimiento para el enjuiciamiento rápido de determinados delitos, si el Juez de guardia dicta un auto de apertura del juicio oral sólo a instancia de la acusación particular ¿qué acordará en el mismo auto?: G09
+a) Señalará fecha para la celebración del juicio oral, que se celebrará sin la asistencia del Ministerio Fiscal
+b) Emplazará únicamente a la acusación particular para que presente escrito de acusación en el plazo de dos días
+c) Emplazará a la acusación particular y al Ministerio Fiscal para que presenten sus escritos en el plazo improrrogable y no superior a dos días
+d) Dará traslado al letrado del imputado para que formule escrito de defensa respecto al escrito presentado, señalando en el mismo acto fecha para la celebración del juicio oral
+
+46) Según la Ley de Enjuiciamiento Criminal y en el procedimiento de enjuiciamiento rápido de determinados delitos, si el Ministerio Fiscal no presentase escrito de acusación en el plazo legal establecido, ¿qué debe hacer el Juez a la vista de esto?: G09
+a) Dictar auto de sobreseimiento libre, al entender que el Ministerio Fiscal no pide la apertura del juicio oral
+b) Requerir al Fiscal para que presente escrito de acusación en ese mismo día
+c) Requerir al inmediato superior jerárquico del Fiscal para que en el plazo de dos días presente el escrito que proceda
+d) Citar a las partes para la celebración del juicio oral que se celebrará en todo caso haya presentado escrito de acusación el Fiscal o no
+
+47) En caso de decretarse secreto de las actuaciones en el juicio rápido al que nos venimos refiriendo, éste lo será por un plazo máximo de:
+a) Un mes
+b) Quince días
+c) Treinta días
+d) No es posible en este tipo de procedimientos.
+
+48) Contra el auto de incoación de diligencias urgentes cabe:
+a) Recurso de reforma y subsidiario de apelación
+b) Recurso de reforma
+c) Recurso de apelación
+d) Ningún recurso.
+
+49) Iniciado el procedimiento para el enjuiciamiento rápido de determinados delitos, en la fase de diligencias urgentes se practicarán las diligencias establecidas en el art. 797 de la LECr:
+a) Por el orden establecido en el referido precepto
+b) Por el orden en que se solicite por las partes
+c) Por el orden que el Juez considere más conveniente
+d) Ninguna respuesta es cierta.
+
+50) En el caso de que la suspensión de la pena privativa de libertad hubiera sido acordada de conformidad con lo dispuesto en el artículo 81 del Código Penal, en los casos de sentencia de conformidad, el plazo de suspensión será:
+a) De dos años
+b) De tres años
+c) De dos a cinco años.
+d) Ninguna respuesta es cierta.
+
+51) La práctica de los controles de alcoholemia:
+a) Se ajustará a lo establecido en la legislación de seguridad vial
+b) Se ajustará a lo establecido en la LECriminal
+c) Se ajustará a lo establecido en el Código Penal
+d) Se ajustará a lo establecido en el Reglamento de Policía Judicial.
+
+52) Para la comparecencia a realizar en el Juzgado de Guardia, los miembros de las Fuerzas y Cuerpos de Seguridad:
+a) No habrán de ser citados si han intervenido en el atestado cuando su declaración conste en el mismo
+b) No habrán de ser citados si han intervenido en el atestado aunque su declaración no conste en el mismo
+c) Nunca han de ser citados
+d) Siempre han de ser citados con los apercibimientos legales.
+
+53) Fijará el día y hora ara la celebración de la comparecencia necesaria para la práctica de diligencias urgentes en el juzgado de Guardia:
+a) La Policía Judicial que realiza el atestado
+b) El Juzgado de Guardia a quien corresponda el conocimiento del procedimiento
+c) La Policía Judicial coordinadamente con el Juzgado de Guardia
+d) Ninguna respuesta es cierta.
+
+54) A los efectos de la aplicación del procedimiento de enjuiciamiento rápido, cuando la Policía Judicial tuviera conocimiento de la comisión de un hecho incardinable en alguna de las circunstancias previstas legalmente, no habiendo sido detenido ni localizado el presunto responsable, fuera no obstante previsible su rápida identificación y localización, continuará las investigaciones iniciadas, que se harán constar en un único atestado, el cual se remitirá al juzgado de guardia tan pronto como el presunto responsable sea detenido o citado de acuerdo con lo previsto en los apartados anteriores, y en cualquier caso, dentro de los:
+a) Tres días siguientes
+b) Cinco días siguientes.
+c) Dos días siguientes
+d) Cuatro días siguientes.
+
+55) El abogado designado para la defensa en unas diligencias urgentes:
+a) No ostentará la representación, siendo necesaria la intervención de Procurador
+b) No ostentará la representación, aunque tampoco es necesaria la intervención de Procurador
+c) Tendrá también habilitación legal para la representación de su defendido en todas las actuaciones que se verifiquen ante el juez de guardia
+d) Tendrá también habilitación legal para la representación de su defendido en todo el curso del proceso ante cualquier órgano judicial.
+
+56) En los procesos de juicio rápido para el enjuiciamiento de determinados delitos, las pruebas para detectar la presencia de drogas tóxicas, estupefacientes y sustancias psicotrópicas en los conductores de vehículos a motor y ciclomotores: señale la incorrecta
+a) Serán realizadas por agentes de la policía judicial de tráfico con formación específica y sujeción, asimismo, a lo previsto en las normas de seguridad vial
+b) El conductor deberá someterse obligatoriamente al test indiciario salival
+c) Si el conductor presente signos de haber consumido las sustancias referidas, estará obligado a facilitar saliva en cantidad suficiente, que será analizada en laboratorios homologados, garantizándose la cadena de custodia
+d) Todas las respuestas anteriores son correctas
+
+57) En los procesos de juicio rápido para el enjuiciamiento de determinados delitos, abierto el juicio oral, sin acusación particular, el acusado a la vista de la acusación formulada por el Ministerio Fiscal:
+a) Podrá en el mismo acto prestar su conformidad.
+b) Presentar dentro de los cinco días siguientes su escrito de defensa
+c) Formulará su defensa oralmente.
+d) Todas las respuestas son correctas.
+
+58) La competencia territorial de los Juicios por delito leve viene regida por:
+a) El lugar de presentación de la denuncia.
+b) El lugar donde se dio la primera asistencia hospitalaria.
+c) El juzgado del domicilio de la víctima.
+d) Las normas comunes de la Ley de Enjuiciamiento Criminal.
+
+59) Respecto al acta de juicio por delito leve:
+a) Será firmado por el Juez, Ministerio Fiscal y Secretario, extendiéndose un acta diaria
+b) Será firmado por todos los concurrentes que puedan hacerlo, extendiéndose un acta por cada juicio por delito leve
+c) Será firmado por todos los concurrentes que puedan hacerlo, extendiéndose un acta diaria
+d) Ninguna respuesta es cierta.
+
+60) El juicio por delitos leves será:
+a) Público
+b) Privado
+c) Generalmente a puerta cerrada
+d) No se regula en la normativa específica del juicio por delito leve sí será o no un acto público
+
+61) De conformidad con el artículo 800 LECrim, en relación con la sentencia de conformidad , señale la incorrecta:
+a) Para acordar, en su caso, la suspensión de la pena privativa de libertad bastará con el compromiso del acusado de satisfacer las responsabilidades civiles que se hubieren originado en el plazo que fije el Juzgado de lo Penal que corresponda.
+b) Si hubiere acusador particular en la causa, el acusado podrá, en su escrito de defensa, prestar su conformidad con la más grave de las acusaciones.
+c) Dictada sentencia de conformidad, el Juez de guardia acordará lo procedente sobre la puesta en libertad o el ingreso en prisión del condenado y realizará los requerimientos que de ella se deriven.
+d) Finalmente, el Secretario judicial remitirá las actuaciones junto con la sentencia redactada al Juzgado de lo Penal que corresponda, que continuará su ejecución
+
+62) En el Procedimiento para el enjuiciamiento rápido de determinados delitos, en el curso del juicio oral, la práctica de prueba se realizará:
+a) En una única sesión
+b) Concentradamente
+c) En un máximo de tres sesiones consecutivas
+d) Como máximo durante el periodo de guardia
+
+63) En el Procedimiento para el enjuiciamiento rápido de determinados delitos, planteada al comienzo del juicio oral por las partes, por ejemplo, la vulneración de algún derecho fundamental, el Juez o Tribunal:
+a) Resolverá mediante auto en plazo no superior a dos días
+b) Resolverá mediante auto en plazo no superior a tres días
+c) Resolverá mediante auto en plazo no superior a cinco días
+d) Resolverá en el mismo acto lo procedente
+
+64) En un juicio sobre delitos leves, a la citación que se efectúe al investigado se acompañará, según el art. 967 de la LECr:
+a) Copia de la querella o denuncia que se haya presentado
+b) Copia de la denuncia que se haya presentado, en todo caso.
+c) Relación sucinta de los hechos en que consista la denuncia, por escrito.
+d) Ninguna de las respuestas anteriores es correcta
+
+65) El procedimiento para el enjuiciamiento rápido de determinados delitos, cuando concurran los requisitos establecidos en el artículo 795 de la LECrim, no será aplicable a: G16
+a) Delitos contra la seguridad del tráfico.
+b) Delitos de robo.
+c) Delitos de coacciones cometidos contra los ascendientes del cónyuge o conviviente.
+d) Delitos de estafa
+
+66) En el procedimiento para el enjuiciamiento rápido de determinados delitos, si se hubiere constituido acusación particular una vez acordada por el Juez de guardia la apertura de juicio oral, si el Ministerio Fiscal no presentara el escrito de calificación en el momento establecido en el artículo 800.4 de la LECrim, el Juez de guardia: G16
+a) Requerirá inmediatamente al superior jerárquico del Fiscal para que, en el plazo de 2 días, presente el escrito que proceda.
+b) Dictará auto de sobreseimiento provisional.
+c) Dictará auto de sobreseimiento libre.
+d) Dictará auto acordando tener al Ministerio Fiscal por apartado de la acusación.
+
+67) Conforme a lo preceptuado en el artículo 962 de la LECrim del procedimiento para el juicio por delitos leves, indicar cuál de las siguientes afirmaciones no es correcta respecto a los apercibimientos que se harán a las personas citadas a la celebración de juicio de: T16
+a) Las consecuencias de no comparecer ante el Juzgado de guardia
+b) Que podrá celebrarse el juicio de forma inmediata en el Juzgado de guardia, incluso aunque no comparezca.
+c) Que han de comparecer con los medios de prueba de que intenten valerse.
+d) Que en caso de no comparecer sin alegación de justa causa, el Letrado de la Administración de Justicia de guardia hará el señalamiento para la celebración del Juicio Oral en la fecha más próxima posible.
+
+68) Respecto del procedimiento para el enjuiciamiento rápido de determinados delitos regulado en el artículo 795 y siguientes de la LECrim indicar cuál de las siguientes afirmaciones es correcta: T16
+a) Se aplicará en la instrucción y el enjuiciamiento de delitos castigados con pena privativa de libertad que no exceda en ningún caso de tres años.
+b) Se aplicará exclusamente cuando se trate de delitos flagrantes.
+c) Este procedimiento será de aplicación a todos los delitos conexos no comprendidos en este Título.
+d) No se aplicará este procedimiento en aquellos casos en que sea procedente acordar el secreto las actuaciones, conforme a lo establecido en el artículo 302 de la Ley de Enjuiciamiento Criminal.
+
+69) Las citaciones para la celebración del juicio sobe delitos leves, se harán: T16
+a) Únicamente al Ministerio Fiscal
+b) Al Ministerio Fiscal, al querellante o denunciante, si lo hubiere, al denunciado y a los testigos y peritos que puedan dar razón de los hechos
+c) Sólo al querellante o denunciante, si lo hubiere, y a la acusación popular
+d) Únicamente al denunciado
+
+70) En el procedimiento para el enjuiciamiento rápido de determinados delitos, dispondrá que se le dé traslado de copia del atestado al abogado designado para la defensa:
+a) El Juez, una vez incoadas diligencias urgentes.
+b) El Letrado de la Administración de Justicia, una vez incoadas diligencias urgentes.
+c) La Policía Judicial, antes de la remisión al Juzgado de Guardia
+d) Ninguna respuesta es correcta.
+
+71) Las diligencias señaladas en el art. 799 LECr, tomar declaración testigos, ofrecimiento de acciones al ofendido o perjudicado, reconocimiento en rueda del investigado, careo entre testigos etc…, deberán ser practicadas:
+a) En todo caso, durante el servicio de guardia del Juzgado de Instrucción.
+b) En aquellos partidos judiciales en que el servicio de guardia sea permanente y tenga una duración de 24 horas, podrán prorrogarse por el Juez por un periodo adicional de 48 horas desde la finalización del servicio de guardia.
+c) En aquellos partidos judiciales en que el servicio de guardia no sea permanente y tenga una duración superior a 24 horas, podrán prorrogarse por el Juez por un periodo adicional de 48 horas en aquellas actuaciones en las que el atestado se hubiera recibido dentro de las 24 horas anteriores a la finalización del servicio de guardia.
+d) En aquellos partidos judiciales en que el servicio de guardia no sea permanente y tenga una duración superior a 24 horas, podrán prorrogarse por el Juez por un periodo adicional de 72 horas en aquellas actuaciones en las que el atestado se hubiera recibido dentro de las 48 horas anteriores a la finalización del servicio de guardia.
+
+72) En el procedimiento de delito leve inmediato, recibido el atestado, si el juez estima procedente incoación del juicio y adoptara el sobreseimiento del procedimiento y archivo de las diligencias, en este acaso a todos aquellos que hubieran sido citados por la Policía Judicial:
+a) Comunicará inmediatamente el sobreseimiento del procedimiento.
+b) Comunicará inmediatamente la suspensión del juicio
+c) Comunicará la suspensión del juicio, cuando éstos comparezcan.
+d) Comunicará el sobreseimiento del procedimiento, cuando éstos comparezcan.
+
+73) Para el enjuiciamiento de delitos leves se aplicarán las reglas generales de defensa y representación:
+a) Nunca, sin perjuicio de ser asistido por el abogado si lo desean.
+b) Que lleven aparejada pena de multa cuy límite máximo se dé al menos de 9 meses.
+c) Que lleven aparejada pena de multa cuy límite máximo se dé al menos de 6 meses.
+d) Que lleven aparejada pena de multa cuy límite máximo se dé al menos de 5 meses.
+
+74) En el procedimiento de enjuiciamiento rápido de determinados delitos, dictada sentencia de conformidad, el Juez de guardia: señale la incorrecta.
+a) Realizará los requerimientos que de ella se deriven.
+b) Acordará lo procedente sobre la puesta en libertad o el ingreso en prisión del acusado.
+c) Remitirá las actuaciones junto con la sentencia redactada al Juzgado de lo Penal que corresponda, que continuará su ejecución.
+d) Realizará el control de conformidad prestada y dictará, en su caso, dictará sentencia de conformidad, mediante escrito.
+
+75) En el procedimiento de enjuiciamiento rápido de determinados delitos, las partes podrán solicitar al Juzgado de guardia la citación de testigos o peritos que tengan intención de proponer para el acto del juicio:
+a) En todo caso, se acordará.
+b) No, hasta que no se admita la prueba testifical
+c) No, esta solicitud de pruebas se debe hacer ante el Juez de lo Penal correspondiente.
+d) En su caso, se acordará.

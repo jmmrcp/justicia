@@ -1,0 +1,455 @@
+1) El plazo para dictar sentencia en el proceso laboral es de: G95
+a) 1 día
+b) 5 días
+c) 8 días
+d) 10 días
+
+2) Indique cuáles de los siguientes procesos laborales quedan exceptuados, entre otros, del requisito de la conciliación previa para iniciar su tramitación: G99
+a) Los que versen sobre Seguridad Social, los relativos al disfrute de vacaciones y los de impugnación de convenios colectivos
+b) Los que versen sobre Seguridad Social y los relativos al disfrute de vacaciones, siendo preceptiva la conciliación previa en los de impugnación de convenios colectivos.
+c) Los que versen sobre Seguridad Social y los de impugnación de convenios colectivos, siendo preceptiva la conciliación en los relativos al disfrute de vacaciones
+d) Los relativos al disfrute de vacaciones y los de impugnación de convenios colectivos, siendo preceptiva la conciliación en los que versen sobre Seguridad Social
+
+3) En el procedimiento laboral la solicitud de embargo preventivo de bienes del demandado para cubrir lo reclamado deberá ser presentada: G99
+a) Necesariamente al presentar la demanda
+b) Necesariamente en el acto de conciliación
+c) Necesariamente con anterioridad al juicio, aunque se haya celebrado el acto de conciliación
+d) En cualquier momento del proceso antes de la sentencia
+
+4) En el proceso laboral, una vez comenzada la práctica de una prueba admitida, si renunciarse a ella la parte que la propuso, el órgano judicial: G99
+a) Acordará en todo caso su suspensión inmediata, sin ulterior recurso
+b) Acordará necesariamente su suspensión inmediata si está conforme la otra parte
+c) Podrá acordar que continúe su práctica, sin ulterior recurso
+d) Podrá acordar que continúe su práctica, pudiendo recurrir dicho acuerdo ambas partes.
+
+5) ¿En qué plazo caduca la acción de impugnar la validez de la avenencia en la Jurisdicción Social: T00
+a) A los quince días de la fecha de su celebración
+b) Al año de su celebración
+c) Esta acción no caduca
+d) Caduca a los treinta días de su celebración
+
+6) ¿En qué momento se presentan los escritos de preguntas y repreguntas para la prueba de interrogatorio de testigos ante la Jurisdicción Social?: T00
+a) Con la demanda o contestación
+b) En el periodo de proposición de la prueba
+c) No se admitirán de preguntas o repreguntas
+d) En el periodo de práctica de prueba
+
+7) ¿Cuál de los siguientes principios no es aplicable al proceso laboral?: A00
+a) Inmediación
+b) Oralidad
+c) Dilación
+d) Concentración
+
+8) En el procedimiento laboral ordinario, si la demanda fuese admitida, en la misma resolución de admisión a trámite el Secretario Judicial señalará el día y la hora en que hayan de tener lugar sucesivamente los actos de conciliación y juicio, debiendo mediar entre la citación y la celebración efectiva de dichos actos: G01-mod
+a) Un mínimo de cinco días
+b) Un mínimo de diez días
+c) Un mínimo de ocho días
+d) Un mínimo de seis días
+
+9) ¿Cuál de los siguientes contenidos de la demanda no está exigido expresamente en el artículo 80.1 de la Ley Reguladora de la Jurisdicción Social?: G01-mod
+a) La designación de representante
+b) El número del documento nacional de identidad del demandante
+c) La designación del órgano ante el que se presente
+d) Los domicilios del resto de interesados que deban ser llamados al proceso
+
+10) En relación con el procedimiento laboral sobre conflictos colectivos, indique la afirmación que no es verdadera: G01-mod
+a) Están legitimados para promoverlos los sindicatos cuyo ámbito de actuación se corresponda o sea más amplio que el del conflicto
+b) La demanda contendrá la designación general de los trabajadores y empresas afectados
+c) Este proceso tendrá carácter urgente
+d) Una vez iniciado, aunque se solvente el conflicto, el procedimiento continuará hasta su conclusión.
+
+11) Cuando, en un procedimiento laboral, surjan indicios de discriminación por razón de sexo, la carga de la prueba corresponderá… A03
+a) Al demandante
+b) Al demandado
+c) El Juez, de oficio, deberá recabar los informes pertinentes y, en base a ellos, resolver
+d) Debe darse traslado al Ministerio Fiscal para que éste, previa audiencia de los representantes sindicales y de las partes, informe sin concurre discriminación.
+
+12) La comparecencia de las partes en el proceso laboral ha de ser… A03
+a) Necesariamente por procurador
+b) Potestativamente por sí mismos o confiriendo la representación a procurador mediante poder especial
+c) Potestativamente por sí mismo o confiriendo la representación a procurador, graduado social colegiado o persona en el pleno ejercicio de sus derechos civiles.
+d) Necesariamente confiriendo la representación a procurador, graduado social colegiado o persona en el pleno ejercicio de sus derechos civiles.
+
+13) Los órganos jurisdiccionales del orden social no conocerán de las cuestiones litigiosas: G03
+a) Contra el Fondo de Garantía Salarial, en ningún caso
+b) En materia de Seguridad Social, salvo la protección por desempleo
+c) Contra las resoluciones dictadas por la Tesorería General de la Seguridad Social en materia de gestión recaudatoria
+d) En materia de régimen jurídico específico de los sindicatos en lo relativo a su funcionamiento interno.
+
+14) En el procedimiento laboral ordinario, las demandas que inicialmente no acompañen certificación del acto de conciliación previa: G03-mod
+a) Serán archivadas sin más trámites
+b) Serán admitidas provisionalmente por el Juez
+c) Serán devueltas al demandante para que lo subsane en el plazo de 15 días
+d) Serán admitidas provisionalmente por el Secretario Judicial, pudiendo subsanarse el defecto dentro del plazo quince días.
+
+15) La Ley de la Jurisdicción Social determina que las pruebas deben proponerse: G07
+a) Sólo en el escrito promoviendo la conciliación previa
+b) Sólo en el acto de la conciliación previa
+c) Antes o durante el acto del juicio
+d) Sólo en el acto del juicio
+
+16) La Ley de la Jurisdicción Social permite al demandado formular reconvención en el acto del juicio?: G07-mod
+a) No, en ningún caso y sin salvedad alguna
+b) Únicamente, cuando la hubiese anunciado en la conciliación previa al proceso o en la contestación a la reclamación previa.
+c) Sólo si la hubiese anunciado en la conciliación previa al proceso o en la contestación a la reclamación previa o resolución que agote la vía administrativa.
+d) Sí pero debe proponerla posteriormente a la contestación de la demanda.
+
+17) Lo acordado en el acto de conciliación previo al juicio en el Orden Social: G07
+a) Podrá ser impugnado por las partes y por quienes pudieran sufrir perjuicio por aquél, ante el Juzgado o Tribunal competente para conocer del asunto objeto de la conciliación
+b) Lo acordado en conciliación no tendrá fuerza ejecutiva entre las partes intervinientes sin la ratificación ante el Juez o Tribunal y no cabe impugnación alguna
+c) No cabe impugnación alguna, pues las partes manifestaron su acuerdo
+d) La acción de impugnación prescribe a los 15 días de aquél en que se acordó.
+
+18) En qué plazo se formulará la Demanda en un proceso de Seguridad Social, contando desde la fecha de notificación de la denegación de la Reclamación previa: G07
+a) 30 días
+b) Un mes
+c) 20 días
+d) Dos meses
+
+19) Será necesario para formular demanda en materia de la Seguridad Social que los interesados interpongan: G07
+a) Reclamación Previa ante la Entidad Gestora o Tesorería General de la Seguridad Social
+b) Demanda ante el Juzgado de lo Social
+c) Acuerdo contra el que el interesado se proponga demandar
+d) Alegaciones a la Resolución de la Entidad Gestora
+
+20) Los órganos jurisdiccionales del orden social: G02
+a) En ningún caso conocerán de cuestiones litigiosas que se promuevan contra el Estado, por tratarse de asuntos atribuidos a la jurisdicción contencioso-administrativa
+b) Pueden conocer de cuestiones litigiosas que se promuevan contra el Estado
+c) Conocerán de las cuestiones litigiosas que se promuevan en materia de Seguridad Social, excluida la protección por desempleo
+d) Ninguna de las respuestas anteriores es correcta.
+
+21) De conformidad con lo dispuesto en el art. 65 de la Ley de Jurisdicción Social, la presentación de la solicitud de conciliación previa: G02
+a) Interrumpirá los plazos de caducidad y de prescripción
+b) Suspenderá los plazos de caducidad y de prescripción
+c) Suspenderá los plazos de caducidad e interrumpirá los de prescripción
+d) Interrumpirá los plazos de caducidad y suspenderá los de prescripción.
+
+22) En el proceso laboral ordinario el Secretario Judicial advertirá a la parte de los defectos en que haya incurrido al redactar la demanda a fin de que los subsane en el plazo de: G02
+a) Tres días
+b) Cuatro días
+c) Cinco días
+d) Ochos días
+
+23) Ante el Juez de lo Social cuando no comparece el demandado, citado en legal forma, sin causa justificada: T09
+a) No impedirá la celebración del juicio que continuará sin necesidad de declarar su rebeldía
+b) Se declarará en rebeldía y se le tiene por precluido el plazo para contestar a la demanda
+c) Se declarará el acto de conciliación como intentando sin efecto y se señalará nueva fecha para celebrar el juicio
+d) Se suspenderá el juicio por una sola vez, señalándose nuevamente dentro de los 10 días siguientes a la fecha de la suspensión.
+
+24) Cuál de los siguientes actos no interrumpen la prescripción de la acción: T09
+a) La solicitud de Abogado por el turno de oficio
+b) La presentación de la solicitud de conciliación previa
+c) La reclamación previa
+d) El otorgamiento de poder de Abogado o Procurador.
+
+25) La conciliación con avenencia ante el órgano administrativo correspondiente entre un trabajador y una empresa: T09-mod
+a) Puede ser impugnado por las partes en el plazo de 60 días desde la adopción del acuerdo
+b) Tendrá fuerza ejecutiva entre las partes sin necesidad de ratificación ante el Juez o Tribunal
+c) No podrá ser impugnada por las partes ante el Juez o Tribunal competente
+d) Para que pueda llevarse a efecto por el trámite de ejecución de sentencia deberá ser notificado al Ministerio de Trabajo
+
+26) Podrá suspenderse el acto de conciliación y juicio ante el Secretario Judicial: T09-mod
+a) En ningún caso
+b) A petición de ambas partes o por motivos justificados
+c) A petición del trabajador únicamente
+d) A petición del Abogado del Estado, en todo caso.
+
+27) Admitida a trámite la demanda ante el Secretario Judicial de lo Social y señalado día y hora para celebrar la conciliación y juicio para citar al Abogado del Estado, deberá mediar, en todo caso: T09-mod
+a) Un mínimo de 4 días entre la citación y la efectiva celebración de dicho acto
+b) Un mínimo de 10 días
+c) Un mínimo de 15 días
+d) Un mínimo de 22 días
+
+28) La Ley de Jurisdicción Social establece que, desde que se deba entender agotada la vía administrativa, el interesado podrá formular la demanda: T09-mod
+a) En el plazo de 30 días ante el Juzgado o la Sala competente.
+b) En el plazo de dos meses ante el Juzgado o la Sala competente.
+c) En el plazo de un mes ante el Juzgado o la Sala competente.
+d) Ninguna respuesta es correcta, al ser requisito necesario interponer reclamación previa.
+
+29) La competencia de los Juzgados de lo Social se determinará de acuerdo con las siguientes reglas: T09
+a) Con carácter general será Juzgado competente el del lugar de prestación de los servicios o el del domicilio del demandado, a elección del demandante
+b) Con carácter general será Juzgado competente el del domicilio del demandante o del domicilio social de la empresa, a elección del demandante
+c) Siempre será Juzgado competente el del centro del trabajo
+d) Siempre será Juzgado competente el del domicilio del trabajo
+
+30) ¿Qué plazo concede la Ley de Jurisdicción Social a las partes para solicitar pruebas que habiendo de practicarse en el juicio, requieran diligencias de citación o requerimiento?: T10-mod
+a) Al menos diez días de antelación a la fecha del juicio
+b) Al menos cinco días de antelación a la fecha del juicio
+c) Al menos tres días de antelación a la fecha del juicio
+d) No pueden solicitar este tipo de pruebas.
+
+31) En el acto de conciliación para evitar el proceso laboral, cuando estando debidamente citadas las partes para dicho acto, no compareciese el solicitante ni alegare justa causa: G10
+a) Se tendrá la conciliación por intentada sin efecto
+b) Se tendrá por no presentada la papeleta, archivándose todo lo actuado
+c) El solicitante será declarado en rebeldía
+d) Se dictará auto teniendo por desistido al solicitante del intento de conciliación.
+
+32) En el proceso laboral, una vez admitida la demanda, ¿ante quien se celebra el acto de conciliación?: G10
+a) Ante el Secretario Judicial
+b) Ante el Juez
+c) Ante el servicio administrativo
+d) Ante el Ministerio Fiscal
+
+33) Según el artículo 75 de la Ley de Jurisdicción Social: A10
+a) Los órganos jurisdiccionales rechazarán de oficio, en resolución fundada, las peticiones formuladas con finalidad dilatoria.
+b) Los Secretarios Judiciales rechazarán, por decreto, las peticiones formuladas que entrañen abuso de derecho
+c) Los órganos judiciales rechazarán, a instancia de parte, las peticiones formuladas que entrañen abuso de derecho
+d) Los Secretarios Judiciales rechazarán, por decreto, las excepciones formuladas con finalidad dilatoria.
+
+34) En el proceso laboral donde no es parte la Administración Pública, se exceptúan del requisito de intento de conciliación previa los procesos que versen sobre: A11
+a) Vacaciones
+b) Reclasificación profesional
+c) Despidos disciplinarios
+d) Reclamaciones salariales
+
+35) En el procedimiento ordinario regulado en la Ley de Jurisdicción Social, si la demanda no se acompañara certificación del acto de conciliación previa, el Secretario Judicial advertirá el demandante que ha de acreditar la celebración o el intento del expresado acto, en el plazo máximo de: T12
+a) Tres días contados a partir del día siguiente a la recepción de la notificación
+b) Cinco días contados a partir del día siguiente a la recepción de la notificación
+c) Diez días contados a partir del día siguiente a la recepción de la notificación
+d) Quince días contados a partir del día siguiente a la recepción de la notificación
+
+36) Según establece el artículo 65 de la Ley de Jurisdicción Social, ¿qué plazo máximo, desde la fecha de presentación de la solicitud de conciliación previa por un despido disciplinario, tiene que transcurrir para que sin haberse celebrado el acto de conciliación previa, se tenga por terminado el procedimiento y cumplido el trámite: T12
+a) Veinte días
+b) Veinticinco días
+c) Treinta días
+d) Treinta y cinco días
+
+37) Contra la resolución judicial denegando la práctica de diligencias preliminares del proceso ordinario laboral.
+a) Reposición
+b) Reposición y suplicación
+c) Suplicación
+d) No cabe ningún recurso
+
+38) En el texto de la sentencia no se indicará:
+a) Si la misma es o no firme y en su caso, los recursos que proceden contra la misma
+b) En su caso, el órgano ante el que deben interponerse dichos recursos y el plazo y los requisitos no es necesario
+c) En su caso, los depósitos y las consignaciones que sean necesarios y la forma de efectuarlos.
+d) Todo lo anterior se indicará en la sentencia.
+
+39) La sentencia se publicará y notificará a las partes o a sus representantes, en el proceso ordinario social:
+a) Inmediatamente la publicación y notificándose dentro de los dos días siguientes
+b) Notificándose y publicándose dentro de los dos días siguientes
+c) Notificándose y publicándose inmediatamente o dentro de los dos días siguientes.
+d) Notificándose y publicándose inmediatamente a las partes.
+
+40) La práctica de la prueba pericial en un proceso ordinario laboral, se llevará a cabo:
+a) En todo caso, en el acto del juicio, presentando los peritos su informe y ratificándolo
+b) En el acto del juicio, presentando los peritos su informe y sin ratificación en el caso de las actuaciones obrantes en expedientes cuya aportación sea preceptiva.
+c) Al menos cinco días antes del acto del juicio, presentando los peritos su informe y ratificándolo
+d) Al menos cinco días antes del acto del juicio, presentando los peritos su informe al menos cinco días antes del juicio y ratificándolo en el juicio
+
+41) El órgano judicial podrá requerir la intervención de un médico forense en los casos en que sea necesario su informe:
+a) De oficio, en función de las circunstancias particulares del caso.
+b) A instancia de parte, en función de la especialidad requerida
+c) A instancia de parte o de oficio, en función de la necesidad de su intervención
+d) De oficio o a instancia de parte, a la vista de los reconocimientos e informes que se aporten posteriormente en las actuaciones.
+
+42) El incumplimiento de las obligaciones de colaboración con el proceso laboral y de cumplir las resoluciones de los Jueces y Tribunales y de los Secretarios Judiciales en su función de ordenación del procedimiento, darán lugar a la aplicación multas coercitivas…
+a) A los terceros, pudiendo ser oídos en justicia en el plazo de tres días siguientes a la notificación de la multa.
+b) A las partes, pudiendo ser oídos en justicia en el plazo de tres días siguientes a la notificación de la multa.
+c) A las partes o a los terceros, pudiendo ser oídos en justicia en el plazo de tres días siguientes a la notificación de la multa.
+d) A las partes, previa audiencia en el plazo de tres días siguientes a la notificación de la multa.
+
+43) En todos aquellos supuestos en que el examen de libros y cuentas se demuestre imprescindible para fundamentar la demanda o su oposición, quien pretenda demandar o prevea que vaya a ser demandado podrá solicitar la comunicación de dichos documentos…
+a) El órgano judicial resolverá por auto, dentro del segundo día, lo que estime procedente
+b) El Secretario Judicial resolverá mediante diligencia de ordenación, dentro del segundo día, lo que estime procedente.
+c) El órgano judicial resolverá por auto, dentro del tercer día, lo que estime procedente
+d) El Secretario Judicial resolverá mediante diligencia de ordenación, dentro del tercer día, lo que estime procedente.
+
+44) El Juez o Tribunal podrá recabar dictamen de los organismos públicos competentes cuando en el proceso se haya suscitado una cuestión:
+a) De discriminación por razón de edad
+b) Sobre la interpretación de un convenio
+c) Sobre materia de de prevención y salud laboral
+d) Correcta es la respuesta a y c
+
+45) ¿Cómo se propondrán las preguntas para la prueba de interrogatorio de parte?
+a) Verbalmente, con admisión de pliegos
+b) Por escrito, con una lista de preguntas que el tribunal declare pertinentes
+c) Verbalmente, sin admisión de pliegos
+d) Verbalmente en el mismo acto o por escrito antes de comenzar la prueba
+
+46) Si el pago de las prestaciones legalmente a cargo del Fondo de Garantía Salarial se hubiere producido con anterioridad al inicio de la ejecución en subrogación de los derechos y acciones de los trabajadores que figuren en el título ejecutivo, despachada la ejecución los trabajadores afectados, se les ofrecerá la posibilidad de constituirse como ejecutantes en el plazo de:
+a) Quince días
+b) Diez días
+c) Cinco días
+d) Veinte días
+
+47) En los supuestos de empresas incursas en procedimientos concursales, así como las ya declaradas insolventes o desaparecidas, el Fondo de Garantía Social deberá alegar aquellos motivos de oposición que se refieran a la existencia de la relación laboral, la estimación: señalar incorrecta
+a) De dichas alegaciones dará lugar a la exclusión o reducción de la deuda, afectando a todas las partes.
+b) De la caducidad o prescripción de la acción dará lugar a la absolución del empresario y del propio Fondo de Garantía, si hubiera alegado la caducidad.
+c) Si se apreciase interrupción de la prescripción por haber existido reclamación extrajudicial frente al empresario o reconocimiento por éste de la deuda, éstos no surtirán efectos interruptivos de la prescripción frente al Fondo de Garantía y se absolverá a éste
+d) El reconocimiento de deuda haya tenido lugar ante un servicio administrativo de mediación, arbitraje o conciliación, o en acta de conciliación en un proceso judicial, en cuyo caso la interrupción de la prescripción también afectará al Fondo de Garantía.
+
+48) Si no compareciera la otra parte, debidamente citada para el acto de mediación previo, sin alegar justa causa, se tendrá la mediación:
+a) Por intentada sin efecto y el Juez o Tribunal impondrá las costas del proceso, en su caso, a la parte que no hubiere comparecido sin causa justificada.
+b) Por no presentada la solicitud de mediación, archivándose todo lo actuado
+c) Por intentada sin efecto, archivándose todo lo actuado.
+d) Por intentada sin efecto y el Juez o Tribunal impondrá las costas del proceso a la parte que no hubiere comparecido sin causa justificada.
+
+49) Si sobre los hechos debatidos del proceso social se siguiese causa criminal:
+a) Se suspenderá el proceso en el momento procesal en que se encuentre hasta conocer el resultado del procedimiento penal
+b) El procedimiento social seguirá su trámite sin llegar a dictar sentencia hasta conocer el resultado del procedimiento penal
+c) En ningún caso se suspenderá el procedimiento
+d) Continuará el acto de juicio hasta el final
+
+50) El empresario vendrá obligado a abonar al demandante que personalmente hubiese comparecido el importe de los salarios correspondientes al tiempo necesario para la asistencia :
+a) A los actos de juicio, cuando fuera preceptivo otorgar representación
+b) A cualquier comparecencia judicial. cuando no fuera preceptivo otorgar representación
+c) A la conciliación previa en su caso, cuando se haya declarado que obro con temeridad
+d) A la mediación previa en su caso, cuando se haya declarado que obro de mala fe
+
+51) En las sentencias en que se condene al abono de una cantidad periódica, el juez o tribunal la determinará expresamente:
+a) Pudiendo incluir la condena esas cantidades que se devenguen con posterioridad al momento en que se dicte.
+b) Sin que en ningún caso pueda reservarse tal determinación para la ejecución.
+c) Pudiendo, en su caso, reservarse esas cantidades para la ejecución
+d) Esta prohibido hacer reservas de liquidación en las sentencias del orden social
+
+52) En los procesos sobre responsabilidades derivadas de accidentes de trabajo y enfermedades profesionales corresponderá probar la adopción de medidas necesarias para prevenir o evitar el riesgo:
+a) A los deudores de seguridad, pudiendo exonerarse de responsabilidad la culpa temeraria del trabajador.
+b) A los responsables de prevención riesgos laborales pudiendo exonerarse de responsabilidad la culpa a la confianza que éste inspira.
+c) A los concurrentes en la producción del resultado lesivo no pudiendo exonerarse de responsabilidad la culpa la que responda al ejercicio habitual del trabajo.
+d) A los empresarios.
+
+53) Los documentos sobre hechos relevantes que se encuentren en poder de las partes deberán aportarse al proceso: señale la incorrecta
+a) Si hubieran sido propuestos como medio de prueba por la parte contraria y admitida ésta por el Juez o Tribunal
+b) Cuando el Juez o Tribunal haya requerido su aportación.
+c) Junto con la demanda o en la contestación a la reclamación previa
+d) Todas las respuestas son correctas
+
+54) La declaración de testigos de personas vinculadas al empresario, con posible interés real en la defensa de decisiones empresariales en las que hayan participado, podrá proponerse:
+a) Cuando no se disponga de otros medios de prueba
+b) Cuando, así lo estime pertinente y útil el Juez o Tribunal
+c) Cuando no sea tachado
+d) En ningún caso podrá proponerse a este tipo de testigo.
+
+55) En relación con la documentación del acta del juicio en un proceso social, señale la incorrecta:
+a) El Secretario Judicial deberá custodiar el documento electrónico que sirva de soporte a la grabación.
+b) El acta se extenderá por procedimientos informáticos, sin que pueda ser manuscrita.
+c) El Secretario Judicial resolverá, sin ulterior recurso, cualquier observación que se hiciera sobre el contenido del acta.
+d) La acreditación de la identidad de las partes y de su representación procesal se efectuará de no ser preceptiva la comparecencia de conciliación, mediante diligencia.
+
+56) Terminado el juicio, dentro del plazo para dictar sentencia, el juez o tribunal podrá acordar la práctica de cuantas pruebas estime necesarias, como diligencias finales, mediante:
+a) Providencia, donde fijará el plazo dentro del cual haya de practicarse la prueba, que no excederá de diez días.
+b) Auto, donde fijará el plazo dentro del cual haya de practicarse la prueba, que no excederá de diez días.
+c) Providencia, donde fijará el plazo dentro del cual haya de practicarse la prueba, que no excederá de veinte días.
+d) Auto, donde fijará el plazo dentro del cual haya de practicarse la prueba, que no excederá de veinte días.
+
+57) Los órganos jurisdiccionales del orden social conocerán, en todo caso, de las cuestiones litigiosas que se promuevan…
+a) Entre empresarios y trabajadores como consecuencia del contrato de trabajo.
+b) En relación con las acciones que puedan ejercitar los trabajadores contra el empresario por los daños originados en el ámbito de prestación de servicios.
+c) Entre las sociedades laborales y sus socios trabajadores.
+d) Sobre las reclamaciones entre sindicatos y las asociaciones empresariales
+
+58) Si los órganos jurisdiccionales apreciaren de oficio la falta de competencia internacional para conocer la demanda por razón de la materia, del territorio o de la función, dictará auto declarándolo así, pero en todo caso requerirá…
+a) Previa audiencia de las partes en plazo común de dos días
+b) Previa audiencia de las partes en plazo común de tres días
+c) Previa audiencia de las partes en plazo común de cinco días
+d) Todas las respuestas son incorrectas
+
+59) No conocerá de la cuestión de competencia entre los Juzgados o Tribunales de lo Social de su circunscripción…
+a) El Tribunal Superior de Justicia correspondiente
+b) La Sala de lo Social de la Audiencia Nacional
+c) La Sala de lo Social del Tribunal Supremo
+d) Todos conocen de las cuestiones de competencia de su circunscripción.
+
+60) Según la LJS, por las entidades que, no habiendo cumplido los requisitos legalmente establecidos para constituirse en personas jurídicas, estén formadas por una pluralidad de elementos personales y patrimoniales puestos al servicio de un fin determinado, comparecerán…
+a) Quienes de hecho o en virtud de pactos de la entidad, actúen en su nombre frente a terceros o ante los trabajadores.
+b) Quienes legalmente las representen en juicio.
+c) Quienes conforme a la Ley las administren.
+d) Quienes aparezcan, de hecho o de derecho, como organizadores, directores o gestores de los mismos.
+
+61) Señale la respuesta incorrecta en relación a la intervención en un juicio del orden social…
+a) Las partes podrán comparecer por sí mismas
+b) La representación podrá conferirse mediante poder otorgado por comparecencia ante el Secretario Judicial o por escritura pública.
+c) En caso de otorgarse representación lo hará constar en la demanda.
+d) Todas las opciones anteriores son correctas.
+
+62) Cuando por razón de la tutela ejercitada la pretensión no afecte en modo directo e individual a trabajadores determinados se entenderá a efectos de…
+a) Emplazamiento y comparecencia en el proceso, que los órganos representativos unitarios y, en su caso, la representación sindical, ostentan la representación en juicio de los intereses genéricos del colectivo laboral correspondiente, siempre que no haya contraposición de intereses entre ellos
+b) Notificaciones y emplazamientos en el proceso, que los órganos representativos unitarios y, en su caso, la representación sindical, ostentan la representación en juicio de los intereses genéricos del colectivo laboral correspondiente, siempre que no haya contraposición de intereses entre ellos
+c) Emplazamiento y comparecencia en el proceso, que los órganos representativos unitarios y, en su caso, la representación sindical, ostentan la representación en juicio de los intereses genéricos del colectivo laboral correspondiente, siempre que haya contraposición de intereses entre ellos
+d) Notificaciones y citaciones en el proceso, que los órganos representativos unitarios y, en su caso, la representación sindical, ostentan la representación en juicio de los intereses genéricos del colectivo laboral correspondiente, siempre que haya contraposición de intereses entre ellos
+
+63) Señale la respuesta incorrecta en relación con la representación por los sindicatos…
+a) Los sindicatos podrán actuar en un proceso, en nombre e interés de los funcionarios afiliados a ellos que así se lo autoricen, para la defensa de sus derechos colectivos.
+b) En la demanda, el sindicato habrá de acreditar la condición de afiliado del trabajador y la existencia de la comunicación al afiliado de su voluntad de iniciar el proceso.
+c) La autorización se presumirá concedida salvo declaración en contrario del afiliado.
+d) Todas las opciones anteriores son correctas.
+
+64) En la demanda de un proceso ordinario, el demandante no deberá designar:
+a) Número del documento nacional de identidad o del número y tipo de documento de identificación de los ciudadanos extranjeros que deban ser llamados al proceso
+b) Las pruebas que se soliciten como previas al juicio
+c) La súplica correspondiente, en los términos adecuados al contenido de la pretensión ejercitada.
+d) Si el demandante litigase por sí mismo, designará un domicilio, de ser posible en la localidad donde resida el juzgado o tribunal, en el que se practicarán todas las diligencias que hayan de entenderse con él.
+
+65) ¿Ante que Juzgado o Tribunal se ejercitará la acción para impugnar la validez de la conciliación?
+a) Ante el mismo Juzgado o Tribunal que la haya aprobado
+b) Ante el órgano superior del órgano que la haya aprobado
+c) Ante el mismo Juzgado o Tribunal al que hubiera correspondido la demanda.
+d) Se planteará ante el mismo que la haya aprobado y lo resolverá el órgano superior
+
+66) ¿Puede una parte negarse a firmar el acta extendida en el juicio por procedimientos informáticos?
+a) No, las únicas causas en las que no firmarán el acta serán por ausencia o por no poder firmar, en cuyo caso se hará constar así en el acta
+b) Si, al igual que no firmará si no está presente o no puede hacerlo
+c) No, en ningún caso puede eximirse un aparte de firmar el acta del juicio
+d) Sí, siempre que lo hagan sus representantes o defensores en su nombre
+
+67) No será necesario agotar la vía administrativa para los procesos:
+a) De tutela de derechos fundamentales y libertades públicas frente a actos de la Administraciones públicas en el ejercicio de sus potestades en materia laboral y sindical.
+b) Relativos al disfrute de vacaciones y a materia laboral.
+c) Relativos a movilidad geográfica, modificación sustancial de las condiciones de trabajo, de los derechos de conciliación de la vida familiar y laboral.
+d) No será necesario agotar la vía administrativa para los anteriores procesos.
+
+68) Será requisito previo para la tramitación del proceso el intento de conciliación o, en su caso, de mediación ante:
+a) El Juzgado de lo Social
+b) El Juzgado de Primera Instancia.
+c) El Juzgado de Paz
+d) El servicio administrativo correspondiente.
+
+69) Se exceptúan del requisito del intento de conciliación o, en su caso, de mediación:
+a) Los procesos que exijan el agotamiento de la vía administrativa
+b) Los procesos iniciados de oficio
+c) Los procesos que versen sobre la Seguridad Social
+d) Todas las respuestas son correctas.
+
+70) En aquellos procesos en los sea parte demandada el Estado u otro ente Público:
+a) Es necesario el intento de conciliación o, en su caso, la mediación
+b) Es facultativo del demandante intentar o no la conciliación o, en su caso, la mediación.
+c) Queda exceptuados de la conciliación o, en su caso, la mediación.
+d) Se entenderá intentada la conciliación o, en su caso, la mediación
+
+71) En todo caso, transcurridos treinta días sin haberse celebrado el acto de conciliación:
+a) Se entenderá la conciliación con avenencia.
+b) Se tendrá por terminado el procedimiento y cumplido el trámite
+c) Habrá de presentarse nueva conciliación
+d) Se tendrá por cumplido el trámite.
+
+72) El acuerdo de conciliación o de mediación podrá ser impugnado por las partes y por quienes pudieran sufrir perjuicios por aquél:
+a) Ante el Juzgado o Tribunal competente para conocer del asunto conciliado o, en su caso, de mediación
+b) Ante el Organismo que se llevó a efecto la conciliación o, en su caso, la mediación
+c) Ante el Juzgado de Guardia
+d) Ante el Juzgado o Tribunal al que hubiera correspondido el conocimiento del asunto objeto de conciliación o de la mediación
+
+73) Quién pretenda demandar, podrá solicitar del órgano judicial que aquel contra quien se proponga dirigir la demanda:
+a) Preste declaración acerca de algún hecho relativo a la personalidad, capacidad, representación o legitimación de éste.
+b) Preste fianza para garantizar la sentencia
+c) Aporte relación de bienes objeto de embargo
+d) Presente copia de la última declaración de la renta.
+
+74) La sentencia del orden social deberá fundamentar suficientemente:
+a) Los antecedentes de hecho
+b) Los hechos probados
+c) Los pronunciamientos del fallo
+d) Los fundamentos de derecho
+
+75) La sentencia, movidamente, podrá imponer al litigante que no acudió al acto de conciliación injustificadamente:
+a) Una sanción de responsabilidad civil, que podrá oscilar de 200 a 5000 euros.
+b) Una sanción pecuniaria, que podrá oscilar de 200 a 5000 euros.
+c) Una sanción de responsabilidad civil, que podrá oscilar de 180 a 6000 euros.
+d) Una sanción pecuniaria, que podrá oscilar de 180 a 6000 euros.
+
+76) La Ley de Jurisdicción Social establece que, materia de prestaciones de Seguridad Social, los interesados deberán interponer reclamación previa, ante el órgano competente que haya dictado resolución sobre la solicitud inicial del interesado…
+a) Desde que se deba entender agotada la vía administrativa.
+b) Desde un plazo de dos meses sin haber sido notificada la resolución, entendiéndose el silencio administrativo.
+c) En el plazo de 30 días desde la notificación de la misma, si es expresa.
+d) En el plazo de 20 días desde la notificación de la misma, si es expresa.

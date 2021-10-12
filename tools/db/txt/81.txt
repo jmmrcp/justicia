@@ -1,0 +1,448 @@
+1) En el procedimiento de materia de personal y dentro del Orden Contencioso Administrativo: A98-mod
+a) Es necesaria la intervención de Abogado
+b) Es necesaria la intervención de Procurador
+c) No es necesaria la intervención de Abogado y Procurador, salvo que impliquen separación de empleados públicos inamovibles.
+d) Es necesaria únicamente respecto de los representantes de los trabajadores.
+
+2) En el proceso Contencioso Administrativo, el Auxilio Judicial tiene intervención especial en: A98
+a) El emplazamiento de las partes
+b) La citación de los testigos y peritos
+c) La notificación de la Sentencia a las partes
+d) Ninguna intervención especial
+
+3) Conocerán de las impugnaciones contra actos de las Juntas Electorales de Zona… A00
+a) Los Juzgados de Primera Instancia
+b) Los Juzgados Centrales de lo Contencioso-Administrativo
+c) Los Juzgados de lo Contencioso-Administrativo
+d) Los Juzgados de Instrucción.
+
+4) En el proceso contencioso-administrativo, el emplazamiento de la Administración demandada se entenderá efectuado… A00
+a) Por la interposición del recurso
+b) Por la reclamación del expediente administrativo
+c) Por la remisión del expediente administrativo
+d) Por la recepción del expediente administrativo
+
+5) El plazo para interponer recurso contencioso-administrativo contra un acto expreso, será de… A02
+a) Seis meses
+b) Dos meses
+c) Diez días
+d) Veinte días
+
+6) ¿Cuál es el plazo para interponer el recurso contencioso-administrativo contra un acto presunto que pongan fin a la vía administrativa: A03
+a) Seis meses
+b) Dos meses
+c) Diez días
+d) Veinte días
+
+7) Cuando la propia Administración autora de algún acto pretenda demandar su anulación ante la Jurisdicción Contencioso-Administrativo deberá previamente… A03
+a) Solicitar informe del Consejo de Estado
+b) Declarar el acto lesivo para el interés público
+c) Acordar la suspensión del acto
+d) Declarar el acto lesivo para el interés de las partes
+
+8) ¿Qué órgano es competente para resolver un recurso contencioso-administrativo contra una disposición del Tribunal de Cuentas… A03
+a) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+b) La Sala de lo Contencioso-Administrativo del Tribunal Supremo
+c) Los Juzgados Centrales de lo Contencioso-Administrativo
+d) El Tribunal Económico Administrativo Central
+
+9) En el procedimiento contencioso-administrativo ordinario el Juez o Tribunal en relación con la prueba: A03
+a) Podrá acordar de oficio el recibimiento a prueba y disponer la práctica de cuantas estime pertinentes
+b) El Juez o Tribunal no puede acordar de oficio la práctica de pruebas, salvo la pericial
+c) Sólo corresponde a las partes el solicitar el recibimiento a prueba, dado el principio de rogación
+d) Podrá efectuarse mediante la inserción de edictos en el mismo periódico oficial en que se hubiera anunciado la interposición del recurso
+
+10) El artículo 1 de la Ley reguladora de al Jurisdicción Contencioso-Administrativa, establece que los juzgados y tribunales del orden contencioso-administrativo conocerán: A03
+a) De las pretensiones que se deduzcan en relación con la actuación de la Administración Penitenciaria sujeta a Derecho Penal
+b) De las pretensiones que se deduzcan en relación con la actuación de las Administraciones Públicas sujeta a Derecho Administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos legislativos cuando excedan los límites de la delegación
+c) De las pretensiones que se deduzcan en relación con la actuación de las Administraciones Públicas sujeta a Derecho Administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos leyes
+d) De las pretensiones que se deduzcan en relación con la actuación de las Administraciones Públicas sujeta a Derecho Administrativo, con las disposiciones generales de rango de ley y con los decretos legislativos cuando excedan los límites de la delegación
+
+11) El recurso contencioso-administrativo se dirige: G95
+a) Contra actos realizados por particulares
+b) Contra actos dictados por particulares o por la Administración
+c) Contra actos dictados por la Administración
+d) Contra actos dictados por el Parlamento
+
+12) La Ley de la Jurisdicción Contencioso-Administrativa es de fecha: G95
+a) 13 de Julio de 1998
+b) 22 de Noviembre de 1998
+c) 25 de Junio de 1998
+d) 27 de Diciembre de 1998
+
+13) La competencia del orden Contencioso-Administrativo se extiende al conocimiento y decisión de una cuestión prejudicial o incidental, no perteneciente al orden administrativo, directamente relacionada con un recurso contencioso-administrativo, salvo lo dispuesto en Tratados internacionales: G99
+a) Si es civil
+b) Si es penal
+c) Si es constitucional
+d) Siempre.
+
+14) Conocerán las atribuciones administrativas no atribuidas expresamente a la competencia de otros órganos de la jurisdicción contencioso administrativa: G99
+a) Los Juzgados de lo Contencioso Administrativo
+b) Los Juzgados Centrales de lo Contencioso Administrativo
+c) Las Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia
+d) La Sala de lo Contencioso Administrativo de la Audiencia Nacional
+
+15) No tienen capacidad procesal, en los procesos contencioso administrativos: G99
+a) Los menores de edad, salvo la defensa de sus derechos e intereses legítimos cuya actuación esté permitida por el ordenamiento jurídico sin necesidad de la asistencia de la persona que ejerza la patria potestad, tutela o curatela.
+b) Las corporaciones
+c) Las uniones sin personalidad, en todo caso
+d) Las sociedades.
+
+16) Son impugnables en la vía contenciosa-administrativa los actos de trámite de la Administración: G99
+a) Siempre
+b) Si deciden indirectamente el fondo del asunto
+c) Si dan lugar a la iniciación de un expediente sancionador
+d) Si no coinciden con lo expuesto en el pliego de cargos
+
+17) Si el recurso contencioso-administrativo se dirigiera contra una actuación en vía de hecho, y no se requiera a la Administración actuante su cesación, el plazo para interponer el recurso será, desde el día en que se inició la actuación administrativa en vía de hecho: G99
+a) De diez días
+b) De quince días
+c) De veinte días
+d) De un mes
+
+18) El Juzgado o Sala, antes de pronunciarse sobre la inadmisión de un recurso contencioso-administrativo, hará saber el motivo en que pudiera fundarse, para que, en el plazo diez días se hagan alegaciones y se acompañen documentos: G99
+a) A todas las partes
+b) Sólo a la parte recurrente
+c) Sólo al Abogado del Estado
+d) Sólo al Abogado del Estado y al Ministerio Fiscal
+
+19) En un proceso ordinario, contencioso-administrativo, las partes podrán solicitar que se celebre vista: G99
+a) Por otrosí en los escritos de demanda y contestación
+b) Po otrosí en los escritos de réplica y dúplica
+c) Mediante escrito que deberá presentarse en los diez días siguientes a la terminación del periodo de prueba
+d) Mediante escrito que deberá presentarse en los quince días siguientes a la terminación del periodo de prueba
+
+20) El plazo para que la Administración, que haya dictado el acto o disposición recurrida, envíe al Tribunal que conozca el recurso contencioso-administrativo el expediente es de: T99
+a) Diez días prorrogables
+b) Veinte días prorrogables
+c) Veinte días improrrogables
+d) Diez días improrrogables
+
+21) El plazo para subsanar la demanda en el recurso contencioso-administrativo es: T99
+a) No superior a cuatro días
+b) No superior a cinco días
+c) No superior a diez días
+d) No superior a veinte días
+
+22) El plazo para proponer y practicar los medios de prueba en el procedimiento contencioso-administrativo, es: 
+a) Se propone en los escritos de demanda, contestación y alegaciones complementarias y se practica en el plazo de treinta días.
+b) Si de la contestación a la demanda resultaran nuevos hechos de trascendencia para la resolución del pleito, el recurrente podrá expresar los medios de prueba que se propongan dentro de los 5 días siguientes a aquel en que se haya dado traslado de la misma.
+c) Se propone en quince días y se practica en treinta días
+d) La respuesta a y b es cierta.
+
+23) Los Juzgados y Tribunales del orden Contencioso-Administrativo conocerán de las pretensiones que se deduzcan en relación a: G02
+a) La actuación de las Administraciones Públicas, en todo caso
+b) Las disposiciones generales con rango igual a la Ley
+c) Los actos y disposiciones del Consejo General del Poder Judicial
+d) Los Decretos Legislativos, siempre que no excedan los límites de la delegación 
+
+24) Los Juzgados de lo Contencioso-Administrativo conocerán en única o primera instancia de los recursos que se deduzcan frente a los actos de las Entidades Locales cuando tengan por objeto: G02
+a) Licencias de edificación cuyo presupuesto exceda de 2 millones de euros
+b) Sanciones administrativas siempre que su cuantía no exceda de 60.000 euros
+c) Declaraciones de ruina
+d) Las cuestiones de personal, en todo caso
+
+25) La capacidad para comparecer como parte, en un procedimiento contencioso-administrativo, cuando la persona física no estuviere en el pleno ejercicio de los derechos civiles, se suplirá por: G02
+a) El Ministerio Fiscal, en todo caso
+b) Un defensor judicial que, en todo caso, nombrará el Tribunal
+c) El Ministerio Fiscal, en tanto se nombre un defensor judicial en los casos en que proceda tal nombramiento
+d) Ninguna de las respuestas anteriores es correcta
+
+26) El plazo para interponer el recurso de lesividad se contará a partir del día siguiente a la fecha de la declaración de lesividad y será: G02
+a) Seis meses
+b) Dos meses
+c) Tres meses
+d) Veinte días
+
+27) El Juzgado o Sala, antes de pronunciarse sobre la inadmisión del recurso contencioso-administrativo: G02
+a) Oirá al Ministerio Fiscal por plazo de diez días
+b) Dará traslado exclusivamente al recurrente del motivo en que pudiera fundarse, para que en el plazo de diez días alegue lo que estime oportuno y acompañe los documentos pertinentes
+c) Hará saber a las partes el motivo en que pudiera fundarse, en el plazo común de diez días, aleguen lo que estime procedente y acompañen los documentos a que hubiera lugar.
+d) Ninguna de las respuestas anteriores es correcta
+
+28) En el recurso contencioso-administrativo, si fueren varios demandados, el orden para contestar a la demanda será: G02
+a) Primero la Administración y luego el resto de los demandados sucesivamente
+b) Todos los demandados, incluso la Administración, simultáneamente por plazo común de 20 días
+c) Primero la Administración y luego el resto de los demandados simultáneamente
+d) Ninguna de las respuestas anteriores es correcta
+
+29) El intento de conciliación a que alude el art. 77 de la Ley Contencioso-Administrativa suspenderá el curso de las actuaciones: G02
+a) En todo caso
+b) En ningún caso
+c) Sólo si así lo solicitaren todas las partes personadas
+d) Sólo si el intento de conciliación se produjera en el trámite de alegaciones
+
+30) En el proceso Contencioso-Administrativo, las Salas del Tribunal correspondiente podrán delegar, entre otros, para la práctica de la prueba: G02
+a) En un funcionario público
+b) En el Abogado del Estado
+c) En un Juzgado de lo Contencioso-Administrativo
+d) En un Magistrado del órgano superior
+
+31) De las resoluciones dictadas por el Tribunal Económico-Administrativo Central en materia de tributos cedidos conocerán: G03
+a) Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
+b) Los Juzgados Centrales de lo Contencioso-Administrativo
+c) Los Juzgados de lo Contencioso-Administrativo
+d) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+
+32) Tienen capacidad procesal ante el orden jurisdiccional Contencioso-Administrativo: G03
+a) Los menores de edad para la defensa de determinados derechos
+b) Sólo las partes que ostenten capacidad procesal con arreglo a la LEC
+c) Las personas que ostenten capacidad procesal con arreglo a la LEC, excepto los menores de edad
+d) Las uniones sin personalidad, en todo caso
+
+33) El escrito de interposición del recurso Contencioso-Administrativo, con carácter general: G03
+a) Debe fundamentar jurídicamente los motivos del recurso
+b) No ha de acompañar inicialmente otros documentos
+c) Basta con que cite el acto impugnado y solicite que se tenga por interpuesto el recurso
+d) Ninguna de las respuestas anteriores es correcta
+
+34) La publicación del anuncio de interposición del recurso Contencioso-Administrativo: G03
+a) Ha de llevarse a cabo en todos los casos
+b) La puede acordar de oficio el Secretario Judicial
+c) Únicamente se efectúa si lo solicita el recurrente
+d) Ninguna de las respuestas anteriores es correcta
+
+35) En el recurso contencioso-administrativo, el auto desestimatorio de las alegaciones previas: G03
+a) Será susceptible de recurso de súplica
+b) Será susceptible de recurso de apelación
+c) No será susceptible de recurso
+d) No será susceptible de recurso, salvo que dicho auto desestimatorio ordene la devolución del expediente administrativo
+
+36) En el recurso contencioso-administrativo, ¿en qué casos el proceso se recibirá siempre a prueba cuando exista disconformidad en los hechos?: G03
+a) En los casos de responsabilidad patrimonial de las Administraciones Públicas
+b) En materia electoral
+c) Si el objeto del recurso fuera una disposición de carácter general
+d) Si el objeto del recurso fuera una sanción administrativa o disciplinaria
+
+37) Las partes, en un recurso contencioso-administrativo en materia de personal que se tramita ante la Audiencia Nacional: G03
+a) Podrán comparecer por sí mismas
+b) Siempre deberán comparecer asistidos de letrado
+c) En todo caso deberán comparecer asistido de letrado y procurador
+d) Únicamente será necesaria su representación por medio de procurador
+
+38) Según determina la Ley de Jurisdicción Contencioso Administrativa, los órganos de este orden jurisdiccional apreciarán de oficio la falta de jurisdicción y resolverán sobre la misma, previa audiencia de las partes y del Ministerio Fiscal por plazo común de: G01
+a) 3 días
+b) 5 días
+c) 10 días
+d) 20 días
+
+39) ¿En qué supuesto, o supuestos, no es admisible el recurso contencioso administrativo?: G01
+a) Respecto de los actos que sean reproducción de otros anteriores, definitivos o firmes y de aquellos consentidos por no haber sido recurridos en tiempo y forma
+b) Cuando se trate de disposiciones de carácter general y con los actos expresos y presuntos de la Administración Pública que pongan fin a la vía administrativa
+c) Contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho
+d) Ninguna respuesta es correcta
+
+40) ¿Cuál es el plazo para deducir la demanda en el proceso contencioso administrativo ordinario? G01
+a) 9 días
+b) 10 días
+c) 15 días
+d) 20 días
+
+41) En el recurso contencioso administrativo ordinario, ¿cuál es el término en que la parte podrá formular alegaciones previas? G01
+a) No existe término, las puede formular hasta la fase de conclusiones
+b) Los 3 primeros días del plazo para contestar la demanda
+c) Los 3 últimos días del plazo para contestar la demanda
+d) Los 5 primeros días del plazo para contestar la demanda
+
+42) De los recursos contencioso administrativos contra actos dictados por los Ministros en materia de personal cuando no se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera conocerán: G01
+a) Los Juzgados de lo Contencioso-Administrativo
+b) Los Juzgados Centrales de lo Contencioso-Administrativo
+c) La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
+d) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+
+43) ¿Está la Administración autora de un acto legitimado para impugnarlo ante la jurisdicción contencioso-administrativa?: G07
+a) Sí, en todos los casos
+b) Únicamente previa su declaración de lesividad para el interés público en los términos establecidos por la Ley.
+c) No, una Administración sólo puede impugnar actos de otras Administraciones Públicas
+d) Sí, siempre que ostente un derecho o interés legítimo.
+
+44) En el orden contencioso-administrativo, ¿quién ostenta la legitimación en los litigios sobre acoso sexual sobre un trabajador mayor de dieciocho años, afiliado a un sindicato? G09
+a) Exclusivamente la persona acosada
+b) Además de la persona afectada, el Sindicato al que esté afiliado, siempre que cuente con su autorización
+c) Además de las persona afectada, las asociaciones que promuevan la igualdad entre hombres y mujeres, siempre que cuenten con su autorización.
+d) Tanto la persona acosada, como el Sindicato al que esté afiliada, y las asociaciones que promuevan la igualdad entre hombres y mujeres, siempre que cuenten con su autorización
+
+45) Son competentes para conocer de las resoluciones que se dicten en materia de extranjería por la Administración periférica del Estado: T09
+a) Los Juzgados de lo Contencioso-Administrativo
+b) Los Juzgados Centrales de lo Contencioso-Administrativo
+c) Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
+d) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+
+46) ¿En qué situación de las señaladas a continuación no aceptará el Secretario Judicial el desistimiento en el procedimiento contencioso-administrativo?: G09
+a) Cuando no se opusiere la Administración
+b) Cuando se opusiere el Ministerio Fiscal
+c) Cuando no se aprecie daño para el interés público
+d) Cuando no se haya hecho la provisión de fondos correspondiente.
+
+47) En materia contencioso-administrativa ¿Qué órgano jurisdiccional es objetivamente competente para conocer, en asilo político? G09
+a) Los Juzgados de lo Contencioso-Administrativo
+b) Los Juzgados Centrales de lo Contencioso-Administrativo
+c) La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
+d) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+
+48) El orden contencioso-administrativo ¿Qué asuntos conocerá? G09
+a) Las cuestiones expresamente atribuidas a otros órganos jurisdiccionales, cuando estén relacionados con la actividad de la Administración Pública
+b) El recurso contencioso disciplinario militar
+c) Los conflictos de jurisdicción entre Tribunales y la Administración
+d) Las cuestiones sobre responsabilidad patrimonial de las Administraciones Públicas cualquiera que sea la naturaleza de la actividad.
+
+49) En el proceso contencioso-administrativo, y con carácter general ¿Cómo deben comparecer las partes ante los órganos colegiados? G09
+a) Asistidos y representados por letrado
+b) Asistidos por letrado y representados por procurador
+c) Asistidos por letrado y la parte asume su representación
+d) Por sí mismo, sin la asistencia de letrado ni procurador
+
+50) ¿Cuál de los siguientes pronunciamientos contendrá la sentencia, en el orden jurisdiccional contencioso-administrativo? G09
+a) Desestimación del escrito de alegaciones
+b) Imposición de costas al Ministerio Fiscal
+c) Inadmisibilidad del recurso contencioso-administrativo
+d) La fijación del órgano encargado de su ejecución
+
+51) La distribución de asuntos entre los Juzgados de lo Contencioso-Administrativo de una misma población se aprobará: T12
+a) Por la Sala de Gobierno del Tribunal Superior de Justicia, a propuesta de la Junta de Jueces de este orden jurisdiccional
+b) Por acuerdo, de la Junta de Jueces de este orden jurisdiccional
+c) Por la Sala de Gobierno del Tribunal Superior de Justicia previo informe del Juez Decano
+d) Por acuerdo del Juez Decano
+
+52) Según el art. 45 de la LJCA, el recurso contencioso-administrativo se iniciará con carácter general: T12
+a) Por un escrito reducido
+b) Por una demanda ordinaria
+c) Por un escrito con fundamento de derecho
+d) Por una demanda reducida
+
+53) Los funcionarios públicos en defensa de sus derechos estatuarios ante órganos colegiados de la Jurisdicción Contencioso-Administrativa, cuando se refieran a cuestiones de personal que impliquen separación de los empleados públicos inamovibles: T12
+a) Podrán conferir su representación a un Procurador y deberán ser asistidos, en todo caso, por Abogado
+b) Deberán conferir su representación a un Procurador y ser asistidos por Abogado
+c) Deberán conferir su representación a un Procurador y podrán ser asistidos por Abogado
+d) Podrán, no obstante, comparecer por sí mismos
+
+54) De los recursos contencioso-administrativo en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera, conocerán: T10
+a) Los Juzgados Centrales de lo Contencioso-Administrativo
+b) Los Juzgados de lo Contencioso-Administrativo del lugar donde se desempeña el servicio
+c) La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia
+d) La Sala de lo Contencioso-Administrativo de la Audiencia Nacional
+
+55) En el recurso contencioso-administrativo, la Administración remitirá el expediente administrativo al Secretario Judicial en el plazo improrrogable de: T11
+a) Veinte días a contar desde que la comunicación judicial tenga entrada en el registro general del órgano requerido
+b) Veinte días a contar desde que el órgano jurisdiccional tenga conocimiento de la recepción
+c) Treinta días a contar desde que el órgano jurisdiccional tenga conocimiento de la recepción
+d) Treinta días a contar desde que la comunicación judicial tenga entrada en el registro general del órgano requerido
+
+56) En el orden contencioso-administrativo, cuando en alguno de los actos de las partes, el juzgado o tribunal de oficio aprecie la existencia de algún defecto subsanable: G10
+a) El juez dictará auto otorgando a la parte el plazo de diez días para la subsanación
+b) El juez dictará providencia otorgando a la parte el plazo de diez días para la subsanación
+c) El secretario judicial dictará decreto otorgando a la parte el plazo de diez días para la subsanación
+d) El secretario judicial dictará diligencia de ordenación otorgando a la parte el plazo de diez días para la subsanación.
+
+57) En el recurso contencioso-administrativo, si los demandados legalmente emplazados se personan fuera de plazo concedido: G10
+a) Se les tendrá por parte para los trámites no precluidos
+b) Se les tendrá por decaídos en su derecho y por caducado el plazo de personación
+c) Se les impondrá multa coercitiva de trescientos euros
+d) Se les dará traslado de todo lo actuado para que formulen alegaciones en los trámites precluidos en el plazo de una audiencia
+
+58) Si con el escrito de interposición del recurso no se acompañan los documentos que exige la Ley de la Jurisdicción Contencioso-Administrativo ¿qué resolución del Letrado de la Administración de Justicia de las señaladas a continuación es la correcta?: G10-m
+a) Archivará de plano por falta de forma
+b) Requerirá la subsanación de los requisitos por la ley en el plazo de una audiencia bajo apercibimiento de archivo
+c) Requerirá inmediatamente la subsanación de los requisitos exigidos por la ley en el plazo de diez días, bajo apercibimiento de archivo
+d) Requerirá la subsanación de los requisitos exigidos por la ley en el plazo de veinte días, bajo apercibimiento de archivo.
+
+59) Indique la respuesta incorrecta. La Sala de lo Contencioso-Administrativo del Tribunal Supremo conocerá: G11
+a) Los recursos de casación y revisión contra las resoluciones dictadas por el Tribunal de Cuentas, con arreglo a lo establecido en su Ley de Funcionamiento
+b) Los recursos en relación con los convenios entre Administraciones públicas no atribuidos a los Tribunales
+c) Los recursos contra actos y disposiciones en materia de personal, administración y gestión patrimonial adoptados por los órganos competentes del Congreso de los Diputados, del Senado, del Tribunal Constitucional, del Tribunal de Cuentas y del Defensor del Pueblo
+d) Los recursos contra los actos y disposiciones del Consejo de Ministros y de las Comisiones Delegadas del Gobierno
+
+60) De acuerdo con la Ley 29/1998 de la Jurisdicción Contencioso Administrativa, si el Secretario Judicial no estima pertinente la acumulación: G11
+a) Dará cuenta a la parte para que interponga recurso en el plazo de treinta días
+b) No compete al Secretario Judicial pronunciarse sobre la acumulación
+c) Dará cuenta al Tribunal, que, en su caso, ordenará que interponga por separado los recursos en el plazo de treinta días
+d) Dará cuenta a la parte para que interponga por separado los recursos en el plazo de treinta días
+
+61) De las siguientes cuestiones, señale cuál no corresponde conocer al orden jurisdiccional contencioso-administrativo, según la Ley 29/1998 reguladora de la Jurisdicción Contencioso-Administrativo: G12
+a) Los actos y disposiciones de las Corporaciones de Derecho público, adoptados en el ejercicio de funciones públicas
+b) La responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, no pudiendo ser demandadas aquéllas por este motivo ante los órdenes jurisdiccionales civil o social, aún cuando en la producción del daño concurran con particulares o cuenten con un seguro de responsabilidad
+c) Los contratos administrativos y los actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación de las Administraciones públicas
+d) Los recursos directos o indirectos que se interpongan contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya.
+
+62) En el orden jurisdiccional contencioso-administrativo, ¿qué Juzgado o Tribunal conoce de los actos y resoluciones dictados por órganos de la Administración General del Estado cuya competencia se extiende a todo el territorio nacional y cuyo nivel orgánico sea inferior al de Secretario de Estado en materia de personal, propiedades especiales y expropiación forzosa: G12
+a) La Sala de lo Contencioso Administrativo de la Audiencia Nacional
+b) Los Juzgados Centrales de lo Contencioso Administrativo
+c) La Sala de lo Contencioso Administrativo de los Tribunales Superiores de Justicia
+d) Los Juzgados de lo Contencioso Administrativo
+
+63) Según la Ley 29/1998, reguladora de la Jurisdicción Contencioso-Administrativo cabe interponer recurso contencioso-administrativo: G12
+a) Contra todos los actos expresos o presuntos de la Administración Pública, aunque éstos sean de trámite, si determinan la imposibilidad de continuar el procedimiento
+b) Contra las disposiciones de carácter general y los actos expresos o presuntos de la Administración Pública que pongan fin a la vía administrativa
+c) Sólo contra las disposiciones de carácter general
+d) Sólo contra los actos que se produzcan en aplicación de las disposiciones de carácter general
+
+64) Las Administraciones Públicas se entenderán personadas en el recurso contencioso-administrativo: T09
+a) A los 10 días de interponerse el recurso contencioso-administrativo
+b) Por el envío del expediente administrativo
+c) Cuando la administración designe un Abogado del Estado
+d) Cuando el Juzgado o Sala reclame el expediente
+
+65) Según establece la Ley Reguladora de la Jurisdicción Contencioso-Administrativa, a la demanda por la que se inicia el recurso de lesividad, se acompañará, en todo caso: G09
+a) La comunicación previa al órgano que dictó el acto impugnado
+b) Únicamente el expediente administrativo
+c) La declaración de lesividad y el expediente administrativo
+d) No se requiere acompañar documento alguno a la demanda.
+
+66) El Letrado de la Administración de Justicia fijará la cuantía del recurso Contencioso-Administrativo: T07
+a) Al pedir el expediente administrativo
+b) Una vez formulados los escritos de demanda y contestación, en los que las partes podrán exponer, por medio de otrosí, su parecer al respecto
+c) En el recibimiento del proceso a prueba
+d) Todas son falsas.
+
+67) El orden jurisdiccional contencioso administrativo se haya integrado por los siguientes órganos: T07
+a) Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia y Juzgados de lo Contencioso Administrativo
+b) Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia, Juzgados de lo Contencioso Administrativo y Juzgados Centrales de lo Contencioso Administrativo
+c) Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia, Juzgados de lo Contencioso, Juzgados Centrales de lo Contencioso Administrativo y Sala de lo Contencioso Administrativo de la Audiencia Nacional
+d) Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia, Juzgados de lo Contencioso, Juzgados Centrales de lo Contencioso Administrativo y Sala de lo Contencioso Administrativo de la Audiencia Nacional y Sala de lo Contencioso Administrativo del Tribunal Supremo
+
+68) ¿Cómo se determina, entre otras, la competencia territorial de los Juzgados y de los Tribunales Superiores de Justicia, según lo dispuesto en la Ley 29/1998, de 13 de julio, Ley de la Jurisdicción Contencioso-Administrativa? Señalar la correcta:
+a) Cuando el recurso tenga por objeto actos de las Administraciones públicas en materia de responsabilidad patrimonial, personal, propiedades especiales y sanciones será competente, en todo caso, el juzgado o el tribunal en cuya circunscripción tenga el demandante su domicilio.
+b) Cuando se impugnen planes de ordenación urbana y actuaciones urbanísticas, expropiatorias y, en general, las que comporten intervención administrativa en la propiedad privada, será competente, a elección del demandante, el juzgado o el tribunal en cuya circunscripción tenga aquél su domicilio o se halle la sede del órgano autor del acto originario impugnado.
+c) Con carácter general, será competente el órgano jurisdiccional en cuya circunscripción tenga su sede el órgano que hubiere dictado la disposición o el acto originario impugnado.
+d) Cuando el acto originario impugnado afectase a una pluralidad de destinatarios y fueran diversos los Juzgados o Tribunales competentes, la competencia vendrá atribuida al órgano jurisdiccional que designe el Tribunal Supremo.
+
+69) La competencia para conocer de los recursos contencioso-administrativos que se deduzcan en relación con los convenios celebrados entre Administraciones Públicas corresponde a:
+a) Los Juzgados de lo Contencioso-Administrativo o a las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+b) Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia, en todo caso.
+c) Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia o de la Audiencia Nacional
+d) Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia o del Tribunal Supremo.
+
+70) La Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá: G16
+a) De las autorizaciones para la entrada e inspección de domicilios, locales, terrenos y medios de transporte que haya sido acordada por la Comisión Nacional de la Competencia, cuando requiriendo dicho acceso, su titular se oponga.
+b) En primera instancia, de las resoluciones que acuerden la inadmisión de la peticiones de asilo político.
+c) De las actuaciones administrativas no atribuidas expresamente a la competencia de otros órganos de este orden jurisdiccional.
+d) De los recursos interpuestos por la Comisión Nacional de los Mercados y de la Competencia en defensa de la unidad de mercado.
+
+71) En la Jurisdicción Contencioso-administrativa, si el Letrado de la Administración de Justicia no estimase pertinente la acumulación de pretensiones, dará cuenta al Tribunal y éste, en su caso, ordenará a la parte que interponga por separado los recursos en el plazo de: G16
+a) 15 días 
+b) 30 días 
+c) 20 días 
+d) Un mes.
+72) La LJCA establece que en el Procedimiento Ordinario la Administración demandada: G16
+a) Se personará mediante escrito de personación presentado en los nueve primeros días desde la reclamación del expediente administrativo.
+b) Se personará en el escrito de contestación a la demanda.
+c) Se entenderá personada por el envío del expediente administrativo.
+d) Se personará en los nueve días siguientes al emplazamiento realizado por el Juzgado o Tribunal.
+
+73) Están legitimados ante el orden jurisdiccional contencioso-administrativo: G16
+a) Las Entidades de Derecho público que sean dependientes o estén vinculadas al Estado, respecto de la actividad de la Administración de la que dependan, sin estatuto específico de autonomía.
+b) La Administración autora del acto impugnado, previa declaración de lesividad para el interés público.
+c) Órganos de la Administración cuyo acto se haya impugnado, sin necesidad de que una ley lo autorice expresamente.
+d) Particulares que obren por delegación o mandatarios de la Administración.
+
+74) En la Jurisdicción Contencioso-administrativa el auto que desestima las alegaciones previas será susceptible de recurso de:
+a) Reposición 
+b) No es susceptible de recurso alguno. 
+c) Casación.
+d) Súplica.
+
+75) En el procedimiento ordinario de la Jurisdicción Contencioso-administrativa, una vez declarado el pleito concluso se dictará sentencia en el plazo de:
+a) 5 días. 
+b) 8 días. 
+c) 10 días. 
+d) 15 días.

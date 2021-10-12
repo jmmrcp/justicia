@@ -1,0 +1,299 @@
+1) Conforme el artículo 151 de la LEC, todas las resoluciones dictadas por los Tribunales o Secretarios Judiciales se notificarán en el plazo máximo: G14
+a) De cinco días desde su fecha o publicación
+b) De tres días desde su fecha o publicación
+c) De diez días desde su fecha o publicación
+d) Al día siguiente de su fecha o publicación.
+
+2) De conformidad con el artículo 171 de la Ley de Enjuiciamiento Civil, el auxilio judicial se solicitará por el Tribunal que lo requiera mediante exhorto dirigido a la Oficina judicial del que deba prestarlo, y que no será necesario que contenga: G12
+a) La indicación del asunto que motiva la expedición del exhorto
+b) La designación de las personas que sean parte en el asunto, así como de sus representantes y defensores.
+c) La indicación de las actuaciones cuy práctica se interesa
+d) La designación de la parte que haya interesado la actuación.
+
+3) La petición de auxilio judicial dirigida a un órgano judicial subordinado suyo, según la Ley de Enjuiciamiento Criminal, se denomina: A12
+a) Suplicatorio
+b) Carta-orden o mandamiento
+c) Exposición
+d) Exhorto.
+
+4) Según la Ley de Enjuiciamiento Civil, ¿en qué acto de comunicación se admite respuesta?: A12
+a) En las notificaciones
+b) En los emplazamientos
+c) En las citaciones, cando no es el interesado el que la recoge
+d) En ninguna de las anteriores, salvo que así se hubiera mandado.
+
+5) Según la Ley de Enjuiciamiento Civil, cuando determinen lugar, fecha y hora para comparecer y actuar, el acto procesal de comunicación se denomina:
+a) Notificación
+b) Emplazamiento
+c) Citación
+d) Requerimiento.
+
+6) Según la Ley de Enjuiciamiento Criminal, cuando una diligencia hubiere de ser ejecutada por un Tribunal superior en grado distinto del que la haya ordenado, éste encomendará su cumplimiento por medio de:
+a) Suplicatorio
+b) Exhorto
+c) Mandamiento
+d) Suplicatorio, Exhorto o Mandamiento
+
+7) Según la Ley Orgánica del Poder Judicial, podrán practicar diligencias de instrucción o prueba fuera del territorio de su jurisdicción:
+a) Los jueces y tribunales de otros órdenes jurisdiccionales, cuando el mismo se hallare próximo y ello resultare conveniente, dando inmediata noticia al juez competente
+b) Los jueces de instrucción, cuando se hallare próximo y ello resulte conveniente, dando inmediata noticia al juez competente.
+c) Los jueces y tribunales de otros órdenes jurisdiccionales, cuando no se perjudique la competencia del juez correspondiente y venga justificado por razones de economía procesal.
+d) Los jueces de instrucción, cuando no se perjudique la competencia del juez correspondiente y venga justificado por razones de economía procesal.
+
+8) Según la LEC, el interrogatorio de las partes, la declaración de los testigos y la ratificación de los peritos se realizará:
+a) En la sede del Juzgado o Tribunal que este conociendo del asunto de que se trate.
+b) En la sede del Juzgado o Tribunal que este conociendo del asunto de que se trate, aunque el domicilio de las personas mencionadas se encuentre fuera de la circunscripción judicial correspondiente.
+c) En la sede del Juzgado o Tribunal que este conociendo del asunto de que se trate, siempre que el domicilio de las personas mencionadas se encuentre fuera de la circunscripción judicial correspondiente.
+d) En la sede de la oficina judicial que este conociendo del asunto de que se trate.
+
+9) Según la Ley de Enjuiciamiento Civil, corresponderá prestar el auxilio judicial:
+a) A la oficina del Juzgado de Primera Instancia o Juzgado de Paz del lugar en cuya circunscripción deba practicarse.
+b) A la oficina del Juzgado de Primera Instancia del lugar en cuya circunscripción deba practicarse, salvo que en dicho lugar tuviera su sede un Juzgado de Paz y consistiere en un acto de comunicación o ejecución.
+c) A la oficina del Juzgado de Primera Instancia del partido judicial en cuya circunscripción deba practicarse, salvo que en dicho lugar tuviera su sede un Juzgado de Paz.
+d) A la oficina del Juzgado de Primera Instancia del lugar en cuya circunscripción deba practicarse, salvo que en dicho lugar tuviera su sede un Juzgado de Paz y consistiere en un acto de comunicación.
+
+10) Según la Ley de Enjuiciamiento Civil, el exhorto dirigido a la Oficina Judicial que deba prestarlo contendrá, en todo caso:
+a) La indicación del asunto que motiva la remisión del exhorto.
+b) La indicación de las actuaciones cuya práctica se interesa.
+c) La indicación de la fecha en la que las actuaciones interesadas finaliza.
+d) La indicación de todos los documentos que se acompaña.
+
+11) Según la Ley de Enjuiciamiento Civil, cuando los actos de comunicación hayan de practicarse por tribunal distinto del que los hubiere ordenado, el despacho se remitirá:
+a) Por correo certificado con acuse de recibo en los supuestos en que deba realizarse en soporte papel por ir el acto acompañado de elementos que sean susceptibles de conversión en formato electrónico.
+b) Por medio del sistema informático judicial, sin excepciones.
+c) Por medio del sistema informático judicial, salvo que los supuestos en los que deba realizarse en soporte papel por ir el acto acompañado de elementos que no sean susceptibles de conversión en formato electrónico.
+d) Por correo certificado, acompañando copia o cédula correspondiente y lo demás que en cada caso proceda.
+
+12) Según la Ley de Enjuiciamiento Civil, los actos de comunicación que hayan de practicarse por tribunal distinto del que los hubiere ordenado se cumplimentarán:
+a) En un plazo no inferior a 20 días, contados a partir de su recepción y devuelto por la mismo medio que se remitió.
+b) En un plazo no inferior a 20 días, contados a partir de su remisión si es por medio del sistema informático judicial.
+c) En un plazo no superior a 20 días, contados a partir de su recepción y devueltos por medio del sistema informático judicial.
+d) En un plazo no inferior a 10 días, contados a partir de su recepción y devuelto por la mismo medio que se remitió.
+
+13) Según la Ley de Enjuiciamiento Civil, los exhortos se remitirán directamente:
+a) Al órgano exhortado por medio del sistema informático judicial.
+b) Al órgano exhortado por cualquier medio telemático o electrónico.
+c) Al órgano exhortado por un sistema que deberá garantizar, en todo caso, la constancia de la remisión y la recepción del exhorto.
+d) Todas las opciones anteriores son correctas.
+
+14) Según la LOPJ, la prestación de cooperación internacional sólo será denegada por los Juzgados y Tribunales Españoles:
+a) Cuando el proceso de que dimane la solicitud de cooperación sea de la competencia de la jurisdicción española.
+b) Cuando el objeto o finalidad de la cooperación solicitada sea manifiestamente contrario al orden público.
+c) Cuando la solicitud de cooperación internacional no reúna el contenido mínimo exigido por las leyes para su tramitación.
+d) Cuando el contenido del acto a realizar corresponda a las atribuciones propias de la autoridad judicial española requerida.
+
+15) Según la Ley 29/2015, de Cooperación Jurídica internacional en materia civil, las solicitudes no podrán transmitirse por cualquiera de las siguientes vías:
+a) Por la vía consular o diplomática.
+b) A través de las respectivas autoridades centrales.
+c) Por conducto notarial, si ello es compatible con la naturaleza del acto de cooperación.
+d) Por conducto del Presidente del Tribunal Supremo, del Tribunal Superior de Justicia o de la Audiencia al Ministerio de Justicia.
+
+16) Según la LEC, cuando el acto de comunicación fuera remitido, por un Procurador, con posterioridad a las 15.00 horas, se tendrá recibido:
+a) El mismo día que se remita, si fuera antes de las 20.00 horas.
+b) Al día siguiente hábil.
+c) El mismo día que se remita, si fuera antes de las 24.00 horas.
+d) Al día siguiente hábil, a las 00.00 horas.
+
+17) Según la LEC, señale la respuesta incorrecta en relación a la ejecución de los actos de comunicación por el Procurador:
+a) El solicitante deberá expresarlo en todo escrito que dé inicio a un procedimiento judicial, de ejecución o a otra instancia.
+b) En el escrito de personación si fueran demandados, ejecutados o recurridos.
+c) Los solicitantes podrán pedir la modificación del régimen inicial, procediendo el Secretario Judicial a realizar los sucesivos actos de comunicación conforme a la nueva petición.
+d) Todas las respuestas anteriores son correctas.
+
+18) Según la LEC, se tendrán por válidamente realizados los actos de comunicación cuando en la diligencia:
+a) Quede constancia suficiente de haber sido practicados en la dirección electrónica habilitada al efecto.
+b) Quede constancia fehaciente de haber sido practicados en la persona.
+c) Quede constancia fehaciente de haber sido practicados en el domicilio.
+d) Quede constancia fehaciente de haber sido practicados por comparecencia electrónica o por los medios telemáticos elegidos por el destinatario.
+
+19) Según la LEC, cuando el acto de comunicación se ejecute por el procurador:
+a) El procurador acreditará la identidad y condición del receptor del acto de comunicación, cuidando de que en la diligencia quede constancia suficiente de la recepción, de su fecha, y hora y del contenido de lo comunicado.
+b) El procurador acreditará la identidad y condición del receptor del acto de comunicación, cuidando de que en la copia quede constancia fehaciente de la recepción, de su fecha, y hora y del contenido de lo comunicado.
+c) El procurador acreditará la identidad y condición del receptor del acto de comunicación, cuidando de que en la copia quede constancia suficiente de la recepción, de su fecha, y hora y del contenido de lo comunicado.
+d) El procurador acreditará la identidad y condición del receptor del acto de comunicación, cuidando de que en la diligencia quede constancia fehaciente de la recepción, de su fecha, y hora y del contenido de lo comunicado.
+
+20) Según la LEC, cuando los actos de comunicación se practiquen por medios electrónicos, el destinatario podrá identificar:
+a) Un medio informático
+b) Un servicio de mensajería electrónico.
+c) Una dirección de correo electrónico securizado.
+d) Un servicio de mensajería simple.
+
+21) Según la LEC, cuando el destinatario identifique un medio electrónico para el proceso judicial, éste servirá:
+a) Para informarle de la puesta a su disposición de un acto de comunicación.
+b) Para la práctica del acto de comunicación.
+c) Para informarle y la práctica del acto de comunicación.
+d) Para informarle del proceso judicial.
+
+22) La determinación de la existencia de reciprocidad entre España y el Estado que solicita la prestación de cooperación jurisdiccional corresponde: G07-mod
+a) Al Ministerio de Justicia.
+b) Al Ministerio de Asuntos Exteriores
+c) Al Gobierno, a través del Ministerio de Justicia
+d) No se exige la existencia de reciprocidad con el Estado requirente para la prestación de cooperación internacional.
+
+23) Según la LECrim, para ordenar la práctica de cualquier diligencia judicial a funcionarios de Policía Judicial que estén a las órdenes de los Juzgados o Tribunales se empleará la forma de:
+a) Carta-Orden
+b) Oficio
+c) Mandamiento
+d) Exposición
+
+24) Según la LEC, cuando un exhorto se haya remitido a un órgano distinto del que deba prestar el auxilio:
+a) El órgano que lo reciba lo pondrá en conocimiento del órgano que lo remitió, en un plazo de tres días.
+b) El órgano que lo reciba lo enviará directamente al que corresponda, si le consta cuál es éste, dando cuenta de su recepción al exhortante.
+c) El órgano que lo reciba lo remitirá al órgano exhortado dentro de los cinco días siguientes.
+d) El órgano que lo reciba lo enviará directamente al que corresponda, si le consta cuál es éste, dando cuenta de su remisión al exhortante.
+
+25) El acto de comunicación para ordenar, conforme a la ley, una conducta o inactividad, se denomina: A07
+a) Requerimiento.
+b) Emplazamiento
+c) Mandamiento
+d) Oficio
+
+26) Según el artículo 166 de la Ley de Enjuiciamiento Criminal, las notificaciones, citaciones y emplazamientos que se practiquen fuera de los estrados del Juzgado o Tribunal se harán: A07
+a) Exclusivamente por el Agente Judicial, ahora Auxilio Judicial
+b) Por el funcionario correspondiente.
+c) Respectivamente por un Agente Judicial, ahora Auxilio Judicial, o por el Oficial de la Sala, ahora Gestor Procesal
+d) Respectivamente por un Alguacil, ahora Auxilio Judicial, o por el Oficial de la Sala, ahora Gestor Procesal
+
+27) La jurisdicción criminal es: G03
+a) Improrrogable, con excepciones.
+b) Siempre prorrogable.
+c) Prorrogable, con excepciones.
+d) Siempre improrrogable.
+
+28) Según la LEC, los actos de comunicación se efectuaran, en todo caso, en la forma siguiente:
+a) Por el personal al servicio de la Administración de Justicia, a través de medios telemáticos, cuando se trate del Ministerio Fiscal.
+b) A través de procurador, tratándose de comunicaciones a quienes estén personados en el proceso con representación de aquél.
+c) Remisión de lo que haya de comunicarse mediante correo, telegrama, correo electrónico.
+d) Entrega al destinatario de copia literal de la resolución que se le haya de notificar.
+
+29) En el Ministerio de Justicia se constituirá un registro accesible electrónicamente de las direcciones correspondientes a…
+a) Los organismos públicos y los órganos judiciales
+b) Los órganos judiciales y los profesionales
+c) Los profesionales obligados a su utilización y los organismos públicos
+d) Los abogados, procuradores y órganos judiciales.
+
+30) Según la LEC, cuando se envíe por medios telemáticos a las partes o destinatarios obligados ¿Qué tiempo tiene que transcurrir sin que el destinatario acceda a su contenido, para que surta plenos efectos legales?:
+a) 2 días
+b) 3 días
+c) 5 días
+d) El mismo día, no hace falta que transcurra un plazo.
+
+31) Según la LEC, la remisión y recepción de los actos de comunicación con los procuradores en el servicio común de recepción organizada por el Colegio de Procuradores se realizará salvo excepciones establecidas en la ley:
+a) Por medio de Lexnet.
+b) Por los medios electrónicos
+c) Por los medios telemáticos o electrónicos
+d) Por duplicado de las que el procurador recibirá un ejemplar y firmará otro.
+
+32) Según la Ley de Enjuiciamiento Criminal, las notificaciones fuera de los estados del Juzgado o Tribunal se practicarán:
+a) En la forma prevista de la Ley de Enjuiciamiento Civil
+b) Leyendo íntegramente la resolución a quien se notifiquen.
+c) Por correo certificado con acuse de recibo.
+d) De forma personal.
+
+33) Según la Ley de Enjuiciamiento Civil, se hará constar el carácter judicial del escrito en:
+a) En la diligencia de entrega.
+b) En la diligencia de notificación.
+c) En el acuse de recibo de correos.
+d) En la cédula
+
+34) Practicada la citación penal se unirá a los autos…
+a) La copia de la cédula
+b) La cédula original
+c) Copia de la diligencia penal.
+d) La diligencia original.
+
+35) Según la LEC, cuando persistiera sin cumplimentar el exhorto dentro del plazo señalado:
+a) El Secretario Judicial recordará al exhortado la urgencia del cumplimiento.
+b) El Secretario Judicial pondrá los hechos en conocimiento de la Sala de Gobierno correspondiente al Tribunal exhortado.
+c) El órgano para el que se haya solicitado auxilio pondrá los hechos en conocimiento de la Sala de Gobierno correspondiente al Tribunal exhortado.
+d) El Secretario Judicial recordará al exhortado su inmediato cumplimiento.
+
+36) Según la LEC, cuando la autenticidad de los informes transmitidos por los medios telemáticos sólo pudiera ser reconocida mediante su examen directo habrán de aportarse aquéllos en su soporte papel original en los procesos…
+a) De familia, incapacidad o filiación, o el Ministerio Fiscal, así lo solicitasen.
+b) De divorcio o incapacidad, o el Ministerio Fiscal, así lo solicitasen.
+c) De divorcio, filiación, o el Ministerio Fiscal, así lo solicitase.
+d) De divorcio, nulidad, filiación o el Ministerio Fiscal, así lo solicitase.
+
+37) Según la LEC, cuando la autenticidad de los informes transmitidos por los medios telemáticos sólo pudiera ser reconocida o verificada mediante su examen directo o por otros procedimientos, podrán ser presentados…
+a) En soporte papel original.
+b) En soporte electrónico mediante imágenes digitalizadas de los mismos.
+c) En soporte papel original en el plazo de tres días.
+d) En soporte papel original en el plazo o momento procesal que a tal efecto se señale.
+
+38) Según la LEC, las actuaciones de auxilio judicial practicadas…
+a) Se remitirán por correo certificado.
+b) Se entregarán al litigante o al procurador al que se hubiere encomendado la gestión del exhorto.
+c) Se remitirán telemáticamente, si se pudieran enviar.
+d) Se remitirán por correo certificado con acuse de recibo.
+
+39) Según la LOPJ, las resoluciones dictadas por Jueces, Tribunales y Secretarios Judiciales en el ejercicio de sus funciones que les son propias se notificarán, además de todos los que sean parte en el pleito, causa o expediente…
+a) A quienes se refieran o pudieran parar perjuicios.
+b) A las personas que pueden verse afectadas por la resolución que ponga fin al procedimiento.
+c) A los terceros en los casos en que lo prevea la Ley.
+d) A quienes se refieran expresamente en las resoluciones.
+
+40) Según la Ley de Enjuiciamiento Criminal, la persona que reciba los documentos del suplicatorio, exhorto o mandamiento los presentará…
+a) En el término que se le hubiese fijado.
+b) En el plazo que se le hubiese fijado.
+c) En el plazo de veinte días.
+d) Dentro del plazo, si se hubiere fijado en el exhorto, o lo más pronto posible en otro caso.
+
+41) Según la Ley de Enjuiciamiento Criminal, una vez cumplimentado el exhorto, lo devolverá sin demora en...
+a) En el término que se le hubiese fijado.
+b) En el plazo que se le hubiese fijado.
+c) En la misma forma en que lo hubiese recibido o en que se le hubiese presentado
+d) En el plazo de diez días.
+
+42) Según la Ley de Enjuiciamiento Criminal, los exhortos a Tribunales extranjeros se dirigirán…
+a) Por la vía diplomática.
+b) Directamente.
+c) Por la vía consular o diplomática.
+d) A través de las autoridades centrales.
+
+43) Según la Ley de Enjuiciamiento Criminal, los Jueces y Tribunales se dirigirán a los Cuerpos Colegisladores para que obliguen a las Autoridades, sus subordinadas, a que suministren los datos o presten los servicios que se les hubieren pedido:
+a) Por medio de atentos oficios.
+b) En forma de exposición por conducto del Ministerio de Gracia y Justicia.
+c) En forma de exposición directamente a los Cuerpos de Colegisladores.
+d) Mediante suplicatorio dirigido al Cuerpo de Colegisladores.
+
+44) Según la Ley Orgánica del Poder Judicial, los Juzgados y Tribunales españoles prestarán a las autoridades extranjeras la cooperación que les soliciten para el desempeño de su función jurisdiccional, de conformidad con lo establecido…
+a) En los Tratados y Convenios Internacionales en los que España no sea parte
+b) En las normas comunitaria que resulte de aplicación.
+c) Las Leyes Españolas sobre esta materia.
+d) En el Reglamento 1/2005 del Consejo General del Poder Judicial.
+
+45) Según la Ley de Enjuiciamiento Criminal, cualquier resolución de la que se deriven indicios racionales de criminalidad por la comisión de un delito doloso de homicidio en que la víctima fuera cónyuge del investigado, el Secretario Judicial de los Juzgados y Tribunales no se lo comunicará...
+a) Al Instituto Nacional de la Seguridad Social
+b) Al Servicio Público de Empleo Estatal
+c) Al Instituto Social de la Marina
+d) A la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas.
+
+46) Según la Ley de Enjuiciamiento Criminal, la notificación consistirá en…
+a) La lectura íntegra de la resolución que deba ser notificada, entregando copia de la cédula a quien se notifique y haciendo constar la entrega por diligencia sucinta al pie de la copia de la cédula.
+b) La lectura de la parte dispositiva o fallo de la resolución que deba ser notificada, entregando copia de la cédula a quien se notifique y haciendo constar la entrega por diligencia sucinta al pie de la copia de la cédula.
+c) La lectura íntegra de la resolución a la persona a quien se notifiquen, dándole en el acto copia de ella, aunque no la pidiere, y haciendo mérito de uno y otro en la diligencia que se extienda, que suscribirá el funcionario que la realice.
+d) La lectura íntegra de la resolución que deba ser notificada, entregando copia de la cédula a quien se notifique y haciendo constar la entrega por diligencia sucinta al pie de la cédula original.
+
+47) Según la Ley de Enjuiciamiento Civil, transitoriamente los actos de comunicación al Ministerio Fiscal se tendrán por realizados…
+a) El siguiente día hábil a la fecha de la recepción.
+b) A los diez días naturales a la fecha de la recepción.
+c) A los tres días hábiles a la fecha de la recepción.
+d) A los tres días naturales a la fecha de la recepción.
+
+48) Según la Ley de Enjuiciamiento Criminal, la expedición de la cédula se harán constar en los autos:
+a) Por diligencia sucinta en el píe de la cédula original.
+b) Por diligencia de constancia.
+c) Por nota sucinta.
+d) Por diligencia sucinta en el píe de la copia de la cédula.
+
+49) Según la Ley de Enjuiciamiento Civil, la cédula de emplazamiento tiene la advertencia que, si el emplazado no comparece, sin causa justificada:
+a) Dentro del plazo señalado se tendrá por hecha la comunicación de que se trate.
+b) Dentro del plazo señalado se tendrá por efectuado el traslado.
+c) Correcta es la respuesta a) y b).
+d) Ninguna respuesta es correcta.
+
+50) Según la Ley de Enjuiciamiento Civil, si el domicilio donde se pretende practicar la comunicación fuere el lugar en el que el destinatario tenga su domicilio a efectos fiscales y no se encontrare allí dicho destinatario, podrá efectuarse la entrega…
+a) En un sobre, a cualquier empleado, que se encuentre en ese lugar, advirtiendo al receptor que está obligado a entregar la cédula al destinatario de ésta, o a darle aviso, si sabe su paradero, advirtiendo en todo caso al receptor de su responsabilidad de entregar la comunicación al destinatario y devolverlo en caso de no poder hacer la entrega.
+b) En un sobre cerrado, a cualquier empleado advirtiendo al receptor que está obligado a entregar la cédula al destinatario de ésta, advirtiendo en todo caso al receptor de su responsabilidad en relación con la entrega de la comunicación al destinatario.
+c) En un sobre, a cualquier empleado advirtiendo al receptor que está obligado a entregar la cédula al destinatario de ésta, advirtiendo en todo caso al receptor de su responsabilidad de entregar la comunicación al destinatario y devolverlo en caso de no poder hacer la entrega.
+d) En un sobre cerrado, a cualquier empleado, que se encuentre en ese lugar, advirtiendo al receptor que está obligado a entregar la cédula al destinatario de ésta, o a darle aviso, si sabe su paradero, advirtiendo en todo caso al receptor de su responsabilidad en relación a la protección de los datos del destinatario.
