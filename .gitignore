@@ -1,3 +1,6 @@
+# The file containing environment variables 
+.env
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -11,12 +14,17 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Ignore the directory
+release/
+tools/
+tools/crypt/
+tools/db/
+tools/mongo/
+tools/opo/
+vendor/**
+**/vendor/*
+**/
+
+# Ignore files.
 justicia
 .vscode/
-release/
-tools/mongo/data.db
-# tools/
-# tools/db/
-# tools/mongo/
-# tools/opo
-.env
