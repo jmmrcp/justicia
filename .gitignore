@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+go.*
 
 # Test binary, build with `go test -c`
 *.test
@@ -17,13 +18,7 @@
 # Ignore the directory
 release/
 tools/
-tools/crypt/
-tools/db/
-tools/mongo/
-tools/opo/
-vendor/**
-**/vendor/*
-*/
+vendor/
 
 # Ignore files.
 justicia
