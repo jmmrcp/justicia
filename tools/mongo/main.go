@@ -27,7 +27,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	err = local.Update()
+	err = local.Update(true)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -45,7 +45,7 @@ func initializeSQL() (*Env, error) {
 }
 
 // Update actualiza mlabs
-func (env *Env) Update() error {
+func (env *Env) Update(all bool) error {
 
 	questions, err := env.db.All()
 	if err != nil {
@@ -53,7 +53,6 @@ func (env *Env) Update() error {
 	}
 
 	fmt.Printf("Subiendo %+v questions.\n", len(questions))
-
 	sess, err := mgo.Dial("mongodb://justicia:Ha11e_B3rr4@ds249127.mlab.com:49127/justicia")
 	if err != nil {
 		fmt.Printf("Can't connect to mongo, go error %v\n", err)
@@ -66,7 +65,10 @@ func (env *Env) Update() error {
 	collection.DropCollection()
 	fmt.Println("Borrando la Base de Datos Mlab.")
 
-	for _, question := range questions {
+	// in the beginning...
+	// started := time.Now()
+
+	for i, question := range questions {
 		var T = []int{}
 
 		data := new(online.Mlab)
@@ -101,20 +103,33 @@ func (env *Env) Update() error {
 		if err != nil {
 			log.Fatal(err)
 		}
-	}
-	fmt.Println("Inserted multiple documents on Mlabs.")
-	fmt.Println("Connection to MongoDB Mlabs closed.")
+		fmt.Println("Inserted multiple documents on Mlabs.")
+		fmt.Println("Connection to MongoDB Mlabs closed.")
 
-	clever, err := online.NewClever()
-	if err != nil {
-		return err
+		size := len(questions)
+		/*
+			// each time we want to check...
+			ratio := n / size
+			past := float64(time.Now().Sub(started))
+			total := time.Duration(past / ratio)
+			estimated := started.Add(total)
+			duration := estimated.Sub(time.Now())
+			fmt.Printf("%d", duration)
+		*/
+		fmt.Printf("%d..", percent(i, size))
 	}
-	clever.Collection("preguntas").Drop(nil)
-	fmt.Println("Borrando la Base de Datos Clever.")
+	if all {
+		clever, err := online.NewClever()
+		if err != nil {
+			return err
+		}
+		clever.Collection("preguntas").Drop(nil)
+		fmt.Println("Borrando la Base de Datos Clever.")
 
-	err = clever.InsertMany(allDB)
-	if err != nil {
-		log.Fatal(err)
+		err = clever.InsertMany(allDB)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 	fmt.Println("Inserted multiple documents on Clever.")
 
@@ -132,4 +147,14 @@ func (env *Env) Update() error {
 	fmt.Println("Inserted multiple documents on Atlas.")
 
 	return nil
+}
+
+func percent(n, size int) int {
+	if n == 0 {
+		return 0
+	}
+	if n >= size {
+		return 100
+	}
+	return 100.0 / (size / n)
 }

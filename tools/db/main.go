@@ -2,8 +2,13 @@ package main
 
 import (
 	"bufio"
+	"crypto/aes"
+	"crypto/cipher"
+	"crypto/rand"
 	"database/sql"
+	"encoding/hex"
 	"fmt"
+	"io"
 	"log"
 	"os"
 	"strconv"
@@ -14,7 +19,10 @@ import (
 
 var (
 	// Total Suna de todas las preguntas
-	Total      int
+	Total int
+	// Key to encrypt Question and Answer One
+	Key string
+
 	preguntas  []string
 	respuestas []string
 	info       []string
@@ -29,6 +37,7 @@ func main() {
 	}
 	defer file.Close()
 	// Leemos el fichero test.nfo
+	key()
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		line := scanner.Text()
@@ -46,6 +55,7 @@ func main() {
 		}
 	}
 	fmt.Println("Numero de Pregunta procesadas: ", Total)
+	fmt.Printf("key to encrypt/decrypt : %s\n", Key)
 }
 
 // txt -> []string
@@ -116,6 +126,8 @@ func quest(line string) {
 // db -> []preguntas, []respuestas
 // Return -> La base datos con los datos del Test
 func db(preguntas []string, respuestas []string) {
+
+	fmt.Printf("key to encrypt/decrypt : %s\n", Key)
 	// Definimos todas las variables
 	var (
 		filename = info[0]
@@ -365,6 +377,10 @@ END;
 		R2 = strings.TrimRight(R2, " .")
 		R3 = strings.TrimRight(R3, " .")
 		R4 = strings.TrimRight(R4, " .")
+
+		EP := encrypt(P, Key)
+		ER1 := encrypt(R1, Key)
+
 		// INSERT OR IGNORE INTO just (
 		// Insertamos el registro en la base de datos
 		_, err = db.Exec(`
@@ -381,11 +397,51 @@ END;
 			articulo,
 			ord
       ) 
-      VALUES (?,?,?,?,?,?,?,?,?,?,?)`, TE, C, T, TI, P, R1, R2, R3, R4, A1, i+1)
+      VALUES (?,?,?,?,?,?,?,?,?,?,?)`, TE, C, T, TI, EP, ER1, R2, R3, R4, A1, i+1)
 		if err != nil {
 			log.Fatal(err)
 		}
 	}
 	fmt.Println("Proceso correcto.")
 	tx.Commit()
+}
+
+func encrypt(stringToEncrypt string, keyString string) (encryptedString string) {
+
+	//Since the key is in string, we need to convert decode it to bytes
+	key, _ := hex.DecodeString(keyString)
+	plaintext := []byte(stringToEncrypt)
+
+	//Create a new Cipher Block from the key
+	block, err := aes.NewCipher(key)
+	if err != nil {
+		panic(err.Error())
+	}
+
+	//Create a new GCM - https://en.wikipedia.org/wiki/Galois/Counter_Mode
+	//https://golang.org/pkg/crypto/cipher/#NewGCM
+	aesGCM, err := cipher.NewGCM(block)
+	if err != nil {
+		panic(err.Error())
+	}
+
+	//Create a nonce. Nonce should be from GCM
+	nonce := make([]byte, aesGCM.NonceSize())
+	if _, err = io.ReadFull(rand.Reader, nonce); err != nil {
+		panic(err.Error())
+	}
+
+	//Encrypt the data using aesGCM.Seal
+	//Since we don't want to save the nonce somewhere else in this case, we add it as a prefix to the encrypted data. The first nonce argument in Seal is the prefix.
+	ciphertext := aesGCM.Seal(nonce, nonce, plaintext, nil)
+	return fmt.Sprintf("%x", ciphertext)
+}
+
+func key() {
+	bytes := make([]byte, 32) //generate a random 32 byte key for AES-256
+	if _, err := rand.Read(bytes); err != nil {
+		panic(err.Error())
+	}
+
+	Key = hex.EncodeToString(bytes) //encode key in bytes to string and keep as secret, put in a vault
 }
