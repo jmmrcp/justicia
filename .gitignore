@@ -23,7 +23,7 @@ tools/mongo/
 tools/opo/
 vendor/**
 **/vendor/*
-**/
+*/
 
 # Ignore files.
 justicia
