@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 // Copyright (C) 2019 José Martínez Ruiz <jmmrcp@gmail.com>.
 //
 // Use of this source code is governed by an MIT-style
@@ -16,7 +14,6 @@ Questions types
 
 Selection is automatic.
 */
->>>>>>> develop
 package quiz
 
 import (

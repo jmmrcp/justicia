@@ -15,11 +15,7 @@ import (
 func FileArgs(files []string) (err error) {
 	//At least one file must exist
 	if len(files) == 0 {
-<<<<<<< HEAD
-		return fmt.Errorf("No files were passed in")
-=======
 		return fmt.Errorf("no files were passed in")
->>>>>>> develop
 	}
 
 	//Make sure that each files exists
