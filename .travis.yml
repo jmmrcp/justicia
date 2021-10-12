@@ -3,7 +3,7 @@ cache:
   directories:
     - $GOPATH/pkg/mod
 go:
-  - 1.15.x
+  - 1.17.x
 env:
   - GO111MODULE=on
 script:

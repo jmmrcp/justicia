@@ -9,7 +9,6 @@ require (
 	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/mattn/go-sqlite3 v1.14.8
 	go.mongodb.org/mongo-driver v1.7.3
-	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
 
 require (
