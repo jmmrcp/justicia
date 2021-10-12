@@ -15,6 +15,7 @@ justicia
 .vscode/
 release/
 tools/mongo/data.db
+vendor/
 # tools/
 # tools/db/
 # tools/mongo/
