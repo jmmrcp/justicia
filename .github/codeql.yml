@@ -1,0 +1,5 @@
+name: "OPN CodeQL config"
+
+queries:
+  - uses: security-and-quality
+  - uses: ./.github/codeql/experimental.qls
