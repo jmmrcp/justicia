@@ -4,4 +4,3 @@
 <a href="https://github.com/jmmrcp/justicia/releases">
   <img src="https://img.shields.io/badge/Release-v4.0.0-orange" alt="Latest release" /></a>
 
-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
