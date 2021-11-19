@@ -11,13 +11,14 @@ import (
 
 //Format -- Formats a string of text to a specified width
 func Format(text string, width int) (result string) {
-	if len(text) < width {
+	long := len(text)
+	if long < width {
 		return text
 	}
 
 	index := width
 	previousIndex := 0
-	for index < len(text) {
+	for index < long {
 		spaceExist := false
 		for i := index; i > index-width; i-- {
 			if unicode.IsSpace(rune(text[i])) {
