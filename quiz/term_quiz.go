@@ -43,8 +43,11 @@ func Init(g *gocui.Gui) (err error) {
 
 	//Use number of answers to figure out which Init function to use
 	numOfAnswers := len(q.Answers.Answers)
-
-	count := "Pregunta " + strconv.Itoa(len(UserAnswers)+1) // + " (" + q.ID + ")"
+	long:= len(UserAnswer)
+	long ++
+	convert := strconv.Itoa(long)
+	
+	count := "Pregunta " + convert // + " (" + q.ID + ")"
 
 	if numOfAnswers == 4 {
 		err = ABCDInit(g, q, count)
