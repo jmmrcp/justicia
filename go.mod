@@ -8,7 +8,7 @@ require (
 	github.com/jroimartin/gocui v0.5.0
 	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/mattn/go-sqlite3 v1.14.9
-	go.mongodb.org/mongo-driver v1.8.0
+	go.mongodb.org/mongo-driver v1.8.1
 )
 
 require (
