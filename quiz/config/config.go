@@ -39,7 +39,7 @@ type (
 // New returns a new Config struct
 func New() *Config {
 	return &Config{
-		proto:    getEnv("PROTO", "mongodb"),
+		proto:    getEnv("PROTO", ""),
 		user:     getEnv("USERNAME", ""),
 		password: getEnv("PASSWORD", ""),
 		host:     getEnv("HOST", ""),
@@ -64,7 +64,7 @@ func getEnv(key string, defaultVal string) string {
 // GetMongoDB conect DB.
 func GetMongoDB() (*DB, error) {
 	conf := New()
-	mongoURI := conf.proto + "://" + conf.user + ":" + conf.password + "@" + conf.host + "/" + conf.db + "?" + conf.options
+	mongoURI := newURI(conf)
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI(mongoURI),
 	)
@@ -83,4 +83,9 @@ func GetMongoDB() (*DB, error) {
 	// conect exist, return a conection
 	db := client.Database(conf.db)
 	return &DB{db, client, ctx}, nil
+}
+
+func newURI(conf *Config) string {
+	mongoURI := conf.proto + "://" + conf.user + ":" + conf.password + "@" + conf.host + "/" + conf.db + "?" + conf.options
+	return mongoURI
 }
