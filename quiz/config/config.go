@@ -64,7 +64,7 @@ func getEnv(key string, defaultVal string) string {
 // GetMongoDB conect DB.
 func GetMongoDB() (*DB, error) {
 	conf := New()
-	mongoURI := "mongodb://1234567890:1234567890@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"
+	mongoURI := conf.proto + "://" + conf.user + ":" + conf.password + "@" + conf.host + "/" + conf.db + "?" + conf.options
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI(mongoURI),
 	)
