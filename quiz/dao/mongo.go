@@ -13,11 +13,6 @@ import (
 	"time"
 )
 
-const (
-	// COLLECTION Document TABLE
-	COLLECTION = "preguntas"
-)
-
 // Read Lee todos los registros de la base de datos
 func Read(records [][]string, view, test, tema int, cat string) ([][]string, error) {
 	var (
@@ -66,8 +61,7 @@ func Read(records [][]string, view, test, tema int, cat string) ([][]string, err
 	}
 
 	// Cursor Results
-	c := db.Collection(COLLECTION)
-	cursor, err := c.Find(ctx, Filter)
+	cursor, err := db.Collection.Find(ctx, Filter)
 	if err != nil {
 		return nil, err
 	}
@@ -106,11 +100,9 @@ func Update(ids []string) error {
 	if err != nil {
 		return err
 	}
-	c := db.Collection(COLLECTION)
-
 	for _, id := range ids {
 		filter := IDs(id)
-		updateResult, err := c.UpdateOne(ctx, filter, update)
+		updateResult, err := db.Collection.UpdateOne(ctx, filter, update)
 		if err != nil {
 			return err
 		}
@@ -138,11 +130,10 @@ func Unupdate(ids []string) error {
 	if err != nil {
 		return err
 	}
-	c := db.Collection(COLLECTION)
 	// updateResult
 	for _, id := range ids {
 		filter := IDs(id)
-		updateResult, err := c.UpdateOne(ctx, filter, update)
+		updateResult, err := db.Collection.UpdateOne(ctx, filter, update)
 		if err != nil {
 			return err
 		}

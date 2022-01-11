@@ -178,7 +178,7 @@ func Quick() ([][]string, error) {
 	defer cancel()
 
 	// Cursor Results
-	c := db.Collection(COLLECTION)
+	c := db.Collection
 
 	p := pipe(box(0), stage(0))
 	pipeline := []bson.D{p, result}

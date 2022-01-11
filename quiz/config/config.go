@@ -13,16 +13,12 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const (
-	// COLLECTION Document TABLE
-	COLLECTION = "preguntas"
-)
-
 type (
 	// DB information
 	DB struct {
 		*mongo.Database
 		*mongo.Client
+		*mongo.Collection
 		context.Context
 	}
 	// Config information
@@ -82,7 +78,12 @@ func GetMongoDB() (*DB, error) {
 
 	// conect exist, return a conection
 	db := client.Database(conf.db)
-	return &DB{db, client, ctx}, nil
+	return &DB{
+		db,
+		client,
+		db.Collection(os.Getenv("COLLECTION")),
+		ctx,
+	}, nil
 }
 
 func newURI(conf *Config) string {
