@@ -4,9 +4,6 @@ on:
   release:
     types: [created]
 
-env:
-  CMD_PATH: ./cmd/vt2geojson
-
 jobs:
   releases-matrix:
     name: Release Go Binary
