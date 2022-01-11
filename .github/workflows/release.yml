@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  CMD_PATH: ./cmd/jmmrcp
+  CMD_PATH: ./
 
 
 jobs:
@@ -40,6 +40,6 @@ jobs:
         goarch: ${{ matrix.goarch }}
         project_path: "${{ env.CMD_PATH }}"
         binary_name: "justicia"
-        build_flags: -v
-        ldflags: -X "main.appVersion=${{ env.APP_VERSION }}" -X "main.buildTime=${{ env.BUILD_TIME }}" -X main.gitCommit=${{ github.sha }} -X main.gitRef=${{ github.ref }}
+        build_flags: -v -s -w
+        ldflags: -X "main.version=${{ env.APP_VERSION }}" -X "main.date=${{ env.BUILD_TIME }}" -X main.gitCommit=${{ github.sha }} -X main.gitRef=${{ github.ref }}
         extra_files: LICENSE
