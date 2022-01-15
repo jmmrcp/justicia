@@ -21,12 +21,30 @@ func init() {
 	rand.Seed(time.Now().UnixNano())
 }
 
+//Questions -- The container that holds the questions
+type Questions struct {
+	Questions []*Question
+	Index     int
+}
+
+//NewQuestions -- return an empty Question container
+func NewQuestions() *Questions {
+  qs:= new(Questions)
+	return qs //Questions{[]*Question{}, 0}
+}
+
 //Question -- the interface for a question
 type Question struct {
 	Question    string
 	Answers     answers.Answers
 	Explanation string
 	ID          string
+}
+
+//NewQuestion -- return an empty Question
+func NewQuestion() *Question {
+	q := new(Question)
+	return q
 }
 
 //CorrectAnswer -- returns the currect answer
@@ -36,12 +54,6 @@ func (q Question) CorrectAnswer() (*answers.Answer, error) {
 		return result, fmt.Errorf("No correct answer was found")
 	}
 	return result, nil
-}
-
-//Questions -- The container that holds the questions
-type Questions struct {
-	Questions []*Question
-	Index     int
 }
 
 //Shuffle -- In place Shuffle of the questions
@@ -111,11 +123,6 @@ func (qs Questions) Previous() (*Question, error) {
 		return q, err
 	}
 	return q, nil
-}
-
-//NewQuestions -- returns an empty Question container
-func NewQuestions() Questions {
-	return Questions{[]*Question{}, 0}
 }
 
 //CreateQuestionsCSV -- used to create questions
