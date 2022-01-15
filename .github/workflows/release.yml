@@ -24,7 +24,7 @@ jobs:
           - goarch: "386"
             goos: darwin 
     steps:
-    - uses: actions/checkout@latest
+    - uses: actions/checkout@v2
 
     - name: Set APP_VERSION env
       run: echo APP_VERSION=$(echo ${GITHUB_REF} | rev | cut -d'/' -f 1 | rev ) >> ${GITHUB_ENV}
