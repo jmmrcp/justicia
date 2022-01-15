@@ -32,7 +32,8 @@ func FillInAnswer(g *gocui.Gui, v *gocui.View) error {
 	}
 
 	//User answers -- The plus one is so the count starts at 1
-	UserAnswers[strconv.Itoa(len(UserAnswers)+1)] = &a
+	count := len(UserAnswers)+1
+	UserAnswers[strconv.Itoa(count)] = &a
 
 	//Increment the questions index!
 	Questions.Index++
@@ -64,7 +65,8 @@ func SelectAnswer(g *gocui.Gui, v *gocui.View) error {
 	}
 
 	//User answers -- The plus one is so the count starts at 1
-	UserAnswers[strconv.Itoa(len(UserAnswers)+1)] = &a
+	count := len(UserAnswers)+1
+	UserAnswers[strconv.Itoa(count)] = &a
 
 	//Increment the questions index!
 	Questions.Index++
