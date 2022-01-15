@@ -24,7 +24,7 @@ jobs:
           - goarch: "386"
             goos: darwin 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@latest
 
     - name: Set APP_VERSION env
       run: echo APP_VERSION=$(echo ${GITHUB_REF} | rev | cut -d'/' -f 1 | rev ) >> ${GITHUB_ENV}
@@ -33,13 +33,13 @@ jobs:
     - name: Environment Printer
       uses: managedkaos/print-env@v1.0
 
-    - uses: wangyoucao577/go-release-action@v1.16
+    - uses: wangyoucao577/go-release-action@latest
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         goos: ${{ matrix.goos }}
         goarch: ${{ matrix.goarch }}
         project_path: "${{ env.CMD_PATH }}"
         binary_name: "justicia"
-        build_flags: -v -s -w
-        ldflags: -X "main.version=${{ env.APP_VERSION }}" -X "main.date=${{ env.BUILD_TIME }}" -X main.gitCommit=${{ github.sha }} -X main.gitRef=${{ github.ref }}
+        build_flags: -v
+        ldflags: -X "main.version=${{ env.APP_VERSION }}" -X "main.date=${{ env.BUILD_TIME }}"
         extra_files: LICENSE
