@@ -13,16 +13,12 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const (
-	// COLLECTION Document TABLE
-	COLLECTION = "preguntas"
-)
-
 type (
 	// DB information
 	DB struct {
 		*mongo.Database
 		*mongo.Client
+		*mongo.Collection
 		context.Context
 	}
 	// Config information
@@ -39,7 +35,7 @@ type (
 // New returns a new Config struct
 func New() *Config {
 	return &Config{
-		proto:    getEnv("PROTO", "mongodb"),
+		proto:    getEnv("PROTO", ""),
 		user:     getEnv("USERNAME", ""),
 		password: getEnv("PASSWORD", ""),
 		host:     getEnv("HOST", ""),
@@ -64,7 +60,7 @@ func getEnv(key string, defaultVal string) string {
 // GetMongoDB conect DB.
 func GetMongoDB() (*DB, error) {
 	conf := New()
-	mongoURI := "mongodb://1234567890:1234567890@justice-shard-00-00-sbfoj.mongodb.net:27017,justice-shard-00-01-sbfoj.mongodb.net:27017,justice-shard-00-02-sbfoj.mongodb.net:27017/test?ssl=true&replicaSet=Justice-shard-0&authSource=admin&retryWrites=true&w=majority"
+	mongoURI := newURI(conf)
 	client, err := mongo.NewClient(
 		options.Client().ApplyURI(mongoURI),
 	)
@@ -82,5 +78,15 @@ func GetMongoDB() (*DB, error) {
 
 	// conect exist, return a conection
 	db := client.Database(conf.db)
-	return &DB{db, client, ctx}, nil
+	return &DB{
+		db,
+		client,
+		db.Collection(os.Getenv("COLLECTION")),
+		ctx,
+	}, nil
+}
+
+func newURI(conf *Config) string {
+	mongoURI := conf.proto + "://" + conf.user + ":" + conf.password + "@" + conf.host + "/" + conf.db + "?" + conf.options
+	return mongoURI
 }
