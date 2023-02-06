@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/denisbrodbeck/machineid v1.0.1
-	github.com/joho/godotenv v1.4.0
+	github.com/joho/godotenv v1.5.1
 	github.com/jroimartin/gocui v0.5.0
 	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/mattn/go-sqlite3 v1.14.16
