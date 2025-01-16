@@ -66,8 +66,8 @@ func SelectAnswer(g *gocui.Gui, v *gocui.View) error {
 
 	//User answers -- The plus one is so the count starts at 1
 	long := len(UserAnswers)
+	long++
 	convert := strconv.Itoa(long)
-	convert += 1
 	UserAnswers[convert] = &a
 
 
