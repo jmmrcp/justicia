@@ -7,7 +7,6 @@ package quiz
 
 import (
 	"log"
-	"strconv"
 
 	"github.com/jroimartin/gocui"
 )
@@ -47,7 +46,7 @@ func Init(g *gocui.Gui) (err error) {
 	long++
 	// var convert string = strconv.Itoa(long)
 	var count string = fmt.Sprintf("Pregunta  + %d", long)
-	
+
 	// count := "Pregunta " + convert // + " (" + q.ID + ")"
 
 	if numOfAnswers == 4 {
