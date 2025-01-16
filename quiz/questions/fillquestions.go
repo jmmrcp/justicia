@@ -35,7 +35,7 @@ func DBQuestions(qs Questions, data [][]string) {
 		l := len(qData)
 		as := answers.Answers{Answers: []*answers.Answer{}}
 
-		if l >= 6 {
+		if l == 7 {
 			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[1], Correct: true})
 			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[2], Correct: false})
 			as.Answers = append(as.Answers, &answers.Answer{Answer: qData[3], Correct: false})
