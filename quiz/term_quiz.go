@@ -7,6 +7,7 @@ package quiz
 
 import (
 	"log"
+	"fmt"
 
 	"github.com/jroimartin/gocui"
 )
