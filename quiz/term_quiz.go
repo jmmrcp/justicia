@@ -42,6 +42,7 @@ func Init(g *gocui.Gui) (err error) {
 
 	//Use number of answers to figure out which Init function to use
 	numOfAnswers := len(q.Answers.Answers)
+
 	var long uint8 = len(UserAnswer)
 	long++
 	// var convert string = strconv.Itoa(long)
