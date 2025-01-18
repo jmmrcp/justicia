@@ -102,17 +102,17 @@ func main() {
 	defer g.Close()
 
 	//Need to create questions
-	/* if quiz.FileExists("tools/mongo/data.db") {
+	if quiz.FileExists("tools/mongo/data.db") {
 		quiz.Questions, err = questions.CreateQuestionsDB(quiz.Questions, VIEW, TEST, TEMA, CAT)
 		if err != nil {
 			log.Fatal(err)
 		}
-	} else { */
-	quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, TEMA, CAT)
-	if err != nil {
-		log.Fatal(err)
+	} else {
+		quiz.Questions, err = questions.CreateQuestionsDAO(quiz.Questions, VIEW, TEST, TEMA, CAT)
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
-	// }
 
 	//Shuffle Questions
 	err = quiz.Questions.Shuffle()
